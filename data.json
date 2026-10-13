@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-13T17:55:29+00:00",
- "live_tot": 33,
- "senza_xg": 21,
+ "updated": "2026-10-13T18:25:39+00:00",
+ "live_tot": 50,
+ "senza_xg": 23,
  "matches": [
   {
-   "id": 6106414,
-   "lega": "Champions League",
-   "casa": "Lens",
-   "ospite": "Sporting CP",
-   "min": 49,
-   "tempo": "49‎’‎",
+   "id": 5955106,
+   "lega": "Premier Soccer League",
+   "casa": "Richards Bay",
+   "ospite": "Mamelodi Sundowns FC",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    0,
-    1
+    1,
+    2
    ],
-   "url": "https://www.fotmob.com/match/6106414",
+   "url": "https://www.fotmob.com/match/5955106",
    "xg": [
-    1.27,
-    0.54
+    0.33,
+    1.07
    ],
-   "sot": 5.0,
-   "tiri": 18.0,
-   "corner": 4.0,
-   "p": 0.9436,
-   "fair": 1.06,
+   "sot": 7.0,
+   "tiri": 17.0,
+   "corner": 6.0,
+   "p": 0.9482,
+   "fair": 1.05,
    "min_odd": 1.11,
-   "lam": 2.87,
+   "lam": 2.96,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.14,
-   "thr_sot": 4.1,
-   "xm": 1.27,
-   "line": "Over 1.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.07,
+   "line": "Over 3.5"
   }
  ]
 }

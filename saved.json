@@ -22,5 +22,29 @@
   "url": "https://www.fotmob.com/match/6106414",
   "finale": null,
   "esito": null
+ },
+ "5955106": {
+  "ora": "13/10/2026 20:25",
+  "lega": "Premier Soccer League",
+  "casa": "Richards Bay",
+  "ospite": "Mamelodi Sundowns FC",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.33,
+   1.07
+  ],
+  "sot": 7.0,
+  "tiri": 17.0,
+  "corner": 6.0,
+  "p": 0.9482,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5955106",
+  "finale": null,
+  "esito": null
  }
 }
