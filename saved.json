@@ -20,8 +20,11 @@
   "min_odd": 1.1,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/6106414",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5955106": {
   "ora": "13/10/2026 20:25",
