@@ -1,37 +1,37 @@
 {
- "updated": "2026-10-13T17:33:49+00:00",
- "live_tot": 39,
- "senza_xg": 12,
+ "updated": "2026-10-13T17:55:29+00:00",
+ "live_tot": 33,
+ "senza_xg": 21,
  "matches": [
   {
    "id": 6106414,
    "lega": "Champions League",
    "casa": "Lens",
    "ospite": "Sporting CP",
-   "min": 47,
-   "tempo": "47‎’‎",
+   "min": 49,
+   "tempo": "49‎’‎",
    "gol": [
     0,
     1
    ],
    "url": "https://www.fotmob.com/match/6106414",
    "xg": [
-    1.23,
-    0.56
+    1.27,
+    0.54
    ],
    "sot": 5.0,
-   "tiri": 17.0,
-   "corner": 3.0,
-   "p": 0.9558,
-   "fair": 1.05,
-   "min_odd": 1.1,
-   "lam": 3.12,
+   "tiri": 18.0,
+   "corner": 4.0,
+   "p": 0.9436,
+   "fair": 1.06,
+   "min_odd": 1.11,
+   "lam": 2.87,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.1,
-   "thr_sot": 3.9,
-   "xm": 1.23,
+   "thr_xg": 1.14,
+   "thr_sot": 4.1,
+   "xm": 1.27,
    "line": "Over 1.5"
   }
  ]
