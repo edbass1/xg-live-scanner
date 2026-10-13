@@ -1,1 +1,26 @@
-{}
+{
+ "6106414": {
+  "ora": "13/10/2026 19:33",
+  "lega": "Champions League",
+  "casa": "Lens",
+  "ospite": "Sporting CP",
+  "min": 47,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.23,
+   0.56
+  ],
+  "sot": 5.0,
+  "tiri": 17.0,
+  "corner": 3.0,
+  "p": 0.9558,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106414",
+  "finale": null,
+  "esito": null
+ }
+}
