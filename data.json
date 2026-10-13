@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-13T19:02:06+00:00",
- "live_tot": 99,
- "senza_xg": 23,
+ "updated": "2026-10-13T19:37:15+00:00",
+ "live_tot": 93,
+ "senza_xg": 77,
  "matches": [
   {
-   "id": 5955106,
-   "lega": "Premier Soccer League",
-   "casa": "Richards Bay",
-   "ospite": "Mamelodi Sundowns FC",
-   "min": 72,
-   "tempo": "72‎’‎",
+   "id": 5836865,
+   "lega": "Championship",
+   "casa": "Cardiff City",
+   "ospite": "Watford",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    1,
-    4
+    4,
+    0
    ],
-   "url": "https://www.fotmob.com/match/5955106",
+   "url": "https://www.fotmob.com/match/5836865",
    "xg": [
-    0.43,
-    1.69
+    1.58,
+    0.62
    ],
-   "sot": 12.0,
-   "tiri": 23.0,
-   "corner": 7.0,
-   "p": 0.6367,
-   "fair": 1.57,
-   "min_odd": 1.65,
-   "lam": 1.01,
+   "sot": 8.0,
+   "tiri": 21.0,
+   "corner": 4.0,
+   "p": 0.9743,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.66,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.68,
-   "thr_sot": 6.0,
-   "xm": 1.69,
-   "line": "Over 5.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.58,
+   "line": "Over 4.5"
   }
  ]
 }

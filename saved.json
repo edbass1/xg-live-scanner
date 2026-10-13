@@ -47,6 +47,33 @@
   "min_odd": 1.11,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5955106",
+  "finale": [
+   1,
+   4
+  ],
+  "esito": "SÌ"
+ },
+ "5836865": {
+  "ora": "13/10/2026 21:37",
+  "lega": "Championship",
+  "casa": "Cardiff City",
+  "ospite": "Watford",
+  "min": 45,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   1.58,
+   0.62
+  ],
+  "sot": 8.0,
+  "tiri": 21.0,
+  "corner": 4.0,
+  "p": 0.9743,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5836865",
   "finale": null,
   "esito": null
  }
