@@ -22,10 +22,11 @@ def minute(st):
     return (int(m.group(1))+int(m.group(2) or 0), lt) if m else (None, lt)
 def stats(det):
     out = {}
-    for g in det["content"]["stats"]["Periods"]["All"]["stats"]:
-        for s in g.get("stats", []):
+    periods = (((det or {}).get("content") or {}).get("stats") or {}).get("Periods") or {}
+    for g in (periods.get("All") or {}).get("stats") or []:
+        for s in g.get("stats") or []:
             k, v = s.get("key"), s.get("stats")
-            if k in ("expected_goals", "ShotsOnTarget", "total_shots", "corners") and v and v[0] is not None and k not in out:
+            if k in ("expected_goals", "ShotsOnTarget", "total_shots", "corners") and v and len(v) >= 2 and v[0] is not None and v[1] is not None and k not in out:
                 try: out[k] = [float(v[0]), float(v[1])]
                 except Exception: pass
     return out
@@ -54,20 +55,22 @@ def main():
         except Exception as e: print("matches", day, e); continue
         for lg in d.get("leagues", []):
             for m in lg.get("matches", []):
-                st = m["status"]; status[str(m["id"])] = st
+                st = m.get("status") or {}; status[str(m["id"])] = st
                 if m["id"] in seen or not st.get("started") or st.get("finished") or st.get("cancelled"): continue
                 seen.add(m["id"]); mn, lt = minute(st)
                 if mn is None or mn < 45: continue
                 try: a, b = [int(x) for x in st.get("scoreStr", "0 - 0").split(" - ")]
                 except Exception: a = b = 0
-                row = {"id": m["id"], "lega": lg.get("name"), "casa": m["home"]["name"], "ospite": m["away"]["name"],
-                       "min": mn, "tempo": lt, "gol": [a, b], "url": "https://www.fotmob.com/match/"+str(m["id"])}
-                try: s = stats(get(f"/matchDetails?matchId={m['id']}"))
-                except Exception as e: print("det", m["id"], e); continue
-                if "expected_goals" not in s: noxg += 1; continue
-                (hx, ax), sot, sh = s["expected_goals"], sum(s.get("ShotsOnTarget", [0, 0])), sum(s.get("total_shots", [0, 0]))
-                row.update({"xg": [hx, ax], "sot": sot, "tiri": sh, "corner": sum(s.get("corners", [0, 0]))})
-                row.update(evaluate(mn, a, b, hx, ax, sot, sh)); out.append(row); time.sleep(.4)
+                try:
+                  row = {"id": m["id"], "lega": lg.get("name"), "casa": m["home"]["name"], "ospite": m["away"]["name"],
+                         "min": mn, "tempo": lt, "gol": [a, b], "url": "https://www.fotmob.com/match/"+str(m["id"])}
+                  try: s = stats(get(f"/matchDetails?matchId={m['id']}"))
+                  except Exception as e: print("det", m["id"], e); continue
+                  if "expected_goals" not in s: noxg += 1; continue
+                  (hx, ax), sot, sh = s["expected_goals"], sum(s.get("ShotsOnTarget", [0, 0])), sum(s.get("total_shots", [0, 0]))
+                  row.update({"xg": [hx, ax], "sot": sot, "tiri": sh, "corner": sum(s.get("corners", [0, 0]))})
+                  row.update(evaluate(mn, a, b, hx, ax, sot, sh)); out.append(row); time.sleep(.4)
+                except Exception as e: print("partita saltata", m.get("id"), type(e).__name__, e); continue
     rome = now.astimezone(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
     for r in out:
         k = str(r["id"])
