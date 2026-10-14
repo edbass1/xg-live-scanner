@@ -187,5 +187,101 @@
    6
   ],
   "esito": "SÌ"
+ },
+ "6106284": {
+  "ora": "14/10/2026 22:09",
+  "lega": "Champions League",
+  "casa": "Aston Villa",
+  "ospite": "Fenerbahçe",
+  "min": 53,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   0.7,
+   1.39
+  ],
+  "sot": 10.0,
+  "tiri": 20.0,
+  "corner": 9.0,
+  "p": 0.9213,
+  "min_odd": 1.14,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106284",
+  "finale": null,
+  "esito": null
+ },
+ "5836871": {
+  "ora": "14/10/2026 22:09",
+  "lega": "Championship",
+  "casa": "Norwich City",
+  "ospite": "Southampton",
+  "min": 65,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.83,
+   1.74
+  ],
+  "sot": 7.0,
+  "tiri": 21.0,
+  "corner": 6.0,
+  "p": 0.8644,
+  "min_odd": 1.21,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5836871",
+  "finale": null,
+  "esito": null
+ },
+ "5836872": {
+  "ora": "14/10/2026 22:09",
+  "lega": "Championship",
+  "casa": "Portsmouth",
+  "ospite": "Sheffield United",
+  "min": 66,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.82,
+   1.48
+  ],
+  "sot": 7.0,
+  "tiri": 27.0,
+  "corner": 10.0,
+  "p": 0.9088,
+  "min_odd": 1.16,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5836872",
+  "finale": null,
+  "esito": null
+ },
+ "5836870": {
+  "ora": "14/10/2026 22:09",
+  "lega": "Championship",
+  "casa": "Lincoln City",
+  "ospite": "West Ham United",
+  "min": 51,
+  "gol": [
+   0,
+   3
+  ],
+  "xg": [
+   0.09,
+   1.3
+  ],
+  "sot": 5.0,
+  "tiri": 21.0,
+  "corner": 8.0,
+  "p": 0.8029,
+  "min_odd": 1.31,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5836870",
+  "finale": null,
+  "esito": null
  }
 }
