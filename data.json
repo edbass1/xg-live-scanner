@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-14T17:34:50+00:00",
- "live_tot": 35,
- "senza_xg": 11,
+ "updated": "2026-10-14T18:10:20+00:00",
+ "live_tot": 28,
+ "senza_xg": 21,
  "matches": [
   {
    "id": 6106405,
    "lega": "Champions League",
    "casa": "LASK",
    "ospite": "Liverpool",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 68,
+   "tempo": "68‎’‎",
    "gol": [
-    0,
-    3
+    1,
+    5
    ],
    "url": "https://www.fotmob.com/match/6106405",
    "xg": [
-    0.33,
-    1.62
+    0.6,
+    2.58
    ],
-   "sot": 5.0,
-   "tiri": 24.0,
+   "sot": 9.0,
+   "tiri": 29.0,
    "corner": 11.0,
-   "p": 0.9458,
-   "fair": 1.06,
-   "min_odd": 1.11,
-   "lam": 2.92,
+   "p": 0.8232,
+   "fair": 1.21,
+   "min_odd": 1.28,
+   "lam": 1.73,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.62,
-   "line": "Over 3.5"
+   "thr_xg": 1.59,
+   "thr_sot": 5.7,
+   "xm": 2.58,
+   "line": "Over 6.5"
   }
  ]
 }
