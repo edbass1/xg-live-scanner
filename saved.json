@@ -233,8 +233,11 @@
   "min_odd": 1.21,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5836871",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   1
+  ],
+  "esito": "NO"
  },
  "5836872": {
   "ora": "14/10/2026 22:09",
@@ -257,8 +260,11 @@
   "min_odd": 1.16,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5836872",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5836870": {
   "ora": "14/10/2026 22:09",
