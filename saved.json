@@ -160,5 +160,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "6106405": {
+  "ora": "14/10/2026 19:34",
+  "lega": "Champions League",
+  "casa": "LASK",
+  "ospite": "Liverpool",
+  "min": 45,
+  "gol": [
+   0,
+   3
+  ],
+  "xg": [
+   0.33,
+   1.62
+  ],
+  "sot": 5.0,
+  "tiri": 24.0,
+  "corner": 11.0,
+  "p": 0.9458,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106405",
+  "finale": null,
+  "esito": null
  }
 }
