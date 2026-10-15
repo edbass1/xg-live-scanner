@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-15T02:14:49+00:00",
- "live_tot": 11,
- "senza_xg": 1,
- "matches": [
-  {
-   "id": 5071422,
-   "lega": "Major League Soccer",
-   "casa": "Nashville SC",
-   "ospite": "Sporting Kansas City",
-   "min": 75,
-   "tempo": "75‎’‎",
-   "gol": [
-    3,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5071422",
-   "xg": [
-    2.86,
-    0.39
-   ],
-   "sot": 10.0,
-   "tiri": 21.0,
-   "corner": 8.0,
-   "p": 0.6931,
-   "fair": 1.44,
-   "min_odd": 1.51,
-   "lam": 1.18,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.75,
-   "thr_sot": 6.2,
-   "xm": 2.86,
-   "line": "Over 3.5"
-  }
- ]
+ "updated": "2026-10-15T02:53:56+00:00",
+ "live_tot": 9,
+ "senza_xg": 3,
+ "matches": []
 }
