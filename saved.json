@@ -712,5 +712,29 @@
   "url": "https://www.fotmob.com/match/6112497",
   "finale": null,
   "esito": null
+ },
+ "6112279": {
+  "ora": "15/10/2026 22:22",
+  "lega": "Europa League",
+  "casa": "Ferencváros",
+  "ospite": "Viktoria Plzeň",
+  "min": 67,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.6,
+   0.8
+  ],
+  "sot": 8.0,
+  "tiri": 22.0,
+  "corner": 8.0,
+  "p": 0.8246,
+  "min_odd": 1.27,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112279",
+  "finale": null,
+  "esito": null
  }
 }
