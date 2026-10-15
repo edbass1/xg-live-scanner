@@ -592,5 +592,125 @@
    1
   ],
   "esito": "NO"
+ },
+ "6112247": {
+  "ora": "15/10/2026 21:53",
+  "lega": "Europa League",
+  "casa": "Benfica",
+  "ospite": "Celtic",
+  "min": 45,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   1.8,
+   0.55
+  ],
+  "sot": 7.0,
+  "tiri": 18.0,
+  "corner": 8.0,
+  "p": 0.9769,
+  "min_odd": 1.07,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112247",
+  "finale": null,
+  "esito": null
+ },
+ "6112387": {
+  "ora": "15/10/2026 21:53",
+  "lega": "Conference League",
+  "casa": "Atalanta",
+  "ospite": "Pafos FC",
+  "min": 45,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   2.13,
+   0.41
+  ],
+  "sot": 7.0,
+  "tiri": 13.0,
+  "corner": 3.0,
+  "p": 0.9827,
+  "min_odd": 1.07,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112387",
+  "finale": null,
+  "esito": null
+ },
+ "6112422": {
+  "ora": "15/10/2026 21:53",
+  "lega": "Conference League",
+  "casa": "Brighton & Hove Albion",
+  "ospite": "FK Kauno Žalgiris",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.47,
+   0.02
+  ],
+  "sot": 4.0,
+  "tiri": 18.0,
+  "corner": 7.0,
+  "p": 0.9103,
+  "min_odd": 1.15,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112422",
+  "finale": null,
+  "esito": null
+ },
+ "6112398": {
+  "ora": "15/10/2026 21:53",
+  "lega": "Conference League",
+  "casa": "Freiburg",
+  "ospite": "Jablonec",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.22,
+   0.22
+  ],
+  "sot": 6.0,
+  "tiri": 13.0,
+  "corner": 2.0,
+  "p": 0.9419,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112398",
+  "finale": null,
+  "esito": null
+ },
+ "6112497": {
+  "ora": "15/10/2026 21:53",
+  "lega": "Conference League",
+  "casa": "Heart of Midlothian",
+  "ospite": "Nordsjælland",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.35,
+   0.2
+  ],
+  "sot": 6.0,
+  "tiri": 20.0,
+  "corner": 9.0,
+  "p": 0.9563,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112497",
+  "finale": null,
+  "esito": null
  }
 }

@@ -1,6 +1,162 @@
 {
- "updated": "2026-10-15T19:18:22+00:00",
- "live_tot": 25,
- "senza_xg": 3,
- "matches": []
+ "updated": "2026-10-15T19:53:02+00:00",
+ "live_tot": 23,
+ "senza_xg": 4,
+ "matches": [
+  {
+   "id": 6112387,
+   "lega": "Conference League",
+   "casa": "Atalanta",
+   "ospite": "Pafos FC",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    3,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/6112387",
+   "xg": [
+    2.13,
+    0.41
+   ],
+   "sot": 7.0,
+   "tiri": 13.0,
+   "corner": 3.0,
+   "p": 0.9827,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 4.06,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 2.13,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 6112247,
+   "lega": "Europa League",
+   "casa": "Benfica",
+   "ospite": "Celtic",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    3,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/6112247",
+   "xg": [
+    1.8,
+    0.55
+   ],
+   "sot": 7.0,
+   "tiri": 18.0,
+   "corner": 8.0,
+   "p": 0.9769,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 3.77,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.8,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 6112497,
+   "lega": "Conference League",
+   "casa": "Heart of Midlothian",
+   "ospite": "Nordsjælland",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/6112497",
+   "xg": [
+    1.35,
+    0.2
+   ],
+   "sot": 6.0,
+   "tiri": 20.0,
+   "corner": 9.0,
+   "p": 0.9563,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.13,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.35,
+   "line": "Over 1.5"
+  },
+  {
+   "id": 6112398,
+   "lega": "Conference League",
+   "casa": "Freiburg",
+   "ospite": "Jablonec",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/6112398",
+   "xg": [
+    1.22,
+    0.22
+   ],
+   "sot": 6.0,
+   "tiri": 13.0,
+   "corner": 2.0,
+   "p": 0.9419,
+   "fair": 1.06,
+   "min_odd": 1.11,
+   "lam": 2.84,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.22,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 6112422,
+   "lega": "Conference League",
+   "casa": "Brighton & Hove Albion",
+   "ospite": "FK Kauno Žalgiris",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/6112422",
+   "xg": [
+    1.47,
+    0.02
+   ],
+   "sot": 4.0,
+   "tiri": 18.0,
+   "corner": 7.0,
+   "p": 0.9103,
+   "fair": 1.1,
+   "min_odd": 1.15,
+   "lam": 2.41,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.47,
+   "line": "Over 2.5"
+  }
+ ]
 }
