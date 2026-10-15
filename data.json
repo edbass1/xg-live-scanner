@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-15T02:53:56+00:00",
- "live_tot": 9,
- "senza_xg": 3,
- "matches": []
+ "updated": "2026-10-15T03:25:34+00:00",
+ "live_tot": 8,
+ "senza_xg": 2,
+ "matches": [
+  {
+   "id": 5071421,
+   "lega": "Major League Soccer",
+   "casa": "Los Angeles FC",
+   "ospite": "Austin FC",
+   "min": 46,
+   "tempo": "46‎’‎",
+   "gol": [
+    0,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5071421",
+   "xg": [
+    1.12,
+    0.27
+   ],
+   "sot": 4.0,
+   "tiri": 20.0,
+   "corner": 7.0,
+   "p": 0.8973,
+   "fair": 1.11,
+   "min_odd": 1.17,
+   "lam": 2.28,
+   "verdict": "GIOCABILE",
+   "rel": "ALTA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 1.12,
+   "line": "Over 0.5"
+  }
+ ]
 }

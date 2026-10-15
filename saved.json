@@ -403,5 +403,29 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "5071421": {
+  "ora": "15/10/2026 05:25",
+  "lega": "Major League Soccer",
+  "casa": "Los Angeles FC",
+  "ospite": "Austin FC",
+  "min": 46,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.12,
+   0.27
+  ],
+  "sot": 4.0,
+  "tiri": 20.0,
+  "corner": 7.0,
+  "p": 0.8973,
+  "min_odd": 1.17,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5071421",
+  "finale": null,
+  "esito": null
  }
 }
