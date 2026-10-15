@@ -295,5 +295,53 @@
    6
   ],
   "esito": "SÌ"
+ },
+ "5071415": {
+  "ora": "15/10/2026 02:25",
+  "lega": "Major League Soccer",
+  "casa": "CF Montréal",
+  "ospite": "Atlanta United",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.04,
+   1.31
+  ],
+  "sot": 5.0,
+  "tiri": 14.0,
+  "corner": 10.0,
+  "p": 0.902,
+  "min_odd": 1.16,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071415",
+  "finale": null,
+  "esito": null
+ },
+ "5071412": {
+  "ora": "15/10/2026 02:25",
+  "lega": "Major League Soccer",
+  "casa": "Columbus Crew",
+  "ospite": "Charlotte FC",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.57,
+   0.25
+  ],
+  "sot": 11.0,
+  "tiri": 24.0,
+  "corner": 11.0,
+  "p": 0.9834,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071412",
+  "finale": null,
+  "esito": null
  }
 }
