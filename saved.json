@@ -506,8 +506,11 @@
   "min_odd": 1.07,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/6112318",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   4
+  ],
+  "esito": "SÌ"
  },
  "6112478": {
   "ora": "15/10/2026 20:00",
@@ -554,8 +557,11 @@
   "min_odd": 1.09,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/6112415",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "SÌ"
  },
  "6112521": {
   "ora": "15/10/2026 20:00",
@@ -578,7 +584,10 @@
   "min_odd": 1.1,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/6112521",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "NO"
  }
 }
