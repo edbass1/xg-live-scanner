@@ -1,69 +1,69 @@
 {
- "updated": "2026-10-15T00:25:07+00:00",
+ "updated": "2026-10-15T01:09:34+00:00",
  "live_tot": 15,
- "senza_xg": 6,
+ "senza_xg": 2,
  "matches": [
   {
    "id": 5071412,
    "lega": "Major League Soccer",
    "casa": "Columbus Crew",
    "ospite": "Charlotte FC",
-   "min": 45,
-   "tempo": "45‎’‎",
+   "min": 70,
+   "tempo": "70‎’‎",
    "gol": [
-    1,
+    3,
     1
    ],
    "url": "https://www.fotmob.com/match/5071412",
    "xg": [
-    1.57,
-    0.25
+    2.69,
+    0.52
    ],
-   "sot": 11.0,
-   "tiri": 24.0,
-   "corner": 11.0,
-   "p": 0.9834,
-   "fair": 1.02,
-   "min_odd": 1.07,
-   "lam": 4.1,
+   "sot": 15.0,
+   "tiri": 38.0,
+   "corner": 14.0,
+   "p": 0.8614,
+   "fair": 1.16,
+   "min_odd": 1.22,
+   "lam": 1.98,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.57,
-   "line": "Over 2.5"
+   "thr_xg": 1.63,
+   "thr_sot": 5.8,
+   "xm": 2.69,
+   "line": "Over 4.5"
   },
   {
    "id": 5071415,
    "lega": "Major League Soccer",
    "casa": "CF Montréal",
    "ospite": "Atlanta United",
-   "min": 45,
-   "tempo": "45‎’‎",
+   "min": 71,
+   "tempo": "71‎’‎",
    "gol": [
     0,
-    2
+    3
    ],
    "url": "https://www.fotmob.com/match/5071415",
    "xg": [
-    0.04,
-    1.31
+    0.15,
+    2.21
    ],
-   "sot": 5.0,
-   "tiri": 14.0,
-   "corner": 10.0,
-   "p": 0.902,
-   "fair": 1.11,
-   "min_odd": 1.16,
-   "lam": 2.32,
+   "sot": 7.0,
+   "tiri": 21.0,
+   "corner": 11.0,
+   "p": 0.6469,
+   "fair": 1.55,
+   "min_odd": 1.62,
+   "lam": 1.04,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.31,
-   "line": "Over 2.5"
+   "thr_xg": 1.66,
+   "thr_sot": 5.9,
+   "xm": 2.21,
+   "line": "Over 3.5"
   }
  ]
 }
