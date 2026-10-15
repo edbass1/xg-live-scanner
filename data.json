@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-15T14:17:25+00:00",
- "live_tot": 5,
- "senza_xg": 0,
- "matches": []
+ "updated": "2026-10-15T14:56:30+00:00",
+ "live_tot": 6,
+ "senza_xg": 4,
+ "matches": [
+  {
+   "id": 5970155,
+   "lega": "Saudi Pro League",
+   "casa": "Al-Faisaly",
+   "ospite": "Al Kholood",
+   "min": 56,
+   "tempo": "56‎’‎",
+   "gol": [
+    2,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5970155",
+   "xg": [
+    1.27,
+    1.4
+   ],
+   "sot": 6.0,
+   "tiri": 21.0,
+   "corner": 2.0,
+   "p": 0.9516,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.03,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.31,
+   "thr_sot": 4.7,
+   "xm": 1.4,
+   "line": "Over 4.5"
+  }
+ ]
 }

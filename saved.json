@@ -457,5 +457,29 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "5970155": {
+  "ora": "15/10/2026 16:56",
+  "lega": "Saudi Pro League",
+  "casa": "Al-Faisaly",
+  "ospite": "Al Kholood",
+  "min": 56,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   1.27,
+   1.4
+  ],
+  "sot": 6.0,
+  "tiri": 21.0,
+  "corner": 2.0,
+  "p": 0.9516,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970155",
+  "finale": null,
+  "esito": null
  }
 }
