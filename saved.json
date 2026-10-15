@@ -425,8 +425,11 @@
   "min_odd": 1.17,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5071421",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5071424": {
   "ora": "15/10/2026 06:03",
