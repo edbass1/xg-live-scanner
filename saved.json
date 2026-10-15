@@ -317,8 +317,11 @@
   "min_odd": 1.16,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5071415",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5071412": {
   "ora": "15/10/2026 02:25",
@@ -341,6 +344,57 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5071412",
+  "finale": [
+   3,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5071419": {
+  "ora": "15/10/2026 03:44",
+  "lega": "Major League Soccer",
+  "casa": "FC Dallas",
+  "ospite": "Seattle Sounders FC",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   0.54,
+   1.16
+  ],
+  "sot": 6.0,
+  "tiri": 14.0,
+  "corner": 7.0,
+  "p": 0.9574,
+  "min_odd": 1.1,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5071419",
+  "finale": null,
+  "esito": null
+ },
+ "5071422": {
+  "ora": "15/10/2026 03:44",
+  "lega": "Major League Soccer",
+  "casa": "Nashville SC",
+  "ospite": "Sporting Kansas City",
+  "min": 45,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   2.47,
+   0.29
+  ],
+  "sot": 9.0,
+  "tiri": 15.0,
+  "corner": 4.0,
+  "p": 0.9906,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071422",
   "finale": null,
   "esito": null
  }

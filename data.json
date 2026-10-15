@@ -1,69 +1,69 @@
 {
- "updated": "2026-10-15T01:09:34+00:00",
- "live_tot": 15,
- "senza_xg": 2,
+ "updated": "2026-10-15T01:44:46+00:00",
+ "live_tot": 11,
+ "senza_xg": 1,
  "matches": [
   {
-   "id": 5071412,
+   "id": 5071422,
    "lega": "Major League Soccer",
-   "casa": "Columbus Crew",
-   "ospite": "Charlotte FC",
-   "min": 70,
-   "tempo": "70‎’‎",
+   "casa": "Nashville SC",
+   "ospite": "Sporting Kansas City",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
     3,
-    1
+    0
    ],
-   "url": "https://www.fotmob.com/match/5071412",
+   "url": "https://www.fotmob.com/match/5071422",
    "xg": [
-    2.69,
-    0.52
+    2.47,
+    0.29
    ],
-   "sot": 15.0,
-   "tiri": 38.0,
-   "corner": 14.0,
-   "p": 0.8614,
-   "fair": 1.16,
-   "min_odd": 1.22,
-   "lam": 1.98,
+   "sot": 9.0,
+   "tiri": 15.0,
+   "corner": 4.0,
+   "p": 0.9906,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.67,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.63,
-   "thr_sot": 5.8,
-   "xm": 2.69,
-   "line": "Over 4.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 2.47,
+   "line": "Over 3.5"
   },
   {
-   "id": 5071415,
+   "id": 5071419,
    "lega": "Major League Soccer",
-   "casa": "CF Montréal",
-   "ospite": "Atlanta United",
-   "min": 71,
-   "tempo": "71‎’‎",
+   "casa": "FC Dallas",
+   "ospite": "Seattle Sounders FC",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
     0,
-    3
+    0
    ],
-   "url": "https://www.fotmob.com/match/5071415",
+   "url": "https://www.fotmob.com/match/5071419",
    "xg": [
-    0.15,
-    2.21
+    0.54,
+    1.16
    ],
-   "sot": 7.0,
-   "tiri": 21.0,
-   "corner": 11.0,
-   "p": 0.6469,
-   "fair": 1.55,
-   "min_odd": 1.62,
-   "lam": 1.04,
+   "sot": 6.0,
+   "tiri": 14.0,
+   "corner": 7.0,
+   "p": 0.9574,
+   "fair": 1.04,
+   "min_odd": 1.1,
+   "lam": 3.16,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "ALTA",
    "warn": [],
-   "thr_xg": 1.66,
-   "thr_sot": 5.9,
-   "xm": 2.21,
-   "line": "Over 3.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.16,
+   "line": "Over 0.5"
   }
  ]
 }
