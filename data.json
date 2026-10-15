@@ -1,38 +1,69 @@
 {
- "updated": "2026-10-15T03:25:34+00:00",
- "live_tot": 8,
- "senza_xg": 2,
+ "updated": "2026-10-15T04:03:55+00:00",
+ "live_tot": 4,
+ "senza_xg": 1,
  "matches": [
+  {
+   "id": 5071424,
+   "lega": "Major League Soccer",
+   "casa": "San Diego FC",
+   "ospite": "Houston Dynamo FC",
+   "min": 58,
+   "tempo": "58‎’‎",
+   "gol": [
+    2,
+    3
+   ],
+   "url": "https://www.fotmob.com/match/5071424",
+   "xg": [
+    1.42,
+    0.66
+   ],
+   "sot": 7.0,
+   "tiri": 17.0,
+   "corner": 6.0,
+   "p": 0.9027,
+   "fair": 1.11,
+   "min_odd": 1.16,
+   "lam": 2.33,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.35,
+   "thr_sot": 4.8,
+   "xm": 1.42,
+   "line": "Over 5.5"
+  },
   {
    "id": 5071421,
    "lega": "Major League Soccer",
    "casa": "Los Angeles FC",
    "ospite": "Austin FC",
-   "min": 46,
-   "tempo": "46‎’‎",
+   "min": 68,
+   "tempo": "68‎’‎",
    "gol": [
-    0,
-    0
+    2,
+    1
    ],
    "url": "https://www.fotmob.com/match/5071421",
    "xg": [
-    1.12,
-    0.27
+    1.99,
+    0.46
    ],
-   "sot": 4.0,
-   "tiri": 20.0,
-   "corner": 7.0,
-   "p": 0.8973,
-   "fair": 1.11,
-   "min_odd": 1.17,
-   "lam": 2.28,
+   "sot": 8.0,
+   "tiri": 29.0,
+   "corner": 12.0,
+   "p": 0.8135,
+   "fair": 1.23,
+   "min_odd": 1.29,
+   "lam": 1.68,
    "verdict": "GIOCABILE",
-   "rel": "ALTA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.07,
-   "thr_sot": 3.8,
-   "xm": 1.12,
-   "line": "Over 0.5"
+   "thr_xg": 1.59,
+   "thr_sot": 5.7,
+   "xm": 1.99,
+   "line": "Over 3.5"
   }
  ]
 }

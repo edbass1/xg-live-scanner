@@ -427,5 +427,29 @@
   "url": "https://www.fotmob.com/match/5071421",
   "finale": null,
   "esito": null
+ },
+ "5071424": {
+  "ora": "15/10/2026 06:03",
+  "lega": "Major League Soccer",
+  "casa": "San Diego FC",
+  "ospite": "Houston Dynamo FC",
+  "min": 58,
+  "gol": [
+   2,
+   3
+  ],
+  "xg": [
+   1.42,
+   0.66
+  ],
+  "sot": 7.0,
+  "tiri": 17.0,
+  "corner": 6.0,
+  "p": 0.9027,
+  "min_odd": 1.16,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071424",
+  "finale": null,
+  "esito": null
  }
 }
