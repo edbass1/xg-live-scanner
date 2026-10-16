@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-16T18:57:44+00:00",
+ "updated": "2026-10-16T19:30:22+00:00",
  "live_tot": 55,
- "senza_xg": 22,
- "matches": []
+ "senza_xg": 28,
+ "matches": [
+  {
+   "id": 5967108,
+   "lega": "Serie B",
+   "casa": "Hellas Verona",
+   "ospite": "Catanzaro",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5967108",
+   "xg": [
+    1.54,
+    0.21
+   ],
+   "sot": 7.0,
+   "tiri": 21.0,
+   "corner": 9.0,
+   "p": 0.9708,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.53,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.54,
+   "line": "Over 2.5"
+  }
+ ]
 }
