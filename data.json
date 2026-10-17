@@ -1,100 +1,38 @@
 {
- "updated": "2026-10-17T17:30:29+00:00",
- "live_tot": 59,
- "senza_xg": 36,
+ "updated": "2026-10-17T17:55:23+00:00",
+ "live_tot": 45,
+ "senza_xg": 29,
  "matches": [
   {
    "id": 5881189,
    "lega": "Bundesliga",
    "casa": "Bayern München",
    "ospite": "RB Leipzig",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 65,
+   "tempo": "65‎’‎",
    "gol": [
-    3,
+    5,
     0
    ],
    "url": "https://www.fotmob.com/match/5881189",
    "xg": [
-    1.51,
-    0.25
+    2.47,
+    0.31
    ],
-   "sot": 9.0,
-   "tiri": 18.0,
-   "corner": 6.0,
-   "p": 0.9531,
-   "fair": 1.05,
-   "min_odd": 1.1,
-   "lam": 3.06,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.51,
-   "line": "Over 3.5"
-  },
-  {
-   "id": 5904773,
-   "lega": "Super Lig",
-   "casa": "Fenerbahçe",
-   "ospite": "Alanyaspor",
-   "min": 69,
-   "tempo": "69‎’‎",
-   "gol": [
-    1,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5904773",
-   "xg": [
-    2.93,
-    0.33
-   ],
-   "sot": 7.0,
+   "sot": 13.0,
    "tiri": 25.0,
-   "corner": 4.0,
-   "p": 0.8654,
+   "corner": 9.0,
+   "p": 0.8602,
    "fair": 1.16,
-   "min_odd": 1.21,
-   "lam": 2.01,
+   "min_odd": 1.22,
+   "lam": 1.97,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.61,
-   "thr_sot": 5.8,
-   "xm": 2.93,
-   "line": "Over 1.5"
-  },
-  {
-   "id": 5901182,
-   "lega": "Premiere Ligue",
-   "casa": "Toulouse (W)",
-   "ospite": "Paris FC (W)",
-   "min": 71,
-   "tempo": "71‎’‎",
-   "gol": [
-    0,
-    3
-   ],
-   "url": "https://www.fotmob.com/match/5901182",
-   "xg": [
-    0.05,
-    2.31
-   ],
-   "sot": 6.0,
-   "tiri": 22.0,
-   "corner": 5.0,
-   "p": 0.6337,
-   "fair": 1.58,
-   "min_odd": 1.66,
-   "lam": 1.0,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.66,
-   "thr_sot": 5.9,
-   "xm": 2.31,
-   "line": "Over 3.5"
+   "thr_xg": 1.52,
+   "thr_sot": 5.4,
+   "xm": 2.47,
+   "line": "Over 5.5"
   }
  ]
 }
