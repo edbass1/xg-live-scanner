@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-17T10:04:23+00:00",
- "live_tot": 34,
+ "updated": "2026-10-17T10:34:49+00:00",
+ "live_tot": 37,
  "senza_xg": 12,
- "matches": [
-  {
-   "id": 1000017560,
-   "lega": "A-League",
-   "casa": "Central Coast Mariners",
-   "ospite": "Newcastle Jets",
-   "min": 65,
-   "tempo": "65‎’‎",
-   "gol": [
-    2,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/1000017560",
-   "xg": [
-    2.93,
-    1.25
-   ],
-   "sot": 8.0,
-   "tiri": 20.0,
-   "corner": 3.0,
-   "p": 0.9618,
-   "fair": 1.04,
-   "min_odd": 1.09,
-   "lam": 3.26,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.52,
-   "thr_sot": 5.4,
-   "xm": 2.93,
-   "line": "Over 3.5"
-  }
- ]
+ "matches": []
 }
