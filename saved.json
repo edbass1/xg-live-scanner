@@ -1178,8 +1178,11 @@
   "min_odd": 1.48,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5881196",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "NO"
  },
  "5868100": {
   "ora": "17/10/2026 17:05",
@@ -1418,6 +1421,78 @@
   "min_odd": 1.13,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5836885",
+  "finale": null,
+  "esito": null
+ },
+ "5868495": {
+  "ora": "17/10/2026 17:36",
+  "lega": "LaLiga2",
+  "casa": "Eibar",
+  "ospite": "Mallorca",
+  "min": 56,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.12,
+   1.91
+  ],
+  "sot": 8.0,
+  "tiri": 18.0,
+  "corner": 7.0,
+  "p": 0.9247,
+  "min_odd": 1.14,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5868495",
+  "finale": null,
+  "esito": null
+ },
+ "5837207": {
+  "ora": "17/10/2026 17:36",
+  "lega": "League One",
+  "casa": "Barnsley",
+  "ospite": "Cambridge United",
+  "min": 78,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   2.19,
+   0.32
+  ],
+  "sot": 8.0,
+  "tiri": 28.0,
+  "corner": 18.0,
+  "p": 0.5839,
+  "min_odd": 1.8,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5837207",
+  "finale": null,
+  "esito": null
+ },
+ "5837215": {
+  "ora": "17/10/2026 17:36",
+  "lega": "League One",
+  "casa": "Sheffield Wednesday",
+  "ospite": "AFC Wimbledon",
+  "min": 78,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   1.92,
+   0.26
+  ],
+  "sot": 8.0,
+  "tiri": 22.0,
+  "corner": 3.0,
+  "p": 0.4646,
+  "min_odd": 2.26,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5837215",
   "finale": null,
   "esito": null
  }
