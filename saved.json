@@ -1154,8 +1154,11 @@
   "min_odd": 1.05,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5881192",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5881196": {
   "ora": "17/10/2026 17:05",
@@ -1229,8 +1232,11 @@
   "min_odd": 1.13,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5837209",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5837214": {
   "ora": "17/10/2026 17:05",
@@ -1253,8 +1259,11 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5837214",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5837217": {
   "ora": "17/10/2026 17:05",
@@ -1277,8 +1286,11 @@
   "min_odd": 1.09,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5837217",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   0
+  ],
+  "esito": "SÌ"
  },
  "5837983": {
   "ora": "17/10/2026 17:05",
@@ -1301,8 +1313,11 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5837983",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5837985": {
   "ora": "17/10/2026 17:05",
@@ -1325,8 +1340,11 @@
   "min_odd": 1.09,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5837985",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5837989": {
   "ora": "17/10/2026 17:05",
@@ -1349,8 +1367,11 @@
   "min_odd": 1.06,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5837989",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5793950": {
   "ora": "17/10/2026 17:05",
@@ -1373,8 +1394,11 @@
   "min_odd": 1.08,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5793950",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5836884": {
   "ora": "17/10/2026 17:05",
@@ -1397,8 +1421,11 @@
   "min_odd": 1.12,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5836884",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5836885": {
   "ora": "17/10/2026 17:05",
@@ -1421,8 +1448,11 @@
   "min_odd": 1.13,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5836885",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5868495": {
   "ora": "17/10/2026 17:36",
@@ -1469,8 +1499,11 @@
   "min_odd": 1.8,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5837207",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5837215": {
   "ora": "17/10/2026 17:36",
@@ -1493,7 +1526,10 @@
   "min_odd": 2.26,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5837215",
-  "finale": null,
-  "esito": null
+  "finale": [
+   5,
+   0
+  ],
+  "esito": "SÌ"
  }
 }
