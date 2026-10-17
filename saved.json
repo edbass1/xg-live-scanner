@@ -889,5 +889,29 @@
    4
   ],
   "esito": "SÌ"
+ },
+ "1000017560": {
+  "ora": "17/10/2026 12:04",
+  "lega": "A-League",
+  "casa": "Central Coast Mariners",
+  "ospite": "Newcastle Jets",
+  "min": 65,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   2.93,
+   1.25
+  ],
+  "sot": 8.0,
+  "tiri": 20.0,
+  "corner": 3.0,
+  "p": 0.9618,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000017560",
+  "finale": null,
+  "esito": null
  }
 }
