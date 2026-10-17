@@ -862,5 +862,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "1000020314": {
+  "ora": "17/10/2026 08:55",
+  "lega": "A-League Women",
+  "casa": "Brisbane Roar FC",
+  "ospite": "Central Coast Mariners",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.46,
+   1.17
+  ],
+  "sot": 5.0,
+  "tiri": 13.0,
+  "corner": 6.0,
+  "p": 0.9566,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000020314",
+  "finale": null,
+  "esito": null
  }
 }

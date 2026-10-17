@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-17T06:10:01+00:00",
- "live_tot": 19,
- "senza_xg": 12,
- "matches": []
+ "updated": "2026-10-17T06:55:52+00:00",
+ "live_tot": 16,
+ "senza_xg": 9,
+ "matches": [
+  {
+   "id": 1000020314,
+   "lega": "A-League Women",
+   "casa": "Brisbane Roar FC",
+   "ospite": "Central Coast Mariners",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/1000020314",
+   "xg": [
+    0.46,
+    1.17
+   ],
+   "sot": 5.0,
+   "tiri": 13.0,
+   "corner": 6.0,
+   "p": 0.9566,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.14,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.17,
+   "line": "Over 3.5"
+  }
+ ]
 }
