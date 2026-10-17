@@ -835,5 +835,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5161667": {
+  "ora": "17/10/2026 03:57",
+  "lega": "NWSL",
+  "casa": "Boston Legacy FC (W)",
+  "ospite": "Racing Louisville (W)",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.66,
+   1.2
+  ],
+  "sot": 4.0,
+  "tiri": 15.0,
+  "corner": 2.0,
+  "p": 0.962,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5161667",
+  "finale": null,
+  "esito": null
  }
 }
