@@ -1,37 +1,68 @@
 {
- "updated": "2026-10-17T17:01:54+00:00",
- "live_tot": 71,
- "senza_xg": 41,
+ "updated": "2026-10-17T17:30:29+00:00",
+ "live_tot": 59,
+ "senza_xg": 36,
  "matches": [
+  {
+   "id": 5881189,
+   "lega": "Bundesliga",
+   "casa": "Bayern München",
+   "ospite": "RB Leipzig",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    3,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5881189",
+   "xg": [
+    1.51,
+    0.25
+   ],
+   "sot": 9.0,
+   "tiri": 18.0,
+   "corner": 6.0,
+   "p": 0.9531,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.06,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.51,
+   "line": "Over 3.5"
+  },
   {
    "id": 5904773,
    "lega": "Super Lig",
    "casa": "Fenerbahçe",
    "ospite": "Alanyaspor",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 69,
+   "tempo": "69‎’‎",
    "gol": [
     1,
     0
    ],
    "url": "https://www.fotmob.com/match/5904773",
    "xg": [
-    2.68,
-    0.04
+    2.93,
+    0.33
    ],
-   "sot": 4.0,
-   "tiri": 17.0,
-   "corner": 2.0,
-   "p": 0.9919,
-   "fair": 1.01,
-   "min_odd": 1.06,
-   "lam": 4.81,
+   "sot": 7.0,
+   "tiri": 25.0,
+   "corner": 4.0,
+   "p": 0.8654,
+   "fair": 1.16,
+   "min_odd": 1.21,
+   "lam": 2.01,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 2.68,
+   "thr_xg": 1.61,
+   "thr_sot": 5.8,
+   "xm": 2.93,
    "line": "Over 1.5"
   },
   {
@@ -39,31 +70,31 @@
    "lega": "Premiere Ligue",
    "casa": "Toulouse (W)",
    "ospite": "Paris FC (W)",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 71,
+   "tempo": "71‎’‎",
    "gol": [
     0,
-    2
+    3
    ],
    "url": "https://www.fotmob.com/match/5901182",
    "xg": [
     0.05,
-    1.46
+    2.31
    ],
-   "sot": 4.0,
-   "tiri": 13.0,
-   "corner": 2.0,
-   "p": 0.9129,
-   "fair": 1.1,
-   "min_odd": 1.15,
-   "lam": 2.44,
+   "sot": 6.0,
+   "tiri": 22.0,
+   "corner": 5.0,
+   "p": 0.6337,
+   "fair": 1.58,
+   "min_odd": 1.66,
+   "lam": 1.0,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.46,
-   "line": "Over 2.5"
+   "thr_xg": 1.66,
+   "thr_sot": 5.9,
+   "xm": 2.31,
+   "line": "Over 3.5"
   }
  ]
 }
