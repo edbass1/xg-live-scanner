@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-17T01:57:43+00:00",
- "live_tot": 7,
- "senza_xg": 3,
- "matches": [
-  {
-   "id": 5161667,
-   "lega": "NWSL",
-   "casa": "Boston Legacy FC (W)",
-   "ospite": "Racing Louisville (W)",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    1,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5161667",
-   "xg": [
-    0.66,
-    1.2
-   ],
-   "sot": 4.0,
-   "tiri": 15.0,
-   "corner": 2.0,
-   "p": 0.962,
-   "fair": 1.04,
-   "min_odd": 1.09,
-   "lam": 3.27,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.2,
-   "line": "Over 2.5"
-  }
- ]
+ "updated": "2026-10-17T02:29:49+00:00",
+ "live_tot": 10,
+ "senza_xg": 4,
+ "matches": []
 }
