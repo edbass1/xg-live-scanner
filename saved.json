@@ -1696,5 +1696,53 @@
   "url": "https://www.fotmob.com/match/5781774",
   "finale": null,
   "esito": null
+ },
+ "5781768": {
+  "ora": "17/10/2026 21:54",
+  "lega": "Eredivisie",
+  "casa": "Sparta Rotterdam",
+  "ospite": "Willem II",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.58,
+   0.86
+  ],
+  "sot": 5.0,
+  "tiri": 17.0,
+  "corner": 3.0,
+  "p": 0.9883,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5781768",
+  "finale": null,
+  "esito": null
+ },
+ "5793948": {
+  "ora": "17/10/2026 21:54",
+  "lega": "Premiership",
+  "casa": "Dundee FC",
+  "ospite": "Rangers",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.41,
+   0.61
+  ],
+  "sot": 5.0,
+  "tiri": 13.0,
+  "corner": 3.0,
+  "p": 0.9758,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5793948",
+  "finale": null,
+  "esito": null
  }
 }

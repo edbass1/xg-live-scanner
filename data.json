@@ -1,38 +1,69 @@
 {
- "updated": "2026-10-17T19:26:59+00:00",
- "live_tot": 51,
- "senza_xg": 23,
+ "updated": "2026-10-17T19:54:29+00:00",
+ "live_tot": 46,
+ "senza_xg": 29,
  "matches": [
   {
-   "id": 5781774,
+   "id": 5781768,
    "lega": "Eredivisie",
-   "casa": "Telstar",
-   "ospite": "Feyenoord",
-   "min": 67,
-   "tempo": "67‎’‎",
+   "casa": "Sparta Rotterdam",
+   "ospite": "Willem II",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    2,
-    4
+    1,
+    1
    ],
-   "url": "https://www.fotmob.com/match/5781774",
+   "url": "https://www.fotmob.com/match/5781768",
    "xg": [
-    0.81,
-    3.58
+    1.58,
+    0.86
    ],
-   "sot": 17.0,
-   "tiri": 31.0,
-   "corner": 6.0,
-   "p": 0.9613,
-   "fair": 1.04,
-   "min_odd": 1.09,
-   "lam": 3.25,
+   "sot": 5.0,
+   "tiri": 17.0,
+   "corner": 3.0,
+   "p": 0.9883,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.45,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.56,
-   "thr_sot": 5.6,
-   "xm": 3.58,
-   "line": "Over 6.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.58,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5793948,
+   "lega": "Premiership",
+   "casa": "Dundee FC",
+   "ospite": "Rangers",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5793948",
+   "xg": [
+    1.41,
+    0.61
+   ],
+   "sot": 5.0,
+   "tiri": 13.0,
+   "corner": 3.0,
+   "p": 0.9758,
+   "fair": 1.02,
+   "min_odd": 1.08,
+   "lam": 3.72,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.41,
+   "line": "Over 2.5"
   }
  ]
 }
