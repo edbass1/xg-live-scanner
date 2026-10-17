@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-17T17:55:23+00:00",
- "live_tot": 45,
- "senza_xg": 29,
- "matches": [
-  {
-   "id": 5881189,
-   "lega": "Bundesliga",
-   "casa": "Bayern München",
-   "ospite": "RB Leipzig",
-   "min": 65,
-   "tempo": "65‎’‎",
-   "gol": [
-    5,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5881189",
-   "xg": [
-    2.47,
-    0.31
-   ],
-   "sot": 13.0,
-   "tiri": 25.0,
-   "corner": 9.0,
-   "p": 0.8602,
-   "fair": 1.16,
-   "min_odd": 1.22,
-   "lam": 1.97,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.52,
-   "thr_sot": 5.4,
-   "xm": 2.47,
-   "line": "Over 5.5"
-  }
- ]
+ "updated": "2026-10-17T18:26:30+00:00",
+ "live_tot": 37,
+ "senza_xg": 14,
+ "matches": []
 }

@@ -1613,8 +1613,11 @@
   "min_odd": 1.15,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5901182",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   4
+  ],
+  "esito": "SÌ"
  },
  "5904773": {
   "ora": "17/10/2026 19:01",
@@ -1664,7 +1667,10 @@
   "min_odd": 1.1,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5881189",
-  "finale": null,
-  "esito": null
+  "finale": [
+   6,
+   1
+  ],
+  "esito": "SÌ"
  }
 }
