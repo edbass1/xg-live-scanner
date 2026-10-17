@@ -992,8 +992,11 @@
   "min_odd": 1.16,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5837213",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5836878": {
   "ora": "17/10/2026 14:33",
@@ -1016,8 +1019,11 @@
   "min_odd": 1.07,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5836878",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "SÌ"
  },
  "1000017751": {
   "ora": "17/10/2026 14:33",
@@ -1040,8 +1046,11 @@
   "min_odd": 1.08,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/1000017751",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
  },
  "1000017752": {
   "ora": "17/10/2026 15:10",
