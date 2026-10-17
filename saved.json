@@ -916,5 +916,53 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5881698": {
+  "ora": "17/10/2026 13:58",
+  "lega": "2. Bundesliga",
+  "casa": "Wolfsburg",
+  "ospite": "FC Heidenheim",
+  "min": 45,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   0.47,
+   1.4
+  ],
+  "sot": 9.0,
+  "tiri": 18.0,
+  "corner": 10.0,
+  "p": 0.9836,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5881698",
+  "finale": null,
+  "esito": null
+ },
+ "5847202": {
+  "ora": "17/10/2026 13:58",
+  "lega": "Premier League",
+  "casa": "Krylya Sovetov Samara",
+  "ospite": "Fakel",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.05,
+   0.44
+  ],
+  "sot": 7.0,
+  "tiri": 16.0,
+  "corner": 2.0,
+  "p": 0.9525,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5847202",
+  "finale": null,
+  "esito": null
  }
 }

@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-17T11:31:33+00:00",
- "live_tot": 84,
- "senza_xg": 23,
- "matches": []
+ "updated": "2026-10-17T11:58:26+00:00",
+ "live_tot": 82,
+ "senza_xg": 49,
+ "matches": [
+  {
+   "id": 5881698,
+   "lega": "2. Bundesliga",
+   "casa": "Wolfsburg",
+   "ospite": "FC Heidenheim",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    2,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5881698",
+   "xg": [
+    0.47,
+    1.4
+   ],
+   "sot": 9.0,
+   "tiri": 18.0,
+   "corner": 10.0,
+   "p": 0.9836,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 4.11,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.4,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5847202,
+   "lega": "Premier League",
+   "casa": "Krylya Sovetov Samara",
+   "ospite": "Fakel",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5847202",
+   "xg": [
+    1.05,
+    0.44
+   ],
+   "sot": 7.0,
+   "tiri": 16.0,
+   "corner": 2.0,
+   "p": 0.9525,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.05,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.05,
+   "line": "Over 2.5"
+  }
+ ]
 }
