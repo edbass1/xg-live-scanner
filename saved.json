@@ -1100,8 +1100,11 @@
   "min_odd": 1.19,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5804008",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5904771": {
   "ora": "17/10/2026 16:08",
@@ -1124,8 +1127,11 @@
   "min_odd": 1.11,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5904771",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5881192": {
   "ora": "17/10/2026 16:40",
@@ -1148,6 +1154,270 @@
   "min_odd": 1.05,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5881192",
+  "finale": null,
+  "esito": null
+ },
+ "5881196": {
+  "ora": "17/10/2026 17:05",
+  "lega": "Bundesliga",
+  "casa": "Werder Bremen",
+  "ospite": "Paderborn",
+  "min": 77,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   2.33,
+   0.77
+  ],
+  "sot": 11.0,
+  "tiri": 22.0,
+  "corner": 6.0,
+  "p": 0.7105,
+  "min_odd": 1.48,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5881196",
+  "finale": null,
+  "esito": null
+ },
+ "5868100": {
+  "ora": "17/10/2026 17:05",
+  "lega": "LaLiga",
+  "casa": "Villarreal",
+  "ospite": "Elche",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.83,
+   0.12
+  ],
+  "sot": 5.0,
+  "tiri": 14.0,
+  "corner": 6.0,
+  "p": 0.9676,
+  "min_odd": 1.09,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5868100",
+  "finale": null,
+  "esito": null
+ },
+ "5837209": {
+  "ora": "17/10/2026 17:05",
+  "lega": "League One",
+  "casa": "Leicester City",
+  "ospite": "Doncaster Rovers",
+  "min": 47,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.2,
+   0.27
+  ],
+  "sot": 5.0,
+  "tiri": 16.0,
+  "corner": 8.0,
+  "p": 0.926,
+  "min_odd": 1.13,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5837209",
+  "finale": null,
+  "esito": null
+ },
+ "5837214": {
+  "ora": "17/10/2026 17:05",
+  "lega": "League One",
+  "casa": "Plymouth Argyle",
+  "ospite": "Huddersfield Town",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.21,
+   1.93
+  ],
+  "sot": 5.0,
+  "tiri": 17.0,
+  "corner": 7.0,
+  "p": 0.9824,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5837214",
+  "finale": null,
+  "esito": null
+ },
+ "5837217": {
+  "ora": "17/10/2026 17:05",
+  "lega": "League One",
+  "casa": "Wigan Athletic",
+  "ospite": "Reading",
+  "min": 46,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   0.74,
+   1.22
+  ],
+  "sot": 5.0,
+  "tiri": 14.0,
+  "corner": 3.0,
+  "p": 0.9628,
+  "min_odd": 1.09,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5837217",
+  "finale": null,
+  "esito": null
+ },
+ "5837983": {
+  "ora": "17/10/2026 17:05",
+  "lega": "League Two",
+  "casa": "Grimsby Town",
+  "ospite": "Northampton Town",
+  "min": 49,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.15,
+   1.24
+  ],
+  "sot": 8.0,
+  "tiri": 16.0,
+  "corner": 7.0,
+  "p": 0.9846,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5837983",
+  "finale": null,
+  "esito": null
+ },
+ "5837985": {
+  "ora": "17/10/2026 17:05",
+  "lega": "League Two",
+  "casa": "Oldham Athletic",
+  "ospite": "Cheltenham Town",
+  "min": 48,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   1.78,
+   0.49
+  ],
+  "sot": 6.0,
+  "tiri": 17.0,
+  "corner": 7.0,
+  "p": 0.9671,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5837985",
+  "finale": null,
+  "esito": null
+ },
+ "5837989": {
+  "ora": "17/10/2026 17:05",
+  "lega": "League Two",
+  "casa": "Swindon Town",
+  "ospite": "Walsall",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.34,
+   0.75
+  ],
+  "sot": 7.0,
+  "tiri": 18.0,
+  "corner": 6.0,
+  "p": 0.9863,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5837989",
+  "finale": null,
+  "esito": null
+ },
+ "5793950": {
+  "ora": "17/10/2026 17:05",
+  "lega": "Premiership",
+  "casa": "Kilmarnock",
+  "ospite": "Motherwell",
+  "min": 46,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.62,
+   1.46
+  ],
+  "sot": 5.0,
+  "tiri": 18.0,
+  "corner": 5.0,
+  "p": 0.9741,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5793950",
+  "finale": null,
+  "esito": null
+ },
+ "5836884": {
+  "ora": "17/10/2026 17:05",
+  "lega": "Championship",
+  "casa": "West Bromwich Albion",
+  "ospite": "Blackburn Rovers",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   1.06,
+   0.47
+  ],
+  "sot": 4.0,
+  "tiri": 14.0,
+  "corner": 5.0,
+  "p": 0.9397,
+  "min_odd": 1.12,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5836884",
+  "finale": null,
+  "esito": null
+ },
+ "5836885": {
+  "ora": "17/10/2026 17:05",
+  "lega": "Championship",
+  "casa": "Wrexham",
+  "ospite": "Preston North End",
+  "min": 47,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.29,
+   0.2
+  ],
+  "sot": 5.0,
+  "tiri": 15.0,
+  "corner": 7.0,
+  "p": 0.9284,
+  "min_odd": 1.13,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5836885",
   "finale": null,
   "esito": null
  }
