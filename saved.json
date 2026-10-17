@@ -1559,8 +1559,11 @@
   "min_odd": 1.99,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5845999",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   4
+  ],
+  "esito": "SÌ"
  },
  "5967104": {
   "ora": "17/10/2026 18:33",
@@ -1583,6 +1586,54 @@
   "min_odd": 1.16,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5967104",
+  "finale": null,
+  "esito": null
+ },
+ "5901182": {
+  "ora": "17/10/2026 19:01",
+  "lega": "Premiere Ligue",
+  "casa": "Toulouse (W)",
+  "ospite": "Paris FC (W)",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.05,
+   1.46
+  ],
+  "sot": 4.0,
+  "tiri": 13.0,
+  "corner": 2.0,
+  "p": 0.9129,
+  "min_odd": 1.15,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5901182",
+  "finale": null,
+  "esito": null
+ },
+ "5904773": {
+  "ora": "17/10/2026 19:01",
+  "lega": "Super Lig",
+  "casa": "Fenerbahçe",
+  "ospite": "Alanyaspor",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   2.68,
+   0.04
+  ],
+  "sot": 4.0,
+  "tiri": 17.0,
+  "corner": 2.0,
+  "p": 0.9919,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5904773",
   "finale": null,
   "esito": null
  }
