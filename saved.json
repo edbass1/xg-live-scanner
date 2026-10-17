@@ -1775,8 +1775,11 @@
   "min_odd": 1.31,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5071427",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5103665": {
   "ora": "18/10/2026 00:08",
