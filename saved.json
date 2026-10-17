@@ -1073,6 +1073,57 @@
   "min_odd": 1.12,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/1000017752",
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5804008": {
+  "ora": "17/10/2026 16:08",
+  "lega": "Ekstraklasa",
+  "casa": "Motor Lublin",
+  "ospite": "Śląsk Wrocław",
+  "min": 63,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   2.1,
+   0.34
+  ],
+  "sot": 8.0,
+  "tiri": 24.0,
+  "corner": 9.0,
+  "p": 0.8799,
+  "min_odd": 1.19,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804008",
+  "finale": null,
+  "esito": null
+ },
+ "5904771": {
+  "ora": "17/10/2026 16:08",
+  "lega": "Super Lig",
+  "casa": "Gençlerbirliği",
+  "ospite": "Galatasaray",
+  "min": 48,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   0.65,
+   1.27
+  ],
+  "sot": 5.0,
+  "tiri": 18.0,
+  "corner": 9.0,
+  "p": 0.9473,
+  "min_odd": 1.11,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5904771",
   "finale": null,
   "esito": null
  }
