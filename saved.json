@@ -1672,5 +1672,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "5781774": {
+  "ora": "17/10/2026 20:59",
+  "lega": "Eredivisie",
+  "casa": "Telstar",
+  "ospite": "Feyenoord",
+  "min": 45,
+  "gol": [
+   2,
+   3
+  ],
+  "xg": [
+   0.72,
+   2.6
+  ],
+  "sot": 15.0,
+  "tiri": 24.0,
+  "corner": 6.0,
+  "p": 0.9997,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5781774",
+  "finale": null,
+  "esito": null
  }
 }
