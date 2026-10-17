@@ -1,69 +1,38 @@
 {
- "updated": "2026-10-17T14:08:18+00:00",
- "live_tot": 293,
- "senza_xg": 78,
+ "updated": "2026-10-17T14:40:30+00:00",
+ "live_tot": 281,
+ "senza_xg": 67,
  "matches": [
   {
-   "id": 5904771,
-   "lega": "Super Lig",
-   "casa": "Gençlerbirliği",
-   "ospite": "Galatasaray",
-   "min": 48,
-   "tempo": "48‎’‎",
+   "id": 5881192,
+   "lega": "Bundesliga",
+   "casa": "Elversberg",
+   "ospite": "Augsburg",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    0,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5904771",
-   "xg": [
-    0.65,
-    1.27
-   ],
-   "sot": 5.0,
-   "tiri": 18.0,
-   "corner": 9.0,
-   "p": 0.9473,
-   "fair": 1.06,
-   "min_odd": 1.11,
-   "lam": 2.94,
-   "verdict": "GIOCABILE",
-   "rel": "ALTA",
-   "warn": [],
-   "thr_xg": 1.12,
-   "thr_sot": 4.0,
-   "xm": 1.27,
-   "line": "Over 0.5"
-  },
-  {
-   "id": 5804008,
-   "lega": "Ekstraklasa",
-   "casa": "Motor Lublin",
-   "ospite": "Śląsk Wrocław",
-   "min": 63,
-   "tempo": "63‎’‎",
-   "gol": [
-    1,
+    3,
     1
    ],
-   "url": "https://www.fotmob.com/match/5804008",
+   "url": "https://www.fotmob.com/match/5881192",
    "xg": [
-    2.1,
-    0.34
+    1.88,
+    1.81
    ],
-   "sot": 8.0,
-   "tiri": 24.0,
-   "corner": 9.0,
-   "p": 0.8799,
-   "fair": 1.14,
-   "min_odd": 1.19,
-   "lam": 2.12,
+   "sot": 7.0,
+   "tiri": 26.0,
+   "corner": 10.0,
+   "p": 0.9985,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 6.49,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.47,
-   "thr_sot": 5.2,
-   "xm": 2.1,
-   "line": "Over 2.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.88,
+   "line": "Over 4.5"
   }
  ]
 }

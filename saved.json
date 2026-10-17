@@ -1126,5 +1126,29 @@
   "url": "https://www.fotmob.com/match/5904771",
   "finale": null,
   "esito": null
+ },
+ "5881192": {
+  "ora": "17/10/2026 16:40",
+  "lega": "Bundesliga",
+  "casa": "Elversberg",
+  "ospite": "Augsburg",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   1.88,
+   1.81
+  ],
+  "sot": 7.0,
+  "tiri": 26.0,
+  "corner": 10.0,
+  "p": 0.9985,
+  "min_odd": 1.05,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5881192",
+  "finale": null,
+  "esito": null
  }
 }
