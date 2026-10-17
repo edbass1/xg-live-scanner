@@ -1208,8 +1208,11 @@
   "min_odd": 1.09,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5868100",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   0
+  ],
+  "esito": "NO"
  },
  "5837209": {
   "ora": "17/10/2026 17:05",
@@ -1475,8 +1478,11 @@
   "min_odd": 1.14,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5868495",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5837207": {
   "ora": "17/10/2026 17:36",
@@ -1531,5 +1537,53 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "5845999": {
+  "ora": "17/10/2026 18:33",
+  "lega": "Bundesliga",
+  "casa": "Austria Lustenau",
+  "ospite": "LASK",
+  "min": 78,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.2,
+   2.08
+  ],
+  "sot": 9.0,
+  "tiri": 24.0,
+  "corner": 14.0,
+  "p": 0.5266,
+  "min_odd": 1.99,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5845999",
+  "finale": null,
+  "esito": null
+ },
+ "5967104": {
+  "ora": "17/10/2026 18:33",
+  "lega": "Serie B",
+  "casa": "Mantova",
+  "ospite": "Palermo",
+  "min": 58,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.68,
+   0.79
+  ],
+  "sot": 5.0,
+  "tiri": 22.0,
+  "corner": 2.0,
+  "p": 0.9032,
+  "min_odd": 1.16,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5967104",
+  "finale": null,
+  "esito": null
  }
 }
