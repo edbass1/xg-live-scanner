@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-17T18:59:12+00:00",
- "live_tot": 42,
- "senza_xg": 18,
+ "updated": "2026-10-17T19:26:59+00:00",
+ "live_tot": 51,
+ "senza_xg": 23,
  "matches": [
   {
    "id": 5781774,
    "lega": "Eredivisie",
    "casa": "Telstar",
    "ospite": "Feyenoord",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 67,
+   "tempo": "67‎’‎",
    "gol": [
     2,
-    3
+    4
    ],
    "url": "https://www.fotmob.com/match/5781774",
    "xg": [
-    0.72,
-    2.6
+    0.81,
+    3.58
    ],
-   "sot": 15.0,
-   "tiri": 24.0,
+   "sot": 17.0,
+   "tiri": 31.0,
    "corner": 6.0,
-   "p": 0.9997,
-   "fair": 1.0,
-   "min_odd": 1.05,
-   "lam": 8.06,
+   "p": 0.9613,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.25,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 2.6,
-   "line": "Over 5.5"
+   "thr_xg": 1.56,
+   "thr_sot": 5.6,
+   "xm": 3.58,
+   "line": "Over 6.5"
   }
  ]
 }
