@@ -1753,5 +1753,53 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5071427": {
+  "ora": "18/10/2026 00:08",
+  "lega": "Major League Soccer",
+  "casa": "Minnesota United",
+  "ospite": "St. Louis City",
+  "min": 68,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   1.66,
+   0.69
+  ],
+  "sot": 8.0,
+  "tiri": 26.0,
+  "corner": 9.0,
+  "p": 0.8014,
+  "min_odd": 1.31,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071427",
+  "finale": null,
+  "esito": null
+ },
+ "5103665": {
+  "ora": "18/10/2026 00:08",
+  "lega": "Série A",
+  "casa": "Botafogo",
+  "ospite": "Chapecoense",
+  "min": 47,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.19,
+   0.08
+  ],
+  "sot": 6.0,
+  "tiri": 13.0,
+  "corner": 3.0,
+  "p": 0.9078,
+  "min_odd": 1.16,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103665",
+  "finale": null,
+  "esito": null
  }
 }
