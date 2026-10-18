@@ -2725,5 +2725,53 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5868098": {
+  "ora": "18/10/2026 21:56",
+  "lega": "LaLiga",
+  "casa": "Real Madrid",
+  "ospite": "Sevilla",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.48,
+   0.21
+  ],
+  "sot": 7.0,
+  "tiri": 15.0,
+  "corner": 2.0,
+  "p": 0.9547,
+  "min_odd": 1.1,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5868098",
+  "finale": null,
+  "esito": null
+ },
+ "5103670": {
+  "ora": "18/10/2026 21:56",
+  "lega": "Série A",
+  "casa": "Grêmio",
+  "ospite": "Cruzeiro",
+  "min": 45,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.53,
+   0.79
+  ],
+  "sot": 7.0,
+  "tiri": 16.0,
+  "corner": 8.0,
+  "p": 0.9912,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103670",
+  "finale": null,
+  "esito": null
  }
 }
