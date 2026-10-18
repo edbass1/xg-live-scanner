@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-18T10:45:29+00:00",
- "live_tot": 41,
- "senza_xg": 16,
- "matches": []
+ "updated": "2026-10-18T11:08:45+00:00",
+ "live_tot": 67,
+ "senza_xg": 27,
+ "matches": [
+  {
+   "id": 5804006,
+   "lega": "Ekstraklasa",
+   "casa": "Górnik Zabrze",
+   "ospite": "Piast Gliwice",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5804006",
+   "xg": [
+    1.32,
+    0.65
+   ],
+   "sot": 4.0,
+   "tiri": 18.0,
+   "corner": 9.0,
+   "p": 0.9682,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.45,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.32,
+   "line": "Over 2.5"
+  }
+ ]
 }

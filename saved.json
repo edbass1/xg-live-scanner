@@ -1996,5 +1996,29 @@
    3
   ],
   "esito": "NO"
+ },
+ "5804006": {
+  "ora": "18/10/2026 13:08",
+  "lega": "Ekstraklasa",
+  "casa": "Górnik Zabrze",
+  "ospite": "Piast Gliwice",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.32,
+   0.65
+  ],
+  "sot": 4.0,
+  "tiri": 18.0,
+  "corner": 9.0,
+  "p": 0.9682,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804006",
+  "finale": null,
+  "esito": null
  }
 }
