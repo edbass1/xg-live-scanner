@@ -2150,8 +2150,11 @@
   "min_odd": 2.25,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5868494",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5981664": {
   "ora": "18/10/2026 15:48",
@@ -2174,6 +2177,54 @@
   "min_odd": 1.14,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5981664",
+  "finale": null,
+  "esito": null
+ },
+ "5795475": {
+  "ora": "18/10/2026 16:11",
+  "lega": "Premier League",
+  "casa": "AFC Bournemouth",
+  "ospite": "Sunderland",
+  "min": 50,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   2.71,
+   0.04
+  ],
+  "sot": 5.0,
+  "tiri": 16.0,
+  "corner": 5.0,
+  "p": 0.9719,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5795475",
+  "finale": null,
+  "esito": null
+ },
+ "5847201": {
+  "ora": "18/10/2026 16:11",
+  "lega": "Premier League",
+  "casa": "Dinamo Moscow",
+  "ospite": "CSKA Moscow",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.23,
+   1.43
+  ],
+  "sot": 8.0,
+  "tiri": 15.0,
+  "corner": 4.0,
+  "p": 0.9955,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5847201",
   "finale": null,
   "esito": null
  }
