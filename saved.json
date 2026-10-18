@@ -2423,8 +2423,11 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5802956",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5802961": {
   "ora": "18/10/2026 18:05",
@@ -2447,8 +2450,11 @@
   "min_odd": 1.06,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5802961",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5846003": {
   "ora": "18/10/2026 18:05",
@@ -2525,8 +2531,11 @@
   "min_odd": 1.09,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5967102",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5943271": {
   "ora": "18/10/2026 18:05",
@@ -2603,8 +2612,11 @@
   "min_odd": 1.21,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5804007",
-  "finale": null,
-  "esito": null
+  "finale": [
+   6,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5105029": {
   "ora": "18/10/2026 18:38",
@@ -2654,6 +2666,30 @@
   "min_odd": 1.15,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5847205",
+  "finale": null,
+  "esito": null
+ },
+ "5868096": {
+  "ora": "18/10/2026 19:37",
+  "lega": "LaLiga",
+  "casa": "Málaga",
+  "ospite": "Real Sociedad",
+  "min": 50,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.21,
+   1.44
+  ],
+  "sot": 6.0,
+  "tiri": 16.0,
+  "corner": 7.0,
+  "p": 0.9015,
+  "min_odd": 1.16,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5868096",
   "finale": null,
   "esito": null
  }
