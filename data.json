@@ -1,6 +1,100 @@
 {
- "updated": "2026-10-18T13:16:12+00:00",
- "live_tot": 139,
- "senza_xg": 72,
- "matches": []
+ "updated": "2026-10-18T13:48:20+00:00",
+ "live_tot": 133,
+ "senza_xg": 92,
+ "matches": [
+  {
+   "id": 5802955,
+   "lega": "Ligue 1",
+   "casa": "Angers",
+   "ospite": "Marseille",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5802955",
+   "xg": [
+    0.9,
+    1.25
+   ],
+   "sot": 5.0,
+   "tiri": 17.0,
+   "corner": 4.0,
+   "p": 0.9827,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 4.06,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.25,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5981664,
+   "lega": "WSL",
+   "casa": "Charlton (W)",
+   "ospite": "Manchester United (W)",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    3
+   ],
+   "url": "https://www.fotmob.com/match/5981664",
+   "xg": [
+    0.13,
+    1.36
+   ],
+   "sot": 5.0,
+   "tiri": 12.0,
+   "corner": 3.0,
+   "p": 0.9212,
+   "fair": 1.09,
+   "min_odd": 1.14,
+   "lam": 2.54,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.36,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5868494,
+   "lega": "LaLiga2",
+   "casa": "AD Ceuta FC",
+   "ospite": "Real Oviedo",
+   "min": 83,
+   "tempo": "83‎’‎",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5868494",
+   "xg": [
+    0.87,
+    1.98
+   ],
+   "sot": 12.0,
+   "tiri": 32.0,
+   "corner": 7.0,
+   "p": 0.4666,
+   "fair": 2.14,
+   "min_odd": 2.25,
+   "lam": 0.63,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.94,
+   "thr_sot": 6.9,
+   "xm": 1.98,
+   "line": "Over 2.5"
+  }
+ ]
 }
