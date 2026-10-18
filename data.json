@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-18T23:13:19+00:00",
- "live_tot": 7,
- "senza_xg": 5,
- "matches": [
-  {
-   "id": 5103672,
-   "lega": "Série A",
-   "casa": "Bahia",
-   "ospite": "Flamengo",
-   "min": 81,
-   "tempo": "81‎’‎",
-   "gol": [
-    0,
-    3
-   ],
-   "url": "https://www.fotmob.com/match/5103672",
-   "xg": [
-    0.52,
-    2.56
-   ],
-   "sot": 16.0,
-   "tiri": 27.0,
-   "corner": 18.0,
-   "p": 0.5454,
-   "fair": 1.83,
-   "min_odd": 1.93,
-   "lam": 0.79,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.89,
-   "thr_sot": 6.8,
-   "xm": 2.56,
-   "line": "Over 3.5"
-  }
- ]
+ "updated": "2026-10-18T23:41:11+00:00",
+ "live_tot": 0,
+ "senza_xg": 0,
+ "matches": []
 }

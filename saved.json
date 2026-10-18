@@ -2828,7 +2828,10 @@
   "min_odd": 1.09,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5103672",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   3
+  ],
+  "esito": "SÌ"
  }
 }
