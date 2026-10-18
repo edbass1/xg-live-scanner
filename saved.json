@@ -2779,5 +2779,29 @@
    4
   ],
   "esito": "SÌ"
+ },
+ "5161673": {
+  "ora": "18/10/2026 23:55",
+  "lega": "NWSL",
+  "casa": "Bay FC (W)",
+  "ospite": "Portland Thorns (W)",
+  "min": 47,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.11,
+   1.03
+  ],
+  "sot": 4.0,
+  "tiri": 13.0,
+  "corner": 6.0,
+  "p": 0.9666,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5161673",
+  "finale": null,
+  "esito": null
  }
 }
