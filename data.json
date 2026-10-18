@@ -1,100 +1,131 @@
 {
- "updated": "2026-10-18T15:08:58+00:00",
- "live_tot": 121,
- "senza_xg": 55,
+ "updated": "2026-10-18T15:41:07+00:00",
+ "live_tot": 124,
+ "senza_xg": 53,
  "matches": [
+  {
+   "id": 5781772,
+   "lega": "Eredivisie",
+   "casa": "FC Groningen",
+   "ospite": "Ajax",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5781772",
+   "xg": [
+    0.26,
+    1.68
+   ],
+   "sot": 5.0,
+   "tiri": 12.0,
+   "corner": 6.0,
+   "p": 0.961,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.24,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.68,
+   "line": "Over 2.5"
+  },
   {
    "id": 5793947,
    "lega": "Premiership",
    "casa": "Celtic",
    "ospite": "Heart of Midlothian",
-   "min": 50,
-   "tempo": "50‎’‎",
+   "min": 82,
+   "tempo": "82‎’‎",
    "gol": [
-    5,
+    6,
     1
    ],
    "url": "https://www.fotmob.com/match/5793947",
    "xg": [
-    3.16,
-    0.78
+    3.56,
+    1.03
    ],
-   "sot": 11.0,
-   "tiri": 24.0,
-   "corner": 5.0,
-   "p": 0.9958,
-   "fair": 1.0,
-   "min_odd": 1.05,
-   "lam": 5.46,
+   "sot": 14.0,
+   "tiri": 34.0,
+   "corner": 8.0,
+   "p": 0.6353,
+   "fair": 1.57,
+   "min_odd": 1.65,
+   "lam": 1.01,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.17,
-   "thr_sot": 4.2,
-   "xm": 3.16,
-   "line": "Over 6.5"
+   "thr_xg": 1.91,
+   "thr_sot": 6.8,
+   "xm": 3.56,
+   "line": "Over 7.5"
   },
   {
    "id": 5739524,
    "lega": "Superligaen",
    "casa": "OB",
    "ospite": "Brøndby IF",
-   "min": 49,
-   "tempo": "49‎’‎",
+   "min": 81,
+   "tempo": "81‎’‎",
    "gol": [
     2,
     1
    ],
    "url": "https://www.fotmob.com/match/5739524",
    "xg": [
-    0.4,
-    1.91
+    0.61,
+    2.48
    ],
-   "sot": 6.0,
-   "tiri": 14.0,
-   "corner": 8.0,
-   "p": 0.9769,
-   "fair": 1.02,
-   "min_odd": 1.07,
-   "lam": 3.77,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.14,
-   "thr_sot": 4.1,
-   "xm": 1.91,
-   "line": "Over 3.5"
-  },
-  {
-   "id": 5981668,
-   "lega": "WSL",
-   "casa": "Manchester City (W)",
-   "ospite": "Brighton (W)",
-   "min": 82,
-   "tempo": "82‎’‎",
-   "gol": [
-    3,
-    2
-   ],
-   "url": "https://www.fotmob.com/match/5981668",
-   "xg": [
-    2.02,
-    0.98
-   ],
-   "sot": 11.0,
+   "sot": 8.0,
    "tiri": 23.0,
-   "corner": 6.0,
-   "p": 0.5557,
-   "fair": 1.8,
-   "min_odd": 1.89,
-   "lam": 0.81,
+   "corner": 10.0,
+   "p": 0.5722,
+   "fair": 1.75,
+   "min_odd": 1.84,
+   "lam": 0.85,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.91,
+   "thr_xg": 1.89,
    "thr_sot": 6.8,
-   "xm": 2.02,
-   "line": "Over 5.5"
+   "xm": 2.48,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5943272,
+   "lega": "Super League",
+   "casa": "Panetolikos",
+   "ospite": "Olympiacos",
+   "min": 81,
+   "tempo": "81‎’‎",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5943272",
+   "xg": [
+    1.0,
+    2.38
+   ],
+   "sot": 9.0,
+   "tiri": 31.0,
+   "corner": 7.0,
+   "p": 0.566,
+   "fair": 1.77,
+   "min_odd": 1.86,
+   "lam": 0.83,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.89,
+   "thr_sot": 6.8,
+   "xm": 2.38,
+   "line": "Over 2.5"
   }
  ]
 }

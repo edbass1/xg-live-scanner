@@ -2234,8 +2234,11 @@
   "min_odd": 1.05,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5847201",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5793947": {
   "ora": "18/10/2026 16:45",
@@ -2309,8 +2312,11 @@
   "min_odd": 1.1,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5981668",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "NO"
  },
  "5739524": {
   "ora": "18/10/2026 17:08",
@@ -2333,6 +2339,54 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5739524",
+  "finale": null,
+  "esito": null
+ },
+ "5781772": {
+  "ora": "18/10/2026 17:41",
+  "lega": "Eredivisie",
+  "casa": "FC Groningen",
+  "ospite": "Ajax",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.26,
+   1.68
+  ],
+  "sot": 5.0,
+  "tiri": 12.0,
+  "corner": 6.0,
+  "p": 0.961,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5781772",
+  "finale": null,
+  "esito": null
+ },
+ "5943272": {
+  "ora": "18/10/2026 17:41",
+  "lega": "Super League",
+  "casa": "Panetolikos",
+  "ospite": "Olympiacos",
+  "min": 81,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   1.0,
+   2.38
+  ],
+  "sot": 9.0,
+  "tiri": 31.0,
+  "corner": 7.0,
+  "p": 0.566,
+  "min_odd": 1.86,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5943272",
   "finale": null,
   "esito": null
  }
