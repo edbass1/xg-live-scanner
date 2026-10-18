@@ -1969,5 +1969,29 @@
    0
   ],
   "esito": "NO"
+ },
+ "5803614": {
+  "ora": "18/10/2026 08:34",
+  "lega": "J. League",
+  "casa": "Fagiano Okayama FC",
+  "ospite": "Vissel Kobe",
+  "min": 73,
+  "gol": [
+   0,
+   3
+  ],
+  "xg": [
+   0.82,
+   1.71
+  ],
+  "sot": 11.0,
+  "tiri": 30.0,
+  "corner": 12.0,
+  "p": 0.665,
+  "min_odd": 1.58,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5803614",
+  "finale": null,
+  "esito": null
  }
 }

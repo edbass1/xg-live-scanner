@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-18T05:58:16+00:00",
+ "updated": "2026-10-18T06:34:46+00:00",
  "live_tot": 14,
  "senza_xg": 11,
- "matches": []
+ "matches": [
+  {
+   "id": 5803614,
+   "lega": "J. League",
+   "casa": "Fagiano Okayama FC",
+   "ospite": "Vissel Kobe",
+   "min": 73,
+   "tempo": "73‎’‎",
+   "gol": [
+    0,
+    3
+   ],
+   "url": "https://www.fotmob.com/match/5803614",
+   "xg": [
+    0.82,
+    1.71
+   ],
+   "sot": 11.0,
+   "tiri": 30.0,
+   "corner": 12.0,
+   "p": 0.665,
+   "fair": 1.5,
+   "min_odd": 1.58,
+   "lam": 1.09,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.7,
+   "thr_sot": 6.1,
+   "xm": 1.71,
+   "line": "Over 3.5"
+  }
+ ]
 }
