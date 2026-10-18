@@ -1,130 +1,186 @@
 #!/usr/bin/env python3
-"""Probe public SoccerPunter and other public pages for verifiable historical in-play goal-line odds."""
-import json, re, time, html, unicodedata
+"""Free historical in-play Over odds lookup via MoviOdds public API."""
+import json, re, time, unicodedata
 from pathlib import Path
-from urllib.parse import quote, urlparse, parse_qs, unquote
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
-from html.parser import HTMLParser
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
-UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36"
+BASE = "https://moviodds.com"
+UA = "Mozilla/5.0 (compatible; xg-live-scanner/1.0)"
 ROOT = Path(__file__).resolve().parent
 SAVED = ROOT / "saved.json"
 OUT = ROOT / "odds_probe.json"
-SOURCES = ("soccerpunter.com", "oddsdigger.com", "aiscore.com", "matchatlas.com")
+ROME = ZoneInfo("Europe/Rome")
 
-class Text(HTMLParser):
-    def __init__(self):
-        super().__init__(); self.parts=[]
-    def handle_data(self, data):
-        if data.strip(): self.parts.append(data.strip())
+def get_json(path, params=None, timeout=45):
+    url = BASE + path
+    if params:
+        url += "?" + urlencode(params)
+    req = Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+    with urlopen(req, timeout=timeout) as response:
+        body = response.read(15_000_000).decode("utf-8", "replace")
+        return json.loads(body)
 
-class Anchors(HTMLParser):
-    def __init__(self):
-        super().__init__(); self.items=[]
-    def handle_starttag(self, tag, attrs):
-        if tag.lower() == "a":
-            a=dict(attrs)
-            if a.get("href"): self.items.append((a["href"], a.get("class","")))
+def norm(s):
+    s = unicodedata.normalize("NFKD", str(s or "")).encode("ascii", "ignore").decode().lower()
+    s = re.sub(r"\b(fc|cf|sc|afc|club|women|w|u\d{2})\b", " ", s)
+    return re.sub(r"[^a-z0-9]+", "", s)
 
-def get(url, timeout=18, json_mode=False):
-    req=Request(url, headers={"User-Agent": UA, "Accept-Language":"it-IT,it;q=0.9,en;q=0.8", "Accept":"application/json,text/html,application/xhtml+xml,*/*"})
-    with urlopen(req, timeout=timeout) as r:
-        body=r.read(3_000_000).decode("utf-8", "replace")
-        return r.status, r.geturl(), (json.loads(body) if json_mode else body)
+def teams_match(a, b):
+    a, b = norm(a), norm(b)
+    return bool(a and b and (a == b or (len(a) >= 5 and a in b) or (len(b) >= 5 and b in a)))
 
-def add_url(found, title, href):
-    href=html.unescape(href or "").strip()
-    if "uddg=" in href:
-        href=parse_qs(urlparse(href).query).get("uddg",[href])[0]
-    href=unquote(href)
-    host=urlparse(href).netloc.lower().split(":")[0]
-    if href.startswith("http") and any(host == d or host.endswith("."+d) for d in SOURCES):
-        if not any(x["url"] == href for x in found):
-            found.append({"title":html.unescape(re.sub(r"<[^>]+>","",title or "")).strip()[:180], "url":href})
+def fixture_match(f, entry):
+    h, a = f.get("home", ""), f.get("away", "")
+    home, away = entry.get("casa", ""), entry.get("ospite", "")
+    return (teams_match(h, home) and teams_match(a, away)) or (teams_match(h, away) and teams_match(a, home))
 
-def search(query):
-    found=[]; errors=[]
-    for engine, url in [
-        ("bing-rss", "https://www.bing.com/search?format=rss&q="+quote(query)),
-        ("ddg", "https://html.duckduckgo.com/html/?q="+quote(query))
-    ]:
-        try:
-            _, _, body=get(url, timeout=14)
-            if engine == "bing-rss":
-                for item in re.findall(r"<item>(.*?)</item>", body, re.I|re.S):
-                    title=re.search(r"<title>(.*?)</title>",item,re.I|re.S)
-                    link=re.search(r"<link>(.*?)</link>",item,re.I|re.S)
-                    if link: add_url(found, title.group(1) if title else "", link.group(1).strip())
-            else:
-                p=Anchors(); p.feed(body)
-                for href, cls in p.items:
-                    if "result__a" in cls: add_url(found, "", href)
-            if found: break
-        except Exception as e:
-            errors.append(engine+" "+type(e).__name__+": "+str(e)[:120])
-    return found[:10], ("; ".join(errors) if errors and not found else None)
+def parse_alert(entry):
+    dt = datetime.strptime(entry["ora"], "%d/%m/%Y %H:%M")
+    return dt.replace(tzinfo=ROME).astimezone(timezone.utc)
 
-def inspect_page(url):
+def iso(dt):
+    return dt.astimezone(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+
+def line_value(value):
     try:
-        status, final, body=get(url)
-        p=Text(); p.feed(body); txt=" ".join(p.parts); low=txt.lower()
-        title=re.search(r"<title[^>]*>(.*?)</title>",body,re.I|re.S)
-        title=html.unescape(re.sub(r"\s+"," ",title.group(1))).strip()[:180] if title else ""
-        indicators={"over_under_market":bool(re.search(r"over.?/?.?under|total goals|totale gol|goal line|大小球",low)),
-                    "inplay_words":bool(re.search(r"in.play|inplay|live odds|quote live|live-odds|即时",low)),
-                    "history_words":bool(re.search(r"odds history|odds movement|fluctuation|fluttuazione|historical odds|cronologia",low)),
-                    "minute_markers":bool(re.search(r"\b(45|46|47|48|49|50|55|60|65|70|75|80|85|90)['’′]\b",txt))}
-        return {"url":final,"http":status,"title":title,"indicators":indicators,"excerpt":txt[:850]}
-    except Exception as e: return {"url":url,"error":type(e).__name__+": "+str(e)[:180]}
+        return float(str(value).replace(",", ".").strip())
+    except (ValueError, TypeError):
+        return None
+
+def moviodds_lookup(entry, result_cache):
+    alert_utc = parse_alert(entry)
+    score = entry.get("gol") or [0, 0]
+    target_line = sum(int(x) for x in score) + 0.5
+    # The result endpoint accepts a UTC date. Check adjacent dates for Italy/late-night matches.
+    fixtures = []
+    for day_offset in (-1, 0, 1):
+        day = (alert_utc.date() + timedelta(days=day_offset)).isoformat()
+        if day not in result_cache:
+            payload = get_json("/results", {"sport": "soccer", "date": day}, timeout=45)
+            result_cache[day] = payload.get("results", [])
+        for f in result_cache[day]:
+            if fixture_match(f, entry) and f.get("fixture_id"):
+                if not any(str(x.get("fixture_id")) == str(f.get("fixture_id")) for x in fixtures):
+                    fixtures.append(f)
+    if not fixtures:
+        return {"status": "fixture_not_found", "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."}
+
+    # Prefer fixture whose final score agrees with the stored result, where supplied.
+    final = entry.get("finale") or []
+    def final_distance(f):
+        m = re.match(r"\s*(\d+)\s*[-:]\s*(\d+)\s*", str(f.get("final_score", "")))
+        if not m or len(final) != 2:
+            return 99
+        fs = [int(m.group(1)), int(m.group(2))]
+        return 0 if fs == final else (1 if fs == final[::-1] else 10)
+    fixtures.sort(key=final_distance)
+    attempts = []
+    for fixture in fixtures:
+        fid = str(fixture["fixture_id"])
+        try:
+            # Fetch a narrow window around the alert rather than a large full-match history.
+            payload = get_json("/history", {
+                "fi": fid,
+                "from": iso(alert_utc - timedelta(minutes=12)),
+                "to": iso(alert_utc + timedelta(minutes=3)),
+                "limit": "50000"
+            }, timeout=60)
+            points = payload.get("points", [])
+            candidates = []
+            for p in points:
+                group = str(p.get("group_name", "")).lower()
+                side = str(p.get("side", "")).strip().lower()
+                line = line_value(p.get("line"))
+                price = line_value(p.get("odds_dec"))
+                if line is None or price is None:
+                    continue
+                is_over = side in ("o", "over") or "over" in str(p.get("label", "")).lower()
+                is_goal_market = ("goal" in group and ("line" in group or "over" in group or "total" in group))
+                if not is_over or not is_goal_market or abs(line - target_line) > 0.001:
+                    continue
+                try:
+                    ts = datetime.fromisoformat(str(p["ts"]).replace("Z", "+00:00"))
+                    if ts.tzinfo is None: ts = ts.replace(tzinfo=timezone.utc)
+                    delta = (ts.astimezone(timezone.utc) - alert_utc).total_seconds()
+                except Exception:
+                    continue
+                if delta > 180 or delta < -720:
+                    continue
+                candidates.append((abs(delta), delta, p, ts))
+            if candidates:
+                candidates.sort(key=lambda x: (x[0], x[1] > 0))
+                _, delta, p, ts = candidates[0]
+                attempts.append({
+                    "status": "verified_historical_live_quote",
+                    "provider": "MoviOdds public archive",
+                    "bookmaker": "bet365",
+                    "fixture_id": fid,
+                    "quote": float(p["odds_dec"]),
+                    "line": target_line,
+                    "quote_side": p.get("side"),
+                    "quote_market": p.get("group_name"),
+                    "quote_timestamp_utc": iso(ts),
+                    "seconds_from_alert": int(delta),
+                    "quote_suspended": bool(p.get("suspended", False)),
+                    "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+                    "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+                })
+            else:
+                attempts.append({
+                    "status": "no_matching_quote_in_window",
+                    "fixture_id": fid,
+                    "history_points_in_window": len(points),
+                    "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
+                })
+        except Exception as ex:
+            attempts.append({"status": "history_error", "fixture_id": fid, "reason": type(ex).__name__ + ": " + str(ex)[:220]})
+    verified = [x for x in attempts if x.get("status") == "verified_historical_live_quote"]
+    if verified:
+        verified.sort(key=lambda x: abs(x.get("seconds_from_alert", 999999)))
+        return verified[0]
+    return {"status": "no_verified_quote", "reason": "Nessuna quota storica verificabile trovata.", "attempts": attempts}
 
 def main():
-    data=json.loads(SAVED.read_text(encoding="utf-8"))
+    data = json.loads(SAVED.read_text(encoding="utf-8"))
     def stamp(e):
-        try: return datetime.strptime(e.get("ora",""), "%d/%m/%Y %H:%M")
-        except (ValueError,TypeError): return datetime.min
-    matches=[(mid,e) for mid,e in data.items() if isinstance(e.get("finale"),list) and isinstance(e.get("gol"),list)]
-    matches.sort(key=lambda x:stamp(x[1]),reverse=True); matches=matches[:12]
-    report={"generated_utc":time.strftime("%Y-%m-%dT%H:%M:%SZ",time.gmtime()),
-            "purpose":"ricerca di pagine pubbliche; nessuna quota viene verificata senza riscontro esplicito di linea, punteggio e minuto",
-            "search_method":"SoccerPunter live-odds first, then public search fallbacks",
-            "checked_matches":len(matches),"results":[]}
-    for mid,e in matches:
-        home=e.get("casa",""); away=e.get("ospite","")
-        score=e.get("gol") or [0,0]
-        target_line=sum(score)+0.5
-        base='"'+home+'" "'+away+'"'
-        queries=[
-            'site:soccerpunter.com/live-odds/ '+base,
-            'site:soccerpunter.com/live-odds/ "'+home+'" "'+away+'"',
-            'site:soccerpunter.com/live-odds/ "'+away+'" "'+home+'"',
-            'site:soccerpunter.com '+base+' odds history',
-            'site:oddsdigger.com '+base+' over under odds',
-            'site:aiscore.com '+base+' odds'
-        ]
-        candidates=[]; errors=[]
-        for q in queries:
-            found,err=search(q)
-            if err: errors.append(err)
-            for c in found:
-                if not any(x["url"]==c["url"] for x in candidates): candidates.append(c)
-            if len(candidates)>=8: break
-        result={"fotmob_id":mid,"match":home+" - "+away,"date_alert":e.get("ora"),
-                "alert_minute":e.get("min"),"score_at_alert":score,"final_score":e.get("finale"),
-                "target_over_line":target_line,"pages":[],"verified_live_quote":None}
-        for c in candidates[:8]:
-            page=inspect_page(c["url"])
-            page["search_title"]=c["title"]
-            result["pages"].append(page)
-            time.sleep(0.15)
-        if errors and not candidates: result["search_error"]="; ".join(dict.fromkeys(errors))[:500]
-        result["note"]="Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
-        report["results"].append(result); time.sleep(0.2)
-    OUT.write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print("Partite controllate:",len(matches))
-    print("Pagine pubbliche candidate:",sum(len(x["pages"]) for x in report["results"]))
-    print("Quote live storiche verificate:",sum(x["verified_live_quote"] is not None for x in report["results"]))
-    print("Nessuna API a pagamento o token esterno utilizzato.")
+        try: return datetime.strptime(e.get("ora", ""), "%d/%m/%Y %H:%M")
+        except (ValueError, TypeError): return datetime.min
+    matches = [(mid, e) for mid, e in data.items()
+               if isinstance(e.get("finale"), list) and isinstance(e.get("gol"), list)]
+    matches.sort(key=lambda x: stamp(x[1]), reverse=True)
+    matches = matches[:12]
+    report = {
+        "generated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
+        "source": "MoviOdds public API, historical bet365 odds archive",
+        "checked_matches": len(matches), "results": []
+    }
+    result_cache = {}
+    for mid, e in matches:
+        score = e.get("gol") or [0, 0]
+        item = {
+            "fotmob_id": mid, "match": e.get("casa", "") + " - " + e.get("ospite", ""),
+            "date_alert": e.get("ora"), "alert_minute": e.get("min"),
+            "score_at_alert": score, "final_score": e.get("finale"),
+            "target_over_line": sum(score) + 0.5, "verified_live_quote": None
+        }
+        try:
+            found = moviodds_lookup(e, result_cache)
+            item["lookup"] = found
+            if found.get("status") == "verified_historical_live_quote":
+                item["verified_live_quote"] = found.get("quote")
+        except Exception as ex:
+            item["lookup"] = {"status": "source_error", "reason": type(ex).__name__ + ": " + str(ex)[:250]}
+        report["results"].append(item)
+        print(item["match"], "=>", item.get("lookup", {}).get("status"))
+        time.sleep(0.1)
+    OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print("Partite controllate:", len(matches))
+    print("Quote live storiche verificate:", sum(x["verified_live_quote"] is not None for x in report["results"]))
     print("Report scritto in odds_probe.json.")
 
-if __name__=="__main__": main()
+if __name__ == "__main__":
+    main()
