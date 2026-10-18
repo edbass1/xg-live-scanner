@@ -1807,5 +1807,53 @@
    0
   ],
   "esito": "NO"
+ },
+ "5071426": {
+  "ora": "18/10/2026 03:10",
+  "lega": "Major League Soccer",
+  "casa": "Atlanta United",
+  "ospite": "Inter Miami CF",
+  "min": 69,
+  "gol": [
+   0,
+   3
+  ],
+  "xg": [
+   1.24,
+   1.74
+  ],
+  "sot": 6.0,
+  "tiri": 19.0,
+  "corner": 3.0,
+  "p": 0.7533,
+  "min_odd": 1.39,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071426",
+  "finale": null,
+  "esito": null
+ },
+ "5071431": {
+  "ora": "18/10/2026 03:10",
+  "lega": "Major League Soccer",
+  "casa": "Orlando City",
+  "ospite": "DC United",
+  "min": 71,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   1.67,
+   2.32
+  ],
+  "sot": 9.0,
+  "tiri": 21.0,
+  "corner": 6.0,
+  "p": 0.8669,
+  "min_odd": 1.21,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071431",
+  "finale": null,
+  "esito": null
  }
 }

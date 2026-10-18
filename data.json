@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-18T00:24:09+00:00",
- "live_tot": 33,
- "senza_xg": 17,
- "matches": []
+ "updated": "2026-10-18T01:10:12+00:00",
+ "live_tot": 30,
+ "senza_xg": 7,
+ "matches": [
+  {
+   "id": 5071431,
+   "lega": "Major League Soccer",
+   "casa": "Orlando City",
+   "ospite": "DC United",
+   "min": 71,
+   "tempo": "71‎’‎",
+   "gol": [
+    3,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5071431",
+   "xg": [
+    1.67,
+    2.32
+   ],
+   "sot": 9.0,
+   "tiri": 21.0,
+   "corner": 6.0,
+   "p": 0.8669,
+   "fair": 1.15,
+   "min_odd": 1.21,
+   "lam": 2.02,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.66,
+   "thr_sot": 5.9,
+   "xm": 2.32,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5071426,
+   "lega": "Major League Soccer",
+   "casa": "Atlanta United",
+   "ospite": "Inter Miami CF",
+   "min": 69,
+   "tempo": "69‎’‎",
+   "gol": [
+    0,
+    3
+   ],
+   "url": "https://www.fotmob.com/match/5071426",
+   "xg": [
+    1.24,
+    1.74
+   ],
+   "sot": 6.0,
+   "tiri": 19.0,
+   "corner": 3.0,
+   "p": 0.7533,
+   "fair": 1.33,
+   "min_odd": 1.39,
+   "lam": 1.4,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.61,
+   "thr_sot": 5.8,
+   "xm": 1.74,
+   "line": "Over 3.5"
+  }
+ ]
 }
