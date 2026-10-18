@@ -2540,8 +2540,11 @@
   "min_odd": 1.15,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5943271",
-  "finale": null,
-  "esito": null
+  "finale": [
+   5,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5107622": {
   "ora": "18/10/2026 18:05",
@@ -2564,6 +2567,81 @@
   "min_odd": 1.61,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5107622",
+  "finale": [
+   4,
+   2
+  ],
+  "esito": "NO"
+ },
+ "5804007": {
+  "ora": "18/10/2026 18:38",
+  "lega": "Ekstraklasa",
+  "casa": "Lech Poznań",
+  "ospite": "Korona Kielce",
+  "min": 48,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   1.31,
+   0.22
+  ],
+  "sot": 5.0,
+  "tiri": 15.0,
+  "corner": 7.0,
+  "p": 0.8687,
+  "min_odd": 1.21,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5804007",
+  "finale": null,
+  "esito": null
+ },
+ "5105029": {
+  "ora": "18/10/2026 18:38",
+  "lega": "Eliteserien",
+  "casa": "Molde",
+  "ospite": "Start",
+  "min": 81,
+  "gol": [
+   6,
+   1
+  ],
+  "xg": [
+   2.66,
+   1.74
+  ],
+  "sot": 13.0,
+  "tiri": 23.0,
+  "corner": 9.0,
+  "p": 0.6487,
+  "min_odd": 1.62,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5105029",
+  "finale": null,
+  "esito": null
+ },
+ "5847205": {
+  "ora": "18/10/2026 18:38",
+  "lega": "Premier League",
+  "casa": "Spartak Moscow",
+  "ospite": "Rubin Kazan",
+  "min": 47,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.39,
+   0.14
+  ],
+  "sot": 6.0,
+  "tiri": 14.0,
+  "corner": 6.0,
+  "p": 0.9164,
+  "min_odd": 1.15,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5847205",
   "finale": null,
   "esito": null
  }
