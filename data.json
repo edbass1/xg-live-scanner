@@ -1,68 +1,37 @@
 {
- "updated": "2026-10-18T22:51:28+00:00",
- "live_tot": 20,
- "senza_xg": 13,
+ "updated": "2026-10-18T23:13:19+00:00",
+ "live_tot": 7,
+ "senza_xg": 5,
  "matches": [
   {
    "id": 5103672,
    "lega": "Série A",
    "casa": "Bahia",
    "ospite": "Flamengo",
-   "min": 59,
-   "tempo": "59‎’‎",
+   "min": 81,
+   "tempo": "81‎’‎",
    "gol": [
     0,
-    0
+    3
    ],
    "url": "https://www.fotmob.com/match/5103672",
    "xg": [
-    0.46,
-    1.66
+    0.52,
+    2.56
    ],
-   "sot": 11.0,
-   "tiri": 20.0,
-   "corner": 14.0,
-   "p": 0.9033,
-   "fair": 1.11,
-   "min_odd": 1.16,
-   "lam": 2.34,
-   "verdict": "GIOCABILE",
-   "rel": "ALTA",
-   "warn": [],
-   "thr_xg": 1.38,
-   "thr_sot": 4.9,
-   "xm": 1.66,
-   "line": "Over 0.5"
-  },
-  {
-   "id": 5161673,
-   "lega": "NWSL",
-   "casa": "Bay FC (W)",
-   "ospite": "Portland Thorns (W)",
-   "min": 84,
-   "tempo": "84‎’‎",
-   "gol": [
-    2,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5161673",
-   "xg": [
-    2.03,
-    1.42
-   ],
-   "sot": 8.0,
+   "sot": 16.0,
    "tiri": 27.0,
-   "corner": 9.0,
-   "p": 0.5001,
-   "fair": 2.0,
-   "min_odd": 2.1,
-   "lam": 0.69,
+   "corner": 18.0,
+   "p": 0.5454,
+   "fair": 1.83,
+   "min_odd": 1.93,
+   "lam": 0.79,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.96,
-   "thr_sot": 7.0,
-   "xm": 2.03,
+   "thr_xg": 1.89,
+   "thr_sot": 6.8,
+   "xm": 2.56,
    "line": "Over 3.5"
   }
  ]
