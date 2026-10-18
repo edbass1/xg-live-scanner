@@ -1991,7 +1991,10 @@
   "min_odd": 1.58,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5803614",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   3
+  ],
+  "esito": "NO"
  }
 }
