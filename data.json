@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-18T18:01:13+00:00",
- "live_tot": 42,
- "senza_xg": 25,
+ "updated": "2026-10-18T18:34:29+00:00",
+ "live_tot": 43,
+ "senza_xg": 18,
  "matches": [
   {
    "id": 5161672,
    "lega": "NWSL",
    "casa": "Houston Dash (W)",
    "ospite": "Orlando Pride (W)",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 62,
+   "tempo": "62‎’‎",
    "gol": [
-    0,
+    1,
     2
    ],
    "url": "https://www.fotmob.com/match/5161672",
    "xg": [
-    0.42,
-    1.43
+    0.93,
+    2.43
    ],
-   "sot": 4.0,
-   "tiri": 12.0,
-   "corner": 6.0,
-   "p": 0.9473,
-   "fair": 1.06,
-   "min_odd": 1.11,
-   "lam": 2.94,
+   "sot": 8.0,
+   "tiri": 18.0,
+   "corner": 10.0,
+   "p": 0.9547,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.1,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.43,
-   "line": "Over 2.5"
+   "thr_xg": 1.45,
+   "thr_sot": 5.2,
+   "xm": 2.43,
+   "line": "Over 3.5"
   }
  ]
 }
