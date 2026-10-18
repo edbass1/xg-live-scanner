@@ -1,69 +1,38 @@
 {
- "updated": "2026-10-18T01:10:12+00:00",
- "live_tot": 30,
- "senza_xg": 7,
+ "updated": "2026-10-18T01:44:21+00:00",
+ "live_tot": 21,
+ "senza_xg": 2,
  "matches": [
   {
-   "id": 5071431,
-   "lega": "Major League Soccer",
-   "casa": "Orlando City",
-   "ospite": "DC United",
-   "min": 71,
-   "tempo": "71‎’‎",
+   "id": 5161671,
+   "lega": "NWSL",
+   "casa": "Denver Summit FC (W)",
+   "ospite": "Angel City FC (W)",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    3,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5071431",
-   "xg": [
-    1.67,
-    2.32
-   ],
-   "sot": 9.0,
-   "tiri": 21.0,
-   "corner": 6.0,
-   "p": 0.8669,
-   "fair": 1.15,
-   "min_odd": 1.21,
-   "lam": 2.02,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.66,
-   "thr_sot": 5.9,
-   "xm": 2.32,
-   "line": "Over 4.5"
-  },
-  {
-   "id": 5071426,
-   "lega": "Major League Soccer",
-   "casa": "Atlanta United",
-   "ospite": "Inter Miami CF",
-   "min": 69,
-   "tempo": "69‎’‎",
-   "gol": [
-    0,
+    2,
     3
    ],
-   "url": "https://www.fotmob.com/match/5071426",
+   "url": "https://www.fotmob.com/match/5161671",
    "xg": [
-    1.24,
-    1.74
+    0.64,
+    1.66
    ],
    "sot": 6.0,
-   "tiri": 19.0,
-   "corner": 3.0,
-   "p": 0.7533,
-   "fair": 1.33,
-   "min_odd": 1.39,
-   "lam": 1.4,
+   "tiri": 15.0,
+   "corner": 6.0,
+   "p": 0.9891,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.52,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.61,
-   "thr_sot": 5.8,
-   "xm": 1.74,
-   "line": "Over 3.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.66,
+   "line": "Over 5.5"
   }
  ]
 }
