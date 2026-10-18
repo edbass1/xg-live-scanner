@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-18T04:23:18+00:00",
- "live_tot": 13,
- "senza_xg": 4,
+ "updated": "2026-10-18T04:57:44+00:00",
+ "live_tot": 6,
+ "senza_xg": 5,
  "matches": [
   {
-   "id": 5071436,
-   "lega": "Major League Soccer",
-   "casa": "LA Galaxy",
-   "ospite": "San Diego FC",
-   "min": 81,
-   "tempo": "81‎’‎",
+   "id": 1000014605,
+   "lega": "Liga MX",
+   "casa": "Cruz Azul",
+   "ospite": "FC Juárez",
+   "min": 84,
+   "tempo": "84‎’‎",
    "gol": [
-    2,
-    2
+    5,
+    0
    ],
-   "url": "https://www.fotmob.com/match/5071436",
+   "url": "https://www.fotmob.com/match/1000014605",
    "xg": [
-    0.44,
-    2.05
+    2.7,
+    1.11
    ],
-   "sot": 14.0,
-   "tiri": 24.0,
-   "corner": 7.0,
-   "p": 0.5395,
-   "fair": 1.85,
-   "min_odd": 1.95,
-   "lam": 0.78,
+   "sot": 12.0,
+   "tiri": 23.0,
+   "corner": 8.0,
+   "p": 0.483,
+   "fair": 2.07,
+   "min_odd": 2.17,
+   "lam": 0.66,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.89,
-   "thr_sot": 6.8,
-   "xm": 2.05,
-   "line": "Over 4.5"
+   "thr_xg": 1.96,
+   "thr_sot": 7.0,
+   "xm": 2.7,
+   "line": "Over 5.5"
   }
  ]
 }

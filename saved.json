@@ -1937,6 +1937,33 @@
   "min_odd": 1.95,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5071436",
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "NO"
+ },
+ "1000014605": {
+  "ora": "18/10/2026 06:57",
+  "lega": "Liga MX",
+  "casa": "Cruz Azul",
+  "ospite": "FC Juárez",
+  "min": 84,
+  "gol": [
+   5,
+   0
+  ],
+  "xg": [
+   2.7,
+   1.11
+  ],
+  "sot": 12.0,
+  "tiri": 23.0,
+  "corner": 8.0,
+  "p": 0.483,
+  "min_odd": 2.17,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/1000014605",
   "finale": null,
   "esito": null
  }
