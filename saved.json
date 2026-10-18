@@ -1915,5 +1915,29 @@
    5
   ],
   "esito": "SÌ"
+ },
+ "5071436": {
+  "ora": "18/10/2026 06:23",
+  "lega": "Major League Soccer",
+  "casa": "LA Galaxy",
+  "ospite": "San Diego FC",
+  "min": 81,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   0.44,
+   2.05
+  ],
+  "sot": 14.0,
+  "tiri": 24.0,
+  "corner": 7.0,
+  "p": 0.5395,
+  "min_odd": 1.95,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071436",
+  "finale": null,
+  "esito": null
  }
 }

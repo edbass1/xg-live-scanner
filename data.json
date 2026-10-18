@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-18T03:53:31+00:00",
+ "updated": "2026-10-18T04:23:18+00:00",
  "live_tot": 13,
- "senza_xg": 7,
- "matches": []
+ "senza_xg": 4,
+ "matches": [
+  {
+   "id": 5071436,
+   "lega": "Major League Soccer",
+   "casa": "LA Galaxy",
+   "ospite": "San Diego FC",
+   "min": 81,
+   "tempo": "81‎’‎",
+   "gol": [
+    2,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5071436",
+   "xg": [
+    0.44,
+    2.05
+   ],
+   "sot": 14.0,
+   "tiri": 24.0,
+   "corner": 7.0,
+   "p": 0.5395,
+   "fair": 1.85,
+   "min_odd": 1.95,
+   "lam": 0.78,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.89,
+   "thr_sot": 6.8,
+   "xm": 2.05,
+   "line": "Over 4.5"
+  }
+ ]
 }
