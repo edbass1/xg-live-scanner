@@ -21,7 +21,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Cerca pagine pubbliche per le partite concluse
+      - name: Cerca quote e pagine pubbliche SoccerPunter
         run: python odds_probe.py
       - name: Salva report
         run: |
