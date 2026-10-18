@@ -2803,5 +2803,29 @@
   "url": "https://www.fotmob.com/match/5161673",
   "finale": null,
   "esito": null
+ },
+ "5103672": {
+  "ora": "19/10/2026 00:22",
+  "lega": "Série A",
+  "casa": "Bahia",
+  "ospite": "Flamengo",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   0.46,
+   1.15
+  ],
+  "sot": 10.0,
+  "tiri": 16.0,
+  "corner": 12.0,
+  "p": 0.9667,
+  "min_odd": 1.09,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5103672",
+  "finale": null,
+  "esito": null
  }
 }
