@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-18T20:25:29+00:00",
- "live_tot": 36,
- "senza_xg": 17,
- "matches": [
-  {
-   "id": 5103670,
-   "lega": "Série A",
-   "casa": "Grêmio",
-   "ospite": "Cruzeiro",
-   "min": 60,
-   "tempo": "60‎’‎",
-   "gol": [
-    2,
-    2
-   ],
-   "url": "https://www.fotmob.com/match/5103670",
-   "xg": [
-    1.55,
-    0.87
-   ],
-   "sot": 8.0,
-   "tiri": 19.0,
-   "corner": 10.0,
-   "p": 0.9131,
-   "fair": 1.1,
-   "min_odd": 1.15,
-   "lam": 2.44,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.4,
-   "thr_sot": 5.0,
-   "xm": 1.55,
-   "line": "Over 4.5"
-  }
- ]
+ "updated": "2026-10-18T20:56:25+00:00",
+ "live_tot": 27,
+ "senza_xg": 19,
+ "matches": []
 }
