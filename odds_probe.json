@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-10-18T16:11:49Z",
-  "purpose": "source discovery only; no odds are marked verified unless exact in-play time/line/price are exposed",
-  "search_method": "Bing RSS first, DuckDuckGo HTML fallback; source-specific queries",
+  "generated_utc": "2026-10-18T16:25:53Z",
+  "purpose": "ricerca di pagine pubbliche; nessuna quota viene verificata senza riscontro esplicito di linea, punteggio e minuto",
+  "search_method": "SoccerPunter live-odds first, then public search fallbacks",
   "checked_matches": 12,
   "results": [
     {
@@ -17,10 +17,115 @@
         0,
         2
       ],
-      "target_over_line": "2.5",
-      "search_error": null,
-      "pages": [],
-      "verified_live_quote": null
+      "target_over_line": 2.5,
+      "pages": [
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19874132%2FOlympiacos-F-C-vs-Panathinaikos&r=1121435826&v=4226702147&d=670904928",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "Olympiacos F.C. vs Panathinaikos Odds Movement, Compare and Chart ..."
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19763724%2FAEK-Athens-vs-Panathinaikos&r=798414683&v=3639017904&d=993926071",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "AEK Athens vs Panathinaikos Odds Movement, Compare and Chart Analysis ..."
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19873879%2FOlympiacos-F-C-vs-AC-Milan&r=483636057&v=2504312690&d=1308704697",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "Olympiacos F.C. vs AC Milan Odds Movement, Compare and Chart Analysis ..."
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19882257%2FOlympiakos-Piraeus-II-vs-Marko&r=860793778&v=3625013358&d=931546976",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "Olympiakos Piraeus II vs Marko Odds Movement, Compare and Chart ..."
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19882434%2FLarissa-vs-Panthrakikos&r=3718607&v=1031095759&d=1788622148",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "Larissa vs Panthrakikos Odds Movement, Compare and Chart Analysis ..."
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19572715%2FPanathinaikos-vs-Kallithea&r=234939500&v=3612990396&d=1557401255",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "Panathinaikos vs Kallithea Odds Movement, Compare and Chart Analysis ..."
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19484445%2FAris-Limassol-vs-Olympiakos&r=1151404409&v=1357364440&d=640936346",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "Aris Limassol vs Olympiakos Odds Movement, Compare and Chart Analysis ..."
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19712990%2FInternacional-de-Bogota-vs-Atletico-Nacional&r=1019638411&v=3292445036&d=772702344",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "Internacional de Bogotá vs Atlético Nacional Odds Movement, Compare and ..."
+        }
+      ],
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5739524",
@@ -35,10 +140,63 @@
         2,
         1
       ],
-      "target_over_line": "3.5",
-      "search_error": null,
-      "pages": [],
-      "verified_live_quote": null
+      "target_over_line": 3.5,
+      "pages": [
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F220872%2FOB-vs-Broendby-IF&r=1070437026&v=674234567&d=721903732",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "OB vs Brøndby IF Odds Movement, Compare and Chart Analysis - SoccerPunter"
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F1814005%2FOB-vs-Broendby-IF&r=1328430114&v=462596319&d=463910644",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "OB vs Brøndby IF Odds Movement, Compare and Chart Analysis - SoccerPunter"
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19872994%2FVejle-Boldklub-vs-Broendby-IF&r=212017615&v=2311723555&d=1580323143",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "Vejle Boldklub vs Brøndby IF Odds Movement, Compare and Chart Analysis ..."
+        },
+        {
+          "url": "https://www.soccerpunter.com/verification/?u=%2Flive-odds%2F19425615%2FAGF-vs-Broendby-IF&r=582061267&v=3168080203&d=1210279491",
+          "http": 200,
+          "title": "Are you human?",
+          "indicators": {
+            "over_under_market": false,
+            "inplay_words": true,
+            "history_words": false,
+            "minute_markers": false
+          },
+          "excerpt": "Are you human? body {\n                        font-family: system-ui, sans-serif;\n                        place-items: center;\n                        min-height: 100vh;\n                        margin: 0;\n                        background: #f5f5f5;\n                        display: flex;\n                        flex-direction: column;\n                        row-gap: 2rem;\n                        padding-top: 2rem;\n                    }\n\n                    header a {\n                        text-decoration: none;\n                    }\n\n                    .card {\n                        width: min(90%, 360px);\n                        padding: 24px;\n                        background: white;\n                        border: 1px solid #ddd;\n                        border-radius: 12px;\n                        box-shadow: 0 4px 16px rgba(0,0,",
+          "search_title": "AGF vs Brøndby IF Odds Movement, Compare and Chart Analysis - SoccerPunter"
+        }
+      ],
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5793947",
@@ -53,16 +211,10 @@
         7,
         1
       ],
-      "target_over_line": "5.5",
-      "search_error": null,
-      "pages": [
-        {
-          "search_title": "Celtic FC vs Heart of Midlothian F.C. Head to Head History",
-          "url": "https://www.aiscore.com/head-to-head/soccer-celtic-fc-vs-heart-of-midlothian",
-          "error": "HTTPError: HTTP Error 403: Forbidden"
-        }
-      ],
-      "verified_live_quote": null
+      "target_over_line": 5.5,
+      "pages": [],
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5967103",
@@ -77,10 +229,10 @@
         3,
         0
       ],
-      "target_over_line": "2.5",
-      "search_error": null,
+      "target_over_line": 2.5,
       "pages": [],
-      "verified_live_quote": null
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5981668",
@@ -95,10 +247,10 @@
         3,
         2
       ],
-      "target_over_line": "5.5",
-      "search_error": null,
+      "target_over_line": 5.5,
       "pages": [],
-      "verified_live_quote": null
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5795475",
@@ -113,10 +265,10 @@
         2,
         0
       ],
-      "target_over_line": "2.5",
-      "search_error": null,
+      "target_over_line": 2.5,
       "pages": [],
-      "verified_live_quote": null
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5847201",
@@ -131,10 +283,10 @@
         3,
         1
       ],
-      "target_over_line": "2.5",
-      "search_error": null,
+      "target_over_line": 2.5,
       "pages": [],
-      "verified_live_quote": null
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5802955",
@@ -149,10 +301,10 @@
         2,
         5
       ],
-      "target_over_line": "3.5",
-      "search_error": null,
+      "target_over_line": 3.5,
       "pages": [],
-      "verified_live_quote": null
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5868494",
@@ -167,10 +319,10 @@
         1,
         2
       ],
-      "target_over_line": "2.5",
-      "search_error": null,
+      "target_over_line": 2.5,
       "pages": [],
-      "verified_live_quote": null
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5981664",
@@ -185,10 +337,10 @@
         1,
         3
       ],
-      "target_over_line": "4.5",
-      "search_error": null,
+      "target_over_line": 4.5,
       "pages": [],
-      "verified_live_quote": null
+      "verified_live_quote": null,
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5749708",
@@ -203,10 +355,11 @@
         0,
         3
       ],
-      "target_over_line": "2.5",
-      "search_error": null,
+      "target_over_line": 2.5,
       "pages": [],
-      "verified_live_quote": null
+      "verified_live_quote": null,
+      "search_error": "ddg HTTPError: HTTP Error 403: Forbidden",
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     },
     {
       "fotmob_id": "5781775",
@@ -221,10 +374,11 @@
         4,
         1
       ],
-      "target_over_line": "3.5",
-      "search_error": "ddg HTTPError: HTTP Error 403: Forbidden",
+      "target_over_line": 3.5,
       "pages": [],
-      "verified_live_quote": null
+      "verified_live_quote": null,
+      "search_error": "ddg HTTPError: HTTP Error 403: Forbidden",
+      "note": "Le pagine trovate sono solo candidate: la quota resta non verificata finché la pagina pubblica non espone una riga che corrisponde a linea Over, punteggio e minuto dell'allarme."
     }
   ]
 }
