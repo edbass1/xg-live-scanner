@@ -1,0 +1,223 @@
+{
+  "generated_utc": "2026-10-18T15:49:50Z",
+  "purpose": "source discovery only; no odds are marked verified unless exact in-play time/line/price are exposed",
+  "checked_matches": 12,
+  "results": [
+    {
+      "fotmob_id": "5967103",
+      "match": "Juve Stabia - Südtirol",
+      "date_alert": "18/10/2026 16:45",
+      "alert_minute": 83,
+      "score_at_alert": [
+        2,
+        0
+      ],
+      "final_score": [
+        3,
+        0
+      ],
+      "target_over_line": "2.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5981668",
+      "match": "Manchester City (W) - Brighton (W)",
+      "date_alert": "18/10/2026 16:45",
+      "alert_minute": 58,
+      "score_at_alert": [
+        3,
+        2
+      ],
+      "final_score": [
+        3,
+        2
+      ],
+      "target_over_line": "5.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5795475",
+      "match": "AFC Bournemouth - Sunderland",
+      "date_alert": "18/10/2026 16:11",
+      "alert_minute": 50,
+      "score_at_alert": [
+        2,
+        0
+      ],
+      "final_score": [
+        2,
+        0
+      ],
+      "target_over_line": "2.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5847201",
+      "match": "Dinamo Moscow - CSKA Moscow",
+      "date_alert": "18/10/2026 16:11",
+      "alert_minute": 45,
+      "score_at_alert": [
+        1,
+        1
+      ],
+      "final_score": [
+        3,
+        1
+      ],
+      "target_over_line": "2.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5802955",
+      "match": "Angers - Marseille",
+      "date_alert": "18/10/2026 15:48",
+      "alert_minute": 45,
+      "score_at_alert": [
+        1,
+        2
+      ],
+      "final_score": [
+        2,
+        5
+      ],
+      "target_over_line": "3.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5868494",
+      "match": "AD Ceuta FC - Real Oviedo",
+      "date_alert": "18/10/2026 15:48",
+      "alert_minute": 83,
+      "score_at_alert": [
+        0,
+        2
+      ],
+      "final_score": [
+        1,
+        2
+      ],
+      "target_over_line": "2.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5981664",
+      "match": "Charlton (W) - Manchester United (W)",
+      "date_alert": "18/10/2026 15:48",
+      "alert_minute": 45,
+      "score_at_alert": [
+        1,
+        3
+      ],
+      "final_score": [
+        1,
+        3
+      ],
+      "target_over_line": "4.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5749708",
+      "match": "Udinese - Lecce",
+      "date_alert": "18/10/2026 13:40",
+      "alert_minute": 50,
+      "score_at_alert": [
+        0,
+        2
+      ],
+      "final_score": [
+        0,
+        3
+      ],
+      "target_over_line": "2.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5781775",
+      "match": "PEC Zwolle - Go Ahead Eagles",
+      "date_alert": "18/10/2026 13:40",
+      "alert_minute": 63,
+      "score_at_alert": [
+        2,
+        1
+      ],
+      "final_score": [
+        4,
+        1
+      ],
+      "target_over_line": "3.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5904768",
+      "match": "Kasımpaşa - Samsunspor",
+      "date_alert": "18/10/2026 13:40",
+      "alert_minute": 48,
+      "score_at_alert": [
+        2,
+        1
+      ],
+      "final_score": [
+        4,
+        1
+      ],
+      "target_over_line": "3.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5804006",
+      "match": "Górnik Zabrze - Piast Gliwice",
+      "date_alert": "18/10/2026 13:08",
+      "alert_minute": 45,
+      "score_at_alert": [
+        1,
+        1
+      ],
+      "final_score": [
+        1,
+        1
+      ],
+      "target_over_line": "2.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    },
+    {
+      "fotmob_id": "5803614",
+      "match": "Fagiano Okayama FC - Vissel Kobe",
+      "date_alert": "18/10/2026 08:34",
+      "alert_minute": 73,
+      "score_at_alert": [
+        0,
+        3
+      ],
+      "final_score": [
+        0,
+        3
+      ],
+      "target_over_line": "3.5",
+      "search_error": null,
+      "pages": [],
+      "verified_live_quote": null
+    }
+  ]
+}
