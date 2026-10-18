@@ -2261,8 +2261,11 @@
   "min_odd": 1.05,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5793947",
-  "finale": null,
-  "esito": null
+  "finale": [
+   7,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5967103": {
   "ora": "18/10/2026 16:45",
@@ -2339,8 +2342,11 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5739524",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "NO"
  },
  "5781772": {
   "ora": "18/10/2026 17:41",
@@ -2387,6 +2393,177 @@
   "min_odd": 1.86,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5943272",
+  "finale": [
+   0,
+   2
+  ],
+  "esito": "NO"
+ },
+ "5802956": {
+  "ora": "18/10/2026 18:05",
+  "lega": "Ligue 1",
+  "casa": "Le Havre",
+  "ospite": "Auxerre",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.75,
+   1.28
+  ],
+  "sot": 7.0,
+  "tiri": 14.0,
+  "corner": 7.0,
+  "p": 0.9846,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5802956",
+  "finale": null,
+  "esito": null
+ },
+ "5802961": {
+  "ora": "18/10/2026 18:05",
+  "lega": "Ligue 1",
+  "casa": "Paris FC",
+  "ospite": "Rennes",
+  "min": 46,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.42,
+   0.92
+  ],
+  "sot": 7.0,
+  "tiri": 17.0,
+  "corner": 2.0,
+  "p": 0.988,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5802961",
+  "finale": null,
+  "esito": null
+ },
+ "5846003": {
+  "ora": "18/10/2026 18:05",
+  "lega": "Bundesliga",
+  "casa": "Sturm Graz",
+  "ospite": "Grazer AK",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   1.89,
+   0.25
+  ],
+  "sot": 7.0,
+  "tiri": 15.0,
+  "corner": 1.0,
+  "p": 0.9789,
+  "min_odd": 1.07,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5846003",
+  "finale": null,
+  "esito": null
+ },
+ "5105027": {
+  "ora": "18/10/2026 18:05",
+  "lega": "Eliteserien",
+  "casa": "Vålerenga",
+  "ospite": "Brann",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   2.01,
+   1.23
+  ],
+  "sot": 10.0,
+  "tiri": 20.0,
+  "corner": 6.0,
+  "p": 0.999,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5105027",
+  "finale": null,
+  "esito": null
+ },
+ "5967102": {
+  "ora": "18/10/2026 18:05",
+  "lega": "Serie B",
+  "casa": "Cesena",
+  "ospite": "Avellino",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.56,
+   0.26
+  ],
+  "sot": 6.0,
+  "tiri": 23.0,
+  "corner": 8.0,
+  "p": 0.9653,
+  "min_odd": 1.09,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5967102",
+  "finale": null,
+  "esito": null
+ },
+ "5943271": {
+  "ora": "18/10/2026 18:05",
+  "lega": "Super League",
+  "casa": "Panathinaikos",
+  "ospite": "Asteras Tripolis",
+  "min": 69,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   4.25,
+   0.42
+  ],
+  "sot": 7.0,
+  "tiri": 25.0,
+  "corner": 8.0,
+  "p": 0.9164,
+  "min_odd": 1.15,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5943271",
+  "finale": null,
+  "esito": null
+ },
+ "5107622": {
+  "ora": "18/10/2026 18:05",
+  "lega": "Allsvenskan",
+  "casa": "Örgryte",
+  "ospite": "GAIS",
+  "min": 78,
+  "gol": [
+   4,
+   2
+  ],
+  "xg": [
+   2.74,
+   0.7
+  ],
+  "sot": 8.0,
+  "tiri": 22.0,
+  "corner": 7.0,
+  "p": 0.654,
+  "min_odd": 1.61,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5107622",
   "finale": null,
   "esito": null
  }
