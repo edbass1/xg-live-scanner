@@ -2227,5 +2227,77 @@
   "url": "https://www.fotmob.com/match/5847201",
   "finale": null,
   "esito": null
+ },
+ "5793947": {
+  "ora": "18/10/2026 16:45",
+  "lega": "Premiership",
+  "casa": "Celtic",
+  "ospite": "Heart of Midlothian",
+  "min": 45,
+  "gol": [
+   4,
+   1
+  ],
+  "xg": [
+   2.64,
+   0.77
+  ],
+  "sot": 9.0,
+  "tiri": 19.0,
+  "corner": 5.0,
+  "p": 0.9967,
+  "min_odd": 1.05,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5793947",
+  "finale": null,
+  "esito": null
+ },
+ "5967103": {
+  "ora": "18/10/2026 16:45",
+  "lega": "Serie B",
+  "casa": "Juve Stabia",
+  "ospite": "Südtirol",
+  "min": 83,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   2.4,
+   0.28
+  ],
+  "sot": 9.0,
+  "tiri": 25.0,
+  "corner": 4.0,
+  "p": 0.4255,
+  "min_odd": 2.47,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5967103",
+  "finale": null,
+  "esito": null
+ },
+ "5981668": {
+  "ora": "18/10/2026 16:45",
+  "lega": "WSL",
+  "casa": "Manchester City (W)",
+  "ospite": "Brighton (W)",
+  "min": 58,
+  "gol": [
+   3,
+   2
+  ],
+  "xg": [
+   1.67,
+   0.86
+  ],
+  "sot": 10.0,
+  "tiri": 18.0,
+  "corner": 5.0,
+  "p": 0.9525,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5981668",
+  "finale": null,
+  "esito": null
  }
 }
