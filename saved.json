@@ -2666,8 +2666,11 @@
   "min_odd": 1.15,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5847205",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   0
+  ],
+  "esito": "SÌ"
  },
  "5868096": {
   "ora": "18/10/2026 19:37",
@@ -2690,6 +2693,30 @@
   "min_odd": 1.16,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5868096",
+  "finale": null,
+  "esito": null
+ },
+ "5161672": {
+  "ora": "18/10/2026 20:01",
+  "lega": "NWSL",
+  "casa": "Houston Dash (W)",
+  "ospite": "Orlando Pride (W)",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.42,
+   1.43
+  ],
+  "sot": 4.0,
+  "tiri": 12.0,
+  "corner": 6.0,
+  "p": 0.9473,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5161672",
   "finale": null,
   "esito": null
  }
