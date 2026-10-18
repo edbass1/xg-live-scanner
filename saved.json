@@ -2020,5 +2020,77 @@
   "url": "https://www.fotmob.com/match/5804006",
   "finale": null,
   "esito": null
+ },
+ "5749708": {
+  "ora": "18/10/2026 13:40",
+  "lega": "Serie A",
+  "casa": "Udinese",
+  "ospite": "Lecce",
+  "min": 50,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.07,
+   2.14
+  ],
+  "sot": 9.0,
+  "tiri": 14.0,
+  "corner": 3.0,
+  "p": 0.965,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5749708",
+  "finale": null,
+  "esito": null
+ },
+ "5781775": {
+  "ora": "18/10/2026 13:40",
+  "lega": "Eredivisie",
+  "casa": "PEC Zwolle",
+  "ospite": "Go Ahead Eagles",
+  "min": 63,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.4,
+   1.53
+  ],
+  "sot": 9.0,
+  "tiri": 24.0,
+  "corner": 7.0,
+  "p": 0.9301,
+  "min_odd": 1.13,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5781775",
+  "finale": null,
+  "esito": null
+ },
+ "5904768": {
+  "ora": "18/10/2026 13:40",
+  "lega": "Super Lig",
+  "casa": "Kasımpaşa",
+  "ospite": "Samsunspor",
+  "min": 48,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.47,
+   0.46
+  ],
+  "sot": 8.0,
+  "tiri": 22.0,
+  "corner": 8.0,
+  "p": 0.9721,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5904768",
+  "finale": null,
+  "esito": null
  }
 }

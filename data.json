@@ -1,38 +1,100 @@
 {
- "updated": "2026-10-18T11:08:45+00:00",
- "live_tot": 67,
- "senza_xg": 27,
+ "updated": "2026-10-18T11:40:10+00:00",
+ "live_tot": 80,
+ "senza_xg": 31,
  "matches": [
   {
-   "id": 5804006,
-   "lega": "Ekstraklasa",
-   "casa": "Górnik Zabrze",
-   "ospite": "Piast Gliwice",
-   "min": 45,
-   "tempo": "Intervallo",
+   "id": 5904768,
+   "lega": "Super Lig",
+   "casa": "Kasımpaşa",
+   "ospite": "Samsunspor",
+   "min": 48,
+   "tempo": "48‎’‎",
    "gol": [
-    1,
+    2,
     1
    ],
-   "url": "https://www.fotmob.com/match/5804006",
+   "url": "https://www.fotmob.com/match/5904768",
    "xg": [
-    1.32,
-    0.65
+    1.47,
+    0.46
    ],
-   "sot": 4.0,
-   "tiri": 18.0,
-   "corner": 9.0,
-   "p": 0.9682,
+   "sot": 8.0,
+   "tiri": 22.0,
+   "corner": 8.0,
+   "p": 0.9721,
    "fair": 1.03,
    "min_odd": 1.08,
-   "lam": 3.45,
+   "lam": 3.58,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.32,
+   "thr_xg": 1.12,
+   "thr_sot": 4.0,
+   "xm": 1.47,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5749708,
+   "lega": "Serie A",
+   "casa": "Udinese",
+   "ospite": "Lecce",
+   "min": 50,
+   "tempo": "50‎’‎",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5749708",
+   "xg": [
+    0.07,
+    2.14
+   ],
+   "sot": 9.0,
+   "tiri": 14.0,
+   "corner": 3.0,
+   "p": 0.965,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.35,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.17,
+   "thr_sot": 4.2,
+   "xm": 2.14,
    "line": "Over 2.5"
+  },
+  {
+   "id": 5781775,
+   "lega": "Eredivisie",
+   "casa": "PEC Zwolle",
+   "ospite": "Go Ahead Eagles",
+   "min": 63,
+   "tempo": "63‎’‎",
+   "gol": [
+    2,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5781775",
+   "xg": [
+    1.4,
+    1.53
+   ],
+   "sot": 9.0,
+   "tiri": 24.0,
+   "corner": 7.0,
+   "p": 0.9301,
+   "fair": 1.08,
+   "min_odd": 1.13,
+   "lam": 2.66,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.47,
+   "thr_sot": 5.2,
+   "xm": 1.53,
+   "line": "Over 3.5"
   }
  ]
 }
