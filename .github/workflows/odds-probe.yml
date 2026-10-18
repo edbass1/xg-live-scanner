@@ -1,0 +1,31 @@
+name: Verifica fonti quote storiche
+on:
+  push:
+    paths:
+      - "odds_probe.py"
+      - ".github/workflows/odds-probe.yml"
+  workflow_dispatch:
+  schedule:
+    - cron: "23 3 * * *"
+permissions:
+  contents: write
+concurrency:
+  group: odds-probe
+  cancel-in-progress: false
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Cerca pagine pubbliche per le partite concluse
+        run: python odds_probe.py
+      - name: Salva report
+        run: |
+          git config user.name "xg-bot"
+          git config user.email "xg-bot@users.noreply.github.com"
+          git add odds_probe.json
+          git diff --cached --quiet || (git commit -m "Aggiorna verifica fonti quote storiche" && git push)
