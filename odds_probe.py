@@ -14,7 +14,7 @@ SAVED = ROOT / "saved.json"
 OUT = ROOT / "odds_probe.json"
 ROME = ZoneInfo("Europe/Rome")
 
-def get_json(path, params=None, timeout=45):
+def get_json(path, params=None, timeout=12):
     url = BASE + path
     if params:
         url += "?" + urlencode(params)
@@ -59,7 +59,7 @@ def moviodds_lookup(entry, result_cache):
     for day_offset in (-1, 0, 1):
         day = (alert_utc.date() + timedelta(days=day_offset)).isoformat()
         if day not in result_cache:
-            payload = get_json("/results", {"sport": "soccer", "date": day}, timeout=45)
+            payload = get_json("/results", {"sport": "soccer", "date": day}, timeout=12)
             result_cache[day] = payload.get("results", [])
         for f in result_cache[day]:
             if fixture_match(f, entry) and f.get("fixture_id"):
@@ -77,6 +77,8 @@ def moviodds_lookup(entry, result_cache):
         fs = [int(m.group(1)), int(m.group(2))]
         return 0 if fs == final else (1 if fs == final[::-1] else 10)
     fixtures.sort(key=final_distance)
+    # Keep the probe bounded: try at most two likely fixture IDs per match.
+    fixtures = fixtures[:2]
     attempts = []
     for fixture in fixtures:
         fid = str(fixture["fixture_id"])
@@ -86,8 +88,8 @@ def moviodds_lookup(entry, result_cache):
                 "fi": fid,
                 "from": iso(alert_utc - timedelta(minutes=12)),
                 "to": iso(alert_utc + timedelta(minutes=3)),
-                "limit": "50000"
-            }, timeout=60)
+                "limit": "10000"
+            }, timeout=15)
             points = payload.get("points", [])
             candidates = []
             for p in points:
@@ -151,7 +153,7 @@ def main():
     matches = [(mid, e) for mid, e in data.items()
                if isinstance(e.get("finale"), list) and isinstance(e.get("gol"), list)]
     matches.sort(key=lambda x: stamp(x[1]), reverse=True)
-    matches = matches[:12]
+    matches = matches[:4]
     report = {
         "generated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
