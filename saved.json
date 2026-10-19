@@ -2833,5 +2833,53 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "5847204": {
+  "ora": "19/10/2026 19:45",
+  "lega": "Premier League",
+  "casa": "Rodina",
+  "ospite": "FC Orenburg",
+  "min": 54,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.14,
+   1.35
+  ],
+  "sot": 8.0,
+  "tiri": 16.0,
+  "corner": 2.0,
+  "p": 0.8756,
+  "min_odd": 1.2,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5847204",
+  "finale": null,
+  "esito": null
+ },
+ "5107625": {
+  "ora": "19/10/2026 19:45",
+  "lega": "Allsvenskan",
+  "casa": "Degerfors",
+  "ospite": "Kalmar FF",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.68,
+   1.59
+  ],
+  "sot": 6.0,
+  "tiri": 16.0,
+  "corner": 5.0,
+  "p": 0.9885,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5107625",
+  "finale": null,
+  "esito": null
  }
 }
