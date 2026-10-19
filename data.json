@@ -1,37 +1,37 @@
 {
- "updated": "2026-10-19T17:45:01+00:00",
- "live_tot": 37,
- "senza_xg": 19,
+ "updated": "2026-10-19T18:13:20+00:00",
+ "live_tot": 30,
+ "senza_xg": 12,
  "matches": [
   {
    "id": 5107625,
    "lega": "Allsvenskan",
    "casa": "Degerfors",
    "ospite": "Kalmar FF",
-   "min": 45,
-   "tempo": "45‎’‎",
+   "min": 57,
+   "tempo": "57‎’‎",
    "gol": [
     1,
     2
    ],
    "url": "https://www.fotmob.com/match/5107625",
    "xg": [
-    0.68,
-    1.59
+    0.82,
+    2.0
    ],
-   "sot": 6.0,
-   "tiri": 16.0,
-   "corner": 5.0,
-   "p": 0.9885,
-   "fair": 1.01,
-   "min_odd": 1.06,
-   "lam": 4.46,
+   "sot": 9.0,
+   "tiri": 21.0,
+   "corner": 7.0,
+   "p": 0.9682,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.45,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.59,
+   "thr_xg": 1.33,
+   "thr_sot": 4.8,
+   "xm": 2.0,
    "line": "Over 3.5"
   },
   {
@@ -39,31 +39,31 @@
    "lega": "Premier League",
    "casa": "Rodina",
    "ospite": "FC Orenburg",
-   "min": 54,
-   "tempo": "54‎’‎",
+   "min": 82,
+   "tempo": "82‎’‎",
    "gol": [
     1,
-    1
+    2
    ],
    "url": "https://www.fotmob.com/match/5847204",
    "xg": [
-    0.14,
-    1.35
+    0.81,
+    2.3
    ],
-   "sot": 8.0,
-   "tiri": 16.0,
-   "corner": 2.0,
-   "p": 0.8756,
-   "fair": 1.14,
-   "min_odd": 1.2,
-   "lam": 2.08,
+   "sot": 11.0,
+   "tiri": 26.0,
+   "corner": 5.0,
+   "p": 0.5678,
+   "fair": 1.76,
+   "min_odd": 1.85,
+   "lam": 0.84,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.26,
-   "thr_sot": 4.5,
-   "xm": 1.35,
-   "line": "Over 2.5"
+   "thr_xg": 1.91,
+   "thr_sot": 6.8,
+   "xm": 2.3,
+   "line": "Over 3.5"
   }
  ]
 }
