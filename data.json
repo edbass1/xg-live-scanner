@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-19T19:03:23+00:00",
- "live_tot": 25,
- "senza_xg": 8,
- "matches": []
+ "updated": "2026-10-19T19:39:40+00:00",
+ "live_tot": 26,
+ "senza_xg": 13,
+ "matches": [
+  {
+   "id": 5749707,
+   "lega": "Serie A",
+   "casa": "Parma",
+   "ospite": "Torino",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5749707",
+   "xg": [
+    0.7,
+    1.31
+   ],
+   "sot": 6.0,
+   "tiri": 17.0,
+   "corner": 3.0,
+   "p": 0.9699,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.5,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.31,
+   "line": "Over 2.5"
+  }
+ ]
 }

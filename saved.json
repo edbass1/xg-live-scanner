@@ -2887,5 +2887,29 @@
    2
   ],
   "esito": "NO"
+ },
+ "5749707": {
+  "ora": "19/10/2026 21:39",
+  "lega": "Serie A",
+  "casa": "Parma",
+  "ospite": "Torino",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.7,
+   1.31
+  ],
+  "sot": 6.0,
+  "tiri": 17.0,
+  "corner": 3.0,
+  "p": 0.9699,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5749707",
+  "finale": null,
+  "esito": null
  }
 }
