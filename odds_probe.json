@@ -1,9 +1,91 @@
 {
-  "generated_utc": "2026-10-19T03:57:08Z",
+  "generated_utc": "2026-10-20T03:54:19Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
+    {
+      "fotmob_id": "5749707",
+      "match": "Parma - Torino",
+      "date_alert": "19/10/2026 21:39",
+      "alert_minute": 45,
+      "score_at_alert": [
+        0,
+        2
+      ],
+      "final_score": [
+        0,
+        3
+      ],
+      "target_over_line": 2.5,
+      "verified_live_quote": 6.4,
+      "lookup": {
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "201585747",
+        "quote": 6.4,
+        "line": 2.5,
+        "quote_side": "Over",
+        "quote_market": "1st Half Goal Line (0-2)",
+        "quote_timestamp_utc": "2026-10-19T19:28:48Z",
+        "seconds_from_alert": -611,
+        "quote_suspended": false,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+      }
+    },
+    {
+      "fotmob_id": "5847204",
+      "match": "Rodina - FC Orenburg",
+      "date_alert": "19/10/2026 19:45",
+      "alert_minute": 54,
+      "score_at_alert": [
+        1,
+        1
+      ],
+      "final_score": [
+        2,
+        2
+      ],
+      "target_over_line": 2.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "fixture_not_found",
+        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
+      }
+    },
+    {
+      "fotmob_id": "5107625",
+      "match": "Degerfors - Kalmar FF",
+      "date_alert": "19/10/2026 19:45",
+      "alert_minute": 45,
+      "score_at_alert": [
+        1,
+        2
+      ],
+      "final_score": [
+        1,
+        2
+      ],
+      "target_over_line": 3.5,
+      "verified_live_quote": 7.8,
+      "lookup": {
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "201662211",
+        "quote": 7.8,
+        "line": 3.5,
+        "quote_side": "Over",
+        "quote_market": "1st Half Goal Line (1-2)",
+        "quote_timestamp_utc": "2026-10-19T17:43:46Z",
+        "seconds_from_alert": -73,
+        "quote_suspended": false,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+      }
+    },
     {
       "fotmob_id": "5103672",
       "match": "Bahia - Flamengo",
@@ -30,99 +112,6 @@
         "quote_market": "1st Half Goal Line (0-0)",
         "quote_timestamp_utc": "2026-10-18T22:14:30Z",
         "seconds_from_alert": -449,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "5161673",
-      "match": "Bay FC (W) - Portland Thorns (W)",
-      "date_alert": "18/10/2026 23:55",
-      "alert_minute": 47,
-      "score_at_alert": [
-        1,
-        1
-      ],
-      "final_score": [
-        2,
-        2
-      ],
-      "target_over_line": 2.5,
-      "verified_live_quote": 5.25,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "202875135",
-        "quote": 5.25,
-        "line": 2.5,
-        "quote_side": "Over",
-        "quote_market": "1st Half Goal Line (1-1)",
-        "quote_timestamp_utc": "2026-10-18T21:52:28Z",
-        "seconds_from_alert": -151,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "5868098",
-      "match": "Real Madrid - Sevilla",
-      "date_alert": "18/10/2026 21:56",
-      "alert_minute": 45,
-      "score_at_alert": [
-        2,
-        0
-      ],
-      "final_score": [
-        4,
-        1
-      ],
-      "target_over_line": 2.5,
-      "verified_live_quote": 5.75,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "201587875",
-        "quote": 5.75,
-        "line": 2.5,
-        "quote_side": "Over",
-        "quote_market": "1st Half Goal Line (2-0)",
-        "quote_timestamp_utc": "2026-10-18T19:49:24Z",
-        "seconds_from_alert": -395,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "5103670",
-      "match": "Grêmio - Cruzeiro",
-      "date_alert": "18/10/2026 21:56",
-      "alert_minute": 45,
-      "score_at_alert": [
-        2,
-        1
-      ],
-      "final_score": [
-        2,
-        4
-      ],
-      "target_over_line": 3.5,
-      "verified_live_quote": 5.9,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "201641755",
-        "quote": 5.9,
-        "line": 3.5,
-        "quote_side": "Over",
-        "quote_market": "1st Half Goal Line (2-1)",
-        "quote_timestamp_utc": "2026-10-18T19:49:13Z",
-        "seconds_from_alert": -406,
         "quote_suspended": false,
         "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
         "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
