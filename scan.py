@@ -45,6 +45,9 @@ def evaluate(mn, a, b, hx, ax, sot, sh):
     rel = "ALTA" if z and 40 <= mn <= 65 else "MEDIA" if (z and 30 <= mn <= 75) or (not z and 40 <= mn <= 65 and abs(a-b) <= 1) else "BASSA"
     return {"p": round(P, 4), "fair": round(1/P, 2), "min_odd": round(1.05/P, 2), "lam": round(lam, 2), "verdict": v,
             "rel": rel, "warn": w, "thr_xg": round(tx, 2), "thr_sot": round(ts, 1), "xm": xm, "line": f"Over {a+b}.5"}
+def is_womens_match(league, match):
+    names = " ".join([str(league or ""), str((match.get("home") or {}).get("name") or ""), str((match.get("away") or {}).get("name") or "")]).lower()
+    return bool(re.search(r"\\b(women|woman|femminil|femenin|femenina|femenino|nwsl|wsl|女子|女足|dames|frauen|damallsvenskan)\\b|\\(w\\)|liga f\\b", names, re.I))
 def main():
     now = datetime.datetime.now(datetime.timezone.utc)
     seen, out, noxg, status = set(), [], 0, {}
@@ -58,7 +61,7 @@ def main():
                 st = m.get("status") or {}; status[str(m["id"])] = st
                 if m["id"] in seen or not st.get("started") or st.get("finished") or st.get("cancelled"): continue
                 seen.add(m["id"]); mn, lt = minute(st)
-                if mn is None or mn < 45: continue
+                if mn is None or mn < 45 or mn >= 81 or is_womens_match(lg.get('name'), m): continue
                 try: a, b = [int(x) for x in st.get("scoreStr", "0 - 0").split(" - ")]
                 except Exception: a = b = 0
                 try:
