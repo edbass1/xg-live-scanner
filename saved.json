@@ -2563,5 +2563,29 @@
    1
   ],
   "esito": "NO"
+ },
+ "6106422": {
+  "ora": "20/10/2026 19:37",
+  "lega": "Champions League",
+  "casa": "Sabah FK",
+  "ospite": "Borussia Dortmund",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.01,
+   2.27
+  ],
+  "sot": 8.0,
+  "tiri": 18.0,
+  "corner": 9.0,
+  "p": 0.9987,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106422",
+  "finale": null,
+  "esito": null
  }
 }
