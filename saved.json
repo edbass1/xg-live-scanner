@@ -2536,5 +2536,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "5996745": {
+  "ora": "20/10/2026 16:54",
+  "lega": "Premier League",
+  "casa": "Asyut Petroleum",
+  "ospite": "Zamalek SC",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.53,
+   1.05
+  ],
+  "sot": 6.0,
+  "tiri": 19.0,
+  "corner": 3.0,
+  "p": 0.9586,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5996745",
+  "finale": null,
+  "esito": null
  }
 }

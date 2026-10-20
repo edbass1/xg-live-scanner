@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-20T14:12:46+00:00",
- "live_tot": 11,
+ "updated": "2026-10-20T14:54:47+00:00",
+ "live_tot": 12,
  "senza_xg": 5,
- "matches": []
+ "matches": [
+  {
+   "id": 5996745,
+   "lega": "Premier League",
+   "casa": "Asyut Petroleum",
+   "ospite": "Zamalek SC",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5996745",
+   "xg": [
+    0.53,
+    1.05
+   ],
+   "sot": 6.0,
+   "tiri": 19.0,
+   "corner": 3.0,
+   "p": 0.9586,
+   "fair": 1.04,
+   "min_odd": 1.1,
+   "lam": 3.19,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.05,
+   "line": "Over 1.5"
+  }
+ ]
 }
