@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:37:00+00:00",
+ "updated": "2026-10-20T18:03:17+00:00",
  "live_tot": 13,
  "senza_xg": 2,
  "matches": [
@@ -8,31 +8,31 @@
    "lega": "Champions League",
    "casa": "Sabah FK",
    "ospite": "Borussia Dortmund",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 62,
+   "tempo": "62‎’‎",
    "gol": [
     1,
-    1
+    2
    ],
    "url": "https://www.fotmob.com/match/6106422",
    "xg": [
     1.01,
-    2.27
+    2.81
    ],
-   "sot": 8.0,
-   "tiri": 18.0,
-   "corner": 9.0,
-   "p": 0.9987,
-   "fair": 1.0,
-   "min_odd": 1.05,
-   "lam": 6.61,
+   "sot": 10.0,
+   "tiri": 23.0,
+   "corner": 10.0,
+   "p": 0.9751,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.69,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 2.27,
-   "line": "Over 2.5"
+   "thr_xg": 1.45,
+   "thr_sot": 5.2,
+   "xm": 2.81,
+   "line": "Over 3.5"
   }
  ]
 }
