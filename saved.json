@@ -2590,5 +2590,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5970164": {
+  "ora": "20/10/2026 21:20",
+  "lega": "Saudi Pro League",
+  "casa": "Al-Ettifaq",
+  "ospite": "Al Ittihad",
+  "min": 59,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   1.06,
+   1.54
+  ],
+  "sot": 7.0,
+  "tiri": 20.0,
+  "corner": 6.0,
+  "p": 0.9348,
+  "min_odd": 1.12,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970164",
+  "finale": null,
+  "esito": null
  }
 }

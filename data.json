@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-20T18:41:41+00:00",
- "live_tot": 11,
- "senza_xg": 1,
- "matches": []
+ "updated": "2026-10-20T19:20:48+00:00",
+ "live_tot": 84,
+ "senza_xg": 3,
+ "matches": [
+  {
+   "id": 5970164,
+   "lega": "Saudi Pro League",
+   "casa": "Al-Ettifaq",
+   "ospite": "Al Ittihad",
+   "min": 59,
+   "tempo": "59‎’‎",
+   "gol": [
+    1,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5970164",
+   "xg": [
+    1.06,
+    1.54
+   ],
+   "sot": 7.0,
+   "tiri": 20.0,
+   "corner": 6.0,
+   "p": 0.9348,
+   "fair": 1.07,
+   "min_odd": 1.12,
+   "lam": 2.73,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.38,
+   "thr_sot": 4.9,
+   "xm": 1.54,
+   "line": "Over 3.5"
+  }
+ ]
 }
