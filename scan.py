@@ -47,7 +47,7 @@ def evaluate(mn, a, b, hx, ax, sot, sh):
             "rel": rel, "warn": w, "thr_xg": round(tx, 2), "thr_sot": round(ts, 1), "xm": xm, "line": f"Over {a+b}.5"}
 def is_womens_match(league, match):
     names = " ".join([str(league or ""), str((match.get("home") or {}).get("name") or ""), str((match.get("away") or {}).get("name") or "")]).lower()
-    return bool(re.search(r"\\b(women|woman|femminil|femenin|femenina|femenino|nwsl|wsl|女子|女足|dames|frauen|damallsvenskan)\\b|\\(w\\)|liga f\\b", names, re.I))
+    return bool(re.search(r"\b(women|woman|femminil|femenin|femenina|femenino|nwsl|wsl|女子|女足|dames|frauen|damallsvenskan)\b|\(w\)|liga f\b", names, re.I))
 def main():
     now = datetime.datetime.now(datetime.timezone.utc)
     seen, out, noxg, status = set(), [], 0, {}
