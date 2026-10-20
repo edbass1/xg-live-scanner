@@ -2809,5 +2809,29 @@
   "url": "https://www.fotmob.com/match/5837995",
   "finale": null,
   "esito": null
+ },
+ "6106277": {
+  "ora": "20/10/2026 22:31",
+  "lega": "Champions League",
+  "casa": "Roma",
+  "ospite": "Slovan Bratislava",
+  "min": 76,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   3.06,
+   0.02
+  ],
+  "sot": 9.0,
+  "tiri": 21.0,
+  "corner": 7.0,
+  "p": 0.64,
+  "min_odd": 1.64,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106277",
+  "finale": null,
+  "esito": null
  }
 }
