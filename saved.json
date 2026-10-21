@@ -2887,5 +2887,77 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "6106285": {
+  "ora": "21/10/2026 21:51",
+  "lega": "Champions League",
+  "casa": "Aston Villa",
+  "ospite": "Viking",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.98,
+   0.02
+  ],
+  "sot": 7.0,
+  "tiri": 15.0,
+  "corner": 7.0,
+  "p": 0.9732,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106285",
+  "finale": null,
+  "esito": null
+ },
+ "6106297": {
+  "ora": "21/10/2026 21:51",
+  "lega": "Champions League",
+  "casa": "Club Brugge",
+  "ospite": "Lens",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.0,
+   1.33
+  ],
+  "sot": 5.0,
+  "tiri": 15.0,
+  "corner": 3.0,
+  "p": 0.9875,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106297",
+  "finale": null,
+  "esito": null
+ },
+ "6106281": {
+  "ora": "21/10/2026 21:51",
+  "lega": "Champions League",
+  "casa": "Sporting CP",
+  "ospite": "LASK",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.06,
+   0.49
+  ],
+  "sot": 5.0,
+  "tiri": 12.0,
+  "corner": 6.0,
+  "p": 0.9456,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106281",
+  "finale": null,
+  "esito": null
  }
 }
