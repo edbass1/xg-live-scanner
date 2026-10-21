@@ -2963,8 +2963,11 @@
   "min_odd": 1.11,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/6106281",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
  },
  "6106300": {
   "ora": "21/10/2026 22:20",
