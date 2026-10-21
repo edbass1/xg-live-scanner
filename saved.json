@@ -2860,5 +2860,29 @@
    0
   ],
   "esito": "NO"
+ },
+ "5803627": {
+  "ora": "21/10/2026 13:16",
+  "lega": "J. League",
+  "casa": "Yokohama F.Marinos",
+  "ospite": "Tokyo Verdy",
+  "min": 55,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.71,
+   0.63
+  ],
+  "sot": 5.0,
+  "tiri": 17.0,
+  "corner": 7.0,
+  "p": 0.9121,
+  "min_odd": 1.15,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5803627",
+  "finale": null,
+  "esito": null
  }
 }
