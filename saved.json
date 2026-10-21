@@ -2909,8 +2909,11 @@
   "min_odd": 1.08,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/6106285",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   1
+  ],
+  "esito": "SÌ"
  },
  "6106297": {
   "ora": "21/10/2026 21:51",
@@ -2933,8 +2936,11 @@
   "min_odd": 1.06,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/6106297",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   0
+  ],
+  "esito": "SÌ"
  },
  "6106281": {
   "ora": "21/10/2026 21:51",
@@ -2981,8 +2987,11 @@
   "min_odd": 1.19,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/6106300",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   0
+  ],
+  "esito": "NO"
  },
  "6106244": {
   "ora": "21/10/2026 22:20",
@@ -3005,8 +3014,11 @@
   "min_odd": 1.09,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/6106244",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   1
+  ],
+  "esito": "SÌ"
  },
  "6106238": {
   "ora": "21/10/2026 22:20",
@@ -3029,7 +3041,10 @@
   "min_odd": 1.18,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/6106238",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "SÌ"
  }
 }
