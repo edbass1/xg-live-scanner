@@ -22,7 +22,7 @@ for k in added:
            f"{e['casa']} - {e['ospite']}\n{e['lega']}\n"
            f"Minuto {e['min']}' · Risultato {e['gol'][0]}-{e['gol'][1]}\n"
            f"xG {f(e['xg'][0])} - {f(e['xg'][1])} · Tiri in porta {int(e['sot'])}/{int(e['tiri'])}\n"
-           f"Prob. gol {e['p']*100:.1f}% · Entra da quota ≥ {f(e['min_odd'])}\n"
+           f"Prob. gol {e['p']*100:.1f}%\n"
            f"Affidabilità {e.get('rel','')}\n{e['url']}")
     data = urllib.parse.urlencode({"chat_id": CHAT, "text": txt, "disable_web_page_preview": "true"}).encode()
     try:
