@@ -18,7 +18,7 @@ if not old:
 f = lambda x: f"{float(x):.2f}".replace(".", ",")
 for k in added:
     e = new[k]
-    txt = (f"⚽ Nuova partita xG Live Scanner\n"
+    txt = (f"⚽ XG PLUS INPLAY SCANNER\n"
            f"{e['casa']} - {e['ospite']}\n{e['lega']}\n"
            f"Minuto {e['min']}' · Risultato {e['gol'][0]}-{e['gol'][1]}\n"
            f"xG {f(e['xg'][0])} - {f(e['xg'][1])} · Tiri in porta {int(e['sot'])}/{int(e['tiri'])}\n"
