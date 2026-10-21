@@ -1,52 +1,83 @@
 {
-  "generated_utc": "2026-10-20T03:54:19Z",
+  "generated_utc": "2026-10-21T03:55:09Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
     {
-      "fotmob_id": "5749707",
-      "match": "Parma - Torino",
-      "date_alert": "19/10/2026 21:39",
-      "alert_minute": 45,
+      "fotmob_id": "6106277",
+      "match": "Roma - Slovan Bratislava",
+      "date_alert": "20/10/2026 22:31",
+      "alert_minute": 76,
       "score_at_alert": [
-        0,
-        2
+        4,
+        0
       ],
       "final_score": [
-        0,
-        3
+        4,
+        0
       ],
-      "target_over_line": 2.5,
-      "verified_live_quote": 6.4,
+      "target_over_line": 4.5,
+      "verified_live_quote": 1.55,
       "lookup": {
         "status": "verified_historical_live_quote",
         "provider": "MoviOdds public archive",
         "bookmaker": "bet365",
-        "fixture_id": "201585747",
-        "quote": 6.4,
-        "line": 2.5,
+        "fixture_id": "202645722",
+        "quote": 1.55,
+        "line": 4.5,
         "quote_side": "Over",
-        "quote_market": "1st Half Goal Line (0-2)",
-        "quote_timestamp_utc": "2026-10-19T19:28:48Z",
-        "seconds_from_alert": -611,
+        "quote_market": "Goal Line (4-0)",
+        "quote_timestamp_utc": "2026-10-20T20:30:46Z",
+        "seconds_from_alert": -13,
         "quote_suspended": false,
         "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
         "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
       }
     },
     {
-      "fotmob_id": "5847204",
-      "match": "Rodina - FC Orenburg",
-      "date_alert": "19/10/2026 19:45",
-      "alert_minute": 54,
+      "fotmob_id": "6106248",
+      "match": "Liverpool - Villarreal",
+      "date_alert": "20/10/2026 21:57",
+      "alert_minute": 45,
       "score_at_alert": [
-        1,
-        1
-      ],
-      "final_score": [
         2,
         2
+      ],
+      "final_score": [
+        4,
+        3
+      ],
+      "target_over_line": 4.5,
+      "verified_live_quote": 1.55,
+      "lookup": {
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "202645727",
+        "quote": 1.55,
+        "line": 4.5,
+        "quote_side": "Over",
+        "quote_market": "Goal Line (1-2)",
+        "quote_timestamp_utc": "2026-10-20T19:46:40Z",
+        "seconds_from_alert": -619,
+        "quote_suspended": true,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+      }
+    },
+    {
+      "fotmob_id": "6106257",
+      "match": "Manchester City - AEK Athens",
+      "date_alert": "20/10/2026 21:57",
+      "alert_minute": 45,
+      "score_at_alert": [
+        2,
+        0
+      ],
+      "final_score": [
+        5,
+        1
       ],
       "target_over_line": 2.5,
       "verified_live_quote": null,
@@ -56,65 +87,23 @@
       }
     },
     {
-      "fotmob_id": "5107625",
-      "match": "Degerfors - Kalmar FF",
-      "date_alert": "19/10/2026 19:45",
+      "fotmob_id": "6106234",
+      "match": "Paris Saint-Germain - Barcelona",
+      "date_alert": "20/10/2026 21:57",
       "alert_minute": 45,
       "score_at_alert": [
         1,
-        2
-      ],
-      "final_score": [
-        1,
-        2
-      ],
-      "target_over_line": 3.5,
-      "verified_live_quote": 7.8,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "201662211",
-        "quote": 7.8,
-        "line": 3.5,
-        "quote_side": "Over",
-        "quote_market": "1st Half Goal Line (1-2)",
-        "quote_timestamp_utc": "2026-10-19T17:43:46Z",
-        "seconds_from_alert": -73,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "5103672",
-      "match": "Bahia - Flamengo",
-      "date_alert": "19/10/2026 00:22",
-      "alert_minute": 45,
-      "score_at_alert": [
-        0,
         0
       ],
       "final_score": [
-        0,
-        3
+        4,
+        2
       ],
-      "target_over_line": 0.5,
-      "verified_live_quote": 6.0,
+      "target_over_line": 1.5,
+      "verified_live_quote": null,
       "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "201641746",
-        "quote": 6.0,
-        "line": 0.5,
-        "quote_side": "Over",
-        "quote_market": "1st Half Goal Line (0-0)",
-        "quote_timestamp_utc": "2026-10-18T22:14:30Z",
-        "seconds_from_alert": -449,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+        "status": "fixture_not_found",
+        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
       }
     }
   ]
