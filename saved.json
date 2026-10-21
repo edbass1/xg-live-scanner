@@ -2959,5 +2959,77 @@
   "url": "https://www.fotmob.com/match/6106281",
   "finale": null,
   "esito": null
+ },
+ "6106300": {
+  "ora": "21/10/2026 22:20",
+  "lega": "Champions League - League Stage",
+  "casa": "Real Betis",
+  "ospite": "Feyenoord",
+  "min": 63,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.69,
+   0.6
+  ],
+  "sot": 9.0,
+  "tiri": 22.0,
+  "corner": 3.0,
+  "p": 0.8794,
+  "min_odd": 1.19,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106300",
+  "finale": null,
+  "esito": null
+ },
+ "6106244": {
+  "ora": "21/10/2026 22:20",
+  "lega": "Champions League - League Stage",
+  "casa": "Real Madrid",
+  "ospite": "RB Leipzig",
+  "min": 61,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   2.69,
+   0.83
+  ],
+  "sot": 12.0,
+  "tiri": 17.0,
+  "corner": 5.0,
+  "p": 0.9633,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106244",
+  "finale": null,
+  "esito": null
+ },
+ "6106238": {
+  "ora": "21/10/2026 22:20",
+  "lega": "Champions League - League Stage",
+  "casa": "Bayern München",
+  "ospite": "Arsenal",
+  "min": 62,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.56,
+   0.85
+  ],
+  "sot": 7.0,
+  "tiri": 18.0,
+  "corner": 6.0,
+  "p": 0.8887,
+  "min_odd": 1.18,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106238",
+  "finale": null,
+  "esito": null
  }
 }
