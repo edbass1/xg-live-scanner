@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-21T11:16:47+00:00",
- "live_tot": 35,
- "senza_xg": 18,
- "matches": [
-  {
-   "id": 5803627,
-   "lega": "J. League",
-   "casa": "Yokohama F.Marinos",
-   "ospite": "Tokyo Verdy",
-   "min": 55,
-   "tempo": "55‎’‎",
-   "gol": [
-    2,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5803627",
-   "xg": [
-    1.71,
-    0.63
-   ],
-   "sot": 5.0,
-   "tiri": 17.0,
-   "corner": 7.0,
-   "p": 0.9121,
-   "fair": 1.1,
-   "min_odd": 1.15,
-   "lam": 2.43,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.28,
-   "thr_sot": 4.6,
-   "xm": 1.71,
-   "line": "Over 2.5"
-  }
- ]
+ "updated": "2026-10-21T11:55:49+00:00",
+ "live_tot": 27,
+ "senza_xg": 5,
+ "matches": []
 }
