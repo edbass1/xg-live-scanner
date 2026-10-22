@@ -3196,5 +3196,29 @@
   "url": "https://www.fotmob.com/match/6112475",
   "finale": null,
   "esito": null
+ },
+ "6112293": {
+  "ora": "22/10/2026 20:05",
+  "lega": "Europa League",
+  "casa": "Dinamo Zagreb",
+  "ospite": "NEC Nijmegen",
+  "min": 61,
+  "gol": [
+   2,
+   3
+  ],
+  "xg": [
+   1.5,
+   0.79
+  ],
+  "sot": 8.0,
+  "tiri": 17.0,
+  "corner": 6.0,
+  "p": 0.8969,
+  "min_odd": 1.17,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112293",
+  "finale": null,
+  "esito": null
  }
 }
