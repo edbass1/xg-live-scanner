@@ -1,109 +1,123 @@
 {
-  "generated_utc": "2026-10-21T03:55:09Z",
+  "generated_utc": "2026-10-22T03:56:06Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
     {
-      "fotmob_id": "6106277",
-      "match": "Roma - Slovan Bratislava",
-      "date_alert": "20/10/2026 22:31",
-      "alert_minute": 76,
+      "fotmob_id": "6106300",
+      "match": "Real Betis - Feyenoord",
+      "date_alert": "21/10/2026 22:20",
+      "alert_minute": 63,
       "score_at_alert": [
-        4,
+        1,
         0
       ],
       "final_score": [
-        4,
+        1,
         0
       ],
-      "target_over_line": 4.5,
-      "verified_live_quote": 1.55,
+      "target_over_line": 1.5,
+      "verified_live_quote": 1.325,
       "lookup": {
         "status": "verified_historical_live_quote",
         "provider": "MoviOdds public archive",
         "bookmaker": "bet365",
-        "fixture_id": "202645722",
-        "quote": 1.55,
-        "line": 4.5,
+        "fixture_id": "202645779",
+        "quote": 1.325,
+        "line": 1.5,
         "quote_side": "Over",
-        "quote_market": "Goal Line (4-0)",
-        "quote_timestamp_utc": "2026-10-20T20:30:46Z",
-        "seconds_from_alert": -13,
+        "quote_market": "Goal Line (1-0)",
+        "quote_timestamp_utc": "2026-10-21T20:21:46Z",
+        "seconds_from_alert": 106,
         "quote_suspended": false,
         "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
         "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
       }
     },
     {
-      "fotmob_id": "6106248",
-      "match": "Liverpool - Villarreal",
-      "date_alert": "20/10/2026 21:57",
-      "alert_minute": 45,
-      "score_at_alert": [
-        2,
-        2
-      ],
-      "final_score": [
-        4,
-        3
-      ],
-      "target_over_line": 4.5,
-      "verified_live_quote": 1.55,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "202645727",
-        "quote": 1.55,
-        "line": 4.5,
-        "quote_side": "Over",
-        "quote_market": "Goal Line (1-2)",
-        "quote_timestamp_utc": "2026-10-20T19:46:40Z",
-        "seconds_from_alert": -619,
-        "quote_suspended": true,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "6106257",
-      "match": "Manchester City - AEK Athens",
-      "date_alert": "20/10/2026 21:57",
-      "alert_minute": 45,
+      "fotmob_id": "6106244",
+      "match": "Real Madrid - RB Leipzig",
+      "date_alert": "21/10/2026 22:20",
+      "alert_minute": 61,
       "score_at_alert": [
         2,
         0
       ],
       "final_score": [
-        5,
+        4,
         1
       ],
       "target_over_line": 2.5,
       "verified_live_quote": null,
       "lookup": {
+        "status": "no_verified_quote",
+        "reason": "Nessuna quota storica verificabile trovata.",
+        "attempts": [
+          {
+            "status": "no_matching_quote_in_window",
+            "fixture_id": "202645795",
+            "history_points_in_window": 10000,
+            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
+          },
+          {
+            "status": "no_matching_quote_in_window",
+            "fixture_id": "203191793",
+            "history_points_in_window": 0,
+            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
+          }
+        ]
+      }
+    },
+    {
+      "fotmob_id": "6106238",
+      "match": "Bayern München - Arsenal",
+      "date_alert": "21/10/2026 22:20",
+      "alert_minute": 62,
+      "score_at_alert": [
+        2,
+        1
+      ],
+      "final_score": [
+        2,
+        2
+      ],
+      "target_over_line": 3.5,
+      "verified_live_quote": null,
+      "lookup": {
         "status": "fixture_not_found",
         "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
       }
     },
     {
-      "fotmob_id": "6106234",
-      "match": "Paris Saint-Germain - Barcelona",
-      "date_alert": "20/10/2026 21:57",
+      "fotmob_id": "6106285",
+      "match": "Aston Villa - Viking",
+      "date_alert": "21/10/2026 21:51",
       "alert_minute": 45,
       "score_at_alert": [
-        1,
+        2,
         0
       ],
       "final_score": [
-        4,
-        2
+        3,
+        1
       ],
-      "target_over_line": 1.5,
-      "verified_live_quote": null,
+      "target_over_line": 2.5,
+      "verified_live_quote": 4.25,
       "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "202645766",
+        "quote": 4.25,
+        "line": 2.5,
+        "quote_side": "Over",
+        "quote_market": "1st Half Goal Line (2-0)",
+        "quote_timestamp_utc": "2026-10-21T19:43:48Z",
+        "seconds_from_alert": -431,
+        "quote_suspended": false,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
       }
     }
   ]
