@@ -3238,5 +3238,101 @@
    4
   ],
   "esito": "SÌ"
+ },
+ "6112350": {
+  "ora": "22/10/2026 22:01",
+  "lega": "Europa League",
+  "casa": "Hoffenheim",
+  "ospite": "Lyon",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.5
+  ],
+  "sot": 6.0,
+  "tiri": 16.0,
+  "corner": 11.0,
+  "p": 0.9656,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112350",
+  "finale": null,
+  "esito": null
+ },
+ "6112487": {
+  "ora": "22/10/2026 22:01",
+  "lega": "Conference League",
+  "casa": "Borac Banja Luka",
+  "ospite": "KuPS",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.6,
+   0.46
+  ],
+  "sot": 10.0,
+  "tiri": 24.0,
+  "corner": 8.0,
+  "p": 0.9902,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112487",
+  "finale": null,
+  "esito": null
+ },
+ "6112406": {
+  "ora": "22/10/2026 22:01",
+  "lega": "Conference League",
+  "casa": "FC Midtjylland",
+  "ospite": "St.Truiden",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.56,
+   1.09
+  ],
+  "sot": 4.0,
+  "tiri": 17.0,
+  "corner": 6.0,
+  "p": 0.9908,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112406",
+  "finale": null,
+  "esito": null
+ },
+ "6112484": {
+  "ora": "22/10/2026 22:01",
+  "lega": "Conference League",
+  "casa": "Lincoln Red Imps FC",
+  "ospite": "FC Twente",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.09,
+   2.37
+  ],
+  "sot": 6.0,
+  "tiri": 16.0,
+  "corner": 4.0,
+  "p": 0.9919,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112484",
+  "finale": null,
+  "esito": null
  }
 }
