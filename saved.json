@@ -3334,5 +3334,29 @@
   "url": "https://www.fotmob.com/match/6112484",
   "finale": null,
   "esito": null
+ },
+ "6112342": {
+  "ora": "22/10/2026 22:35",
+  "lega": "Europa League",
+  "casa": "Omonia Nicosia",
+  "ospite": "Benfica",
+  "min": 75,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.78,
+   1.97
+  ],
+  "sot": 11.0,
+  "tiri": 24.0,
+  "corner": 8.0,
+  "p": 0.7317,
+  "min_odd": 1.44,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112342",
+  "finale": null,
+  "esito": null
  }
 }
