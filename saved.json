@@ -3076,5 +3076,125 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "6112320": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Europa League",
+  "casa": "Lech Poznań",
+  "ospite": "Sunderland",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.13,
+   1.68
+  ],
+  "sot": 10.0,
+  "tiri": 20.0,
+  "corner": 4.0,
+  "p": 0.998,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112320",
+  "finale": null,
+  "esito": null
+ },
+ "6112370": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Europa League",
+  "casa": "OFI Crete",
+  "ospite": "Bayer Leverkusen",
+  "min": 47,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.11,
+   1.97
+  ],
+  "sot": 10.0,
+  "tiri": 20.0,
+  "corner": 6.0,
+  "p": 0.9762,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112370",
+  "finale": null,
+  "esito": null
+ },
+ "6112289": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Europa League",
+  "casa": "Union St.Gilloise",
+  "ospite": "Hapoel Beer Sheva",
+  "min": 47,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.62,
+   0.53
+  ],
+  "sot": 5.0,
+  "tiri": 16.0,
+  "corner": 2.0,
+  "p": 0.9753,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112289",
+  "finale": null,
+  "esito": null
+ },
+ "6112545": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Conference League",
+  "casa": "FK Kauno Žalgiris",
+  "ospite": "Brann",
+  "min": 48,
+  "gol": [
+   1,
+   3
+  ],
+  "xg": [
+   1.01,
+   1.79
+  ],
+  "sot": 6.0,
+  "tiri": 16.0,
+  "corner": 3.0,
+  "p": 0.9845,
+  "min_odd": 1.07,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112545",
+  "finale": null,
+  "esito": null
+ },
+ "6112475": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Conference League",
+  "casa": "Getafe",
+  "ospite": "Lugano",
+  "min": 45,
+  "gol": [
+   1,
+   3
+  ],
+  "xg": [
+   0.32,
+   1.14
+  ],
+  "sot": 7.0,
+  "tiri": 13.0,
+  "corner": 8.0,
+  "p": 0.9332,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112475",
+  "finale": null,
+  "esito": null
  }
 }
