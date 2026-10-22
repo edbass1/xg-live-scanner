@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-22T15:47:26+00:00",
- "live_tot": 7,
- "senza_xg": 3,
+ "updated": "2026-10-22T16:20:01+00:00",
+ "live_tot": 8,
+ "senza_xg": 2,
  "matches": [
   {
    "id": 5970173,
    "lega": "Saudi Pro League",
    "casa": "Al Fateh FC",
    "ospite": "Al Shabab",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 74,
+   "tempo": "74‎’‎",
    "gol": [
     1,
-    2
+    3
    ],
    "url": "https://www.fotmob.com/match/5970173",
    "xg": [
-    0.86,
-    1.43
+    0.93,
+    2.79
    ],
-   "sot": 7.0,
-   "tiri": 17.0,
-   "corner": 7.0,
-   "p": 0.9907,
-   "fair": 1.01,
-   "min_odd": 1.06,
-   "lam": 4.67,
+   "sot": 10.0,
+   "tiri": 29.0,
+   "corner": 11.0,
+   "p": 0.7987,
+   "fair": 1.25,
+   "min_odd": 1.31,
+   "lam": 1.6,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.43,
-   "line": "Over 3.5"
+   "thr_xg": 1.73,
+   "thr_sot": 6.2,
+   "xm": 2.79,
+   "line": "Over 4.5"
   }
  ]
 }
