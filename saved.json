@@ -3049,5 +3049,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5970173": {
+  "ora": "22/10/2026 17:47",
+  "lega": "Saudi Pro League",
+  "casa": "Al Fateh FC",
+  "ospite": "Al Shabab",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.86,
+   1.43
+  ],
+  "sot": 7.0,
+  "tiri": 17.0,
+  "corner": 7.0,
+  "p": 0.9907,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970173",
+  "finale": null,
+  "esito": null
  }
 }
