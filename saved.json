@@ -3422,6 +3422,33 @@
   "min_odd": 1.25,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5904778",
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5970177": {
+  "ora": "23/10/2026 20:57",
+  "lega": "Saudi Pro League",
+  "casa": "Al Qadsiah",
+  "ospite": "Al Hilal",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.53,
+   2.11
+  ],
+  "sot": 9.0,
+  "tiri": 22.0,
+  "corner": 5.0,
+  "p": 0.996,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970177",
   "finale": null,
   "esito": null
  }

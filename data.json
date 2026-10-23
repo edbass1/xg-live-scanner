@@ -1,37 +1,37 @@
 {
- "updated": "2026-10-23T18:10:50+00:00",
- "live_tot": 73,
- "senza_xg": 21,
+ "updated": "2026-10-23T18:57:40+00:00",
+ "live_tot": 59,
+ "senza_xg": 25,
  "matches": [
   {
-   "id": 5904778,
-   "lega": "Super Lig",
-   "casa": "Alanyaspor",
-   "ospite": "Kocaelispor",
-   "min": 52,
-   "tempo": "52‎’‎",
+   "id": 5970177,
+   "lega": "Saudi Pro League",
+   "casa": "Al Qadsiah",
+   "ospite": "Al Hilal",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    0,
-    2
+    1,
+    1
    ],
-   "url": "https://www.fotmob.com/match/5904778",
+   "url": "https://www.fotmob.com/match/5970177",
    "xg": [
-    0.05,
-    1.44
+    0.53,
+    2.11
    ],
-   "sot": 5.0,
-   "tiri": 15.0,
-   "corner": 7.0,
-   "p": 0.8422,
-   "fair": 1.19,
-   "min_odd": 1.25,
-   "lam": 1.85,
+   "sot": 9.0,
+   "tiri": 22.0,
+   "corner": 5.0,
+   "p": 0.996,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 5.53,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.21,
-   "thr_sot": 4.3,
-   "xm": 1.44,
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 2.11,
    "line": "Over 2.5"
   }
  ]
