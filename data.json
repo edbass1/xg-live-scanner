@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-23T17:41:53+00:00",
- "live_tot": 66,
- "senza_xg": 12,
- "matches": []
+ "updated": "2026-10-23T18:10:50+00:00",
+ "live_tot": 73,
+ "senza_xg": 21,
+ "matches": [
+  {
+   "id": 5904778,
+   "lega": "Super Lig",
+   "casa": "Alanyaspor",
+   "ospite": "Kocaelispor",
+   "min": 52,
+   "tempo": "52‎’‎",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5904778",
+   "xg": [
+    0.05,
+    1.44
+   ],
+   "sot": 5.0,
+   "tiri": 15.0,
+   "corner": 7.0,
+   "p": 0.8422,
+   "fair": 1.19,
+   "min_odd": 1.25,
+   "lam": 1.85,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.21,
+   "thr_sot": 4.3,
+   "xm": 1.44,
+   "line": "Over 2.5"
+  }
+ ]
 }

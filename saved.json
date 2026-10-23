@@ -3400,5 +3400,29 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "5904778": {
+  "ora": "23/10/2026 20:10",
+  "lega": "Super Lig",
+  "casa": "Alanyaspor",
+  "ospite": "Kocaelispor",
+  "min": 52,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.05,
+   1.44
+  ],
+  "sot": 5.0,
+  "tiri": 15.0,
+  "corner": 7.0,
+  "p": 0.8422,
+  "min_odd": 1.25,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5904778",
+  "finale": null,
+  "esito": null
  }
 }
