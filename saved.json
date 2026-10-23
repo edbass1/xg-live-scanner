@@ -3373,5 +3373,29 @@
    4
   ],
   "esito": "SÌ"
+ },
+ "5970175": {
+  "ora": "23/10/2026 18:25",
+  "lega": "Saudi Pro League",
+  "casa": "Al Ittihad",
+  "ospite": "Al Diriyah",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.16,
+   0.24
+  ],
+  "sot": 5.0,
+  "tiri": 13.0,
+  "corner": 6.0,
+  "p": 0.9348,
+  "min_odd": 1.12,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970175",
+  "finale": null,
+  "esito": null
  }
 }

@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-23T15:49:42+00:00",
- "live_tot": 23,
- "senza_xg": 16,
- "matches": []
+ "updated": "2026-10-23T16:25:15+00:00",
+ "live_tot": 35,
+ "senza_xg": 11,
+ "matches": [
+  {
+   "id": 5970175,
+   "lega": "Saudi Pro League",
+   "casa": "Al Ittihad",
+   "ospite": "Al Diriyah",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5970175",
+   "xg": [
+    1.16,
+    0.24
+   ],
+   "sot": 5.0,
+   "tiri": 13.0,
+   "corner": 6.0,
+   "p": 0.9348,
+   "fair": 1.07,
+   "min_odd": 1.12,
+   "lam": 2.73,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.16,
+   "line": "Over 1.5"
+  }
+ ]
 }
