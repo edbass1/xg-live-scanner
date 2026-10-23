@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-23T21:51:23+00:00",
- "live_tot": 5,
+ "updated": "2026-10-23T22:21:44+00:00",
+ "live_tot": 4,
  "senza_xg": 1,
- "matches": []
+ "matches": [
+  {
+   "id": 1000019590,
+   "lega": "Liga Profesional",
+   "casa": "Gimnasia Mendoza",
+   "ospite": "Club Atlético Platense",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/1000019590",
+   "xg": [
+    1.18,
+    0.55
+   ],
+   "sot": 5.0,
+   "tiri": 18.0,
+   "corner": 8.0,
+   "p": 0.9636,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.31,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.18,
+   "line": "Over 1.5"
+  }
+ ]
 }

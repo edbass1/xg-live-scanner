@@ -3616,5 +3616,29 @@
    5
   ],
   "esito": "SÌ"
+ },
+ "1000019590": {
+  "ora": "24/10/2026 00:21",
+  "lega": "Liga Profesional",
+  "casa": "Gimnasia Mendoza",
+  "ospite": "Club Atlético Platense",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.55
+  ],
+  "sot": 5.0,
+  "tiri": 18.0,
+  "corner": 8.0,
+  "p": 0.9636,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000019590",
+  "finale": null,
+  "esito": null
  }
 }
