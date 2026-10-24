@@ -3670,5 +3670,101 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "5868107": {
+  "ora": "24/10/2026 15:01",
+  "lega": "LaLiga",
+  "casa": "Rayo Vallecano",
+  "ospite": "Elche",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   1.13,
+   2.11
+  ],
+  "sot": 10.0,
+  "tiri": 17.0,
+  "corner": 1.0,
+  "p": 0.9981,
+  "min_odd": 1.05,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5868107",
+  "finale": null,
+  "esito": null
+ },
+ "5868508": {
+  "ora": "24/10/2026 15:01",
+  "lega": "LaLiga2",
+  "casa": "Córdoba",
+  "ospite": "Eibar",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.17,
+   0.63
+  ],
+  "sot": 7.0,
+  "tiri": 16.0,
+  "corner": 11.0,
+  "p": 0.9684,
+  "min_odd": 1.08,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5868508",
+  "finale": null,
+  "esito": null
+ },
+ "5838004": {
+  "ora": "24/10/2026 15:01",
+  "lega": "League Two",
+  "casa": "Bristol Rovers",
+  "ospite": "Swindon Town",
+  "min": 72,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.75,
+   1.71
+  ],
+  "sot": 10.0,
+  "tiri": 27.0,
+  "corner": 5.0,
+  "p": 0.8331,
+  "min_odd": 1.26,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5838004",
+  "finale": null,
+  "esito": null
+ },
+ "5803292": {
+  "ora": "24/10/2026 15:01",
+  "lega": "Ligue 2",
+  "casa": "Dijon",
+  "ospite": "Rodez",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.05,
+   0.85
+  ],
+  "sot": 6.0,
+  "tiri": 20.0,
+  "corner": 7.0,
+  "p": 0.9746,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5803292",
+  "finale": null,
+  "esito": null
  }
 }
