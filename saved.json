@@ -4123,5 +4123,53 @@
   "url": "https://www.fotmob.com/match/5970176",
   "finale": null,
   "esito": null
+ },
+ "5749717": {
+  "ora": "24/10/2026 18:46",
+  "lega": "Serie A",
+  "casa": "Napoli",
+  "ospite": "Roma",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.24,
+   0.55
+  ],
+  "sot": 5.0,
+  "tiri": 16.0,
+  "corner": 3.0,
+  "p": 0.9673,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5749717",
+  "finale": null,
+  "esito": null
+ },
+ "5804285": {
+  "ora": "24/10/2026 18:46",
+  "lega": "Super League",
+  "casa": "FC Zürich",
+  "ospite": "Luzern",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.26,
+   0.55
+  ],
+  "sot": 5.0,
+  "tiri": 17.0,
+  "corner": 4.0,
+  "p": 0.9685,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804285",
+  "finale": null,
+  "esito": null
  }
 }
