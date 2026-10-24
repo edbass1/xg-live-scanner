@@ -4453,5 +4453,77 @@
    1
   ],
   "esito": "NO"
+ },
+ "5103675": {
+  "ora": "25/10/2026 00:34",
+  "lega": "Série A",
+  "casa": "Vasco da Gama",
+  "ospite": "Corinthians",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.05,
+   0.18
+  ],
+  "sot": 6.0,
+  "tiri": 19.0,
+  "corner": 2.0,
+  "p": 0.9209,
+  "min_odd": 1.14,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103675",
+  "finale": null,
+  "esito": null
+ },
+ "5103677": {
+  "ora": "25/10/2026 00:34",
+  "lega": "Série A",
+  "casa": "Palmeiras",
+  "ospite": "RB Bragantino",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   2.23,
+   0.35
+  ],
+  "sot": 4.0,
+  "tiri": 21.0,
+  "corner": 12.0,
+  "p": 0.9897,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103677",
+  "finale": null,
+  "esito": null
+ },
+ "5190787": {
+  "ora": "25/10/2026 00:34",
+  "lega": "Série B",
+  "casa": "CRB",
+  "ospite": "Londrina",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.06,
+   0.22
+  ],
+  "sot": 11.0,
+  "tiri": 24.0,
+  "corner": 7.0,
+  "p": 0.9319,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5190787",
+  "finale": null,
+  "esito": null
  }
 }

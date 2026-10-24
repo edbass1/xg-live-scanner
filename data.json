@@ -1,6 +1,100 @@
 {
- "updated": "2026-10-24T22:04:17+00:00",
- "live_tot": 31,
- "senza_xg": 20,
- "matches": []
+ "updated": "2026-10-24T22:34:30+00:00",
+ "live_tot": 17,
+ "senza_xg": 8,
+ "matches": [
+  {
+   "id": 5103677,
+   "lega": "Série A",
+   "casa": "Palmeiras",
+   "ospite": "RB Bragantino",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5103677",
+   "xg": [
+    2.23,
+    0.35
+   ],
+   "sot": 4.0,
+   "tiri": 21.0,
+   "corner": 12.0,
+   "p": 0.9897,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.58,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 2.23,
+   "line": "Over 1.5"
+  },
+  {
+   "id": 5190787,
+   "lega": "Série B",
+   "casa": "CRB",
+   "ospite": "Londrina",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5190787",
+   "xg": [
+    1.06,
+    0.22
+   ],
+   "sot": 11.0,
+   "tiri": 24.0,
+   "corner": 7.0,
+   "p": 0.9319,
+   "fair": 1.07,
+   "min_odd": 1.13,
+   "lam": 2.69,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.06,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5103675,
+   "lega": "Série A",
+   "casa": "Vasco da Gama",
+   "ospite": "Corinthians",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5103675",
+   "xg": [
+    1.05,
+    0.18
+   ],
+   "sot": 6.0,
+   "tiri": 19.0,
+   "corner": 2.0,
+   "p": 0.9209,
+   "fair": 1.09,
+   "min_odd": 1.14,
+   "lam": 2.54,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.05,
+   "line": "Over 1.5"
+  }
+ ]
 }
