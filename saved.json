@@ -3740,8 +3740,11 @@
   "min_odd": 1.26,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5838004",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   0
+  ],
+  "esito": "NO"
  },
  "5803292": {
   "ora": "24/10/2026 15:01",
@@ -3764,6 +3767,30 @@
   "min_odd": 1.08,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5803292",
+  "finale": null,
+  "esito": null
+ },
+ "5804014": {
+  "ora": "24/10/2026 15:34",
+  "lega": "Ekstraklasa",
+  "casa": "Korona Kielce",
+  "ospite": "GKS Katowice",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   0.47,
+   1.2
+  ],
+  "sot": 6.0,
+  "tiri": 15.0,
+  "corner": 8.0,
+  "p": 0.9551,
+  "min_odd": 1.1,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5804014",
   "finale": null,
   "esito": null
  }
