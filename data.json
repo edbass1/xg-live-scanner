@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-24T19:14:01+00:00",
- "live_tot": 46,
- "senza_xg": 12,
- "matches": []
+ "updated": "2026-10-24T19:43:49+00:00",
+ "live_tot": 45,
+ "senza_xg": 9,
+ "matches": [
+  {
+   "id": 5811790,
+   "lega": "Belgian Pro League",
+   "casa": "Westerlo",
+   "ospite": "SK Beveren",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    2,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5811790",
+   "xg": [
+    0.69,
+    1.13
+   ],
+   "sot": 6.0,
+   "tiri": 18.0,
+   "corner": 6.0,
+   "p": 0.9735,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.63,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.13,
+   "line": "Over 3.5"
+  }
+ ]
 }

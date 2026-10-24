@@ -4291,5 +4291,29 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "5811790": {
+  "ora": "24/10/2026 21:43",
+  "lega": "Belgian Pro League",
+  "casa": "Westerlo",
+  "ospite": "SK Beveren",
+  "min": 45,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   0.69,
+   1.13
+  ],
+  "sot": 6.0,
+  "tiri": 18.0,
+  "corner": 6.0,
+  "p": 0.9735,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5811790",
+  "finale": null,
+  "esito": null
  }
 }
