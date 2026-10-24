@@ -4418,8 +4418,11 @@
   "min_odd": 1.13,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5103680",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   0
+  ],
+  "esito": "SÌ"
  },
  "5103682": {
   "ora": "24/10/2026 22:36",
@@ -4442,7 +4445,10 @@
   "min_odd": 1.11,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5103682",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "NO"
  }
 }

@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-24T21:04:11+00:00",
- "live_tot": 35,
- "senza_xg": 7,
- "matches": [
-  {
-   "id": 5103680,
-   "lega": "Série A",
-   "casa": "Internacional",
-   "ospite": "Botafogo",
-   "min": 71,
-   "tempo": "71‎’‎",
-   "gol": [
-    3,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5103680",
-   "xg": [
-    2.63,
-    0.39
-   ],
-   "sot": 9.0,
-   "tiri": 21.0,
-   "corner": 10.0,
-   "p": 0.7505,
-   "fair": 1.33,
-   "min_odd": 1.4,
-   "lam": 1.39,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.66,
-   "thr_sot": 5.9,
-   "xm": 2.63,
-   "line": "Over 3.5"
-  }
- ]
+ "updated": "2026-10-24T21:35:18+00:00",
+ "live_tot": 36,
+ "senza_xg": 21,
+ "matches": []
 }
