@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-24T01:28:16+00:00",
- "live_tot": 11,
- "senza_xg": 1,
- "matches": []
+ "updated": "2026-10-24T02:08:46+00:00",
+ "live_tot": 10,
+ "senza_xg": 4,
+ "matches": [
+  {
+   "id": 1000014616,
+   "lega": "Liga MX",
+   "casa": "Necaxa",
+   "ospite": "FC Juárez",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/1000014616",
+   "xg": [
+    1.18,
+    0.37
+   ],
+   "sot": 6.0,
+   "tiri": 16.0,
+   "corner": 4.0,
+   "p": 0.9563,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.13,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.18,
+   "line": "Over 1.5"
+  }
+ ]
 }

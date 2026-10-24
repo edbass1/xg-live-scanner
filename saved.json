@@ -3643,5 +3643,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "1000014616": {
+  "ora": "24/10/2026 04:08",
+  "lega": "Liga MX",
+  "casa": "Necaxa",
+  "ospite": "FC Juárez",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.37
+  ],
+  "sot": 6.0,
+  "tiri": 16.0,
+  "corner": 4.0,
+  "p": 0.9563,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000014616",
+  "finale": null,
+  "esito": null
  }
 }
