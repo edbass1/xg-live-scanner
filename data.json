@@ -1,38 +1,69 @@
 {
- "updated": "2026-10-24T19:43:49+00:00",
- "live_tot": 45,
- "senza_xg": 9,
+ "updated": "2026-10-24T20:05:32+00:00",
+ "live_tot": 39,
+ "senza_xg": 11,
  "matches": [
   {
    "id": 5811790,
    "lega": "Belgian Pro League",
    "casa": "Westerlo",
    "ospite": "SK Beveren",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 58,
+   "tempo": "58‎’‎",
    "gol": [
-    2,
+    3,
     1
    ],
    "url": "https://www.fotmob.com/match/5811790",
    "xg": [
-    0.69,
-    1.13
+    1.53,
+    1.26
    ],
-   "sot": 6.0,
-   "tiri": 18.0,
-   "corner": 6.0,
-   "p": 0.9735,
-   "fair": 1.03,
-   "min_odd": 1.08,
-   "lam": 3.63,
+   "sot": 8.0,
+   "tiri": 22.0,
+   "corner": 8.0,
+   "p": 0.9381,
+   "fair": 1.07,
+   "min_odd": 1.12,
+   "lam": 2.78,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.13,
-   "line": "Over 3.5"
+   "thr_xg": 1.35,
+   "thr_sot": 4.8,
+   "xm": 1.53,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5881706,
+   "lega": "2. Bundesliga",
+   "casa": "1. FC Nürnberg",
+   "ospite": "Kaiserslautern",
+   "min": 76,
+   "tempo": "76‎’‎",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5881706",
+   "xg": [
+    1.86,
+    0.62
+   ],
+   "sot": 10.0,
+   "tiri": 32.0,
+   "corner": 9.0,
+   "p": 0.664,
+   "fair": 1.51,
+   "min_odd": 1.58,
+   "lam": 1.09,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.77,
+   "thr_sot": 6.3,
+   "xm": 1.86,
+   "line": "Over 1.5"
   }
  ]
 }

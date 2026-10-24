@@ -4315,5 +4315,29 @@
   "url": "https://www.fotmob.com/match/5811790",
   "finale": null,
   "esito": null
+ },
+ "5881706": {
+  "ora": "24/10/2026 22:05",
+  "lega": "2. Bundesliga",
+  "casa": "1. FC Nürnberg",
+  "ospite": "Kaiserslautern",
+  "min": 76,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.86,
+   0.62
+  ],
+  "sot": 10.0,
+  "tiri": 32.0,
+  "corner": 9.0,
+  "p": 0.664,
+  "min_odd": 1.58,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5881706",
+  "finale": null,
+  "esito": null
  }
 }
