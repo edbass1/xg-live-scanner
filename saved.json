@@ -4177,5 +4177,53 @@
   "url": "https://www.fotmob.com/match/5804285",
   "finale": null,
   "esito": null
+ },
+ "5811787": {
+  "ora": "24/10/2026 19:44",
+  "lega": "Belgian Pro League",
+  "casa": "OH Leuven",
+  "ospite": "Lommel",
+  "min": 69,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.95,
+   0.77
+  ],
+  "sot": 7.0,
+  "tiri": 24.0,
+  "corner": 9.0,
+  "p": 0.8162,
+  "min_odd": 1.29,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5811787",
+  "finale": null,
+  "esito": null
+ },
+ "5868509": {
+  "ora": "24/10/2026 19:44",
+  "lega": "LaLiga2",
+  "casa": "Girona",
+  "ospite": "Celta Fortuna",
+  "min": 52,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   2.29,
+   0.1
+  ],
+  "sot": 7.0,
+  "tiri": 14.0,
+  "corner": 5.0,
+  "p": 0.9371,
+  "min_odd": 1.12,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5868509",
+  "finale": null,
+  "esito": null
  }
 }

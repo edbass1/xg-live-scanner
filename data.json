@@ -1,69 +1,69 @@
 {
- "updated": "2026-10-24T17:12:34+00:00",
- "live_tot": 94,
- "senza_xg": 32,
+ "updated": "2026-10-24T17:44:47+00:00",
+ "live_tot": 86,
+ "senza_xg": 22,
  "matches": [
   {
-   "id": 5749717,
-   "lega": "Serie A",
-   "casa": "Napoli",
-   "ospite": "Roma",
-   "min": 53,
-   "tempo": "53‎’‎",
+   "id": 5868509,
+   "lega": "LaLiga2",
+   "casa": "Girona",
+   "ospite": "Celta Fortuna",
+   "min": 52,
+   "tempo": "52‎’‎",
    "gol": [
-    2,
+    4,
     0
    ],
-   "url": "https://www.fotmob.com/match/5749717",
+   "url": "https://www.fotmob.com/match/5868509",
    "xg": [
-    1.76,
-    0.71
+    2.29,
+    0.1
    ],
-   "sot": 6.0,
-   "tiri": 21.0,
-   "corner": 4.0,
-   "p": 0.9467,
-   "fair": 1.06,
-   "min_odd": 1.11,
-   "lam": 2.93,
+   "sot": 7.0,
+   "tiri": 14.0,
+   "corner": 5.0,
+   "p": 0.9371,
+   "fair": 1.07,
+   "min_odd": 1.12,
+   "lam": 2.77,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.24,
-   "thr_sot": 4.4,
-   "xm": 1.76,
-   "line": "Over 2.5"
+   "thr_xg": 1.21,
+   "thr_sot": 4.3,
+   "xm": 2.29,
+   "line": "Over 4.5"
   },
   {
-   "id": 5804285,
-   "lega": "Super League",
-   "casa": "FC Zürich",
-   "ospite": "Luzern",
-   "min": 56,
-   "tempo": "56‎’‎",
+   "id": 5811787,
+   "lega": "Belgian Pro League",
+   "casa": "OH Leuven",
+   "ospite": "Lommel",
+   "min": 69,
+   "tempo": "69‎’‎",
    "gol": [
     2,
-    0
+    1
    ],
-   "url": "https://www.fotmob.com/match/5804285",
+   "url": "https://www.fotmob.com/match/5811787",
    "xg": [
-    1.43,
-    0.55
+    1.95,
+    0.77
    ],
-   "sot": 5.0,
-   "tiri": 20.0,
-   "corner": 4.0,
-   "p": 0.863,
-   "fair": 1.16,
-   "min_odd": 1.22,
-   "lam": 1.99,
+   "sot": 7.0,
+   "tiri": 24.0,
+   "corner": 9.0,
+   "p": 0.8162,
+   "fair": 1.23,
+   "min_odd": 1.29,
+   "lam": 1.69,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.31,
-   "thr_sot": 4.7,
-   "xm": 1.43,
-   "line": "Over 2.5"
+   "thr_xg": 1.61,
+   "thr_sot": 5.8,
+   "xm": 1.95,
+   "line": "Over 3.5"
   }
  ]
 }
