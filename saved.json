@@ -3962,8 +3962,11 @@
   "min_odd": 1.08,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5837232",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   4
+  ],
+  "esito": "SÌ"
  },
  "5838012": {
   "ora": "24/10/2026 17:06",
@@ -3986,8 +3989,11 @@
   "min_odd": 1.06,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5838012",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5793956": {
   "ora": "24/10/2026 17:06",
@@ -4010,8 +4016,11 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5793956",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   0
+  ],
+  "esito": "SÌ"
  },
  "5836890": {
   "ora": "24/10/2026 17:06",
@@ -4034,8 +4043,11 @@
   "min_odd": 1.08,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5836890",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5836896": {
   "ora": "24/10/2026 17:06",
@@ -4058,6 +4070,57 @@
   "min_odd": 1.08,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5836896",
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5967111": {
+  "ora": "24/10/2026 18:09",
+  "lega": "Serie B",
+  "casa": "Catanzaro",
+  "ospite": "Ascoli",
+  "min": 45,
+  "gol": [
+   1,
+   4
+  ],
+  "xg": [
+   0.78,
+   1.87
+  ],
+  "sot": 8.0,
+  "tiri": 17.0,
+  "corner": 8.0,
+  "p": 0.9873,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5967111",
+  "finale": null,
+  "esito": null
+ },
+ "5970176": {
+  "ora": "24/10/2026 18:09",
+  "lega": "Saudi Pro League",
+  "casa": "Al Kholood",
+  "ospite": "Al-Ettifaq",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.32,
+   0.33
+  ],
+  "sot": 9.0,
+  "tiri": 16.0,
+  "corner": 4.0,
+  "p": 0.9743,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970176",
   "finale": null,
   "esito": null
  }

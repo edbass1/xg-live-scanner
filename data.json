@@ -1,38 +1,69 @@
 {
- "updated": "2026-10-24T15:40:50+00:00",
- "live_tot": 199,
- "senza_xg": 36,
+ "updated": "2026-10-24T16:09:40+00:00",
+ "live_tot": 99,
+ "senza_xg": 30,
  "matches": [
   {
-   "id": 5793956,
-   "lega": "Premiership",
-   "casa": "Rangers",
-   "ospite": "St. Johnstone",
-   "min": 80,
-   "tempo": "80‎’‎",
+   "id": 5967111,
+   "lega": "Serie B",
+   "casa": "Catanzaro",
+   "ospite": "Ascoli",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    3,
-    0
+    1,
+    4
    ],
-   "url": "https://www.fotmob.com/match/5793956",
+   "url": "https://www.fotmob.com/match/5967111",
    "xg": [
-    4.12,
-    0.54
+    0.78,
+    1.87
    ],
-   "sot": 9.0,
-   "tiri": 26.0,
-   "corner": 16.0,
-   "p": 0.6686,
-   "fair": 1.5,
-   "min_odd": 1.57,
-   "lam": 1.1,
+   "sot": 8.0,
+   "tiri": 17.0,
+   "corner": 8.0,
+   "p": 0.9873,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.37,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.87,
-   "thr_sot": 6.7,
-   "xm": 4.12,
-   "line": "Over 3.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.87,
+   "line": "Over 5.5"
+  },
+  {
+   "id": 5970176,
+   "lega": "Saudi Pro League",
+   "casa": "Al Kholood",
+   "ospite": "Al-Ettifaq",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5970176",
+   "xg": [
+    1.32,
+    0.33
+   ],
+   "sot": 9.0,
+   "tiri": 16.0,
+   "corner": 4.0,
+   "p": 0.9743,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.66,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.32,
+   "line": "Over 1.5"
   }
  ]
 }
