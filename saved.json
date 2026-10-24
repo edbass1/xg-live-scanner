@@ -3881,8 +3881,11 @@
   "min_odd": 1.06,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5881202",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5967110": {
   "ora": "24/10/2026 16:36",
