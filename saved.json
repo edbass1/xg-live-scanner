@@ -4337,6 +4337,105 @@
   "min_odd": 1.58,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5881706",
+  "finale": [
+   0,
+   1
+  ],
+  "esito": "NO"
+ },
+ "5071442": {
+  "ora": "24/10/2026 22:36",
+  "lega": "Major League Soccer",
+  "casa": "Columbus Crew",
+  "ospite": "Toronto FC",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.24,
+   0.48
+  ],
+  "sot": 5.0,
+  "tiri": 13.0,
+  "corner": 2.0,
+  "p": 0.945,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071442",
+  "finale": null,
+  "esito": null
+ },
+ "5781779": {
+  "ora": "24/10/2026 22:36",
+  "lega": "Eredivisie",
+  "casa": "ADO Den Haag",
+  "ospite": "SC Heerenveen",
+  "min": 78,
+  "gol": [
+   2,
+   3
+  ],
+  "xg": [
+   2.52,
+   2.24
+  ],
+  "sot": 11.0,
+  "tiri": 31.0,
+  "corner": 7.0,
+  "p": 0.8297,
+  "min_odd": 1.27,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5781779",
+  "finale": null,
+  "esito": null
+ },
+ "5103680": {
+  "ora": "24/10/2026 22:36",
+  "lega": "Série A",
+  "casa": "Internacional",
+  "ospite": "Botafogo",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.32
+  ],
+  "sot": 6.0,
+  "tiri": 12.0,
+  "corner": 8.0,
+  "p": 0.9309,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5103680",
+  "finale": null,
+  "esito": null
+ },
+ "5103682": {
+  "ora": "24/10/2026 22:36",
+  "lega": "Série A",
+  "casa": "Vitória",
+  "ospite": "Athletico Paranaense",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.45,
+   0.2
+  ],
+  "sot": 4.0,
+  "tiri": 12.0,
+  "corner": 4.0,
+  "p": 0.9464,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103682",
   "finale": null,
   "esito": null
  }

@@ -1,69 +1,131 @@
 {
- "updated": "2026-10-24T20:05:32+00:00",
- "live_tot": 39,
- "senza_xg": 11,
+ "updated": "2026-10-24T20:36:08+00:00",
+ "live_tot": 47,
+ "senza_xg": 5,
  "matches": [
   {
-   "id": 5811790,
-   "lega": "Belgian Pro League",
-   "casa": "Westerlo",
-   "ospite": "SK Beveren",
-   "min": 58,
-   "tempo": "58‎’‎",
+   "id": 5103682,
+   "lega": "Série A",
+   "casa": "Vitória",
+   "ospite": "Athletico Paranaense",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    3,
+    1,
     1
    ],
-   "url": "https://www.fotmob.com/match/5811790",
+   "url": "https://www.fotmob.com/match/5103682",
    "xg": [
-    1.53,
-    1.26
+    1.45,
+    0.2
    ],
-   "sot": 8.0,
-   "tiri": 22.0,
-   "corner": 8.0,
-   "p": 0.9381,
-   "fair": 1.07,
-   "min_odd": 1.12,
-   "lam": 2.78,
+   "sot": 4.0,
+   "tiri": 12.0,
+   "corner": 4.0,
+   "p": 0.9464,
+   "fair": 1.06,
+   "min_odd": 1.11,
+   "lam": 2.93,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.35,
-   "thr_sot": 4.8,
-   "xm": 1.53,
-   "line": "Over 4.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.45,
+   "line": "Over 2.5"
   },
   {
-   "id": 5881706,
-   "lega": "2. Bundesliga",
-   "casa": "1. FC Nürnberg",
-   "ospite": "Kaiserslautern",
-   "min": 76,
-   "tempo": "76‎’‎",
+   "id": 5071442,
+   "lega": "Major League Soccer",
+   "casa": "Columbus Crew",
+   "ospite": "Toronto FC",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    0,
-    1
+    2,
+    0
    ],
-   "url": "https://www.fotmob.com/match/5881706",
+   "url": "https://www.fotmob.com/match/5071442",
    "xg": [
-    1.86,
-    0.62
+    1.24,
+    0.48
    ],
-   "sot": 10.0,
-   "tiri": 32.0,
-   "corner": 9.0,
-   "p": 0.664,
-   "fair": 1.51,
-   "min_odd": 1.58,
-   "lam": 1.09,
+   "sot": 5.0,
+   "tiri": 13.0,
+   "corner": 2.0,
+   "p": 0.945,
+   "fair": 1.06,
+   "min_odd": 1.11,
+   "lam": 2.9,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.77,
-   "thr_sot": 6.3,
-   "xm": 1.86,
-   "line": "Over 1.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.24,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5103680,
+   "lega": "Série A",
+   "casa": "Internacional",
+   "ospite": "Botafogo",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5103680",
+   "xg": [
+    1.18,
+    0.32
+   ],
+   "sot": 6.0,
+   "tiri": 12.0,
+   "corner": 8.0,
+   "p": 0.9309,
+   "fair": 1.07,
+   "min_odd": 1.13,
+   "lam": 2.67,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.18,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5781779,
+   "lega": "Eredivisie",
+   "casa": "ADO Den Haag",
+   "ospite": "SC Heerenveen",
+   "min": 78,
+   "tempo": "78‎’‎",
+   "gol": [
+    2,
+    3
+   ],
+   "url": "https://www.fotmob.com/match/5781779",
+   "xg": [
+    2.52,
+    2.24
+   ],
+   "sot": 11.0,
+   "tiri": 31.0,
+   "corner": 7.0,
+   "p": 0.8297,
+   "fair": 1.21,
+   "min_odd": 1.27,
+   "lam": 1.77,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.82,
+   "thr_sot": 6.5,
+   "xm": 2.52,
+   "line": "Over 5.5"
   }
  ]
 }
