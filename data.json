@@ -1,100 +1,69 @@
 {
- "updated": "2026-10-24T16:46:02+00:00",
- "live_tot": 107,
- "senza_xg": 29,
+ "updated": "2026-10-24T17:12:34+00:00",
+ "live_tot": 94,
+ "senza_xg": 32,
  "matches": [
-  {
-   "id": 5804285,
-   "lega": "Super League",
-   "casa": "FC Zürich",
-   "ospite": "Luzern",
-   "min": 45,
-   "tempo": "45‎’‎",
-   "gol": [
-    1,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5804285",
-   "xg": [
-    1.26,
-    0.55
-   ],
-   "sot": 5.0,
-   "tiri": 17.0,
-   "corner": 4.0,
-   "p": 0.9685,
-   "fair": 1.03,
-   "min_odd": 1.08,
-   "lam": 3.46,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.26,
-   "line": "Over 1.5"
-  },
   {
    "id": 5749717,
    "lega": "Serie A",
    "casa": "Napoli",
    "ospite": "Roma",
-   "min": 45,
-   "tempo": "45‎’‎",
+   "min": 53,
+   "tempo": "53‎’‎",
    "gol": [
-    1,
+    2,
     0
    ],
    "url": "https://www.fotmob.com/match/5749717",
    "xg": [
-    1.24,
-    0.55
+    1.76,
+    0.71
    ],
-   "sot": 5.0,
-   "tiri": 16.0,
-   "corner": 3.0,
-   "p": 0.9673,
-   "fair": 1.03,
-   "min_odd": 1.09,
-   "lam": 3.42,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.24,
-   "line": "Over 1.5"
-  },
-  {
-   "id": 5967111,
-   "lega": "Serie B",
-   "casa": "Catanzaro",
-   "ospite": "Ascoli",
-   "min": 71,
-   "tempo": "71‎’‎",
-   "gol": [
-    1,
-    5
-   ],
-   "url": "https://www.fotmob.com/match/5967111",
-   "xg": [
-    1.35,
-    2.56
-   ],
-   "sot": 12.0,
-   "tiri": 28.0,
-   "corner": 11.0,
-   "p": 0.8502,
-   "fair": 1.18,
-   "min_odd": 1.23,
-   "lam": 1.9,
+   "sot": 6.0,
+   "tiri": 21.0,
+   "corner": 4.0,
+   "p": 0.9467,
+   "fair": 1.06,
+   "min_odd": 1.11,
+   "lam": 2.93,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.66,
-   "thr_sot": 5.9,
-   "xm": 2.56,
-   "line": "Over 6.5"
+   "thr_xg": 1.24,
+   "thr_sot": 4.4,
+   "xm": 1.76,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5804285,
+   "lega": "Super League",
+   "casa": "FC Zürich",
+   "ospite": "Luzern",
+   "min": 56,
+   "tempo": "56‎’‎",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5804285",
+   "xg": [
+    1.43,
+    0.55
+   ],
+   "sot": 5.0,
+   "tiri": 20.0,
+   "corner": 4.0,
+   "p": 0.863,
+   "fair": 1.16,
+   "min_odd": 1.22,
+   "lam": 1.99,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.31,
+   "thr_sot": 4.7,
+   "xm": 1.43,
+   "line": "Over 2.5"
   }
  ]
 }
