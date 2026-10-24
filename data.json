@@ -1,131 +1,38 @@
 {
- "updated": "2026-10-24T20:36:08+00:00",
- "live_tot": 47,
- "senza_xg": 5,
+ "updated": "2026-10-24T21:04:11+00:00",
+ "live_tot": 35,
+ "senza_xg": 7,
  "matches": [
-  {
-   "id": 5103682,
-   "lega": "Série A",
-   "casa": "Vitória",
-   "ospite": "Athletico Paranaense",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    1,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5103682",
-   "xg": [
-    1.45,
-    0.2
-   ],
-   "sot": 4.0,
-   "tiri": 12.0,
-   "corner": 4.0,
-   "p": 0.9464,
-   "fair": 1.06,
-   "min_odd": 1.11,
-   "lam": 2.93,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.45,
-   "line": "Over 2.5"
-  },
-  {
-   "id": 5071442,
-   "lega": "Major League Soccer",
-   "casa": "Columbus Crew",
-   "ospite": "Toronto FC",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    2,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5071442",
-   "xg": [
-    1.24,
-    0.48
-   ],
-   "sot": 5.0,
-   "tiri": 13.0,
-   "corner": 2.0,
-   "p": 0.945,
-   "fair": 1.06,
-   "min_odd": 1.11,
-   "lam": 2.9,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.24,
-   "line": "Over 2.5"
-  },
   {
    "id": 5103680,
    "lega": "Série A",
    "casa": "Internacional",
    "ospite": "Botafogo",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 71,
+   "tempo": "71‎’‎",
    "gol": [
-    2,
+    3,
     0
    ],
    "url": "https://www.fotmob.com/match/5103680",
    "xg": [
-    1.18,
-    0.32
+    2.63,
+    0.39
    ],
-   "sot": 6.0,
-   "tiri": 12.0,
-   "corner": 8.0,
-   "p": 0.9309,
-   "fair": 1.07,
-   "min_odd": 1.13,
-   "lam": 2.67,
+   "sot": 9.0,
+   "tiri": 21.0,
+   "corner": 10.0,
+   "p": 0.7505,
+   "fair": 1.33,
+   "min_odd": 1.4,
+   "lam": 1.39,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.18,
-   "line": "Over 2.5"
-  },
-  {
-   "id": 5781779,
-   "lega": "Eredivisie",
-   "casa": "ADO Den Haag",
-   "ospite": "SC Heerenveen",
-   "min": 78,
-   "tempo": "78‎’‎",
-   "gol": [
-    2,
-    3
-   ],
-   "url": "https://www.fotmob.com/match/5781779",
-   "xg": [
-    2.52,
-    2.24
-   ],
-   "sot": 11.0,
-   "tiri": 31.0,
-   "corner": 7.0,
-   "p": 0.8297,
-   "fair": 1.21,
-   "min_odd": 1.27,
-   "lam": 1.77,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.82,
-   "thr_sot": 6.5,
-   "xm": 2.52,
-   "line": "Over 5.5"
+   "thr_xg": 1.66,
+   "thr_sot": 5.9,
+   "xm": 2.63,
+   "line": "Over 3.5"
   }
  ]
 }
