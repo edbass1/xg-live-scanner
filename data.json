@@ -1,69 +1,100 @@
 {
- "updated": "2026-10-24T14:04:43+00:00",
- "live_tot": 223,
- "senza_xg": 49,
+ "updated": "2026-10-24T14:36:52+00:00",
+ "live_tot": 224,
+ "senza_xg": 44,
  "matches": [
   {
-   "id": 5107631,
-   "lega": "Allsvenskan",
-   "casa": "Häcken",
-   "ospite": "Degerfors",
-   "min": 49,
-   "tempo": "49‎’‎",
+   "id": 5881202,
+   "lega": "Bundesliga",
+   "casa": "Mainz 05",
+   "ospite": "Werder Bremen",
+   "min": 46,
+   "tempo": "46‎’‎",
    "gol": [
-    4,
-    0
+    1,
+    2
    ],
-   "url": "https://www.fotmob.com/match/5107631",
+   "url": "https://www.fotmob.com/match/5881202",
    "xg": [
-    1.57,
-    0.47
+    0.57,
+    1.96
    ],
-   "sot": 6.0,
-   "tiri": 16.0,
-   "corner": 5.0,
-   "p": 0.9287,
-   "fair": 1.08,
-   "min_odd": 1.13,
-   "lam": 2.64,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.14,
-   "thr_sot": 4.1,
-   "xm": 1.57,
-   "line": "Over 4.5"
-  },
-  {
-   "id": 5967115,
-   "lega": "Serie B",
-   "casa": "Modena",
-   "ospite": "Cesena",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    3,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5967115",
-   "xg": [
-    1.16,
-    0.05
-   ],
-   "sot": 4.0,
+   "sot": 9.0,
    "tiri": 14.0,
    "corner": 3.0,
-   "p": 0.8325,
-   "fair": 1.2,
-   "min_odd": 1.26,
-   "lam": 1.79,
+   "p": 0.9946,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 5.21,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 1.96,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5107634,
+   "lega": "Allsvenskan",
+   "casa": "Sirius",
+   "ospite": "AIK",
+   "min": 77,
+   "tempo": "77‎’‎",
+   "gol": [
+    1,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5107634",
+   "xg": [
+    2.05,
+    1.39
+   ],
+   "sot": 8.0,
+   "tiri": 23.0,
+   "corner": 9.0,
+   "p": 0.7279,
+   "fair": 1.37,
+   "min_odd": 1.44,
+   "lam": 1.3,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.16,
+   "thr_xg": 1.8,
+   "thr_sot": 6.4,
+   "xm": 2.05,
    "line": "Over 3.5"
+  },
+  {
+   "id": 5967110,
+   "lega": "Serie B",
+   "casa": "Avellino",
+   "ospite": "Padova",
+   "min": 76,
+   "tempo": "76‎’‎",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5967110",
+   "xg": [
+    1.94,
+    0.8
+   ],
+   "sot": 7.0,
+   "tiri": 31.0,
+   "corner": 11.0,
+   "p": 0.6664,
+   "fair": 1.5,
+   "min_odd": 1.58,
+   "lam": 1.1,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.77,
+   "thr_sot": 6.3,
+   "xm": 1.94,
+   "line": "Over 1.5"
   }
  ]
 }

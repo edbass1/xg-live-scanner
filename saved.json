@@ -3850,5 +3850,77 @@
   "url": "https://www.fotmob.com/match/5107631",
   "finale": null,
   "esito": null
+ },
+ "5881202": {
+  "ora": "24/10/2026 16:36",
+  "lega": "Bundesliga",
+  "casa": "Mainz 05",
+  "ospite": "Werder Bremen",
+  "min": 46,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.57,
+   1.96
+  ],
+  "sot": 9.0,
+  "tiri": 14.0,
+  "corner": 3.0,
+  "p": 0.9946,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5881202",
+  "finale": null,
+  "esito": null
+ },
+ "5967110": {
+  "ora": "24/10/2026 16:36",
+  "lega": "Serie B",
+  "casa": "Avellino",
+  "ospite": "Padova",
+  "min": 76,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.94,
+   0.8
+  ],
+  "sot": 7.0,
+  "tiri": 31.0,
+  "corner": 11.0,
+  "p": 0.6664,
+  "min_odd": 1.58,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5967110",
+  "finale": null,
+  "esito": null
+ },
+ "5107634": {
+  "ora": "24/10/2026 16:36",
+  "lega": "Allsvenskan",
+  "casa": "Sirius",
+  "ospite": "AIK",
+  "min": 77,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   2.05,
+   1.39
+  ],
+  "sot": 8.0,
+  "tiri": 23.0,
+  "corner": 9.0,
+  "p": 0.7279,
+  "min_odd": 1.44,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5107634",
+  "finale": null,
+  "esito": null
  }
 }
