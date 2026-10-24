@@ -4151,8 +4151,11 @@
   "min_odd": 1.09,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5749717",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5804285": {
   "ora": "24/10/2026 18:46",
@@ -4175,8 +4178,11 @@
   "min_odd": 1.08,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5804285",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5811787": {
   "ora": "24/10/2026 19:44",
@@ -4223,6 +4229,54 @@
   "min_odd": 1.12,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5868509",
+  "finale": null,
+  "esito": null
+ },
+ "5781785": {
+  "ora": "24/10/2026 20:07",
+  "lega": "Eredivisie",
+  "casa": "Willem II",
+  "ospite": "Cambuur",
+  "min": 66,
+  "gol": [
+   0,
+   5
+  ],
+  "xg": [
+   0.28,
+   1.66
+  ],
+  "sot": 9.0,
+  "tiri": 22.0,
+  "corner": 11.0,
+  "p": 0.7063,
+  "min_odd": 1.49,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5781785",
+  "finale": null,
+  "esito": null
+ },
+ "5943274": {
+  "ora": "24/10/2026 20:07",
+  "lega": "Super League",
+  "casa": "AEK Athens",
+  "ospite": "Panetolikos",
+  "min": 46,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   1.85,
+   0.07
+  ],
+  "sot": 6.0,
+  "tiri": 15.0,
+  "corner": 8.0,
+  "p": 0.9431,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5943274",
   "finale": null,
   "esito": null
  }
