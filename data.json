@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-24T23:02:13+00:00",
- "live_tot": 10,
- "senza_xg": 2,
- "matches": [
-  {
-   "id": 5190787,
-   "lega": "Série B",
-   "casa": "CRB",
-   "ospite": "Londrina",
-   "min": 72,
-   "tempo": "72‎’‎",
-   "gol": [
-    2,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5190787",
-   "xg": [
-    1.81,
-    1.49
-   ],
-   "sot": 16.0,
-   "tiri": 38.0,
-   "corner": 9.0,
-   "p": 0.8747,
-   "fair": 1.14,
-   "min_odd": 1.2,
-   "lam": 2.08,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.68,
-   "thr_sot": 6.0,
-   "xm": 1.81,
-   "line": "Over 3.5"
-  }
- ]
+ "updated": "2026-10-24T23:29:38+00:00",
+ "live_tot": 4,
+ "senza_xg": 0,
+ "matches": []
 }
