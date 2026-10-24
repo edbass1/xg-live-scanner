@@ -1,100 +1,193 @@
 {
- "updated": "2026-10-24T14:36:52+00:00",
- "live_tot": 224,
- "senza_xg": 44,
+ "updated": "2026-10-24T15:06:51+00:00",
+ "live_tot": 206,
+ "senza_xg": 107,
  "matches": [
   {
-   "id": 5881202,
-   "lega": "Bundesliga",
-   "casa": "Mainz 05",
-   "ospite": "Werder Bremen",
+   "id": 5838012,
+   "lega": "League Two",
+   "casa": "Rotherham United",
+   "ospite": "Shrewsbury Town",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    2,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5838012",
+   "xg": [
+    1.41,
+    0.59
+   ],
+   "sot": 9.0,
+   "tiri": 19.0,
+   "corner": 7.0,
+   "p": 0.9875,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.38,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.41,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5793956,
+   "lega": "Premiership",
+   "casa": "Rangers",
+   "ospite": "St. Johnstone",
    "min": 46,
    "tempo": "46‎’‎",
    "gol": [
     1,
-    2
+    0
    ],
-   "url": "https://www.fotmob.com/match/5881202",
+   "url": "https://www.fotmob.com/match/5793956",
    "xg": [
-    0.57,
-    1.96
+    2.38,
+    0.09
    ],
-   "sot": 9.0,
-   "tiri": 14.0,
-   "corner": 3.0,
-   "p": 0.9946,
-   "fair": 1.01,
-   "min_odd": 1.06,
-   "lam": 5.21,
+   "sot": 4.0,
+   "tiri": 15.0,
+   "corner": 9.0,
+   "p": 0.9849,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 4.19,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
    "thr_xg": 1.07,
    "thr_sot": 3.8,
-   "xm": 1.96,
-   "line": "Over 3.5"
+   "xm": 2.38,
+   "line": "Over 1.5"
   },
   {
-   "id": 5107634,
-   "lega": "Allsvenskan",
-   "casa": "Sirius",
-   "ospite": "AIK",
-   "min": 77,
-   "tempo": "77‎’‎",
+   "id": 5836890,
+   "lega": "Championship",
+   "casa": "Lincoln City",
+   "ospite": "Burnley",
+   "min": 47,
+   "tempo": "47‎’‎",
    "gol": [
     1,
-    2
+    1
    ],
-   "url": "https://www.fotmob.com/match/5107634",
+   "url": "https://www.fotmob.com/match/5836890",
    "xg": [
-    2.05,
-    1.39
+    0.76,
+    1.37
    ],
-   "sot": 8.0,
-   "tiri": 23.0,
-   "corner": 9.0,
-   "p": 0.7279,
-   "fair": 1.37,
-   "min_odd": 1.44,
-   "lam": 1.3,
+   "sot": 5.0,
+   "tiri": 14.0,
+   "corner": 3.0,
+   "p": 0.9717,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.57,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.1,
+   "thr_sot": 3.9,
+   "xm": 1.37,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5837232,
+   "lega": "League One",
+   "casa": "Blackpool",
+   "ospite": "Mansfield Town",
+   "min": 46,
+   "tempo": "46‎’‎",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5837232",
+   "xg": [
+    0.74,
+    1.26
+   ],
+   "sot": 5.0,
+   "tiri": 16.0,
+   "corner": 10.0,
+   "p": 0.9704,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.52,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 1.26,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5836896,
+   "lega": "Championship",
+   "casa": "West Ham United",
+   "ospite": "Southampton",
+   "min": 49,
+   "tempo": "49‎’‎",
+   "gol": [
+    1,
+    3
+   ],
+   "url": "https://www.fotmob.com/match/5836896",
+   "xg": [
+    0.69,
+    1.45
+   ],
+   "sot": 10.0,
+   "tiri": 26.0,
+   "corner": 11.0,
+   "p": 0.9697,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.5,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.8,
-   "thr_sot": 6.4,
-   "xm": 2.05,
-   "line": "Over 3.5"
+   "thr_xg": 1.14,
+   "thr_sot": 4.1,
+   "xm": 1.45,
+   "line": "Over 4.5"
   },
   {
-   "id": 5967110,
-   "lega": "Serie B",
-   "casa": "Avellino",
-   "ospite": "Padova",
+   "id": 5881202,
+   "lega": "Bundesliga",
+   "casa": "Mainz 05",
+   "ospite": "Werder Bremen",
    "min": 76,
    "tempo": "76‎’‎",
    "gol": [
-    0,
-    1
+    2,
+    3
    ],
-   "url": "https://www.fotmob.com/match/5967110",
+   "url": "https://www.fotmob.com/match/5881202",
    "xg": [
-    1.94,
-    0.8
+    0.93,
+    2.38
    ],
-   "sot": 7.0,
-   "tiri": 31.0,
-   "corner": 11.0,
-   "p": 0.6664,
-   "fair": 1.5,
-   "min_odd": 1.58,
-   "lam": 1.1,
+   "sot": 14.0,
+   "tiri": 27.0,
+   "corner": 8.0,
+   "p": 0.787,
+   "fair": 1.27,
+   "min_odd": 1.33,
+   "lam": 1.55,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
    "thr_xg": 1.77,
    "thr_sot": 6.3,
-   "xm": 1.94,
-   "line": "Over 1.5"
+   "xm": 2.38,
+   "line": "Over 5.5"
   }
  ]
 }
