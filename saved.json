@@ -4934,8 +4934,11 @@
   "min_odd": 1.06,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5739535",
-  "finale": null,
-  "esito": null
+  "finale": [
+   5,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5868506": {
   "ora": "25/10/2026 17:32",
@@ -4958,6 +4961,30 @@
   "min_odd": 1.14,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5868506",
+  "finale": null,
+  "esito": null
+ },
+ "5904780": {
+  "ora": "25/10/2026 18:05",
+  "lega": "Super Lig",
+  "casa": "Göztepe",
+  "ospite": "Çorum FK",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.41,
+   0.12
+  ],
+  "sot": 7.0,
+  "tiri": 13.0,
+  "corner": 1.0,
+  "p": 0.9407,
+  "min_odd": 1.12,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5904780",
   "finale": null,
   "esito": null
  }

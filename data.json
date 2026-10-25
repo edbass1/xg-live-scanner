@@ -1,69 +1,38 @@
 {
- "updated": "2026-10-25T16:32:23+00:00",
- "live_tot": 112,
- "senza_xg": 49,
+ "updated": "2026-10-25T17:05:23+00:00",
+ "live_tot": 78,
+ "senza_xg": 27,
  "matches": [
   {
-   "id": 5868506,
-   "lega": "LaLiga2",
-   "casa": "Cádiz",
-   "ospite": "AD Ceuta FC",
-   "min": 56,
-   "tempo": "56‎’‎",
+   "id": 5904780,
+   "lega": "Super Lig",
+   "casa": "Göztepe",
+   "ospite": "Çorum FK",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    1,
-    1
+    2,
+    0
    ],
-   "url": "https://www.fotmob.com/match/5868506",
+   "url": "https://www.fotmob.com/match/5904780",
    "xg": [
-    0.36,
-    1.87
+    1.41,
+    0.12
    ],
-   "sot": 6.0,
-   "tiri": 20.0,
-   "corner": 7.0,
-   "p": 0.9227,
-   "fair": 1.08,
-   "min_odd": 1.14,
-   "lam": 2.56,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.31,
-   "thr_sot": 4.7,
-   "xm": 1.87,
-   "line": "Over 2.5"
-  },
-  {
-   "id": 5739535,
-   "lega": "Superligaen",
-   "casa": "AC Horsens",
-   "ospite": "Sønderjyske",
-   "min": 73,
-   "tempo": "73‎’‎",
-   "gol": [
-    4,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5739535",
-   "xg": [
-    3.33,
-    1.24
-   ],
-   "sot": 11.0,
-   "tiri": 28.0,
-   "corner": 4.0,
-   "p": 0.8511,
-   "fair": 1.18,
-   "min_odd": 1.23,
-   "lam": 1.9,
+   "sot": 7.0,
+   "tiri": 13.0,
+   "corner": 1.0,
+   "p": 0.9407,
+   "fair": 1.06,
+   "min_odd": 1.12,
+   "lam": 2.82,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.7,
-   "thr_sot": 6.1,
-   "xm": 3.33,
-   "line": "Over 5.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.41,
+   "line": "Over 2.5"
   }
  ]
 }
