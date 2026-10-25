@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-25T12:44:12+00:00",
- "live_tot": 76,
- "senza_xg": 13,
- "matches": []
+ "updated": "2026-10-25T13:20:51+00:00",
+ "live_tot": 85,
+ "senza_xg": 22,
+ "matches": [
+  {
+   "id": 1000017764,
+   "lega": "Thai League",
+   "casa": "Uthai Thani FC",
+   "ospite": "Sukhothai FC",
+   "min": 60,
+   "tempo": "60‎’‎",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/1000017764",
+   "xg": [
+    0.72,
+    1.63
+   ],
+   "sot": 8.0,
+   "tiri": 19.0,
+   "corner": 4.0,
+   "p": 0.9072,
+   "fair": 1.1,
+   "min_odd": 1.16,
+   "lam": 2.38,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.4,
+   "thr_sot": 5.0,
+   "xm": 1.63,
+   "line": "Over 2.5"
+  }
+ ]
 }

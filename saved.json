@@ -4691,6 +4691,33 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/1000017762",
+  "finale": [
+   1,
+   4
+  ],
+  "esito": "SÌ"
+ },
+ "1000017764": {
+  "ora": "25/10/2026 14:20",
+  "lega": "Thai League",
+  "casa": "Uthai Thani FC",
+  "ospite": "Sukhothai FC",
+  "min": 60,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.72,
+   1.63
+  ],
+  "sot": 8.0,
+  "tiri": 19.0,
+  "corner": 4.0,
+  "p": 0.9072,
+  "min_odd": 1.16,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000017764",
   "finale": null,
   "esito": null
  }
