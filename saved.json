@@ -5174,6 +5174,57 @@
   "min_odd": 2.04,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5739533",
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5104934": {
+  "ora": "25/10/2026 20:12",
+  "lega": "Eliteserien",
+  "casa": "Molde",
+  "ospite": "Fredrikstad",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   2.05,
+   1.15
+  ],
+  "sot": 8.0,
+  "tiri": 18.0,
+  "corner": 6.0,
+  "p": 0.9971,
+  "min_odd": 1.05,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5104934",
+  "finale": null,
+  "esito": null
+ },
+ "5943278": {
+  "ora": "25/10/2026 20:12",
+  "lega": "Super League",
+  "casa": "OFI Crete",
+  "ospite": "PAOK Thessaloniki",
+  "min": 53,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.28,
+   1.06
+  ],
+  "sot": 6.0,
+  "tiri": 18.0,
+  "corner": 3.0,
+  "p": 0.9579,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5943278",
   "finale": null,
   "esito": null
  }

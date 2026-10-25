@@ -1,69 +1,69 @@
 {
- "updated": "2026-10-25T18:37:54+00:00",
- "live_tot": 42,
- "senza_xg": 12,
+ "updated": "2026-10-25T19:12:51+00:00",
+ "live_tot": 48,
+ "senza_xg": 13,
  "matches": [
   {
-   "id": 5868108,
-   "lega": "LaLiga",
-   "casa": "Real Sociedad",
-   "ospite": "Levante",
-   "min": 49,
-   "tempo": "49‎’‎",
+   "id": 5104934,
+   "lega": "Eliteserien",
+   "casa": "Molde",
+   "ospite": "Fredrikstad",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    2,
+    3,
     1
    ],
-   "url": "https://www.fotmob.com/match/5868108",
+   "url": "https://www.fotmob.com/match/5104934",
    "xg": [
-    1.53,
-    0.35
+    2.05,
+    1.15
    ],
-   "sot": 5.0,
-   "tiri": 15.0,
-   "corner": 3.0,
-   "p": 0.9491,
-   "fair": 1.05,
-   "min_odd": 1.11,
-   "lam": 2.98,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.14,
-   "thr_sot": 4.1,
-   "xm": 1.53,
-   "line": "Over 3.5"
-  },
-  {
-   "id": 5739533,
-   "lega": "Superligaen",
-   "casa": "AGF",
-   "ospite": "Viborg",
-   "min": 78,
-   "tempo": "78‎’‎",
-   "gol": [
-    2,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5739533",
-   "xg": [
-    1.91,
-    0.43
-   ],
-   "sot": 7.0,
-   "tiri": 25.0,
-   "corner": 9.0,
-   "p": 0.5139,
-   "fair": 1.95,
-   "min_odd": 2.04,
-   "lam": 0.72,
+   "sot": 8.0,
+   "tiri": 18.0,
+   "corner": 6.0,
+   "p": 0.9971,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 5.84,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.82,
-   "thr_sot": 6.5,
-   "xm": 1.91,
-   "line": "Over 2.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 2.05,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5943278,
+   "lega": "Super League",
+   "casa": "OFI Crete",
+   "ospite": "PAOK Thessaloniki",
+   "min": 53,
+   "tempo": "53‎’‎",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5943278",
+   "xg": [
+    1.28,
+    1.06
+   ],
+   "sot": 6.0,
+   "tiri": 18.0,
+   "corner": 3.0,
+   "p": 0.9579,
+   "fair": 1.04,
+   "min_odd": 1.1,
+   "lam": 3.17,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.24,
+   "thr_sot": 4.4,
+   "xm": 1.28,
+   "line": "Over 1.5"
   }
  ]
 }
