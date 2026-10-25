@@ -4723,5 +4723,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "1000014201": {
+  "ora": "25/10/2026 23:03",
+  "lega": "Primera A",
+  "casa": "Alianza FC",
+  "ospite": "Internacional de Bogotá",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.17,
+   0.13
+  ],
+  "sot": 5.0,
+  "tiri": 12.0,
+  "corner": 6.0,
+  "p": 0.9221,
+  "min_odd": 1.14,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000014201",
+  "finale": null,
+  "esito": null
  }
 }
