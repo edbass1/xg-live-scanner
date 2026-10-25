@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-24T23:54:26+00:00",
- "live_tot": 0,
- "senza_xg": 0,
- "matches": []
+ "updated": "2026-10-25T00:29:37+00:00",
+ "live_tot": 31,
+ "senza_xg": 15,
+ "matches": [
+  {
+   "id": 1000014618,
+   "lega": "Liga MX",
+   "casa": "León",
+   "ospite": "Toluca",
+   "min": 46,
+   "tempo": "46‎’‎",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/1000014618",
+   "xg": [
+    1.23,
+    1.02
+   ],
+   "sot": 5.0,
+   "tiri": 15.0,
+   "corner": 2.0,
+   "p": 0.9804,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 3.93,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 1.23,
+   "line": "Over 2.5"
+  }
+ ]
 }

@@ -4534,5 +4534,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "1000014618": {
+  "ora": "25/10/2026 02:29",
+  "lega": "Liga MX",
+  "casa": "León",
+  "ospite": "Toluca",
+  "min": 46,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.23,
+   1.02
+  ],
+  "sot": 5.0,
+  "tiri": 15.0,
+  "corner": 2.0,
+  "p": 0.9804,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000014618",
+  "finale": null,
+  "esito": null
  }
 }
