@@ -4718,8 +4718,11 @@
   "min_odd": 1.16,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/1000017764",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5804283": {
   "ora": "25/10/2026 14:54",
@@ -4766,6 +4769,78 @@
   "min_odd": 1.1,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5739532",
+  "finale": null,
+  "esito": null
+ },
+ "5846009": {
+  "ora": "25/10/2026 15:23",
+  "lega": "Bundesliga",
+  "casa": "Sturm Graz",
+  "ospite": "Ried",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.24,
+   0.84
+  ],
+  "sot": 5.0,
+  "tiri": 19.0,
+  "corner": 7.0,
+  "p": 0.9782,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5846009",
+  "finale": null,
+  "esito": null
+ },
+ "5781777": {
+  "ora": "25/10/2026 15:23",
+  "lega": "Eredivisie",
+  "casa": "NEC Nijmegen",
+  "ospite": "FC Groningen",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   1.07,
+   0.96
+  ],
+  "sot": 6.0,
+  "tiri": 17.0,
+  "corner": 6.0,
+  "p": 0.9708,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5781777",
+  "finale": null,
+  "esito": null
+ },
+ "5847209": {
+  "ora": "25/10/2026 15:23",
+  "lega": "Premier League",
+  "casa": "CSKA Moscow",
+  "ospite": "Spartak Moscow",
+  "min": 48,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.25
+  ],
+  "sot": 10.0,
+  "tiri": 20.0,
+  "corner": 4.0,
+  "p": 0.9201,
+  "min_odd": 1.14,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5847209",
   "finale": null,
   "esito": null
  }

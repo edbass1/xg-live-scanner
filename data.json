@@ -1,37 +1,99 @@
 {
- "updated": "2026-10-25T13:54:41+00:00",
- "live_tot": 77,
- "senza_xg": 31,
+ "updated": "2026-10-25T14:23:31+00:00",
+ "live_tot": 92,
+ "senza_xg": 41,
  "matches": [
   {
-   "id": 5804283,
-   "lega": "Super League",
-   "casa": "Thun",
-   "ospite": "Lugano",
+   "id": 5846009,
+   "lega": "Bundesliga",
+   "casa": "Sturm Graz",
+   "ospite": "Ried",
    "min": 45,
    "tempo": "Intervallo",
    "gol": [
     1,
     1
    ],
-   "url": "https://www.fotmob.com/match/5804283",
+   "url": "https://www.fotmob.com/match/5846009",
    "xg": [
-    0.55,
-    1.15
+    1.24,
+    0.84
    ],
-   "sot": 10.0,
-   "tiri": 21.0,
-   "corner": 2.0,
-   "p": 0.9767,
+   "sot": 5.0,
+   "tiri": 19.0,
+   "corner": 7.0,
+   "p": 0.9782,
    "fair": 1.02,
-   "min_odd": 1.08,
-   "lam": 3.76,
+   "min_odd": 1.07,
+   "lam": 3.83,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
    "thr_xg": 1.05,
    "thr_sot": 3.8,
-   "xm": 1.15,
+   "xm": 1.24,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5781777,
+   "lega": "Eredivisie",
+   "casa": "NEC Nijmegen",
+   "ospite": "FC Groningen",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5781777",
+   "xg": [
+    1.07,
+    0.96
+   ],
+   "sot": 6.0,
+   "tiri": 17.0,
+   "corner": 6.0,
+   "p": 0.9708,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.54,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.07,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5847209,
+   "lega": "Premier League",
+   "casa": "CSKA Moscow",
+   "ospite": "Spartak Moscow",
+   "min": 48,
+   "tempo": "48‎’‎",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5847209",
+   "xg": [
+    1.18,
+    0.25
+   ],
+   "sot": 10.0,
+   "tiri": 20.0,
+   "corner": 4.0,
+   "p": 0.9201,
+   "fair": 1.09,
+   "min_odd": 1.14,
+   "lam": 2.53,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.12,
+   "thr_sot": 4.0,
+   "xm": 1.18,
    "line": "Over 2.5"
   },
   {
@@ -39,31 +101,31 @@
    "lega": "Superligaen",
    "casa": "FC Midtjylland",
    "ospite": "Lyngby",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 64,
+   "tempo": "64‎’‎",
    "gol": [
-    2,
+    3,
     1
    ],
    "url": "https://www.fotmob.com/match/5739532",
    "xg": [
-    1.3,
-    0.21
+    2.24,
+    0.46
    ],
-   "sot": 7.0,
-   "tiri": 13.0,
-   "corner": 3.0,
-   "p": 0.9581,
-   "fair": 1.04,
-   "min_odd": 1.1,
-   "lam": 3.17,
+   "sot": 11.0,
+   "tiri": 23.0,
+   "corner": 6.0,
+   "p": 0.8851,
+   "fair": 1.13,
+   "min_odd": 1.19,
+   "lam": 2.16,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.3,
-   "line": "Over 3.5"
+   "thr_xg": 1.49,
+   "thr_sot": 5.3,
+   "xm": 2.24,
+   "line": "Over 4.5"
   }
  ]
 }
