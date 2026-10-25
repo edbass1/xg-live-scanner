@@ -1,38 +1,100 @@
 {
- "updated": "2026-10-25T00:29:37+00:00",
- "live_tot": 31,
- "senza_xg": 15,
+ "updated": "2026-10-25T01:13:07+00:00",
+ "live_tot": 28,
+ "senza_xg": 13,
  "matches": [
   {
-   "id": 1000014618,
-   "lega": "Liga MX",
-   "casa": "León",
-   "ospite": "Toluca",
+   "id": 5071446,
+   "lega": "Major League Soccer",
+   "casa": "Orlando City",
+   "ospite": "New York City FC",
    "min": 46,
    "tempo": "46‎’‎",
    "gol": [
-    1,
+    2,
     1
    ],
-   "url": "https://www.fotmob.com/match/1000014618",
+   "url": "https://www.fotmob.com/match/5071446",
    "xg": [
-    1.23,
-    1.02
+    0.83,
+    1.76
    ],
-   "sot": 5.0,
-   "tiri": 15.0,
-   "corner": 2.0,
-   "p": 0.9804,
-   "fair": 1.02,
-   "min_odd": 1.07,
-   "lam": 3.93,
+   "sot": 8.0,
+   "tiri": 16.0,
+   "corner": 4.0,
+   "p": 0.9944,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 5.18,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
    "thr_xg": 1.07,
    "thr_sot": 3.8,
-   "xm": 1.23,
-   "line": "Over 2.5"
+   "xm": 1.76,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5071441,
+   "lega": "Major League Soccer",
+   "casa": "Atlanta United",
+   "ospite": "Chicago Fire FC",
+   "min": 46,
+   "tempo": "46‎’‎",
+   "gol": [
+    1,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5071441",
+   "xg": [
+    0.54,
+    1.45
+   ],
+   "sot": 7.0,
+   "tiri": 16.0,
+   "corner": 6.0,
+   "p": 0.98,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 3.91,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 1.45,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5103676,
+   "lega": "Série A",
+   "casa": "Santos",
+   "ospite": "Bahia",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5103676",
+   "xg": [
+    0.98,
+    1.07
+   ],
+   "sot": 5.0,
+   "tiri": 16.0,
+   "corner": 11.0,
+   "p": 0.9794,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 3.88,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.07,
+   "line": "Over 1.5"
   }
  ]
 }
