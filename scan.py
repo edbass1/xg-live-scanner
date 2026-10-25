@@ -61,7 +61,7 @@ def main():
                 st = m.get("status") or {}; status[str(m["id"])] = st
                 if m["id"] in seen or not st.get("started") or st.get("finished") or st.get("cancelled"): continue
                 seen.add(m["id"]); mn, lt = minute(st)
-                if mn is None or mn < 45 or mn >= 81 or is_womens_match(lg.get('name'), m): continue
+                if mn is None or mn < 45 or mn >= 71 or is_womens_match(lg.get('name'), m): continue
                 try: a, b = [int(x) for x in st.get("scoreStr", "0 - 0").split(" - ")]
                 except Exception: a = b = 0
                 try:
