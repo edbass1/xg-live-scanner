@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-10-24T03:54:05Z",
+  "generated_utc": "2026-10-25T03:54:43Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
     {
-      "fotmob_id": "1000014616",
-      "match": "Necaxa - FC Juárez",
-      "date_alert": "24/10/2026 04:08",
-      "alert_minute": 45,
+      "fotmob_id": "5071447",
+      "match": "Philadelphia Union - New England Revolution",
+      "date_alert": "25/10/2026 02:49",
+      "alert_minute": 47,
       "score_at_alert": [
-        1,
-        0
+        0,
+        1
       ],
       "final_score": [
         1,
-        1
+        2
       ],
       "target_over_line": 1.5,
       "verified_live_quote": null,
@@ -25,55 +25,18 @@
         "attempts": [
           {
             "status": "no_matching_quote_in_window",
-            "fixture_id": "202207015",
-            "history_points_in_window": 1888,
-            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
-          },
-          {
-            "status": "no_matching_quote_in_window",
-            "fixture_id": "203242308",
-            "history_points_in_window": 0,
+            "fixture_id": "202203329",
+            "history_points_in_window": 808,
             "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
           }
         ]
       }
     },
     {
-      "fotmob_id": "1000019590",
-      "match": "Gimnasia Mendoza - Club Atlético Platense",
-      "date_alert": "24/10/2026 00:21",
-      "alert_minute": 45,
-      "score_at_alert": [
-        1,
-        0
-      ],
-      "final_score": [
-        1,
-        2
-      ],
-      "target_over_line": 1.5,
-      "verified_live_quote": 6.8,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "202426133",
-        "quote": 6.8,
-        "line": 1.5,
-        "quote_side": "Over",
-        "quote_market": "1st Half Goal Line (1-0)",
-        "quote_timestamp_utc": "2026-10-23T22:13:37Z",
-        "seconds_from_alert": -442,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "5795491",
-      "match": "Ipswich Town - Nottingham Forest",
-      "date_alert": "23/10/2026 22:04",
-      "alert_minute": 45,
+      "fotmob_id": "1000014618",
+      "match": "León - Toluca",
+      "date_alert": "25/10/2026 02:29",
+      "alert_minute": 46,
       "score_at_alert": [
         1,
         1
@@ -83,6 +46,37 @@
         1
       ],
       "target_over_line": 2.5,
+      "verified_live_quote": 1.475,
+      "lookup": {
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "202207023",
+        "quote": 1.475,
+        "line": 2.5,
+        "quote_side": "Over",
+        "quote_market": "Goal Line (1-1)",
+        "quote_timestamp_utc": "2026-10-25T00:29:09Z",
+        "seconds_from_alert": 9,
+        "quote_suspended": false,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+      }
+    },
+    {
+      "fotmob_id": "5071441",
+      "match": "Atlanta United - Chicago Fire FC",
+      "date_alert": "25/10/2026 02:13",
+      "alert_minute": 46,
+      "score_at_alert": [
+        1,
+        2
+      ],
+      "final_score": [
+        2,
+        3
+      ],
+      "target_over_line": 3.5,
       "verified_live_quote": null,
       "lookup": {
         "status": "fixture_not_found",
@@ -90,31 +84,34 @@
       }
     },
     {
-      "fotmob_id": "5836887",
-      "match": "Bolton Wanderers - Middlesbrough",
-      "date_alert": "23/10/2026 22:04",
+      "fotmob_id": "5071446",
+      "match": "Orlando City - New York City FC",
+      "date_alert": "25/10/2026 02:13",
       "alert_minute": 46,
       "score_at_alert": [
-        1,
-        3
+        2,
+        1
       ],
       "final_score": [
-        1,
-        5
+        2,
+        2
       ],
-      "target_over_line": 4.5,
-      "verified_live_quote": null,
+      "target_over_line": 3.5,
+      "verified_live_quote": 1.975,
       "lookup": {
-        "status": "no_verified_quote",
-        "reason": "Nessuna quota storica verificabile trovata.",
-        "attempts": [
-          {
-            "status": "no_matching_quote_in_window",
-            "fixture_id": "201647349",
-            "history_points_in_window": 5074,
-            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
-          }
-        ]
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "202203323",
+        "quote": 1.975,
+        "line": 3.5,
+        "quote_side": "Over",
+        "quote_market": "Goal Line (0-1)",
+        "quote_timestamp_utc": "2026-10-25T00:11:26Z",
+        "seconds_from_alert": -93,
+        "quote_suspended": true,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
       }
     }
   ]
