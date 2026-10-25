@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-25T19:43:41+00:00",
- "live_tot": 40,
- "senza_xg": 10,
- "matches": [
-  {
-   "id": 5104934,
-   "lega": "Eliteserien",
-   "casa": "Molde",
-   "ospite": "Fredrikstad",
-   "min": 69,
-   "tempo": "69‎’‎",
-   "gol": [
-    5,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5104934",
-   "xg": [
-    2.44,
-    1.55
-   ],
-   "sot": 12.0,
-   "tiri": 23.0,
-   "corner": 9.0,
-   "p": 0.8866,
-   "fair": 1.13,
-   "min_odd": 1.18,
-   "lam": 2.18,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.61,
-   "thr_sot": 5.8,
-   "xm": 2.44,
-   "line": "Over 6.5"
-  }
- ]
+ "updated": "2026-10-25T20:05:07+00:00",
+ "live_tot": 35,
+ "senza_xg": 18,
+ "matches": []
 }
