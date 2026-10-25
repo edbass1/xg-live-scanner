@@ -4880,8 +4880,11 @@
   "min_odd": 1.05,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5749710",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   4
+  ],
+  "esito": "SÌ"
  },
  "5967116": {
   "ora": "25/10/2026 15:56",
@@ -4904,6 +4907,33 @@
   "min_odd": 1.13,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5967116",
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5739535": {
+  "ora": "25/10/2026 16:59",
+  "lega": "Superligaen",
+  "casa": "AC Horsens",
+  "ospite": "Sønderjyske",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   2.09,
+   0.79
+  ],
+  "sot": 8.0,
+  "tiri": 19.0,
+  "corner": 0.0,
+  "p": 0.9949,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5739535",
   "finale": null,
   "esito": null
  }
