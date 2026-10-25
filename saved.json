@@ -4633,5 +4633,29 @@
   "url": "https://www.fotmob.com/match/5103676",
   "finale": null,
   "esito": null
+ },
+ "5071447": {
+  "ora": "25/10/2026 02:49",
+  "lega": "Major League Soccer",
+  "casa": "Philadelphia Union",
+  "ospite": "New England Revolution",
+  "min": 47,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.78,
+   1.82
+  ],
+  "sot": 16.0,
+  "tiri": 34.0,
+  "corner": 9.0,
+  "p": 0.9997,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071447",
+  "finale": null,
+  "esito": null
  }
 }
