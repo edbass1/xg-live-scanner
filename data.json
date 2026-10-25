@@ -1,68 +1,68 @@
 {
- "updated": "2026-10-25T14:56:49+00:00",
- "live_tot": 67,
- "senza_xg": 26,
+ "updated": "2026-10-25T15:27:36+00:00",
+ "live_tot": 91,
+ "senza_xg": 14,
  "matches": [
   {
    "id": 5749710,
    "lega": "Serie A",
    "casa": "Atalanta",
    "ospite": "Frosinone",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 69,
+   "tempo": "69‎’‎",
    "gol": [
-    3,
-    2
+    4,
+    3
    ],
    "url": "https://www.fotmob.com/match/5749710",
    "xg": [
-    3.0,
-    1.11
+    3.74,
+    1.34
    ],
-   "sot": 8.0,
-   "tiri": 25.0,
-   "corner": 10.0,
-   "p": 0.9998,
-   "fair": 1.0,
-   "min_odd": 1.05,
-   "lam": 8.46,
+   "sot": 12.0,
+   "tiri": 34.0,
+   "corner": 12.0,
+   "p": 0.9694,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.49,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 3.0,
-   "line": "Over 5.5"
+   "thr_xg": 1.61,
+   "thr_sot": 5.8,
+   "xm": 3.74,
+   "line": "Over 7.5"
   },
   {
    "id": 5967116,
    "lega": "Serie B",
    "casa": "Palermo",
    "ospite": "Carrarese",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 69,
+   "tempo": "69‎’‎",
    "gol": [
     1,
     0
    ],
    "url": "https://www.fotmob.com/match/5967116",
    "xg": [
-    1.23,
-    0.23
+    1.64,
+    0.6
    ],
-   "sot": 4.0,
-   "tiri": 19.0,
-   "corner": 9.0,
-   "p": 0.9321,
-   "fair": 1.07,
-   "min_odd": 1.13,
-   "lam": 2.69,
+   "sot": 9.0,
+   "tiri": 28.0,
+   "corner": 10.0,
+   "p": 0.7779,
+   "fair": 1.29,
+   "min_odd": 1.35,
+   "lam": 1.5,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.23,
+   "thr_xg": 1.61,
+   "thr_sot": 5.8,
+   "xm": 1.64,
    "line": "Over 1.5"
   }
  ]
