@@ -4669,5 +4669,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "1000017762": {
+  "ora": "25/10/2026 13:05",
+  "lega": "Thai League",
+  "casa": "Rasisalai United",
+  "ospite": "Ayutthaya United FC",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.39,
+   1.65
+  ],
+  "sot": 7.0,
+  "tiri": 16.0,
+  "corner": 3.0,
+  "p": 0.9849,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000017762",
+  "finale": null,
+  "esito": null
  }
 }
