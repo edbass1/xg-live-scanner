@@ -4936,5 +4936,29 @@
   "url": "https://www.fotmob.com/match/5739535",
   "finale": null,
   "esito": null
+ },
+ "5868506": {
+  "ora": "25/10/2026 17:32",
+  "lega": "LaLiga2",
+  "casa": "Cádiz",
+  "ospite": "AD Ceuta FC",
+  "min": 56,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.36,
+   1.87
+  ],
+  "sot": 6.0,
+  "tiri": 20.0,
+  "corner": 7.0,
+  "p": 0.9227,
+  "min_odd": 1.14,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5868506",
+  "finale": null,
+  "esito": null
  }
 }
