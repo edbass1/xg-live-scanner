@@ -4745,8 +4745,11 @@
   "min_odd": 1.08,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5804283",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5739532": {
   "ora": "25/10/2026 14:54",
@@ -4769,8 +4772,11 @@
   "min_odd": 1.1,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5739532",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5846009": {
   "ora": "25/10/2026 15:23",
@@ -4841,6 +4847,54 @@
   "min_odd": 1.14,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5847209",
+  "finale": null,
+  "esito": null
+ },
+ "5749710": {
+  "ora": "25/10/2026 15:56",
+  "lega": "Serie A",
+  "casa": "Atalanta",
+  "ospite": "Frosinone",
+  "min": 45,
+  "gol": [
+   3,
+   2
+  ],
+  "xg": [
+   3.0,
+   1.11
+  ],
+  "sot": 8.0,
+  "tiri": 25.0,
+  "corner": 10.0,
+  "p": 0.9998,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5749710",
+  "finale": null,
+  "esito": null
+ },
+ "5967116": {
+  "ora": "25/10/2026 15:56",
+  "lega": "Serie B",
+  "casa": "Palermo",
+  "ospite": "Carrarese",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.23,
+   0.23
+  ],
+  "sot": 4.0,
+  "tiri": 19.0,
+  "corner": 9.0,
+  "p": 0.9321,
+  "min_odd": 1.13,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5967116",
   "finale": null,
   "esito": null
  }
