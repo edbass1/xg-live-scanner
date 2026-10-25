@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-25T12:05:04+00:00",
- "live_tot": 73,
- "senza_xg": 32,
- "matches": [
-  {
-   "id": 1000017762,
-   "lega": "Thai League",
-   "casa": "Rasisalai United",
-   "ospite": "Ayutthaya United FC",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    0,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/1000017762",
-   "xg": [
-    0.39,
-    1.65
-   ],
-   "sot": 7.0,
-   "tiri": 16.0,
-   "corner": 3.0,
-   "p": 0.9849,
-   "fair": 1.02,
-   "min_odd": 1.07,
-   "lam": 4.19,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.65,
-   "line": "Over 1.5"
-  }
- ]
+ "updated": "2026-10-25T12:44:12+00:00",
+ "live_tot": 76,
+ "senza_xg": 13,
+ "matches": []
 }
