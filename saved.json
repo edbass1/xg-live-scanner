@@ -4961,8 +4961,11 @@
   "min_odd": 1.14,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5868506",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5904780": {
   "ora": "25/10/2026 18:05",
@@ -4985,6 +4988,126 @@
   "min_odd": 1.12,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5904780",
+  "finale": null,
+  "esito": null
+ },
+ "5881200": {
+  "ora": "25/10/2026 18:36",
+  "lega": "Bundesliga",
+  "casa": "Freiburg",
+  "ospite": "Bayern München",
+  "min": 47,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.34,
+   1.22
+  ],
+  "sot": 5.0,
+  "tiri": 14.0,
+  "corner": 3.0,
+  "p": 0.9109,
+  "min_odd": 1.15,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5881200",
+  "finale": null,
+  "esito": null
+ },
+ "5802968": {
+  "ora": "25/10/2026 18:36",
+  "lega": "Ligue 1",
+  "casa": "Marseille",
+  "ospite": "Le Havre",
+  "min": 65,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   1.55,
+   1.23
+  ],
+  "sot": 7.0,
+  "tiri": 21.0,
+  "corner": 5.0,
+  "p": 0.8158,
+  "min_odd": 1.29,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5802968",
+  "finale": null,
+  "esito": null
+ },
+ "5846007": {
+  "ora": "25/10/2026 18:36",
+  "lega": "Bundesliga",
+  "casa": "LASK",
+  "ospite": "Salzburg",
+  "min": 78,
+  "gol": [
+   1,
+   3
+  ],
+  "xg": [
+   0.77,
+   2.39
+  ],
+  "sot": 10.0,
+  "tiri": 25.0,
+  "corner": 4.0,
+  "p": 0.6445,
+  "min_odd": 1.63,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5846007",
+  "finale": null,
+  "esito": null
+ },
+ "5104933": {
+  "ora": "25/10/2026 18:36",
+  "lega": "Eliteserien",
+  "casa": "Kristiansund",
+  "ospite": "KFUM",
+  "min": 80,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   2.15,
+   1.64
+  ],
+  "sot": 8.0,
+  "tiri": 25.0,
+  "corner": 4.0,
+  "p": 0.6641,
+  "min_odd": 1.58,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5104933",
+  "finale": null,
+  "esito": null
+ },
+ "5104931": {
+  "ora": "25/10/2026 18:36",
+  "lega": "Eliteserien",
+  "casa": "Lillestrøm",
+  "ospite": "Brann",
+  "min": 79,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   2.1,
+   1.22
+  ],
+  "sot": 7.0,
+  "tiri": 22.0,
+  "corner": 8.0,
+  "p": 0.6482,
+  "min_odd": 1.62,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5104931",
   "finale": null,
   "esito": null
  }

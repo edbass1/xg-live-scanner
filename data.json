@@ -1,37 +1,192 @@
 {
- "updated": "2026-10-25T17:05:23+00:00",
- "live_tot": 78,
- "senza_xg": 27,
+ "updated": "2026-10-25T17:36:50+00:00",
+ "live_tot": 67,
+ "senza_xg": 26,
  "matches": [
+  {
+   "id": 5881200,
+   "lega": "Bundesliga",
+   "casa": "Freiburg",
+   "ospite": "Bayern München",
+   "min": 47,
+   "tempo": "47‎’‎",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5881200",
+   "xg": [
+    0.34,
+    1.22
+   ],
+   "sot": 5.0,
+   "tiri": 14.0,
+   "corner": 3.0,
+   "p": 0.9109,
+   "fair": 1.1,
+   "min_odd": 1.15,
+   "lam": 2.42,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.1,
+   "thr_sot": 3.9,
+   "xm": 1.22,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5802968,
+   "lega": "Ligue 1",
+   "casa": "Marseille",
+   "ospite": "Le Havre",
+   "min": 65,
+   "tempo": "65‎’‎",
+   "gol": [
+    4,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5802968",
+   "xg": [
+    1.55,
+    1.23
+   ],
+   "sot": 7.0,
+   "tiri": 21.0,
+   "corner": 5.0,
+   "p": 0.8158,
+   "fair": 1.23,
+   "min_odd": 1.29,
+   "lam": 1.69,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.52,
+   "thr_sot": 5.4,
+   "xm": 1.55,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5104933,
+   "lega": "Eliteserien",
+   "casa": "Kristiansund",
+   "ospite": "KFUM",
+   "min": 80,
+   "tempo": "80‎’‎",
+   "gol": [
+    2,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5104933",
+   "xg": [
+    2.15,
+    1.64
+   ],
+   "sot": 8.0,
+   "tiri": 25.0,
+   "corner": 4.0,
+   "p": 0.6641,
+   "fair": 1.51,
+   "min_odd": 1.58,
+   "lam": 1.09,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.87,
+   "thr_sot": 6.7,
+   "xm": 2.15,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5104931,
+   "lega": "Eliteserien",
+   "casa": "Lillestrøm",
+   "ospite": "Brann",
+   "min": 79,
+   "tempo": "79‎’‎",
+   "gol": [
+    2,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5104931",
+   "xg": [
+    2.1,
+    1.22
+   ],
+   "sot": 7.0,
+   "tiri": 22.0,
+   "corner": 8.0,
+   "p": 0.6482,
+   "fair": 1.54,
+   "min_odd": 1.62,
+   "lam": 1.04,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.84,
+   "thr_sot": 6.6,
+   "xm": 2.1,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5846007,
+   "lega": "Bundesliga",
+   "casa": "LASK",
+   "ospite": "Salzburg",
+   "min": 78,
+   "tempo": "78‎’‎",
+   "gol": [
+    1,
+    3
+   ],
+   "url": "https://www.fotmob.com/match/5846007",
+   "xg": [
+    0.77,
+    2.39
+   ],
+   "sot": 10.0,
+   "tiri": 25.0,
+   "corner": 4.0,
+   "p": 0.6445,
+   "fair": 1.55,
+   "min_odd": 1.63,
+   "lam": 1.03,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.82,
+   "thr_sot": 6.5,
+   "xm": 2.39,
+   "line": "Over 4.5"
+  },
   {
    "id": 5904780,
    "lega": "Super Lig",
    "casa": "Göztepe",
    "ospite": "Çorum FK",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 74,
+   "tempo": "74‎’‎",
    "gol": [
     2,
     0
    ],
    "url": "https://www.fotmob.com/match/5904780",
    "xg": [
-    1.41,
-    0.12
+    1.81,
+    0.4
    ],
    "sot": 7.0,
-   "tiri": 13.0,
-   "corner": 1.0,
-   "p": 0.9407,
-   "fair": 1.06,
-   "min_odd": 1.12,
-   "lam": 2.82,
+   "tiri": 22.0,
+   "corner": 3.0,
+   "p": 0.5971,
+   "fair": 1.67,
+   "min_odd": 1.76,
+   "lam": 0.91,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.41,
+   "thr_xg": 1.73,
+   "thr_sot": 6.2,
+   "xm": 1.81,
    "line": "Over 2.5"
   }
  ]
