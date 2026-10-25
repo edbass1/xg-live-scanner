@@ -1,69 +1,38 @@
 {
- "updated": "2026-10-25T19:12:51+00:00",
- "live_tot": 48,
- "senza_xg": 13,
+ "updated": "2026-10-25T19:43:41+00:00",
+ "live_tot": 40,
+ "senza_xg": 10,
  "matches": [
   {
    "id": 5104934,
    "lega": "Eliteserien",
    "casa": "Molde",
    "ospite": "Fredrikstad",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 69,
+   "tempo": "69‎’‎",
    "gol": [
-    3,
+    5,
     1
    ],
    "url": "https://www.fotmob.com/match/5104934",
    "xg": [
-    2.05,
-    1.15
+    2.44,
+    1.55
    ],
-   "sot": 8.0,
-   "tiri": 18.0,
-   "corner": 6.0,
-   "p": 0.9971,
-   "fair": 1.0,
-   "min_odd": 1.05,
-   "lam": 5.84,
+   "sot": 12.0,
+   "tiri": 23.0,
+   "corner": 9.0,
+   "p": 0.8866,
+   "fair": 1.13,
+   "min_odd": 1.18,
+   "lam": 2.18,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 2.05,
-   "line": "Over 4.5"
-  },
-  {
-   "id": 5943278,
-   "lega": "Super League",
-   "casa": "OFI Crete",
-   "ospite": "PAOK Thessaloniki",
-   "min": 53,
-   "tempo": "53‎’‎",
-   "gol": [
-    1,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5943278",
-   "xg": [
-    1.28,
-    1.06
-   ],
-   "sot": 6.0,
-   "tiri": 18.0,
-   "corner": 3.0,
-   "p": 0.9579,
-   "fair": 1.04,
-   "min_odd": 1.1,
-   "lam": 3.17,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.24,
-   "thr_sot": 4.4,
-   "xm": 1.28,
-   "line": "Over 1.5"
+   "thr_xg": 1.61,
+   "thr_sot": 5.8,
+   "xm": 2.44,
+   "line": "Over 6.5"
   }
  ]
 }
