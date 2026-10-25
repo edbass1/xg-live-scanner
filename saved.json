@@ -215,30 +215,111 @@
   ],
   "esito": "SÌ"
  },
- "5071431": {
-  "ora": "18/10/2026 03:10",
+ "5071441": {
+  "ora": "25/10/2026 02:13",
+  "lega": "Major League Soccer",
+  "casa": "Atlanta United",
+  "ospite": "Chicago Fire FC",
+  "min": 46,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.54,
+   1.45
+  ],
+  "sot": 7,
+  "tiri": 16,
+  "corner": 6,
+  "p": 0.98,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071441",
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5071442": {
+  "ora": "24/10/2026 22:36",
+  "lega": "Major League Soccer",
+  "casa": "Columbus Crew",
+  "ospite": "Toronto FC",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.24,
+   0.48
+  ],
+  "sot": 5,
+  "tiri": 13,
+  "corner": 2,
+  "p": 0.945,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071442",
+  "finale": [
+   4,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5071446": {
+  "ora": "25/10/2026 02:13",
   "lega": "Major League Soccer",
   "casa": "Orlando City",
-  "ospite": "DC United",
-  "min": 71,
+  "ospite": "New York City FC",
+  "min": 46,
   "gol": [
-   3,
+   2,
    1
   ],
   "xg": [
-   1.67,
-   2.32
+   0.83,
+   1.76
   ],
-  "sot": 9,
-  "tiri": 21,
-  "corner": 6,
-  "p": 0.8669,
-  "min_odd": 1.21,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5071431",
+  "sot": 8,
+  "tiri": 16,
+  "corner": 4,
+  "p": 0.9944,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071446",
   "finale": [
-   4,
+   2,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5071447": {
+  "ora": "25/10/2026 02:49",
+  "lega": "Major League Soccer",
+  "casa": "Philadelphia Union",
+  "ospite": "New England Revolution",
+  "min": 47,
+  "gol": [
+   0,
    1
+  ],
+  "xg": [
+   1.78,
+   1.82
+  ],
+  "sot": 16,
+  "tiri": 34,
+  "corner": 9,
+  "p": 0.9997,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071447",
+  "finale": [
+   1,
+   2
   ],
   "esito": "SÌ"
  },
@@ -266,6 +347,33 @@
   "finale": [
    1,
    2
+  ],
+  "esito": "SÌ"
+ },
+ "5100983": {
+  "ora": "23/10/2026 21:33",
+  "lega": "Premier Division",
+  "casa": "Derry City",
+  "ospite": "Dundalk",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.11,
+   0.39
+  ],
+  "sot": 7,
+  "tiri": 17,
+  "corner": 5,
+  "p": 0.9573,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5100983",
+  "finale": [
+   2,
+   1
   ],
   "esito": "SÌ"
  },
@@ -350,6 +458,168 @@
   ],
   "esito": "SÌ"
  },
+ "5103675": {
+  "ora": "25/10/2026 00:34",
+  "lega": "Série A",
+  "casa": "Vasco da Gama",
+  "ospite": "Corinthians",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.05,
+   0.18
+  ],
+  "sot": 6,
+  "tiri": 19,
+  "corner": 2,
+  "p": 0.9209,
+  "min_odd": 1.14,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103675",
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5103676": {
+  "ora": "25/10/2026 02:13",
+  "lega": "Série A",
+  "casa": "Santos",
+  "ospite": "Bahia",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.98,
+   1.07
+  ],
+  "sot": 5,
+  "tiri": 16,
+  "corner": 11,
+  "p": 0.9794,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103676",
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5103677": {
+  "ora": "25/10/2026 00:34",
+  "lega": "Série A",
+  "casa": "Palmeiras",
+  "ospite": "RB Bragantino",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   2.23,
+   0.35
+  ],
+  "sot": 4,
+  "tiri": 21,
+  "corner": 12,
+  "p": 0.9897,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103677",
+  "finale": [
+   2,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "5103680": {
+  "ora": "24/10/2026 22:36",
+  "lega": "Série A",
+  "casa": "Internacional",
+  "ospite": "Botafogo",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.32
+  ],
+  "sot": 6,
+  "tiri": 12,
+  "corner": 8,
+  "p": 0.9309,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5103680",
+  "finale": [
+   3,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "5103682": {
+  "ora": "24/10/2026 22:36",
+  "lega": "Série A",
+  "casa": "Vitória",
+  "ospite": "Athletico Paranaense",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.45,
+   0.2
+  ],
+  "sot": 4,
+  "tiri": 12,
+  "corner": 4,
+  "p": 0.9464,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103682",
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "NO"
+ },
+ "5104934": {
+  "ora": "25/10/2026 20:12",
+  "lega": "Eliteserien",
+  "casa": "Molde",
+  "ospite": "Fredrikstad",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   2.05,
+   1.15
+  ],
+  "sot": 8,
+  "tiri": 18,
+  "corner": 6,
+  "p": 0.9971,
+  "min_odd": 1.05,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5104934",
+  "finale": [
+   5,
+   1
+  ],
+  "esito": "SÌ"
+ },
  "5105027": {
   "ora": "18/10/2026 18:05",
   "lega": "Eliteserien",
@@ -376,33 +646,6 @@
    1
   ],
   "esito": "SÌ"
- },
- "5107622": {
-  "ora": "18/10/2026 18:05",
-  "lega": "Allsvenskan",
-  "casa": "Örgryte",
-  "ospite": "GAIS",
-  "min": 78,
-  "gol": [
-   4,
-   2
-  ],
-  "xg": [
-   2.74,
-   0.7
-  ],
-  "sot": 8,
-  "tiri": 22,
-  "corner": 7,
-  "p": 0.654,
-  "min_odd": 1.61,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5107622",
-  "finale": [
-   4,
-   2
-  ],
-  "esito": "NO"
  },
  "5107625": {
   "ora": "19/10/2026 19:45",
@@ -431,6 +674,60 @@
   ],
   "esito": "NO"
  },
+ "5107631": {
+  "ora": "24/10/2026 16:04",
+  "lega": "Allsvenskan",
+  "casa": "Häcken",
+  "ospite": "Degerfors",
+  "min": 49,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   1.57,
+   0.47
+  ],
+  "sot": 6,
+  "tiri": 16,
+  "corner": 5,
+  "p": 0.9287,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5107631",
+  "finale": [
+   4,
+   0
+  ],
+  "esito": "NO"
+ },
+ "5190787": {
+  "ora": "25/10/2026 00:34",
+  "lega": "Série B",
+  "casa": "CRB",
+  "ospite": "Londrina",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.06,
+   0.22
+  ],
+  "sot": 11,
+  "tiri": 24,
+  "corner": 7,
+  "p": 0.9319,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5190787",
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "SÌ"
+ },
  "5739524": {
   "ora": "18/10/2026 17:08",
   "lega": "Superligaen",
@@ -457,6 +754,60 @@
    1
   ],
   "esito": "NO"
+ },
+ "5739532": {
+  "ora": "25/10/2026 14:54",
+  "lega": "Superligaen",
+  "casa": "FC Midtjylland",
+  "ospite": "Lyngby",
+  "min": 45,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.3,
+   0.21
+  ],
+  "sot": 7,
+  "tiri": 13,
+  "corner": 3,
+  "p": 0.9581,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5739532",
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5739535": {
+  "ora": "25/10/2026 16:59",
+  "lega": "Superligaen",
+  "casa": "AC Horsens",
+  "ospite": "Sønderjyske",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   2.09,
+   0.79
+  ],
+  "sot": 8,
+  "tiri": 19,
+  "corner": 0,
+  "p": 0.9949,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5739535",
+  "finale": [
+   5,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5749704": {
   "ora": "16/10/2026 21:59",
@@ -535,6 +886,60 @@
   "url": "https://www.fotmob.com/match/5749708",
   "finale": [
    0,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5749710": {
+  "ora": "25/10/2026 15:56",
+  "lega": "Serie A",
+  "casa": "Atalanta",
+  "ospite": "Frosinone",
+  "min": 45,
+  "gol": [
+   3,
+   2
+  ],
+  "xg": [
+   3,
+   1.11
+  ],
+  "sot": 8,
+  "tiri": 25,
+  "corner": 10,
+  "p": 0.9998,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5749710",
+  "finale": [
+   4,
+   4
+  ],
+  "esito": "SÌ"
+ },
+ "5749717": {
+  "ora": "24/10/2026 18:46",
+  "lega": "Serie A",
+  "casa": "Napoli",
+  "ospite": "Roma",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.24,
+   0.55
+  ],
+  "sot": 5,
+  "tiri": 16,
+  "corner": 3,
+  "p": 0.9673,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5749717",
+  "finale": [
+   3,
    3
   ],
   "esito": "SÌ"
@@ -647,6 +1052,60 @@
   ],
   "esito": "SÌ"
  },
+ "5781777": {
+  "ora": "25/10/2026 15:23",
+  "lega": "Eredivisie",
+  "casa": "NEC Nijmegen",
+  "ospite": "FC Groningen",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   1.07,
+   0.96
+  ],
+  "sot": 6,
+  "tiri": 17,
+  "corner": 6,
+  "p": 0.9708,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5781777",
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5781785": {
+  "ora": "24/10/2026 20:07",
+  "lega": "Eredivisie",
+  "casa": "Willem II",
+  "ospite": "Cambuur",
+  "min": 66,
+  "gol": [
+   0,
+   5
+  ],
+  "xg": [
+   0.28,
+   1.66
+  ],
+  "sot": 9,
+  "tiri": 22,
+  "corner": 11,
+  "p": 0.7063,
+  "min_odd": 1.49,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5781785",
+  "finale": [
+   1,
+   6
+  ],
+  "esito": "SÌ"
+ },
  "5793947": {
   "ora": "18/10/2026 16:45",
   "lega": "Premiership",
@@ -728,6 +1187,33 @@
   ],
   "esito": "SÌ"
  },
+ "5793956": {
+  "ora": "24/10/2026 17:06",
+  "lega": "Premiership",
+  "casa": "Rangers",
+  "ospite": "St. Johnstone",
+  "min": 46,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   2.38,
+   0.09
+  ],
+  "sot": 4,
+  "tiri": 15,
+  "corner": 9,
+  "p": 0.9849,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5793956",
+  "finale": [
+   4,
+   0
+  ],
+  "esito": "SÌ"
+ },
  "5795475": {
   "ora": "18/10/2026 16:11",
   "lega": "Premier League",
@@ -752,6 +1238,33 @@
   "finale": [
    2,
    0
+  ],
+  "esito": "NO"
+ },
+ "5795491": {
+  "ora": "23/10/2026 22:04",
+  "lega": "Premier League",
+  "casa": "Ipswich Town",
+  "ospite": "Nottingham Forest",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.4,
+   1.39
+  ],
+  "sot": 6,
+  "tiri": 12,
+  "corner": 2,
+  "p": 0.969,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5795491",
+  "finale": [
+   1,
+   1
   ],
   "esito": "NO"
  },
@@ -836,32 +1349,86 @@
   ],
   "esito": "SÌ"
  },
- "5803614": {
-  "ora": "18/10/2026 08:34",
-  "lega": "J. League",
-  "casa": "Fagiano Okayama FC",
-  "ospite": "Vissel Kobe",
-  "min": 73,
+ "5802968": {
+  "ora": "25/10/2026 18:36",
+  "lega": "Ligue 1",
+  "casa": "Marseille",
+  "ospite": "Le Havre",
+  "min": 65,
   "gol": [
-   0,
-   3
+   4,
+   0
   ],
   "xg": [
-   0.82,
-   1.71
+   1.55,
+   1.23
   ],
-  "sot": 11,
-  "tiri": 30,
-  "corner": 12,
-  "p": 0.665,
-  "min_odd": 1.58,
+  "sot": 7,
+  "tiri": 21,
+  "corner": 5,
+  "p": 0.8158,
+  "min_odd": 1.29,
   "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5803614",
+  "url": "https://www.fotmob.com/match/5802968",
   "finale": [
-   0,
+   4,
    3
   ],
-  "esito": "NO"
+  "esito": "SÌ"
+ },
+ "5803292": {
+  "ora": "24/10/2026 15:01",
+  "lega": "Ligue 2",
+  "casa": "Dijon",
+  "ospite": "Rodez",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.05,
+   0.85
+  ],
+  "sot": 6,
+  "tiri": 20,
+  "corner": 7,
+  "p": 0.9746,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5803292",
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5803627": {
+  "ora": "21/10/2026 13:16",
+  "lega": "J. League",
+  "casa": "Yokohama F.Marinos",
+  "ospite": "Tokyo Verdy",
+  "min": 55,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.71,
+   0.63
+  ],
+  "sot": 5,
+  "tiri": 17,
+  "corner": 7,
+  "p": 0.9121,
+  "min_odd": 1.15,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5803627",
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5804006": {
   "ora": "18/10/2026 13:08",
@@ -941,6 +1508,168 @@
   "finale": [
    3,
    2
+  ],
+  "esito": "SÌ"
+ },
+ "5804014": {
+  "ora": "24/10/2026 15:34",
+  "lega": "Ekstraklasa",
+  "casa": "Korona Kielce",
+  "ospite": "GKS Katowice",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   0.47,
+   1.2
+  ],
+  "sot": 6,
+  "tiri": 15,
+  "corner": 8,
+  "p": 0.9551,
+  "min_odd": 1.1,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5804014",
+  "finale": [
+   1,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "5804020": {
+  "ora": "23/10/2026 21:33",
+  "lega": "Ekstraklasa",
+  "casa": "Widzew Łódź",
+  "ospite": "Górnik Zabrze",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.5,
+   1.23
+  ],
+  "sot": 5,
+  "tiri": 19,
+  "corner": 4,
+  "p": 0.9601,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804020",
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "NO"
+ },
+ "5804283": {
+  "ora": "25/10/2026 14:54",
+  "lega": "Super League",
+  "casa": "Thun",
+  "ospite": "Lugano",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.55,
+   1.15
+  ],
+  "sot": 10,
+  "tiri": 21,
+  "corner": 2,
+  "p": 0.9767,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804283",
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5804285": {
+  "ora": "24/10/2026 18:46",
+  "lega": "Super League",
+  "casa": "FC Zürich",
+  "ospite": "Luzern",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.26,
+   0.55
+  ],
+  "sot": 5,
+  "tiri": 17,
+  "corner": 4,
+  "p": 0.9685,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804285",
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5811787": {
+  "ora": "24/10/2026 19:44",
+  "lega": "Belgian Pro League",
+  "casa": "OH Leuven",
+  "ospite": "Lommel",
+  "min": 69,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.95,
+   0.77
+  ],
+  "sot": 7,
+  "tiri": 24,
+  "corner": 9,
+  "p": 0.8162,
+  "min_odd": 1.29,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5811787",
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5811790": {
+  "ora": "24/10/2026 21:43",
+  "lega": "Belgian Pro League",
+  "casa": "Westerlo",
+  "ospite": "SK Beveren",
+  "min": 45,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   0.69,
+   1.13
+  ],
+  "sot": 6,
+  "tiri": 18,
+  "corner": 6,
+  "p": 0.9735,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5811790",
+  "finale": [
+   4,
+   4
   ],
   "esito": "SÌ"
  },
@@ -1160,30 +1889,84 @@
   ],
   "esito": "SÌ"
  },
- "5837207": {
-  "ora": "17/10/2026 17:36",
-  "lega": "League One",
-  "casa": "Barnsley",
-  "ospite": "Cambridge United",
-  "min": 78,
+ "5836887": {
+  "ora": "23/10/2026 22:04",
+  "lega": "Championship",
+  "casa": "Bolton Wanderers",
+  "ospite": "Middlesbrough",
+  "min": 46,
+  "gol": [
+   1,
+   3
+  ],
+  "xg": [
+   0.57,
+   2.86
+  ],
+  "sot": 9,
+  "tiri": 28,
+  "corner": 10,
+  "p": 0.9978,
+  "min_odd": 1.05,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5836887",
+  "finale": [
+   1,
+   5
+  ],
+  "esito": "SÌ"
+ },
+ "5836890": {
+  "ora": "24/10/2026 17:06",
+  "lega": "Championship",
+  "casa": "Lincoln City",
+  "ospite": "Burnley",
+  "min": 47,
   "gol": [
    1,
    1
   ],
   "xg": [
-   2.19,
-   0.32
+   0.76,
+   1.37
   ],
-  "sot": 8,
-  "tiri": 28,
-  "corner": 18,
-  "p": 0.5839,
-  "min_odd": 1.8,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5837207",
+  "sot": 5,
+  "tiri": 14,
+  "corner": 3,
+  "p": 0.9717,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5836890",
   "finale": [
+   4,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5836896": {
+  "ora": "24/10/2026 17:06",
+  "lega": "Championship",
+  "casa": "West Ham United",
+  "ospite": "Southampton",
+  "min": 49,
+  "gol": [
    1,
-   2
+   3
+  ],
+  "xg": [
+   0.69,
+   1.45
+  ],
+  "sot": 10,
+  "tiri": 26,
+  "corner": 11,
+  "p": 0.9697,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5836896",
+  "finale": [
+   2,
+   3
   ],
   "esito": "SÌ"
  },
@@ -1268,33 +2051,6 @@
   ],
   "esito": "SÌ"
  },
- "5837215": {
-  "ora": "17/10/2026 17:36",
-  "lega": "League One",
-  "casa": "Sheffield Wednesday",
-  "ospite": "AFC Wimbledon",
-  "min": 78,
-  "gol": [
-   4,
-   0
-  ],
-  "xg": [
-   1.92,
-   0.26
-  ],
-  "sot": 8,
-  "tiri": 22,
-  "corner": 3,
-  "p": 0.4646,
-  "min_odd": 2.26,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5837215",
-  "finale": [
-   5,
-   0
-  ],
-  "esito": "SÌ"
- },
  "5837217": {
   "ora": "17/10/2026 17:05",
   "lega": "League One",
@@ -1319,6 +2075,87 @@
   "finale": [
    1,
    0
+  ],
+  "esito": "SÌ"
+ },
+ "5837219": {
+  "ora": "20/10/2026 21:57",
+  "lega": "League One",
+  "casa": "AFC Wimbledon",
+  "ospite": "Mansfield Town",
+  "min": 55,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.19,
+   1.54
+  ],
+  "sot": 5,
+  "tiri": 16,
+  "corner": 9,
+  "p": 0.8413,
+  "min_odd": 1.25,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5837219",
+  "finale": [
+   0,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5837221": {
+  "ora": "20/10/2026 21:57",
+  "lega": "League One",
+  "casa": "Bromley",
+  "ospite": "Leicester City",
+  "min": 51,
+  "gol": [
+   0,
+   3
+  ],
+  "xg": [
+   0.13,
+   1.85
+  ],
+  "sot": 9,
+  "tiri": 16,
+  "corner": 4,
+  "p": 0.9246,
+  "min_odd": 1.14,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5837221",
+  "finale": [
+   0,
+   4
+  ],
+  "esito": "SÌ"
+ },
+ "5837232": {
+  "ora": "24/10/2026 17:06",
+  "lega": "League One",
+  "casa": "Blackpool",
+  "ospite": "Mansfield Town",
+  "min": 46,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.74,
+   1.26
+  ],
+  "sot": 5,
+  "tiri": 16,
+  "corner": 10,
+  "p": 0.9704,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5837232",
+  "finale": [
+   1,
+   4
   ],
   "esito": "SÌ"
  },
@@ -1403,30 +2240,84 @@
   ],
   "esito": "SÌ"
  },
- "5845999": {
-  "ora": "17/10/2026 18:33",
-  "lega": "Bundesliga",
-  "casa": "Austria Lustenau",
-  "ospite": "LASK",
-  "min": 78,
+ "5837991": {
+  "ora": "20/10/2026 21:57",
+  "lega": "League Two",
+  "casa": "Barnet",
+  "ospite": "Swindon Town",
+  "min": 53,
   "gol": [
    0,
-   2
+   3
   ],
   "xg": [
-   0.2,
-   2.08
+   2.9,
+   1.35
+  ],
+  "sot": 13,
+  "tiri": 27,
+  "corner": 8,
+  "p": 0.9951,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5837991",
+  "finale": [
+   1,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5837995": {
+  "ora": "20/10/2026 21:57",
+  "lega": "League Two",
+  "casa": "Crawley Town",
+  "ospite": "Shrewsbury Town",
+  "min": 55,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.33,
+   0.98
+  ],
+  "sot": 6,
+  "tiri": 17,
+  "corner": 6,
+  "p": 0.9422,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5837995",
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5838012": {
+  "ora": "24/10/2026 17:06",
+  "lega": "League Two",
+  "casa": "Rotherham United",
+  "ospite": "Shrewsbury Town",
+  "min": 45,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.41,
+   0.59
   ],
   "sot": 9,
-  "tiri": 24,
-  "corner": 14,
-  "p": 0.5266,
-  "min_odd": 1.99,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5845999",
+  "tiri": 19,
+  "corner": 7,
+  "p": 0.9875,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5838012",
   "finale": [
-   0,
-   4
+   3,
+   3
   ],
   "esito": "SÌ"
  },
@@ -1454,6 +2345,33 @@
   "finale": [
    6,
    1
+  ],
+  "esito": "SÌ"
+ },
+ "5846009": {
+  "ora": "25/10/2026 15:23",
+  "lega": "Bundesliga",
+  "casa": "Sturm Graz",
+  "ospite": "Ried",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.24,
+   0.84
+  ],
+  "sot": 5,
+  "tiri": 19,
+  "corner": 7,
+  "p": 0.9782,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5846009",
+  "finale": [
+   2,
+   2
   ],
   "esito": "SÌ"
  },
@@ -1565,6 +2483,33 @@
   ],
   "esito": "SÌ"
  },
+ "5847209": {
+  "ora": "25/10/2026 15:23",
+  "lega": "Premier League",
+  "casa": "CSKA Moscow",
+  "ospite": "Spartak Moscow",
+  "min": 48,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.25
+  ],
+  "sot": 10,
+  "tiri": 20,
+  "corner": 4,
+  "p": 0.9201,
+  "min_odd": 1.14,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5847209",
+  "finale": [
+   2,
+   0
+  ],
+  "esito": "NO"
+ },
  "5868096": {
   "ora": "18/10/2026 19:37",
   "lega": "LaLiga",
@@ -1646,6 +2591,60 @@
   ],
   "esito": "NO"
  },
+ "5868107": {
+  "ora": "24/10/2026 15:01",
+  "lega": "LaLiga",
+  "casa": "Rayo Vallecano",
+  "ospite": "Elche",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   1.13,
+   2.11
+  ],
+  "sot": 10,
+  "tiri": 17,
+  "corner": 1,
+  "p": 0.9981,
+  "min_odd": 1.05,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5868107",
+  "finale": [
+   0,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5868108": {
+  "ora": "25/10/2026 19:37",
+  "lega": "LaLiga",
+  "casa": "Real Sociedad",
+  "ospite": "Levante",
+  "min": 49,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.53,
+   0.35
+  ],
+  "sot": 5,
+  "tiri": 15,
+  "corner": 3,
+  "p": 0.9491,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5868108",
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "NO"
+ },
  "5868495": {
   "ora": "17/10/2026 17:36",
   "lega": "LaLiga2",
@@ -1669,6 +2668,87 @@
   "url": "https://www.fotmob.com/match/5868495",
   "finale": [
    1,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5868506": {
+  "ora": "25/10/2026 17:32",
+  "lega": "LaLiga2",
+  "casa": "Cádiz",
+  "ospite": "AD Ceuta FC",
+  "min": 56,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.36,
+   1.87
+  ],
+  "sot": 6,
+  "tiri": 20,
+  "corner": 7,
+  "p": 0.9227,
+  "min_odd": 1.14,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5868506",
+  "finale": [
+   3,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5868508": {
+  "ora": "24/10/2026 15:01",
+  "lega": "LaLiga2",
+  "casa": "Córdoba",
+  "ospite": "Eibar",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.17,
+   0.63
+  ],
+  "sot": 7,
+  "tiri": 16,
+  "corner": 11,
+  "p": 0.9684,
+  "min_odd": 1.08,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5868508",
+  "finale": [
+   2,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "5868509": {
+  "ora": "24/10/2026 19:44",
+  "lega": "LaLiga2",
+  "casa": "Girona",
+  "ospite": "Celta Fortuna",
+  "min": 52,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   2.29,
+   0.1
+  ],
+  "sot": 7,
+  "tiri": 14,
+  "corner": 5,
+  "p": 0.9371,
+  "min_odd": 1.12,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5868509",
+  "finale": [
+   5,
    1
   ],
   "esito": "SÌ"
@@ -1727,32 +2807,86 @@
   ],
   "esito": "SÌ"
  },
- "5881196": {
-  "ora": "17/10/2026 17:05",
+ "5881200": {
+  "ora": "25/10/2026 18:36",
   "lega": "Bundesliga",
-  "casa": "Werder Bremen",
-  "ospite": "Paderborn",
-  "min": 77,
+  "casa": "Freiburg",
+  "ospite": "Bayern München",
+  "min": 47,
   "gol": [
-   2,
+   0,
    2
   ],
   "xg": [
-   2.33,
-   0.77
+   0.34,
+   1.22
   ],
-  "sot": 11,
-  "tiri": 22,
-  "corner": 6,
-  "p": 0.7105,
-  "min_odd": 1.48,
+  "sot": 5,
+  "tiri": 14,
+  "corner": 3,
+  "p": 0.9109,
+  "min_odd": 1.15,
   "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5881196",
+  "url": "https://www.fotmob.com/match/5881200",
   "finale": [
-   2,
+   1,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5881202": {
+  "ora": "24/10/2026 16:36",
+  "lega": "Bundesliga",
+  "casa": "Mainz 05",
+  "ospite": "Werder Bremen",
+  "min": 46,
+  "gol": [
+   1,
    2
   ],
-  "esito": "NO"
+  "xg": [
+   0.57,
+   1.96
+  ],
+  "sot": 9,
+  "tiri": 14,
+  "corner": 3,
+  "p": 0.9946,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5881202",
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5881205": {
+  "ora": "23/10/2026 21:33",
+  "lega": "Bundesliga",
+  "casa": "VfB Stuttgart",
+  "ospite": "Borussia Mönchengladbach",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.57,
+   1.1
+  ],
+  "sot": 5,
+  "tiri": 18,
+  "corner": 5,
+  "p": 0.9558,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5881205",
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5881698": {
   "ora": "17/10/2026 13:58",
@@ -1862,6 +2996,60 @@
   ],
   "esito": "SÌ"
  },
+ "5904778": {
+  "ora": "23/10/2026 20:10",
+  "lega": "Super Lig",
+  "casa": "Alanyaspor",
+  "ospite": "Kocaelispor",
+  "min": 52,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.05,
+   1.44
+  ],
+  "sot": 5,
+  "tiri": 15,
+  "corner": 7,
+  "p": 0.8422,
+  "min_odd": 1.25,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5904778",
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5904780": {
+  "ora": "25/10/2026 18:05",
+  "lega": "Super Lig",
+  "casa": "Göztepe",
+  "ospite": "Çorum FK",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.41,
+   0.12
+  ],
+  "sot": 7,
+  "tiri": 13,
+  "corner": 1,
+  "p": 0.9407,
+  "min_odd": 1.12,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5904780",
+  "finale": [
+   2,
+   0
+  ],
+  "esito": "NO"
+ },
  "5943271": {
   "ora": "18/10/2026 18:05",
   "lega": "Super League",
@@ -1885,6 +3073,60 @@
   "url": "https://www.fotmob.com/match/5943271",
   "finale": [
    5,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5943274": {
+  "ora": "24/10/2026 20:07",
+  "lega": "Super League",
+  "casa": "AEK Athens",
+  "ospite": "Panetolikos",
+  "min": 46,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   1.85,
+   0.07
+  ],
+  "sot": 6,
+  "tiri": 15,
+  "corner": 8,
+  "p": 0.9431,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5943274",
+  "finale": [
+   5,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "5943278": {
+  "ora": "25/10/2026 20:12",
+  "lega": "Super League",
+  "casa": "OFI Crete",
+  "ospite": "PAOK Thessaloniki",
+  "min": 53,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.28,
+   1.06
+  ],
+  "sot": 6,
+  "tiri": 18,
+  "corner": 3,
+  "p": 0.9579,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5943278",
+  "finale": [
+   2,
    1
   ],
   "esito": "SÌ"
@@ -1997,6 +3239,87 @@
   ],
   "esito": "SÌ"
  },
+ "5967111": {
+  "ora": "24/10/2026 18:09",
+  "lega": "Serie B",
+  "casa": "Catanzaro",
+  "ospite": "Ascoli",
+  "min": 45,
+  "gol": [
+   1,
+   4
+  ],
+  "xg": [
+   0.78,
+   1.87
+  ],
+  "sot": 8,
+  "tiri": 17,
+  "corner": 8,
+  "p": 0.9873,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5967111",
+  "finale": [
+   1,
+   6
+  ],
+  "esito": "SÌ"
+ },
+ "5967115": {
+  "ora": "24/10/2026 16:04",
+  "lega": "Serie B",
+  "casa": "Modena",
+  "ospite": "Cesena",
+  "min": 45,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   1.16,
+   0.05
+  ],
+  "sot": 4,
+  "tiri": 14,
+  "corner": 3,
+  "p": 0.8325,
+  "min_odd": 1.26,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5967115",
+  "finale": [
+   3,
+   0
+  ],
+  "esito": "NO"
+ },
+ "5967116": {
+  "ora": "25/10/2026 15:56",
+  "lega": "Serie B",
+  "casa": "Palermo",
+  "ospite": "Carrarese",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.23,
+   0.23
+  ],
+  "sot": 4,
+  "tiri": 19,
+  "corner": 9,
+  "p": 0.9321,
+  "min_odd": 1.13,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5967116",
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "SÌ"
+ },
  "5970155": {
   "ora": "15/10/2026 16:56",
   "lega": "Saudi Pro League",
@@ -2021,6 +3344,276 @@
   "finale": [
    3,
    2
+  ],
+  "esito": "SÌ"
+ },
+ "5970164": {
+  "ora": "20/10/2026 21:20",
+  "lega": "Saudi Pro League",
+  "casa": "Al-Ettifaq",
+  "ospite": "Al Ittihad",
+  "min": 59,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   1.06,
+   1.54
+  ],
+  "sot": 7,
+  "tiri": 20,
+  "corner": 6,
+  "p": 0.9348,
+  "min_odd": 1.12,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970164",
+  "finale": [
+   1,
+   4
+  ],
+  "esito": "SÌ"
+ },
+ "5970173": {
+  "ora": "22/10/2026 17:47",
+  "lega": "Saudi Pro League",
+  "casa": "Al Fateh FC",
+  "ospite": "Al Shabab",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.86,
+   1.43
+  ],
+  "sot": 7,
+  "tiri": 17,
+  "corner": 7,
+  "p": 0.9907,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970173",
+  "finale": [
+   1,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5970175": {
+  "ora": "23/10/2026 18:25",
+  "lega": "Saudi Pro League",
+  "casa": "Al Ittihad",
+  "ospite": "Al Diriyah",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.16,
+   0.24
+  ],
+  "sot": 5,
+  "tiri": 13,
+  "corner": 6,
+  "p": 0.9348,
+  "min_odd": 1.12,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970175",
+  "finale": [
+   2,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "5970176": {
+  "ora": "24/10/2026 18:09",
+  "lega": "Saudi Pro League",
+  "casa": "Al Kholood",
+  "ospite": "Al-Ettifaq",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.32,
+   0.33
+  ],
+  "sot": 9,
+  "tiri": 16,
+  "corner": 4,
+  "p": 0.9743,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970176",
+  "finale": [
+   0,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5970177": {
+  "ora": "23/10/2026 20:57",
+  "lega": "Saudi Pro League",
+  "casa": "Al Qadsiah",
+  "ospite": "Al Hilal",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.53,
+   2.11
+  ],
+  "sot": 9,
+  "tiri": 22,
+  "corner": 5,
+  "p": 0.996,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5970177",
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5996745": {
+  "ora": "20/10/2026 16:54",
+  "lega": "Premier League",
+  "casa": "Asyut Petroleum",
+  "ospite": "Zamalek SC",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.53,
+   1.05
+  ],
+  "sot": 6,
+  "tiri": 19,
+  "corner": 3,
+  "p": 0.9586,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5996745",
+  "finale": [
+   0,
+   1
+  ],
+  "esito": "NO"
+ },
+ "6106234": {
+  "ora": "20/10/2026 21:57",
+  "lega": "Champions League",
+  "casa": "Paris Saint-Germain",
+  "ospite": "Barcelona",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.58,
+   1.21
+  ],
+  "sot": 12,
+  "tiri": 19,
+  "corner": 2,
+  "p": 0.9984,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106234",
+  "finale": [
+   4,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "6106238": {
+  "ora": "21/10/2026 22:20",
+  "lega": "Champions League - League Stage",
+  "casa": "Bayern München",
+  "ospite": "Arsenal",
+  "min": 62,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.56,
+   0.85
+  ],
+  "sot": 7,
+  "tiri": 18,
+  "corner": 6,
+  "p": 0.8887,
+  "min_odd": 1.18,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106238",
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "6106244": {
+  "ora": "21/10/2026 22:20",
+  "lega": "Champions League - League Stage",
+  "casa": "Real Madrid",
+  "ospite": "RB Leipzig",
+  "min": 61,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   2.69,
+   0.83
+  ],
+  "sot": 12,
+  "tiri": 17,
+  "corner": 5,
+  "p": 0.9633,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106244",
+  "finale": [
+   4,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "6106248": {
+  "ora": "20/10/2026 21:57",
+  "lega": "Champions League",
+  "casa": "Liverpool",
+  "ospite": "Villarreal",
+  "min": 45,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   0.83,
+   1.14
+  ],
+  "sot": 6,
+  "tiri": 16,
+  "corner": 5,
+  "p": 0.9776,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106248",
+  "finale": [
+   4,
+   3
   ],
   "esito": "SÌ"
  },
@@ -2051,6 +3644,60 @@
   ],
   "esito": "SÌ"
  },
+ "6106257": {
+  "ora": "20/10/2026 21:57",
+  "lega": "Champions League",
+  "casa": "Manchester City",
+  "ospite": "AEK Athens",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.3,
+   0.03
+  ],
+  "sot": 4,
+  "tiri": 12,
+  "corner": 5,
+  "p": 0.8863,
+  "min_odd": 1.18,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106257",
+  "finale": [
+   5,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "6106281": {
+  "ora": "21/10/2026 21:51",
+  "lega": "Champions League",
+  "casa": "Sporting CP",
+  "ospite": "LASK",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.06,
+   0.49
+  ],
+  "sot": 5,
+  "tiri": 12,
+  "corner": 6,
+  "p": 0.9456,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106281",
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
+ },
  "6106284": {
   "ora": "14/10/2026 22:09",
   "lega": "Champions League",
@@ -2075,6 +3722,114 @@
   "finale": [
    6,
    0
+  ],
+  "esito": "SÌ"
+ },
+ "6106285": {
+  "ora": "21/10/2026 21:51",
+  "lega": "Champions League",
+  "casa": "Aston Villa",
+  "ospite": "Viking",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.98,
+   0.02
+  ],
+  "sot": 7,
+  "tiri": 15,
+  "corner": 7,
+  "p": 0.9732,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106285",
+  "finale": [
+   3,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "6106297": {
+  "ora": "21/10/2026 21:51",
+  "lega": "Champions League",
+  "casa": "Club Brugge",
+  "ospite": "Lens",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1,
+   1.33
+  ],
+  "sot": 5,
+  "tiri": 15,
+  "corner": 3,
+  "p": 0.9875,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106297",
+  "finale": [
+   3,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "6106300": {
+  "ora": "21/10/2026 22:20",
+  "lega": "Champions League - League Stage",
+  "casa": "Real Betis",
+  "ospite": "Feyenoord",
+  "min": 63,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.69,
+   0.6
+  ],
+  "sot": 9,
+  "tiri": 22,
+  "corner": 3,
+  "p": 0.8794,
+  "min_odd": 1.19,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106300",
+  "finale": [
+   1,
+   0
+  ],
+  "esito": "NO"
+ },
+ "6106320": {
+  "ora": "20/10/2026 21:57",
+  "lega": "Champions League",
+  "casa": "Napoli",
+  "ospite": "Bodø/Glimt",
+  "min": 45,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.21,
+   0.1
+  ],
+  "sot": 7,
+  "tiri": 14,
+  "corner": 2,
+  "p": 0.9385,
+  "min_odd": 1.12,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106320",
+  "finale": [
+   4,
+   3
   ],
   "esito": "SÌ"
  },
@@ -2159,6 +3914,33 @@
   ],
   "esito": "SÌ"
  },
+ "6106422": {
+  "ora": "20/10/2026 19:37",
+  "lega": "Champions League",
+  "casa": "Sabah FK",
+  "ospite": "Borussia Dortmund",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.01,
+   2.27
+  ],
+  "sot": 8,
+  "tiri": 18,
+  "corner": 9,
+  "p": 0.9987,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6106422",
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
+ },
  "6112247": {
   "ora": "15/10/2026 21:53",
   "lega": "Europa League",
@@ -2213,6 +3995,60 @@
   ],
   "esito": "SÌ"
  },
+ "6112289": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Europa League",
+  "casa": "Union St.Gilloise",
+  "ospite": "Hapoel Beer Sheva",
+  "min": 47,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.62,
+   0.53
+  ],
+  "sot": 5,
+  "tiri": 16,
+  "corner": 2,
+  "p": 0.9753,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112289",
+  "finale": [
+   4,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "6112293": {
+  "ora": "22/10/2026 20:05",
+  "lega": "Europa League",
+  "casa": "Dinamo Zagreb",
+  "ospite": "NEC Nijmegen",
+  "min": 61,
+  "gol": [
+   2,
+   3
+  ],
+  "xg": [
+   1.5,
+   0.79
+  ],
+  "sot": 8,
+  "tiri": 17,
+  "corner": 6,
+  "p": 0.8969,
+  "min_odd": 1.17,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112293",
+  "finale": [
+   2,
+   4
+  ],
+  "esito": "SÌ"
+ },
  "6112318": {
   "ora": "15/10/2026 20:00",
   "lega": "Europa League",
@@ -2239,6 +4075,87 @@
    4
   ],
   "esito": "SÌ"
+ },
+ "6112320": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Europa League",
+  "casa": "Lech Poznań",
+  "ospite": "Sunderland",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.13,
+   1.68
+  ],
+  "sot": 10,
+  "tiri": 20,
+  "corner": 4,
+  "p": 0.998,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112320",
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "6112350": {
+  "ora": "22/10/2026 22:01",
+  "lega": "Europa League",
+  "casa": "Hoffenheim",
+  "ospite": "Lyon",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.5
+  ],
+  "sot": 6,
+  "tiri": 16,
+  "corner": 11,
+  "p": 0.9656,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112350",
+  "finale": [
+   3,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "6112370": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Europa League",
+  "casa": "OFI Crete",
+  "ospite": "Bayer Leverkusen",
+  "min": 47,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.11,
+   1.97
+  ],
+  "sot": 10,
+  "tiri": 20,
+  "corner": 6,
+  "p": 0.9762,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112370",
+  "finale": [
+   0,
+   2
+  ],
+  "esito": "NO"
  },
  "6112387": {
   "ora": "15/10/2026 21:53",
@@ -2294,6 +4211,33 @@
   ],
   "esito": "SÌ"
  },
+ "6112406": {
+  "ora": "22/10/2026 22:01",
+  "lega": "Conference League",
+  "casa": "FC Midtjylland",
+  "ospite": "St.Truiden",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.56,
+   1.09
+  ],
+  "sot": 4,
+  "tiri": 17,
+  "corner": 6,
+  "p": 0.9908,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112406",
+  "finale": [
+   0,
+   1
+  ],
+  "esito": "NO"
+ },
  "6112415": {
   "ora": "15/10/2026 20:00",
   "lega": "Conference League",
@@ -2348,6 +4292,33 @@
   ],
   "esito": "SÌ"
  },
+ "6112475": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Conference League",
+  "casa": "Getafe",
+  "ospite": "Lugano",
+  "min": 45,
+  "gol": [
+   1,
+   3
+  ],
+  "xg": [
+   0.32,
+   1.14
+  ],
+  "sot": 7,
+  "tiri": 13,
+  "corner": 8,
+  "p": 0.9332,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112475",
+  "finale": [
+   2,
+   5
+  ],
+  "esito": "SÌ"
+ },
  "6112478": {
   "ora": "15/10/2026 20:00",
   "lega": "Conference League",
@@ -2372,6 +4343,60 @@
   "finale": [
    2,
    4
+  ],
+  "esito": "SÌ"
+ },
+ "6112484": {
+  "ora": "22/10/2026 22:01",
+  "lega": "Conference League",
+  "casa": "Lincoln Red Imps FC",
+  "ospite": "FC Twente",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   0.09,
+   2.37
+  ],
+  "sot": 6,
+  "tiri": 16,
+  "corner": 4,
+  "p": 0.9919,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112484",
+  "finale": [
+   1,
+   4
+  ],
+  "esito": "SÌ"
+ },
+ "6112487": {
+  "ora": "22/10/2026 22:01",
+  "lega": "Conference League",
+  "casa": "Borac Banja Luka",
+  "ospite": "KuPS",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.6,
+   0.46
+  ],
+  "sot": 10,
+  "tiri": 24,
+  "corner": 8,
+  "p": 0.9902,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112487",
+  "finale": [
+   2,
+   0
   ],
   "esito": "SÌ"
  },
@@ -2429,6 +4454,33 @@
   ],
   "esito": "NO"
  },
+ "6112545": {
+  "ora": "22/10/2026 19:33",
+  "lega": "Conference League",
+  "casa": "FK Kauno Žalgiris",
+  "ospite": "Brann",
+  "min": 48,
+  "gol": [
+   1,
+   3
+  ],
+  "xg": [
+   1.01,
+   1.79
+  ],
+  "sot": 6,
+  "tiri": 16,
+  "corner": 3,
+  "p": 0.9845,
+  "min_odd": 1.07,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112545",
+  "finale": [
+   1,
+   4
+  ],
+  "esito": "SÌ"
+ },
  "1000014603": {
   "ora": "18/10/2026 04:12",
   "lega": "Liga MX",
@@ -2455,6 +4507,60 @@
    5
   ],
   "esito": "SÌ"
+ },
+ "1000014616": {
+  "ora": "24/10/2026 04:08",
+  "lega": "Liga MX",
+  "casa": "Necaxa",
+  "ospite": "FC Juárez",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.37
+  ],
+  "sot": 6,
+  "tiri": 16,
+  "corner": 4,
+  "p": 0.9563,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000014616",
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "1000014618": {
+  "ora": "25/10/2026 02:29",
+  "lega": "Liga MX",
+  "casa": "León",
+  "ospite": "Toluca",
+  "min": 46,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.23,
+   1.02
+  ],
+  "sot": 5,
+  "tiri": 15,
+  "corner": 2,
+  "p": 0.9804,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000014618",
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "NO"
  },
  "1000017560": {
   "ora": "17/10/2026 12:04",
@@ -2537,2139 +4643,6 @@
   ],
   "esito": "SÌ"
  },
- "5996745": {
-  "ora": "20/10/2026 16:54",
-  "lega": "Premier League",
-  "casa": "Asyut Petroleum",
-  "ospite": "Zamalek SC",
-  "min": 45,
-  "gol": [
-   0,
-   1
-  ],
-  "xg": [
-   0.53,
-   1.05
-  ],
-  "sot": 6.0,
-  "tiri": 19.0,
-  "corner": 3.0,
-  "p": 0.9586,
-  "min_odd": 1.1,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5996745",
-  "finale": [
-   0,
-   1
-  ],
-  "esito": "NO"
- },
- "6106422": {
-  "ora": "20/10/2026 19:37",
-  "lega": "Champions League",
-  "casa": "Sabah FK",
-  "ospite": "Borussia Dortmund",
-  "min": 45,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   1.01,
-   2.27
-  ],
-  "sot": 8.0,
-  "tiri": 18.0,
-  "corner": 9.0,
-  "p": 0.9987,
-  "min_odd": 1.05,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6106422",
-  "finale": [
-   1,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5970164": {
-  "ora": "20/10/2026 21:20",
-  "lega": "Saudi Pro League",
-  "casa": "Al-Ettifaq",
-  "ospite": "Al Ittihad",
-  "min": 59,
-  "gol": [
-   1,
-   2
-  ],
-  "xg": [
-   1.06,
-   1.54
-  ],
-  "sot": 7.0,
-  "tiri": 20.0,
-  "corner": 6.0,
-  "p": 0.9348,
-  "min_odd": 1.12,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5970164",
-  "finale": [
-   1,
-   4
-  ],
-  "esito": "SÌ"
- },
- "6106248": {
-  "ora": "20/10/2026 21:57",
-  "lega": "Champions League",
-  "casa": "Liverpool",
-  "ospite": "Villarreal",
-  "min": 45,
-  "gol": [
-   2,
-   2
-  ],
-  "xg": [
-   0.83,
-   1.14
-  ],
-  "sot": 6.0,
-  "tiri": 16.0,
-  "corner": 5.0,
-  "p": 0.9776,
-  "min_odd": 1.07,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6106248",
-  "finale": [
-   4,
-   3
-  ],
-  "esito": "SÌ"
- },
- "6106257": {
-  "ora": "20/10/2026 21:57",
-  "lega": "Champions League",
-  "casa": "Manchester City",
-  "ospite": "AEK Athens",
-  "min": 45,
-  "gol": [
-   2,
-   0
-  ],
-  "xg": [
-   1.3,
-   0.03
-  ],
-  "sot": 4.0,
-  "tiri": 12.0,
-  "corner": 5.0,
-  "p": 0.8863,
-  "min_odd": 1.18,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/6106257",
-  "finale": [
-   5,
-   1
-  ],
-  "esito": "SÌ"
- },
- "6106234": {
-  "ora": "20/10/2026 21:57",
-  "lega": "Champions League",
-  "casa": "Paris Saint-Germain",
-  "ospite": "Barcelona",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.58,
-   1.21
-  ],
-  "sot": 12.0,
-  "tiri": 19.0,
-  "corner": 2.0,
-  "p": 0.9984,
-  "min_odd": 1.05,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6106234",
-  "finale": [
-   4,
-   2
-  ],
-  "esito": "SÌ"
- },
- "6106320": {
-  "ora": "20/10/2026 21:57",
-  "lega": "Champions League",
-  "casa": "Napoli",
-  "ospite": "Bodø/Glimt",
-  "min": 45,
-  "gol": [
-   2,
-   1
-  ],
-  "xg": [
-   1.21,
-   0.1
-  ],
-  "sot": 7.0,
-  "tiri": 14.0,
-  "corner": 2.0,
-  "p": 0.9385,
-  "min_odd": 1.12,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6106320",
-  "finale": [
-   4,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5837219": {
-  "ora": "20/10/2026 21:57",
-  "lega": "League One",
-  "casa": "AFC Wimbledon",
-  "ospite": "Mansfield Town",
-  "min": 55,
-  "gol": [
-   0,
-   2
-  ],
-  "xg": [
-   0.19,
-   1.54
-  ],
-  "sot": 5.0,
-  "tiri": 16.0,
-  "corner": 9.0,
-  "p": 0.8413,
-  "min_odd": 1.25,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5837219",
-  "finale": [
-   0,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5837221": {
-  "ora": "20/10/2026 21:57",
-  "lega": "League One",
-  "casa": "Bromley",
-  "ospite": "Leicester City",
-  "min": 51,
-  "gol": [
-   0,
-   3
-  ],
-  "xg": [
-   0.13,
-   1.85
-  ],
-  "sot": 9.0,
-  "tiri": 16.0,
-  "corner": 4.0,
-  "p": 0.9246,
-  "min_odd": 1.14,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5837221",
-  "finale": [
-   0,
-   4
-  ],
-  "esito": "SÌ"
- },
- "5837991": {
-  "ora": "20/10/2026 21:57",
-  "lega": "League Two",
-  "casa": "Barnet",
-  "ospite": "Swindon Town",
-  "min": 53,
-  "gol": [
-   0,
-   3
-  ],
-  "xg": [
-   2.9,
-   1.35
-  ],
-  "sot": 13.0,
-  "tiri": 27.0,
-  "corner": 8.0,
-  "p": 0.9951,
-  "min_odd": 1.06,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5837991",
-  "finale": [
-   1,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5837995": {
-  "ora": "20/10/2026 21:57",
-  "lega": "League Two",
-  "casa": "Crawley Town",
-  "ospite": "Shrewsbury Town",
-  "min": 55,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.33,
-   0.98
-  ],
-  "sot": 6.0,
-  "tiri": 17.0,
-  "corner": 6.0,
-  "p": 0.9422,
-  "min_odd": 1.11,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5837995",
-  "finale": [
-   2,
-   3
-  ],
-  "esito": "SÌ"
- },
- "6106277": {
-  "ora": "20/10/2026 22:31",
-  "lega": "Champions League",
-  "casa": "Roma",
-  "ospite": "Slovan Bratislava",
-  "min": 76,
-  "gol": [
-   4,
-   0
-  ],
-  "xg": [
-   3.06,
-   0.02
-  ],
-  "sot": 9.0,
-  "tiri": 21.0,
-  "corner": 7.0,
-  "p": 0.64,
-  "min_odd": 1.64,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/6106277",
-  "finale": [
-   4,
-   0
-  ],
-  "esito": "NO"
- },
- "5803627": {
-  "ora": "21/10/2026 13:16",
-  "lega": "J. League",
-  "casa": "Yokohama F.Marinos",
-  "ospite": "Tokyo Verdy",
-  "min": 55,
-  "gol": [
-   2,
-   0
-  ],
-  "xg": [
-   1.71,
-   0.63
-  ],
-  "sot": 5.0,
-  "tiri": 17.0,
-  "corner": 7.0,
-  "p": 0.9121,
-  "min_odd": 1.15,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5803627",
-  "finale": [
-   2,
-   2
-  ],
-  "esito": "SÌ"
- },
- "6106285": {
-  "ora": "21/10/2026 21:51",
-  "lega": "Champions League",
-  "casa": "Aston Villa",
-  "ospite": "Viking",
-  "min": 45,
-  "gol": [
-   2,
-   0
-  ],
-  "xg": [
-   1.98,
-   0.02
-  ],
-  "sot": 7.0,
-  "tiri": 15.0,
-  "corner": 7.0,
-  "p": 0.9732,
-  "min_odd": 1.08,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/6106285",
-  "finale": [
-   3,
-   1
-  ],
-  "esito": "SÌ"
- },
- "6106297": {
-  "ora": "21/10/2026 21:51",
-  "lega": "Champions League",
-  "casa": "Club Brugge",
-  "ospite": "Lens",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.0,
-   1.33
-  ],
-  "sot": 5.0,
-  "tiri": 15.0,
-  "corner": 3.0,
-  "p": 0.9875,
-  "min_odd": 1.06,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6106297",
-  "finale": [
-   3,
-   0
-  ],
-  "esito": "SÌ"
- },
- "6106281": {
-  "ora": "21/10/2026 21:51",
-  "lega": "Champions League",
-  "casa": "Sporting CP",
-  "ospite": "LASK",
-  "min": 45,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   1.06,
-   0.49
-  ],
-  "sot": 5.0,
-  "tiri": 12.0,
-  "corner": 6.0,
-  "p": 0.9456,
-  "min_odd": 1.11,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6106281",
-  "finale": [
-   2,
-   3
-  ],
-  "esito": "SÌ"
- },
- "6106300": {
-  "ora": "21/10/2026 22:20",
-  "lega": "Champions League - League Stage",
-  "casa": "Real Betis",
-  "ospite": "Feyenoord",
-  "min": 63,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.69,
-   0.6
-  ],
-  "sot": 9.0,
-  "tiri": 22.0,
-  "corner": 3.0,
-  "p": 0.8794,
-  "min_odd": 1.19,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6106300",
-  "finale": [
-   1,
-   0
-  ],
-  "esito": "NO"
- },
- "6106244": {
-  "ora": "21/10/2026 22:20",
-  "lega": "Champions League - League Stage",
-  "casa": "Real Madrid",
-  "ospite": "RB Leipzig",
-  "min": 61,
-  "gol": [
-   2,
-   0
-  ],
-  "xg": [
-   2.69,
-   0.83
-  ],
-  "sot": 12.0,
-  "tiri": 17.0,
-  "corner": 5.0,
-  "p": 0.9633,
-  "min_odd": 1.09,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/6106244",
-  "finale": [
-   4,
-   1
-  ],
-  "esito": "SÌ"
- },
- "6106238": {
-  "ora": "21/10/2026 22:20",
-  "lega": "Champions League - League Stage",
-  "casa": "Bayern München",
-  "ospite": "Arsenal",
-  "min": 62,
-  "gol": [
-   2,
-   1
-  ],
-  "xg": [
-   1.56,
-   0.85
-  ],
-  "sot": 7.0,
-  "tiri": 18.0,
-  "corner": 6.0,
-  "p": 0.8887,
-  "min_odd": 1.18,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6106238",
-  "finale": [
-   2,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5970173": {
-  "ora": "22/10/2026 17:47",
-  "lega": "Saudi Pro League",
-  "casa": "Al Fateh FC",
-  "ospite": "Al Shabab",
-  "min": 45,
-  "gol": [
-   1,
-   2
-  ],
-  "xg": [
-   0.86,
-   1.43
-  ],
-  "sot": 7.0,
-  "tiri": 17.0,
-  "corner": 7.0,
-  "p": 0.9907,
-  "min_odd": 1.06,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5970173",
-  "finale": [
-   1,
-   3
-  ],
-  "esito": "SÌ"
- },
- "6112320": {
-  "ora": "22/10/2026 19:33",
-  "lega": "Europa League",
-  "casa": "Lech Poznań",
-  "ospite": "Sunderland",
-  "min": 45,
-  "gol": [
-   0,
-   1
-  ],
-  "xg": [
-   1.13,
-   1.68
-  ],
-  "sot": 10.0,
-  "tiri": 20.0,
-  "corner": 4.0,
-  "p": 0.998,
-  "min_odd": 1.05,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6112320",
-  "finale": [
-   1,
-   1
-  ],
-  "esito": "SÌ"
- },
- "6112370": {
-  "ora": "22/10/2026 19:33",
-  "lega": "Europa League",
-  "casa": "OFI Crete",
-  "ospite": "Bayer Leverkusen",
-  "min": 47,
-  "gol": [
-   0,
-   2
-  ],
-  "xg": [
-   0.11,
-   1.97
-  ],
-  "sot": 10.0,
-  "tiri": 20.0,
-  "corner": 6.0,
-  "p": 0.9762,
-  "min_odd": 1.08,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/6112370",
-  "finale": [
-   0,
-   2
-  ],
-  "esito": "NO"
- },
- "6112289": {
-  "ora": "22/10/2026 19:33",
-  "lega": "Europa League",
-  "casa": "Union St.Gilloise",
-  "ospite": "Hapoel Beer Sheva",
-  "min": 47,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.62,
-   0.53
-  ],
-  "sot": 5.0,
-  "tiri": 16.0,
-  "corner": 2.0,
-  "p": 0.9753,
-  "min_odd": 1.08,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6112289",
-  "finale": [
-   4,
-   0
-  ],
-  "esito": "SÌ"
- },
- "6112545": {
-  "ora": "22/10/2026 19:33",
-  "lega": "Conference League",
-  "casa": "FK Kauno Žalgiris",
-  "ospite": "Brann",
-  "min": 48,
-  "gol": [
-   1,
-   3
-  ],
-  "xg": [
-   1.01,
-   1.79
-  ],
-  "sot": 6.0,
-  "tiri": 16.0,
-  "corner": 3.0,
-  "p": 0.9845,
-  "min_odd": 1.07,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/6112545",
-  "finale": [
-   1,
-   4
-  ],
-  "esito": "SÌ"
- },
- "6112475": {
-  "ora": "22/10/2026 19:33",
-  "lega": "Conference League",
-  "casa": "Getafe",
-  "ospite": "Lugano",
-  "min": 45,
-  "gol": [
-   1,
-   3
-  ],
-  "xg": [
-   0.32,
-   1.14
-  ],
-  "sot": 7.0,
-  "tiri": 13.0,
-  "corner": 8.0,
-  "p": 0.9332,
-  "min_odd": 1.13,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/6112475",
-  "finale": [
-   2,
-   5
-  ],
-  "esito": "SÌ"
- },
- "6112293": {
-  "ora": "22/10/2026 20:05",
-  "lega": "Europa League",
-  "casa": "Dinamo Zagreb",
-  "ospite": "NEC Nijmegen",
-  "min": 61,
-  "gol": [
-   2,
-   3
-  ],
-  "xg": [
-   1.5,
-   0.79
-  ],
-  "sot": 8.0,
-  "tiri": 17.0,
-  "corner": 6.0,
-  "p": 0.8969,
-  "min_odd": 1.17,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6112293",
-  "finale": [
-   2,
-   4
-  ],
-  "esito": "SÌ"
- },
- "6112350": {
-  "ora": "22/10/2026 22:01",
-  "lega": "Europa League",
-  "casa": "Hoffenheim",
-  "ospite": "Lyon",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.18,
-   0.5
-  ],
-  "sot": 6.0,
-  "tiri": 16.0,
-  "corner": 11.0,
-  "p": 0.9656,
-  "min_odd": 1.09,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6112350",
-  "finale": [
-   3,
-   0
-  ],
-  "esito": "SÌ"
- },
- "6112487": {
-  "ora": "22/10/2026 22:01",
-  "lega": "Conference League",
-  "casa": "Borac Banja Luka",
-  "ospite": "KuPS",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.6,
-   0.46
-  ],
-  "sot": 10.0,
-  "tiri": 24.0,
-  "corner": 8.0,
-  "p": 0.9902,
-  "min_odd": 1.06,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6112487",
-  "finale": [
-   2,
-   0
-  ],
-  "esito": "SÌ"
- },
- "6112406": {
-  "ora": "22/10/2026 22:01",
-  "lega": "Conference League",
-  "casa": "FC Midtjylland",
-  "ospite": "St.Truiden",
-  "min": 45,
-  "gol": [
-   0,
-   1
-  ],
-  "xg": [
-   1.56,
-   1.09
-  ],
-  "sot": 4.0,
-  "tiri": 17.0,
-  "corner": 6.0,
-  "p": 0.9908,
-  "min_odd": 1.06,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6112406",
-  "finale": [
-   0,
-   1
-  ],
-  "esito": "NO"
- },
- "6112484": {
-  "ora": "22/10/2026 22:01",
-  "lega": "Conference League",
-  "casa": "Lincoln Red Imps FC",
-  "ospite": "FC Twente",
-  "min": 45,
-  "gol": [
-   1,
-   2
-  ],
-  "xg": [
-   0.09,
-   2.37
-  ],
-  "sot": 6.0,
-  "tiri": 16.0,
-  "corner": 4.0,
-  "p": 0.9919,
-  "min_odd": 1.06,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/6112484",
-  "finale": [
-   1,
-   4
-  ],
-  "esito": "SÌ"
- },
- "6112342": {
-  "ora": "22/10/2026 22:35",
-  "lega": "Europa League",
-  "casa": "Omonia Nicosia",
-  "ospite": "Benfica",
-  "min": 75,
-  "gol": [
-   1,
-   2
-  ],
-  "xg": [
-   0.78,
-   1.97
-  ],
-  "sot": 11.0,
-  "tiri": 24.0,
-  "corner": 8.0,
-  "p": 0.7317,
-  "min_odd": 1.44,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/6112342",
-  "finale": [
-   1,
-   4
-  ],
-  "esito": "SÌ"
- },
- "5970175": {
-  "ora": "23/10/2026 18:25",
-  "lega": "Saudi Pro League",
-  "casa": "Al Ittihad",
-  "ospite": "Al Diriyah",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.16,
-   0.24
-  ],
-  "sot": 5.0,
-  "tiri": 13.0,
-  "corner": 6.0,
-  "p": 0.9348,
-  "min_odd": 1.12,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5970175",
-  "finale": [
-   2,
-   0
-  ],
-  "esito": "SÌ"
- },
- "5904778": {
-  "ora": "23/10/2026 20:10",
-  "lega": "Super Lig",
-  "casa": "Alanyaspor",
-  "ospite": "Kocaelispor",
-  "min": 52,
-  "gol": [
-   0,
-   2
-  ],
-  "xg": [
-   0.05,
-   1.44
-  ],
-  "sot": 5.0,
-  "tiri": 15.0,
-  "corner": 7.0,
-  "p": 0.8422,
-  "min_odd": 1.25,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5904778",
-  "finale": [
-   1,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5970177": {
-  "ora": "23/10/2026 20:57",
-  "lega": "Saudi Pro League",
-  "casa": "Al Qadsiah",
-  "ospite": "Al Hilal",
-  "min": 45,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   0.53,
-   2.11
-  ],
-  "sot": 9.0,
-  "tiri": 22.0,
-  "corner": 5.0,
-  "p": 0.996,
-  "min_odd": 1.05,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5970177",
-  "finale": [
-   2,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5881205": {
-  "ora": "23/10/2026 21:33",
-  "lega": "Bundesliga",
-  "casa": "VfB Stuttgart",
-  "ospite": "Borussia Mönchengladbach",
-  "min": 45,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   0.57,
-   1.1
-  ],
-  "sot": 5.0,
-  "tiri": 18.0,
-  "corner": 5.0,
-  "p": 0.9558,
-  "min_odd": 1.1,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5881205",
-  "finale": [
-   2,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5804020": {
-  "ora": "23/10/2026 21:33",
-  "lega": "Ekstraklasa",
-  "casa": "Widzew Łódź",
-  "ospite": "Górnik Zabrze",
-  "min": 45,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   0.5,
-   1.23
-  ],
-  "sot": 5.0,
-  "tiri": 19.0,
-  "corner": 4.0,
-  "p": 0.9601,
-  "min_odd": 1.09,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5804020",
-  "finale": [
-   1,
-   1
-  ],
-  "esito": "NO"
- },
- "5803297": {
-  "ora": "23/10/2026 21:33",
-  "lega": "Ligue 2",
-  "casa": "Sochaux",
-  "ospite": "Annecy FC",
-  "min": 71,
-  "gol": [
-   1,
-   3
-  ],
-  "xg": [
-   0.47,
-   2.13
-  ],
-  "sot": 9.0,
-  "tiri": 20.0,
-  "corner": 11.0,
-  "p": 0.7409,
-  "min_odd": 1.42,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5803297",
-  "finale": [
-   1,
-   3
-  ],
-  "esito": "NO"
- },
- "5100983": {
-  "ora": "23/10/2026 21:33",
-  "lega": "Premier Division",
-  "casa": "Derry City",
-  "ospite": "Dundalk",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.11,
-   0.39
-  ],
-  "sot": 7.0,
-  "tiri": 17.0,
-  "corner": 5.0,
-  "p": 0.9573,
-  "min_odd": 1.1,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5100983",
-  "finale": [
-   2,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5795491": {
-  "ora": "23/10/2026 22:04",
-  "lega": "Premier League",
-  "casa": "Ipswich Town",
-  "ospite": "Nottingham Forest",
-  "min": 45,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   0.4,
-   1.39
-  ],
-  "sot": 6.0,
-  "tiri": 12.0,
-  "corner": 2.0,
-  "p": 0.969,
-  "min_odd": 1.08,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5795491",
-  "finale": [
-   1,
-   1
-  ],
-  "esito": "NO"
- },
- "5836887": {
-  "ora": "23/10/2026 22:04",
-  "lega": "Championship",
-  "casa": "Bolton Wanderers",
-  "ospite": "Middlesbrough",
-  "min": 46,
-  "gol": [
-   1,
-   3
-  ],
-  "xg": [
-   0.57,
-   2.86
-  ],
-  "sot": 9.0,
-  "tiri": 28.0,
-  "corner": 10.0,
-  "p": 0.9978,
-  "min_odd": 1.05,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5836887",
-  "finale": [
-   1,
-   5
-  ],
-  "esito": "SÌ"
- },
- "1000019590": {
-  "ora": "24/10/2026 00:21",
-  "lega": "Liga Profesional",
-  "casa": "Gimnasia Mendoza",
-  "ospite": "Club Atlético Platense",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.18,
-   0.55
-  ],
-  "sot": 5.0,
-  "tiri": 18.0,
-  "corner": 8.0,
-  "p": 0.9636,
-  "min_odd": 1.09,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/1000019590",
-  "finale": [
-   1,
-   2
-  ],
-  "esito": "SÌ"
- },
- "1000014616": {
-  "ora": "24/10/2026 04:08",
-  "lega": "Liga MX",
-  "casa": "Necaxa",
-  "ospite": "FC Juárez",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.18,
-   0.37
-  ],
-  "sot": 6.0,
-  "tiri": 16.0,
-  "corner": 4.0,
-  "p": 0.9563,
-  "min_odd": 1.1,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/1000014616",
-  "finale": [
-   1,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5868107": {
-  "ora": "24/10/2026 15:01",
-  "lega": "LaLiga",
-  "casa": "Rayo Vallecano",
-  "ospite": "Elche",
-  "min": 45,
-  "gol": [
-   0,
-   2
-  ],
-  "xg": [
-   1.13,
-   2.11
-  ],
-  "sot": 10.0,
-  "tiri": 17.0,
-  "corner": 1.0,
-  "p": 0.9981,
-  "min_odd": 1.05,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5868107",
-  "finale": [
-   0,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5868508": {
-  "ora": "24/10/2026 15:01",
-  "lega": "LaLiga2",
-  "casa": "Córdoba",
-  "ospite": "Eibar",
-  "min": 45,
-  "gol": [
-   0,
-   0
-  ],
-  "xg": [
-   1.17,
-   0.63
-  ],
-  "sot": 7.0,
-  "tiri": 16.0,
-  "corner": 11.0,
-  "p": 0.9684,
-  "min_odd": 1.08,
-  "rel": "ALTA",
-  "url": "https://www.fotmob.com/match/5868508",
-  "finale": [
-   2,
-   0
-  ],
-  "esito": "SÌ"
- },
- "5838004": {
-  "ora": "24/10/2026 15:01",
-  "lega": "League Two",
-  "casa": "Bristol Rovers",
-  "ospite": "Swindon Town",
-  "min": 72,
-  "gol": [
-   0,
-   0
-  ],
-  "xg": [
-   1.75,
-   1.71
-  ],
-  "sot": 10.0,
-  "tiri": 27.0,
-  "corner": 5.0,
-  "p": 0.8331,
-  "min_odd": 1.26,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5838004",
-  "finale": [
-   0,
-   0
-  ],
-  "esito": "NO"
- },
- "5803292": {
-  "ora": "24/10/2026 15:01",
-  "lega": "Ligue 2",
-  "casa": "Dijon",
-  "ospite": "Rodez",
-  "min": 45,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   1.05,
-   0.85
-  ],
-  "sot": 6.0,
-  "tiri": 20.0,
-  "corner": 7.0,
-  "p": 0.9746,
-  "min_odd": 1.08,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5803292",
-  "finale": [
-   1,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5804014": {
-  "ora": "24/10/2026 15:34",
-  "lega": "Ekstraklasa",
-  "casa": "Korona Kielce",
-  "ospite": "GKS Katowice",
-  "min": 45,
-  "gol": [
-   0,
-   0
-  ],
-  "xg": [
-   0.47,
-   1.2
-  ],
-  "sot": 6.0,
-  "tiri": 15.0,
-  "corner": 8.0,
-  "p": 0.9551,
-  "min_odd": 1.1,
-  "rel": "ALTA",
-  "url": "https://www.fotmob.com/match/5804014",
-  "finale": [
-   1,
-   0
-  ],
-  "esito": "SÌ"
- },
- "5967115": {
-  "ora": "24/10/2026 16:04",
-  "lega": "Serie B",
-  "casa": "Modena",
-  "ospite": "Cesena",
-  "min": 45,
-  "gol": [
-   3,
-   0
-  ],
-  "xg": [
-   1.16,
-   0.05
-  ],
-  "sot": 4.0,
-  "tiri": 14.0,
-  "corner": 3.0,
-  "p": 0.8325,
-  "min_odd": 1.26,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5967115",
-  "finale": [
-   3,
-   0
-  ],
-  "esito": "NO"
- },
- "5107631": {
-  "ora": "24/10/2026 16:04",
-  "lega": "Allsvenskan",
-  "casa": "Häcken",
-  "ospite": "Degerfors",
-  "min": 49,
-  "gol": [
-   4,
-   0
-  ],
-  "xg": [
-   1.57,
-   0.47
-  ],
-  "sot": 6.0,
-  "tiri": 16.0,
-  "corner": 5.0,
-  "p": 0.9287,
-  "min_odd": 1.13,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5107631",
-  "finale": [
-   4,
-   0
-  ],
-  "esito": "NO"
- },
- "5881202": {
-  "ora": "24/10/2026 16:36",
-  "lega": "Bundesliga",
-  "casa": "Mainz 05",
-  "ospite": "Werder Bremen",
-  "min": 46,
-  "gol": [
-   1,
-   2
-  ],
-  "xg": [
-   0.57,
-   1.96
-  ],
-  "sot": 9.0,
-  "tiri": 14.0,
-  "corner": 3.0,
-  "p": 0.9946,
-  "min_odd": 1.06,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5881202",
-  "finale": [
-   2,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5967110": {
-  "ora": "24/10/2026 16:36",
-  "lega": "Serie B",
-  "casa": "Avellino",
-  "ospite": "Padova",
-  "min": 76,
-  "gol": [
-   0,
-   1
-  ],
-  "xg": [
-   1.94,
-   0.8
-  ],
-  "sot": 7.0,
-  "tiri": 31.0,
-  "corner": 11.0,
-  "p": 0.6664,
-  "min_odd": 1.58,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5967110",
-  "finale": [
-   0,
-   1
-  ],
-  "esito": "NO"
- },
- "5107634": {
-  "ora": "24/10/2026 16:36",
-  "lega": "Allsvenskan",
-  "casa": "Sirius",
-  "ospite": "AIK",
-  "min": 77,
-  "gol": [
-   1,
-   2
-  ],
-  "xg": [
-   2.05,
-   1.39
-  ],
-  "sot": 8.0,
-  "tiri": 23.0,
-  "corner": 9.0,
-  "p": 0.7279,
-  "min_odd": 1.44,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5107634",
-  "finale": [
-   1,
-   2
-  ],
-  "esito": "NO"
- },
- "5837232": {
-  "ora": "24/10/2026 17:06",
-  "lega": "League One",
-  "casa": "Blackpool",
-  "ospite": "Mansfield Town",
-  "min": 46,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   0.74,
-   1.26
-  ],
-  "sot": 5.0,
-  "tiri": 16.0,
-  "corner": 10.0,
-  "p": 0.9704,
-  "min_odd": 1.08,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5837232",
-  "finale": [
-   1,
-   4
-  ],
-  "esito": "SÌ"
- },
- "5838012": {
-  "ora": "24/10/2026 17:06",
-  "lega": "League Two",
-  "casa": "Rotherham United",
-  "ospite": "Shrewsbury Town",
-  "min": 45,
-  "gol": [
-   2,
-   1
-  ],
-  "xg": [
-   1.41,
-   0.59
-  ],
-  "sot": 9.0,
-  "tiri": 19.0,
-  "corner": 7.0,
-  "p": 0.9875,
-  "min_odd": 1.06,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5838012",
-  "finale": [
-   3,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5793956": {
-  "ora": "24/10/2026 17:06",
-  "lega": "Premiership",
-  "casa": "Rangers",
-  "ospite": "St. Johnstone",
-  "min": 46,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   2.38,
-   0.09
-  ],
-  "sot": 4.0,
-  "tiri": 15.0,
-  "corner": 9.0,
-  "p": 0.9849,
-  "min_odd": 1.07,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5793956",
-  "finale": [
-   4,
-   0
-  ],
-  "esito": "SÌ"
- },
- "5836890": {
-  "ora": "24/10/2026 17:06",
-  "lega": "Championship",
-  "casa": "Lincoln City",
-  "ospite": "Burnley",
-  "min": 47,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   0.76,
-   1.37
-  ],
-  "sot": 5.0,
-  "tiri": 14.0,
-  "corner": 3.0,
-  "p": 0.9717,
-  "min_odd": 1.08,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5836890",
-  "finale": [
-   4,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5836896": {
-  "ora": "24/10/2026 17:06",
-  "lega": "Championship",
-  "casa": "West Ham United",
-  "ospite": "Southampton",
-  "min": 49,
-  "gol": [
-   1,
-   3
-  ],
-  "xg": [
-   0.69,
-   1.45
-  ],
-  "sot": 10.0,
-  "tiri": 26.0,
-  "corner": 11.0,
-  "p": 0.9697,
-  "min_odd": 1.08,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5836896",
-  "finale": [
-   2,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5967111": {
-  "ora": "24/10/2026 18:09",
-  "lega": "Serie B",
-  "casa": "Catanzaro",
-  "ospite": "Ascoli",
-  "min": 45,
-  "gol": [
-   1,
-   4
-  ],
-  "xg": [
-   0.78,
-   1.87
-  ],
-  "sot": 8.0,
-  "tiri": 17.0,
-  "corner": 8.0,
-  "p": 0.9873,
-  "min_odd": 1.06,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5967111",
-  "finale": [
-   1,
-   6
-  ],
-  "esito": "SÌ"
- },
- "5970176": {
-  "ora": "24/10/2026 18:09",
-  "lega": "Saudi Pro League",
-  "casa": "Al Kholood",
-  "ospite": "Al-Ettifaq",
-  "min": 45,
-  "gol": [
-   0,
-   1
-  ],
-  "xg": [
-   1.32,
-   0.33
-  ],
-  "sot": 9.0,
-  "tiri": 16.0,
-  "corner": 4.0,
-  "p": 0.9743,
-  "min_odd": 1.08,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5970176",
-  "finale": [
-   0,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5749717": {
-  "ora": "24/10/2026 18:46",
-  "lega": "Serie A",
-  "casa": "Napoli",
-  "ospite": "Roma",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.24,
-   0.55
-  ],
-  "sot": 5.0,
-  "tiri": 16.0,
-  "corner": 3.0,
-  "p": 0.9673,
-  "min_odd": 1.09,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5749717",
-  "finale": [
-   3,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5804285": {
-  "ora": "24/10/2026 18:46",
-  "lega": "Super League",
-  "casa": "FC Zürich",
-  "ospite": "Luzern",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.26,
-   0.55
-  ],
-  "sot": 5.0,
-  "tiri": 17.0,
-  "corner": 4.0,
-  "p": 0.9685,
-  "min_odd": 1.08,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5804285",
-  "finale": [
-   2,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5811787": {
-  "ora": "24/10/2026 19:44",
-  "lega": "Belgian Pro League",
-  "casa": "OH Leuven",
-  "ospite": "Lommel",
-  "min": 69,
-  "gol": [
-   2,
-   1
-  ],
-  "xg": [
-   1.95,
-   0.77
-  ],
-  "sot": 7.0,
-  "tiri": 24.0,
-  "corner": 9.0,
-  "p": 0.8162,
-  "min_odd": 1.29,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5811787",
-  "finale": [
-   2,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5868509": {
-  "ora": "24/10/2026 19:44",
-  "lega": "LaLiga2",
-  "casa": "Girona",
-  "ospite": "Celta Fortuna",
-  "min": 52,
-  "gol": [
-   4,
-   0
-  ],
-  "xg": [
-   2.29,
-   0.1
-  ],
-  "sot": 7.0,
-  "tiri": 14.0,
-  "corner": 5.0,
-  "p": 0.9371,
-  "min_odd": 1.12,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5868509",
-  "finale": [
-   5,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5781785": {
-  "ora": "24/10/2026 20:07",
-  "lega": "Eredivisie",
-  "casa": "Willem II",
-  "ospite": "Cambuur",
-  "min": 66,
-  "gol": [
-   0,
-   5
-  ],
-  "xg": [
-   0.28,
-   1.66
-  ],
-  "sot": 9.0,
-  "tiri": 22.0,
-  "corner": 11.0,
-  "p": 0.7063,
-  "min_odd": 1.49,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5781785",
-  "finale": [
-   1,
-   6
-  ],
-  "esito": "SÌ"
- },
- "5943274": {
-  "ora": "24/10/2026 20:07",
-  "lega": "Super League",
-  "casa": "AEK Athens",
-  "ospite": "Panetolikos",
-  "min": 46,
-  "gol": [
-   3,
-   0
-  ],
-  "xg": [
-   1.85,
-   0.07
-  ],
-  "sot": 6.0,
-  "tiri": 15.0,
-  "corner": 8.0,
-  "p": 0.9431,
-  "min_odd": 1.11,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5943274",
-  "finale": [
-   5,
-   0
-  ],
-  "esito": "SÌ"
- },
- "5811790": {
-  "ora": "24/10/2026 21:43",
-  "lega": "Belgian Pro League",
-  "casa": "Westerlo",
-  "ospite": "SK Beveren",
-  "min": 45,
-  "gol": [
-   2,
-   1
-  ],
-  "xg": [
-   0.69,
-   1.13
-  ],
-  "sot": 6.0,
-  "tiri": 18.0,
-  "corner": 6.0,
-  "p": 0.9735,
-  "min_odd": 1.08,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5811790",
-  "finale": [
-   4,
-   4
-  ],
-  "esito": "SÌ"
- },
- "5881706": {
-  "ora": "24/10/2026 22:05",
-  "lega": "2. Bundesliga",
-  "casa": "1. FC Nürnberg",
-  "ospite": "Kaiserslautern",
-  "min": 76,
-  "gol": [
-   0,
-   1
-  ],
-  "xg": [
-   1.86,
-   0.62
-  ],
-  "sot": 10.0,
-  "tiri": 32.0,
-  "corner": 9.0,
-  "p": 0.664,
-  "min_odd": 1.58,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5881706",
-  "finale": [
-   0,
-   1
-  ],
-  "esito": "NO"
- },
- "5071442": {
-  "ora": "24/10/2026 22:36",
-  "lega": "Major League Soccer",
-  "casa": "Columbus Crew",
-  "ospite": "Toronto FC",
-  "min": 45,
-  "gol": [
-   2,
-   0
-  ],
-  "xg": [
-   1.24,
-   0.48
-  ],
-  "sot": 5.0,
-  "tiri": 13.0,
-  "corner": 2.0,
-  "p": 0.945,
-  "min_odd": 1.11,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5071442",
-  "finale": [
-   4,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5781779": {
-  "ora": "24/10/2026 22:36",
-  "lega": "Eredivisie",
-  "casa": "ADO Den Haag",
-  "ospite": "SC Heerenveen",
-  "min": 78,
-  "gol": [
-   2,
-   3
-  ],
-  "xg": [
-   2.52,
-   2.24
-  ],
-  "sot": 11.0,
-  "tiri": 31.0,
-  "corner": 7.0,
-  "p": 0.8297,
-  "min_odd": 1.27,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5781779",
-  "finale": [
-   2,
-   3
-  ],
-  "esito": "NO"
- },
- "5103680": {
-  "ora": "24/10/2026 22:36",
-  "lega": "Série A",
-  "casa": "Internacional",
-  "ospite": "Botafogo",
-  "min": 45,
-  "gol": [
-   2,
-   0
-  ],
-  "xg": [
-   1.18,
-   0.32
-  ],
-  "sot": 6.0,
-  "tiri": 12.0,
-  "corner": 8.0,
-  "p": 0.9309,
-  "min_odd": 1.13,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5103680",
-  "finale": [
-   3,
-   0
-  ],
-  "esito": "SÌ"
- },
- "5103682": {
-  "ora": "24/10/2026 22:36",
-  "lega": "Série A",
-  "casa": "Vitória",
-  "ospite": "Athletico Paranaense",
-  "min": 45,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   1.45,
-   0.2
-  ],
-  "sot": 4.0,
-  "tiri": 12.0,
-  "corner": 4.0,
-  "p": 0.9464,
-  "min_odd": 1.11,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5103682",
-  "finale": [
-   1,
-   1
-  ],
-  "esito": "NO"
- },
- "5103675": {
-  "ora": "25/10/2026 00:34",
-  "lega": "Série A",
-  "casa": "Vasco da Gama",
-  "ospite": "Corinthians",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.05,
-   0.18
-  ],
-  "sot": 6.0,
-  "tiri": 19.0,
-  "corner": 2.0,
-  "p": 0.9209,
-  "min_odd": 1.14,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5103675",
-  "finale": [
-   3,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5103677": {
-  "ora": "25/10/2026 00:34",
-  "lega": "Série A",
-  "casa": "Palmeiras",
-  "ospite": "RB Bragantino",
-  "min": 45,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   2.23,
-   0.35
-  ],
-  "sot": 4.0,
-  "tiri": 21.0,
-  "corner": 12.0,
-  "p": 0.9897,
-  "min_odd": 1.06,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5103677",
-  "finale": [
-   2,
-   0
-  ],
-  "esito": "SÌ"
- },
- "5190787": {
-  "ora": "25/10/2026 00:34",
-  "lega": "Série B",
-  "casa": "CRB",
-  "ospite": "Londrina",
-  "min": 45,
-  "gol": [
-   2,
-   0
-  ],
-  "xg": [
-   1.06,
-   0.22
-  ],
-  "sot": 11.0,
-  "tiri": 24.0,
-  "corner": 7.0,
-  "p": 0.9319,
-  "min_odd": 1.13,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5190787",
-  "finale": [
-   2,
-   1
-  ],
-  "esito": "SÌ"
- },
- "1000014618": {
-  "ora": "25/10/2026 02:29",
-  "lega": "Liga MX",
-  "casa": "León",
-  "ospite": "Toluca",
-  "min": 46,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   1.23,
-   1.02
-  ],
-  "sot": 5.0,
-  "tiri": 15.0,
-  "corner": 2.0,
-  "p": 0.9804,
-  "min_odd": 1.07,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/1000014618",
-  "finale": [
-   1,
-   1
-  ],
-  "esito": "NO"
- },
- "5071441": {
-  "ora": "25/10/2026 02:13",
-  "lega": "Major League Soccer",
-  "casa": "Atlanta United",
-  "ospite": "Chicago Fire FC",
-  "min": 46,
-  "gol": [
-   1,
-   2
-  ],
-  "xg": [
-   0.54,
-   1.45
-  ],
-  "sot": 7.0,
-  "tiri": 16.0,
-  "corner": 6.0,
-  "p": 0.98,
-  "min_odd": 1.07,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5071441",
-  "finale": [
-   2,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5071446": {
-  "ora": "25/10/2026 02:13",
-  "lega": "Major League Soccer",
-  "casa": "Orlando City",
-  "ospite": "New York City FC",
-  "min": 46,
-  "gol": [
-   2,
-   1
-  ],
-  "xg": [
-   0.83,
-   1.76
-  ],
-  "sot": 8.0,
-  "tiri": 16.0,
-  "corner": 4.0,
-  "p": 0.9944,
-  "min_odd": 1.06,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5071446",
-  "finale": [
-   2,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5103676": {
-  "ora": "25/10/2026 02:13",
-  "lega": "Série A",
-  "casa": "Santos",
-  "ospite": "Bahia",
-  "min": 45,
-  "gol": [
-   0,
-   1
-  ],
-  "xg": [
-   0.98,
-   1.07
-  ],
-  "sot": 5.0,
-  "tiri": 16.0,
-  "corner": 11.0,
-  "p": 0.9794,
-  "min_odd": 1.07,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5103676",
-  "finale": [
-   1,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5071447": {
-  "ora": "25/10/2026 02:49",
-  "lega": "Major League Soccer",
-  "casa": "Philadelphia Union",
-  "ospite": "New England Revolution",
-  "min": 47,
-  "gol": [
-   0,
-   1
-  ],
-  "xg": [
-   1.78,
-   1.82
-  ],
-  "sot": 16.0,
-  "tiri": 34.0,
-  "corner": 9.0,
-  "p": 0.9997,
-  "min_odd": 1.05,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5071447",
-  "finale": [
-   1,
-   2
-  ],
-  "esito": "SÌ"
- },
  "1000017762": {
   "ora": "25/10/2026 13:05",
   "lega": "Thai League",
@@ -4684,9 +4657,9 @@
    0.39,
    1.65
   ],
-  "sot": 7.0,
-  "tiri": 16.0,
-  "corner": 3.0,
+  "sot": 7,
+  "tiri": 16,
+  "corner": 3,
   "p": 0.9849,
   "min_odd": 1.07,
   "rel": "MEDIA",
@@ -4711,9 +4684,9 @@
    0.72,
    1.63
   ],
-  "sot": 8.0,
-  "tiri": 19.0,
-  "corner": 4.0,
+  "sot": 8,
+  "tiri": 19,
+  "corner": 4,
   "p": 0.9072,
   "min_odd": 1.16,
   "rel": "MEDIA",
@@ -4724,516 +4697,30 @@
   ],
   "esito": "SÌ"
  },
- "5804283": {
-  "ora": "25/10/2026 14:54",
-  "lega": "Super League",
-  "casa": "Thun",
-  "ospite": "Lugano",
+ "1000019590": {
+  "ora": "24/10/2026 00:21",
+  "lega": "Liga Profesional",
+  "casa": "Gimnasia Mendoza",
+  "ospite": "Club Atlético Platense",
   "min": 45,
   "gol": [
    1,
-   1
-  ],
-  "xg": [
-   0.55,
-   1.15
-  ],
-  "sot": 10.0,
-  "tiri": 21.0,
-  "corner": 2.0,
-  "p": 0.9767,
-  "min_odd": 1.08,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5804283",
-  "finale": [
-   2,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5739532": {
-  "ora": "25/10/2026 14:54",
-  "lega": "Superligaen",
-  "casa": "FC Midtjylland",
-  "ospite": "Lyngby",
-  "min": 45,
-  "gol": [
-   2,
-   1
-  ],
-  "xg": [
-   1.3,
-   0.21
-  ],
-  "sot": 7.0,
-  "tiri": 13.0,
-  "corner": 3.0,
-  "p": 0.9581,
-  "min_odd": 1.1,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5739532",
-  "finale": [
-   3,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5846009": {
-  "ora": "25/10/2026 15:23",
-  "lega": "Bundesliga",
-  "casa": "Sturm Graz",
-  "ospite": "Ried",
-  "min": 45,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   1.24,
-   0.84
-  ],
-  "sot": 5.0,
-  "tiri": 19.0,
-  "corner": 7.0,
-  "p": 0.9782,
-  "min_odd": 1.07,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5846009",
-  "finale": [
-   2,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5781777": {
-  "ora": "25/10/2026 15:23",
-  "lega": "Eredivisie",
-  "casa": "NEC Nijmegen",
-  "ospite": "FC Groningen",
-  "min": 45,
-  "gol": [
-   0,
-   2
-  ],
-  "xg": [
-   1.07,
-   0.96
-  ],
-  "sot": 6.0,
-  "tiri": 17.0,
-  "corner": 6.0,
-  "p": 0.9708,
-  "min_odd": 1.08,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5781777",
-  "finale": [
-   2,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5847209": {
-  "ora": "25/10/2026 15:23",
-  "lega": "Premier League",
-  "casa": "CSKA Moscow",
-  "ospite": "Spartak Moscow",
-  "min": 48,
-  "gol": [
-   2,
    0
   ],
   "xg": [
    1.18,
-   0.25
+   0.55
   ],
-  "sot": 10.0,
-  "tiri": 20.0,
-  "corner": 4.0,
-  "p": 0.9201,
-  "min_odd": 1.14,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5847209",
-  "finale": [
-   2,
-   0
-  ],
-  "esito": "NO"
- },
- "5749710": {
-  "ora": "25/10/2026 15:56",
-  "lega": "Serie A",
-  "casa": "Atalanta",
-  "ospite": "Frosinone",
-  "min": 45,
-  "gol": [
-   3,
-   2
-  ],
-  "xg": [
-   3.0,
-   1.11
-  ],
-  "sot": 8.0,
-  "tiri": 25.0,
-  "corner": 10.0,
-  "p": 0.9998,
-  "min_odd": 1.05,
+  "sot": 5,
+  "tiri": 18,
+  "corner": 8,
+  "p": 0.9636,
+  "min_odd": 1.09,
   "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5749710",
+  "url": "https://www.fotmob.com/match/1000019590",
   "finale": [
-   4,
-   4
-  ],
-  "esito": "SÌ"
- },
- "5967116": {
-  "ora": "25/10/2026 15:56",
-  "lega": "Serie B",
-  "casa": "Palermo",
-  "ospite": "Carrarese",
-  "min": 45,
-  "gol": [
    1,
-   0
-  ],
-  "xg": [
-   1.23,
-   0.23
-  ],
-  "sot": 4.0,
-  "tiri": 19.0,
-  "corner": 9.0,
-  "p": 0.9321,
-  "min_odd": 1.13,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5967116",
-  "finale": [
-   2,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5739535": {
-  "ora": "25/10/2026 16:59",
-  "lega": "Superligaen",
-  "casa": "AC Horsens",
-  "ospite": "Sønderjyske",
-  "min": 45,
-  "gol": [
-   3,
-   1
-  ],
-  "xg": [
-   2.09,
-   0.79
-  ],
-  "sot": 8.0,
-  "tiri": 19.0,
-  "corner": 0.0,
-  "p": 0.9949,
-  "min_odd": 1.06,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5739535",
-  "finale": [
-   5,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5868506": {
-  "ora": "25/10/2026 17:32",
-  "lega": "LaLiga2",
-  "casa": "Cádiz",
-  "ospite": "AD Ceuta FC",
-  "min": 56,
-  "gol": [
-   1,
-   1
-  ],
-  "xg": [
-   0.36,
-   1.87
-  ],
-  "sot": 6.0,
-  "tiri": 20.0,
-  "corner": 7.0,
-  "p": 0.9227,
-  "min_odd": 1.14,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5868506",
-  "finale": [
-   3,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5904780": {
-  "ora": "25/10/2026 18:05",
-  "lega": "Super Lig",
-  "casa": "Göztepe",
-  "ospite": "Çorum FK",
-  "min": 45,
-  "gol": [
-   2,
-   0
-  ],
-  "xg": [
-   1.41,
-   0.12
-  ],
-  "sot": 7.0,
-  "tiri": 13.0,
-  "corner": 1.0,
-  "p": 0.9407,
-  "min_odd": 1.12,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5904780",
-  "finale": [
-   2,
-   0
-  ],
-  "esito": "NO"
- },
- "5881200": {
-  "ora": "25/10/2026 18:36",
-  "lega": "Bundesliga",
-  "casa": "Freiburg",
-  "ospite": "Bayern München",
-  "min": 47,
-  "gol": [
-   0,
    2
-  ],
-  "xg": [
-   0.34,
-   1.22
-  ],
-  "sot": 5.0,
-  "tiri": 14.0,
-  "corner": 3.0,
-  "p": 0.9109,
-  "min_odd": 1.15,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5881200",
-  "finale": [
-   1,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5802968": {
-  "ora": "25/10/2026 18:36",
-  "lega": "Ligue 1",
-  "casa": "Marseille",
-  "ospite": "Le Havre",
-  "min": 65,
-  "gol": [
-   4,
-   0
-  ],
-  "xg": [
-   1.55,
-   1.23
-  ],
-  "sot": 7.0,
-  "tiri": 21.0,
-  "corner": 5.0,
-  "p": 0.8158,
-  "min_odd": 1.29,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5802968",
-  "finale": [
-   4,
-   3
-  ],
-  "esito": "SÌ"
- },
- "5846007": {
-  "ora": "25/10/2026 18:36",
-  "lega": "Bundesliga",
-  "casa": "LASK",
-  "ospite": "Salzburg",
-  "min": 78,
-  "gol": [
-   1,
-   3
-  ],
-  "xg": [
-   0.77,
-   2.39
-  ],
-  "sot": 10.0,
-  "tiri": 25.0,
-  "corner": 4.0,
-  "p": 0.6445,
-  "min_odd": 1.63,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5846007",
-  "finale": [
-   1,
-   3
-  ],
-  "esito": "NO"
- },
- "5104933": {
-  "ora": "25/10/2026 18:36",
-  "lega": "Eliteserien",
-  "casa": "Kristiansund",
-  "ospite": "KFUM",
-  "min": 80,
-  "gol": [
-   2,
-   2
-  ],
-  "xg": [
-   2.15,
-   1.64
-  ],
-  "sot": 8.0,
-  "tiri": 25.0,
-  "corner": 4.0,
-  "p": 0.6641,
-  "min_odd": 1.58,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5104933",
-  "finale": [
-   2,
-   2
-  ],
-  "esito": "NO"
- },
- "5104931": {
-  "ora": "25/10/2026 18:36",
-  "lega": "Eliteserien",
-  "casa": "Lillestrøm",
-  "ospite": "Brann",
-  "min": 79,
-  "gol": [
-   2,
-   1
-  ],
-  "xg": [
-   2.1,
-   1.22
-  ],
-  "sot": 7.0,
-  "tiri": 22.0,
-  "corner": 8.0,
-  "p": 0.6482,
-  "min_odd": 1.62,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5104931",
-  "finale": [
-   3,
-   2
-  ],
-  "esito": "SÌ"
- },
- "5868108": {
-  "ora": "25/10/2026 19:37",
-  "lega": "LaLiga",
-  "casa": "Real Sociedad",
-  "ospite": "Levante",
-  "min": 49,
-  "gol": [
-   2,
-   1
-  ],
-  "xg": [
-   1.53,
-   0.35
-  ],
-  "sot": 5.0,
-  "tiri": 15.0,
-  "corner": 3.0,
-  "p": 0.9491,
-  "min_odd": 1.11,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5868108",
-  "finale": [
-   2,
-   1
-  ],
-  "esito": "NO"
- },
- "5739533": {
-  "ora": "25/10/2026 19:37",
-  "lega": "Superligaen",
-  "casa": "AGF",
-  "ospite": "Viborg",
-  "min": 78,
-  "gol": [
-   2,
-   0
-  ],
-  "xg": [
-   1.91,
-   0.43
-  ],
-  "sot": 7.0,
-  "tiri": 25.0,
-  "corner": 9.0,
-  "p": 0.5139,
-  "min_odd": 2.04,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5739533",
-  "finale": [
-   2,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5104934": {
-  "ora": "25/10/2026 20:12",
-  "lega": "Eliteserien",
-  "casa": "Molde",
-  "ospite": "Fredrikstad",
-  "min": 45,
-  "gol": [
-   3,
-   1
-  ],
-  "xg": [
-   2.05,
-   1.15
-  ],
-  "sot": 8.0,
-  "tiri": 18.0,
-  "corner": 6.0,
-  "p": 0.9971,
-  "min_odd": 1.05,
-  "rel": "BASSA",
-  "url": "https://www.fotmob.com/match/5104934",
-  "finale": [
-   5,
-   1
-  ],
-  "esito": "SÌ"
- },
- "5943278": {
-  "ora": "25/10/2026 20:12",
-  "lega": "Super League",
-  "casa": "OFI Crete",
-  "ospite": "PAOK Thessaloniki",
-  "min": 53,
-  "gol": [
-   1,
-   0
-  ],
-  "xg": [
-   1.28,
-   1.06
-  ],
-  "sot": 6.0,
-  "tiri": 18.0,
-  "corner": 3.0,
-  "p": 0.9579,
-  "min_odd": 1.1,
-  "rel": "MEDIA",
-  "url": "https://www.fotmob.com/match/5943278",
-  "finale": [
-   2,
-   1
   ],
   "esito": "SÌ"
  }
