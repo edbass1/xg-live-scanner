@@ -4858,5 +4858,29 @@
    4
   ],
   "esito": "SÌ"
+ },
+ "5103681": {
+  "ora": "27/10/2026 00:43",
+  "lega": "Série A",
+  "casa": "Coritiba",
+  "ospite": "Grêmio",
+  "min": 51,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   0.7,
+   1.39
+  ],
+  "sot": 8.0,
+  "tiri": 16.0,
+  "corner": 10.0,
+  "p": 0.9552,
+  "min_odd": 1.1,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5103681",
+  "finale": null,
+  "esito": null
  }
 }
