@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-26T00:38:41+00:00",
- "live_tot": 17,
- "senza_xg": 5,
- "matches": []
+ "updated": "2026-10-26T01:28:51+00:00",
+ "live_tot": 13,
+ "senza_xg": 2,
+ "matches": [
+  {
+   "id": 1000019591,
+   "lega": "Liga Profesional",
+   "casa": "Central Córdoba de Santiago",
+   "ospite": "Vélez Sarsfield",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/1000019591",
+   "xg": [
+    0.48,
+    1.06
+   ],
+   "sot": 6.0,
+   "tiri": 19.0,
+   "corner": 2.0,
+   "p": 0.9352,
+   "fair": 1.07,
+   "min_odd": 1.12,
+   "lam": 2.74,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.06,
+   "line": "Over 2.5"
+  }
+ ]
 }
