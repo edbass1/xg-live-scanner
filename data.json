@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-26T04:16:03+00:00",
+ "updated": "2026-10-26T04:59:17+00:00",
  "live_tot": 1,
  "senza_xg": 0,
- "matches": [
-  {
-   "id": 1000014624,
-   "lega": "Liga MX",
-   "casa": "Tijuana",
-   "ospite": "Santos Laguna",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    2,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/1000014624",
-   "xg": [
-    2.21,
-    0.22
-   ],
-   "sot": 5.0,
-   "tiri": 15.0,
-   "corner": 5.0,
-   "p": 0.9818,
-   "fair": 1.02,
-   "min_odd": 1.07,
-   "lam": 4.01,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 2.21,
-   "line": "Over 2.5"
-  }
- ]
+ "matches": []
 }
