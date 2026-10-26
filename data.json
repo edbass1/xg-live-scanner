@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-26T20:06:10+00:00",
- "live_tot": 18,
- "senza_xg": 5,
- "matches": []
+ "updated": "2026-10-26T20:43:49+00:00",
+ "live_tot": 15,
+ "senza_xg": 2,
+ "matches": [
+  {
+   "id": 5868505,
+   "lega": "LaLiga2",
+   "casa": "FC Andorra",
+   "ospite": "Burgos CF",
+   "min": 51,
+   "tempo": "51‎’‎",
+   "gol": [
+    2,
+    3
+   ],
+   "url": "https://www.fotmob.com/match/5868505",
+   "xg": [
+    1.19,
+    1.35
+   ],
+   "sot": 14.0,
+   "tiri": 20.0,
+   "corner": 4.0,
+   "p": 0.9902,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.63,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.19,
+   "thr_sot": 4.2,
+   "xm": 1.35,
+   "line": "Over 5.5"
+  }
+ ]
 }

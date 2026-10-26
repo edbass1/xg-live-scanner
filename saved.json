@@ -4804,5 +4804,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "5868505": {
+  "ora": "26/10/2026 21:43",
+  "lega": "LaLiga2",
+  "casa": "FC Andorra",
+  "ospite": "Burgos CF",
+  "min": 51,
+  "gol": [
+   2,
+   3
+  ],
+  "xg": [
+   1.19,
+   1.35
+  ],
+  "sot": 14.0,
+  "tiri": 20.0,
+  "corner": 4.0,
+  "p": 0.9902,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5868505",
+  "finale": null,
+  "esito": null
  }
 }
