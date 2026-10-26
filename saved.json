@@ -4828,5 +4828,29 @@
   "url": "https://www.fotmob.com/match/5868505",
   "finale": null,
   "esito": null
+ },
+ "5838013": {
+  "ora": "26/10/2026 22:17",
+  "lega": "League Two",
+  "casa": "Walsall",
+  "ospite": "Salford City",
+  "min": 62,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   1.22,
+   2.0
+  ],
+  "sot": 9.0,
+  "tiri": 22.0,
+  "corner": 5.0,
+  "p": 0.9531,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5838013",
+  "finale": null,
+  "esito": null
  }
 }

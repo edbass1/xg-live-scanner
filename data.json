@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-26T20:43:49+00:00",
- "live_tot": 15,
- "senza_xg": 2,
+ "updated": "2026-10-26T21:17:57+00:00",
+ "live_tot": 12,
+ "senza_xg": 1,
  "matches": [
   {
-   "id": 5868505,
-   "lega": "LaLiga2",
-   "casa": "FC Andorra",
-   "ospite": "Burgos CF",
-   "min": 51,
-   "tempo": "51‎’‎",
+   "id": 5838013,
+   "lega": "League Two",
+   "casa": "Walsall",
+   "ospite": "Salford City",
+   "min": 62,
+   "tempo": "62‎’‎",
    "gol": [
-    2,
-    3
+    1,
+    2
    ],
-   "url": "https://www.fotmob.com/match/5868505",
+   "url": "https://www.fotmob.com/match/5838013",
    "xg": [
-    1.19,
-    1.35
+    1.22,
+    2.0
    ],
-   "sot": 14.0,
-   "tiri": 20.0,
-   "corner": 4.0,
-   "p": 0.9902,
-   "fair": 1.01,
-   "min_odd": 1.06,
-   "lam": 4.63,
+   "sot": 9.0,
+   "tiri": 22.0,
+   "corner": 5.0,
+   "p": 0.9531,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.06,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.19,
-   "thr_sot": 4.2,
-   "xm": 1.35,
-   "line": "Over 5.5"
+   "thr_xg": 1.45,
+   "thr_sot": 5.2,
+   "xm": 2.0,
+   "line": "Over 3.5"
   }
  ]
 }
