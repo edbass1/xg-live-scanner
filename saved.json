@@ -4777,5 +4777,29 @@
    5
   ],
   "esito": "SÌ"
+ },
+ "1000014624": {
+  "ora": "26/10/2026 05:16",
+  "lega": "Liga MX",
+  "casa": "Tijuana",
+  "ospite": "Santos Laguna",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   2.21,
+   0.22
+  ],
+  "sot": 5.0,
+  "tiri": 15.0,
+  "corner": 5.0,
+  "p": 0.9818,
+  "min_odd": 1.07,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/1000014624",
+  "finale": null,
+  "esito": null
  }
 }
