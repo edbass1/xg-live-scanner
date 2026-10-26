@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-26T21:17:57+00:00",
- "live_tot": 12,
- "senza_xg": 1,
- "matches": [
-  {
-   "id": 5838013,
-   "lega": "League Two",
-   "casa": "Walsall",
-   "ospite": "Salford City",
-   "min": 62,
-   "tempo": "62‎’‎",
-   "gol": [
-    1,
-    2
-   ],
-   "url": "https://www.fotmob.com/match/5838013",
-   "xg": [
-    1.22,
-    2.0
-   ],
-   "sot": 9.0,
-   "tiri": 22.0,
-   "corner": 5.0,
-   "p": 0.9531,
-   "fair": 1.05,
-   "min_odd": 1.1,
-   "lam": 3.06,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.45,
-   "thr_sot": 5.2,
-   "xm": 2.0,
-   "line": "Over 3.5"
-  }
- ]
+ "updated": "2026-10-26T21:56:06+00:00",
+ "live_tot": 6,
+ "senza_xg": 3,
+ "matches": []
 }
