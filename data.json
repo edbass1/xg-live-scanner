@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-27T00:11:08+00:00",
- "live_tot": 9,
+ "updated": "2026-10-27T01:07:24+00:00",
+ "live_tot": 6,
  "senza_xg": 1,
- "matches": []
+ "matches": [
+  {
+   "id": 5190788,
+   "lega": "Série B",
+   "casa": "Juventude",
+   "ospite": "Náutico",
+   "min": 69,
+   "tempo": "69‎’‎",
+   "gol": [
+    3,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5190788",
+   "xg": [
+    1.93,
+    1.28
+   ],
+   "sot": 12.0,
+   "tiri": 26.0,
+   "corner": 4.0,
+   "p": 0.8301,
+   "fair": 1.2,
+   "min_odd": 1.26,
+   "lam": 1.77,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.61,
+   "thr_sot": 5.8,
+   "xm": 1.93,
+   "line": "Over 3.5"
+  }
+ ]
 }
