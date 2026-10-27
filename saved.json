@@ -4907,7 +4907,10 @@
   "min_odd": 1.26,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5190788",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   0
+  ],
+  "esito": "SÌ"
  }
 }
