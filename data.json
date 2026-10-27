@@ -1,6 +1,100 @@
 {
- "updated": "2026-10-27T20:19:24+00:00",
- "live_tot": 117,
- "senza_xg": 18,
- "matches": []
+ "updated": "2026-10-27T20:58:43+00:00",
+ "live_tot": 99,
+ "senza_xg": 75,
+ "matches": [
+  {
+   "id": 5749721,
+   "lega": "Serie A",
+   "casa": "Roma",
+   "ospite": "Cagliari",
+   "min": 56,
+   "tempo": "56‎’‎",
+   "gol": [
+    2,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5749721",
+   "xg": [
+    1.41,
+    1.39
+   ],
+   "sot": 8.0,
+   "tiri": 21.0,
+   "corner": 9.0,
+   "p": 0.9695,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.49,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.31,
+   "thr_sot": 4.7,
+   "xm": 1.41,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 6162742,
+   "lega": "DFB Pokal",
+   "casa": "1. FC Köln",
+   "ospite": "Union Berlin",
+   "min": 54,
+   "tempo": "54‎’‎",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/6162742",
+   "xg": [
+    1.61,
+    0.55
+   ],
+   "sot": 6.0,
+   "tiri": 16.0,
+   "corner": 5.0,
+   "p": 0.9153,
+   "fair": 1.09,
+   "min_odd": 1.15,
+   "lam": 2.47,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.26,
+   "thr_sot": 4.5,
+   "xm": 1.61,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 6386076,
+   "lega": "Copa del Rey",
+   "casa": "Recreativo Huelva",
+   "ospite": "Rayo Vallecano",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/6386076",
+   "xg": [
+    0.13,
+    1.1
+   ],
+   "sot": 4.0,
+   "tiri": 15.0,
+   "corner": 5.0,
+   "p": 0.8936,
+   "fair": 1.12,
+   "min_odd": 1.18,
+   "lam": 2.24,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.1,
+   "line": "Over 2.5"
+  }
+ ]
 }
