@@ -4912,5 +4912,77 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "5749727": {
+  "ora": "27/10/2026 19:54",
+  "lega": "Serie A",
+  "casa": "Sassuolo",
+  "ospite": "Lazio",
+  "min": 61,
+  "gol": [
+   2,
+   5
+  ],
+  "xg": [
+   0.79,
+   2.07
+  ],
+  "sot": 8.0,
+  "tiri": 20.0,
+  "corner": 1.0,
+  "p": 0.8892,
+  "min_odd": 1.18,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5749727",
+  "finale": null,
+  "esito": null
+ },
+ "6386071": {
+  "ora": "27/10/2026 19:54",
+  "lega": "Copa del Rey",
+  "casa": "UD Pinatar",
+  "ospite": "Elche",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.27,
+   2.27
+  ],
+  "sot": 4.0,
+  "tiri": 16.0,
+  "corner": 9.0,
+  "p": 0.9875,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6386071",
+  "finale": null,
+  "esito": null
+ },
+ "5107637": {
+  "ora": "27/10/2026 19:54",
+  "lega": "Allsvenskan",
+  "casa": "AIK",
+  "ospite": "Elfsborg",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.39,
+   1.71
+  ],
+  "sot": 5.0,
+  "tiri": 15.0,
+  "corner": 5.0,
+  "p": 0.9789,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5107637",
+  "finale": null,
+  "esito": null
  }
 }
