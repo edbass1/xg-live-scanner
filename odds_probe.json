@@ -1,113 +1,23 @@
 {
-  "generated_utc": "2026-10-27T03:55:13Z",
+  "generated_utc": "2026-10-28T04:03:42Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
     {
-      "fotmob_id": "5190788",
-      "match": "Juventude - Náutico",
-      "date_alert": "27/10/2026 02:07",
-      "alert_minute": 69,
-      "score_at_alert": [
-        3,
-        0
-      ],
-      "final_score": [
-        4,
-        0
-      ],
-      "target_over_line": 3.5,
-      "verified_live_quote": 1.675,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "202426773",
-        "quote": 1.675,
-        "line": 3.5,
-        "quote_side": "Over",
-        "quote_market": "Goal Line (3-0)",
-        "quote_timestamp_utc": "2026-10-27T01:07:04Z",
-        "seconds_from_alert": 4,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "5103681",
-      "match": "Coritiba - Grêmio",
-      "date_alert": "27/10/2026 00:43",
-      "alert_minute": 51,
+      "fotmob_id": "1000014089",
+      "match": "Cúcuta - Águilas Doradas",
+      "date_alert": "28/10/2026 01:03",
+      "alert_minute": 45,
       "score_at_alert": [
         0,
-        0
-      ],
-      "final_score": [
-        0,
-        1
-      ],
-      "target_over_line": 0.5,
-      "verified_live_quote": null,
-      "lookup": {
-        "status": "no_verified_quote",
-        "reason": "Nessuna quota storica verificabile trovata.",
-        "attempts": [
-          {
-            "status": "no_matching_quote_in_window",
-            "fixture_id": "202201727",
-            "history_points_in_window": 9788,
-            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
-          }
-        ]
-      }
-    },
-    {
-      "fotmob_id": "5838013",
-      "match": "Walsall - Salford City",
-      "date_alert": "26/10/2026 22:17",
-      "alert_minute": 62,
-      "score_at_alert": [
-        1,
         2
       ],
       "final_score": [
-        2,
-        4
+        0,
+        2
       ],
-      "target_over_line": 3.5,
-      "verified_live_quote": 1.35,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "202206024",
-        "quote": 1.35,
-        "line": 3.5,
-        "quote_side": "Over",
-        "quote_market": "Goal Line (1-2)",
-        "quote_timestamp_utc": "2026-10-26T21:19:01Z",
-        "seconds_from_alert": 121,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "5868505",
-      "match": "FC Andorra - Burgos CF",
-      "date_alert": "26/10/2026 21:43",
-      "alert_minute": 51,
-      "score_at_alert": [
-        2,
-        3
-      ],
-      "final_score": [
-        2,
-        3
-      ],
-      "target_over_line": 5.5,
+      "target_over_line": 2.5,
       "verified_live_quote": null,
       "lookup": {
         "status": "no_verified_quote",
@@ -115,11 +25,87 @@
         "attempts": [
           {
             "status": "no_matching_quote_in_window",
-            "fixture_id": "202427403",
-            "history_points_in_window": 3316,
+            "fixture_id": "202426833",
+            "history_points_in_window": 440,
             "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
           }
         ]
+      }
+    },
+    {
+      "fotmob_id": "5749721",
+      "match": "Roma - Cagliari",
+      "date_alert": "27/10/2026 21:58",
+      "alert_minute": 56,
+      "score_at_alert": [
+        2,
+        1
+      ],
+      "final_score": [
+        4,
+        2
+      ],
+      "target_over_line": 3.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "no_verified_quote",
+        "reason": "Nessuna quota storica verificabile trovata.",
+        "attempts": [
+          {
+            "status": "no_matching_quote_in_window",
+            "fixture_id": "202203237",
+            "history_points_in_window": 10000,
+            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
+          }
+        ]
+      }
+    },
+    {
+      "fotmob_id": "6386076",
+      "match": "Recreativo Huelva - Rayo Vallecano",
+      "date_alert": "27/10/2026 21:58",
+      "alert_minute": 45,
+      "score_at_alert": [
+        1,
+        1
+      ],
+      "final_score": [
+        2,
+        3
+      ],
+      "target_over_line": 2.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "no_verified_quote",
+        "reason": "Nessuna quota storica verificabile trovata.",
+        "attempts": [
+          {
+            "status": "no_matching_quote_in_window",
+            "fixture_id": "203023646",
+            "history_points_in_window": 491,
+            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
+          }
+        ]
+      }
+    },
+    {
+      "fotmob_id": "6162742",
+      "match": "1. FC Köln - Union Berlin",
+      "date_alert": "27/10/2026 21:58",
+      "alert_minute": 54,
+      "score_at_alert": [
+        2,
+        0
+      ],
+      "final_score": [
+        5,
+        0
+      ],
+      "target_over_line": 2.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "fixture_not_found",
+        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
       }
     }
   ]
