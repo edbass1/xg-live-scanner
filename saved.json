@@ -5101,5 +5101,101 @@
    2
   ],
   "esito": "NO"
+ },
+ "6275370": {
+  "ora": "28/10/2026 21:36",
+  "lega": "EFL Cup",
+  "casa": "Sunderland",
+  "ospite": "Brentford",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   2.14,
+   1.99
+  ],
+  "sot": 8.0,
+  "tiri": 14.0,
+  "corner": 3.0,
+  "p": 0.9994,
+  "min_odd": 1.05,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6275370",
+  "finale": null,
+  "esito": null
+ },
+ "6162737": {
+  "ora": "28/10/2026 21:36",
+  "lega": "DFB Pokal",
+  "casa": "Bayer Leverkusen",
+  "ospite": "1. FC Nürnberg",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   1.13,
+   0.88
+  ],
+  "sot": 5.0,
+  "tiri": 12.0,
+  "corner": 6.0,
+  "p": 0.9779,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6162737",
+  "finale": null,
+  "esito": null
+ },
+ "6162738": {
+  "ora": "28/10/2026 21:36",
+  "lega": "DFB Pokal",
+  "casa": "Bayern München",
+  "ospite": "Magdeburg",
+  "min": 45,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.51,
+   0.62
+  ],
+  "sot": 5.0,
+  "tiri": 16.0,
+  "corner": 2.0,
+  "p": 0.9821,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6162738",
+  "finale": null,
+  "esito": null
+ },
+ "5793958": {
+  "ora": "28/10/2026 21:36",
+  "lega": "Premiership",
+  "casa": "Aberdeen",
+  "ospite": "Falkirk",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.2,
+   0.45
+  ],
+  "sot": 5.0,
+  "tiri": 17.0,
+  "corner": 8.0,
+  "p": 0.947,
+  "min_odd": 1.11,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5793958",
+  "finale": null,
+  "esito": null
  }
 }
