@@ -5209,5 +5209,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "5103688": {
+  "ora": "29/10/2026 00:20",
+  "lega": "Série A",
+  "casa": "RB Bragantino",
+  "ospite": "Chapecoense",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.14,
+   0.53
+  ],
+  "sot": 9.0,
+  "tiri": 18.0,
+  "corner": 7.0,
+  "p": 0.9754,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103688",
+  "finale": null,
+  "esito": null
  }
 }
