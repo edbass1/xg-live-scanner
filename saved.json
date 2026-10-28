@@ -5074,5 +5074,29 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "1000014089": {
+  "ora": "28/10/2026 01:03",
+  "lega": "Primera A",
+  "casa": "Cúcuta",
+  "ospite": "Águilas Doradas",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.16,
+   1.28
+  ],
+  "sot": 7.0,
+  "tiri": 14.0,
+  "corner": 7.0,
+  "p": 0.9309,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/1000014089",
+  "finale": null,
+  "esito": null
  }
 }
