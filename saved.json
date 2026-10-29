@@ -5231,6 +5231,33 @@
   "min_odd": 1.08,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5103688",
+  "finale": [
+   3,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "5071458": {
+  "ora": "29/10/2026 01:53",
+  "lega": "Major League Soccer",
+  "casa": "New England Revolution",
+  "ospite": "Red Bull New York",
+  "min": 54,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.05,
+   1.46
+  ],
+  "sot": 10.0,
+  "tiri": 18.0,
+  "corner": 6.0,
+  "p": 0.9742,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071458",
   "finale": null,
   "esito": null
  }
