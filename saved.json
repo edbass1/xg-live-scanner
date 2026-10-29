@@ -5317,5 +5317,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "5749723": {
+  "ora": "29/10/2026 19:21",
+  "lega": "Serie A",
+  "casa": "Frosinone",
+  "ospite": "Lecce",
+  "min": 48,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.47,
+   0.69
+  ],
+  "sot": 6.0,
+  "tiri": 17.0,
+  "corner": 7.0,
+  "p": 0.9616,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5749723",
+  "finale": null,
+  "esito": null
  }
 }

@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-29T17:33:04+00:00",
- "live_tot": 24,
- "senza_xg": 9,
- "matches": []
+ "updated": "2026-10-29T18:21:22+00:00",
+ "live_tot": 34,
+ "senza_xg": 10,
+ "matches": [
+  {
+   "id": 5749723,
+   "lega": "Serie A",
+   "casa": "Frosinone",
+   "ospite": "Lecce",
+   "min": 48,
+   "tempo": "48‎’‎",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5749723",
+   "xg": [
+    1.47,
+    0.69
+   ],
+   "sot": 6.0,
+   "tiri": 17.0,
+   "corner": 7.0,
+   "p": 0.9616,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.26,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.12,
+   "thr_sot": 4.0,
+   "xm": 1.47,
+   "line": "Over 2.5"
+  }
+ ]
 }
