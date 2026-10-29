@@ -5474,8 +5474,11 @@
   "min_odd": 1.06,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/6428917",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   6
+  ],
+  "esito": "SÌ"
  },
  "6428918": {
   "ora": "29/10/2026 22:02",
@@ -5498,7 +5501,10 @@
   "min_odd": 1.14,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/6428918",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   3
+  ],
+  "esito": "SÌ"
  }
 }
