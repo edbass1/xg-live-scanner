@@ -5258,6 +5258,33 @@
   "min_odd": 1.08,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5071458",
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5071462": {
+  "ora": "29/10/2026 02:51",
+  "lega": "Major League Soccer",
+  "casa": "Chicago Fire FC",
+  "ospite": "Orlando City",
+  "min": 50,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   1.19,
+   0.51
+  ],
+  "sot": 6.0,
+  "tiri": 18.0,
+  "corner": 3.0,
+  "p": 0.9076,
+  "min_odd": 1.16,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071462",
   "finale": null,
   "esito": null
  }

@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-29T00:53:13+00:00",
- "live_tot": 23,
- "senza_xg": 6,
+ "updated": "2026-10-29T01:51:06+00:00",
+ "live_tot": 15,
+ "senza_xg": 2,
  "matches": [
   {
-   "id": 5071458,
+   "id": 5071462,
    "lega": "Major League Soccer",
-   "casa": "New England Revolution",
-   "ospite": "Red Bull New York",
-   "min": 54,
-   "tempo": "54‎’‎",
+   "casa": "Chicago Fire FC",
+   "ospite": "Orlando City",
+   "min": 50,
+   "tempo": "50‎’‎",
    "gol": [
-    2,
-    1
+    0,
+    2
    ],
-   "url": "https://www.fotmob.com/match/5071458",
+   "url": "https://www.fotmob.com/match/5071462",
    "xg": [
-    1.05,
-    1.46
+    1.19,
+    0.51
    ],
-   "sot": 10.0,
+   "sot": 6.0,
    "tiri": 18.0,
-   "corner": 6.0,
-   "p": 0.9742,
-   "fair": 1.03,
-   "min_odd": 1.08,
-   "lam": 3.66,
+   "corner": 3.0,
+   "p": 0.9076,
+   "fair": 1.1,
+   "min_odd": 1.16,
+   "lam": 2.38,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.26,
-   "thr_sot": 4.5,
-   "xm": 1.46,
-   "line": "Over 3.5"
+   "thr_xg": 1.17,
+   "thr_sot": 4.2,
+   "xm": 1.19,
+   "line": "Over 2.5"
   }
  ]
 }
