@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-29T01:51:06+00:00",
- "live_tot": 15,
- "senza_xg": 2,
- "matches": [
-  {
-   "id": 5071462,
-   "lega": "Major League Soccer",
-   "casa": "Chicago Fire FC",
-   "ospite": "Orlando City",
-   "min": 50,
-   "tempo": "50‎’‎",
-   "gol": [
-    0,
-    2
-   ],
-   "url": "https://www.fotmob.com/match/5071462",
-   "xg": [
-    1.19,
-    0.51
-   ],
-   "sot": 6.0,
-   "tiri": 18.0,
-   "corner": 3.0,
-   "p": 0.9076,
-   "fair": 1.1,
-   "min_odd": 1.16,
-   "lam": 2.38,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.17,
-   "thr_sot": 4.2,
-   "xm": 1.19,
-   "line": "Over 2.5"
-  }
- ]
+ "updated": "2026-10-29T02:38:43+00:00",
+ "live_tot": 4,
+ "senza_xg": 0,
+ "matches": []
 }
