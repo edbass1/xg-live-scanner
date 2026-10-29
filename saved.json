@@ -5506,5 +5506,29 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "5103689": {
+  "ora": "30/10/2026 00:49",
+  "lega": "Série A",
+  "casa": "Atlético-MG",
+  "ospite": "Cruzeiro",
+  "min": 56,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.74,
+   2.35
+  ],
+  "sot": 7.0,
+  "tiri": 22.0,
+  "corner": 4.0,
+  "p": 0.9755,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103689",
+  "finale": null,
+  "esito": null
  }
 }

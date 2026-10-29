@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-29T23:09:05+00:00",
+ "updated": "2026-10-29T23:49:48+00:00",
  "live_tot": 1,
  "senza_xg": 0,
- "matches": []
+ "matches": [
+  {
+   "id": 5103689,
+   "lega": "Série A",
+   "casa": "Atlético-MG",
+   "ospite": "Cruzeiro",
+   "min": 56,
+   "tempo": "56‎’‎",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5103689",
+   "xg": [
+    0.74,
+    2.35
+   ],
+   "sot": 7.0,
+   "tiri": 22.0,
+   "corner": 4.0,
+   "p": 0.9755,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.71,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.31,
+   "thr_sot": 4.7,
+   "xm": 2.35,
+   "line": "Over 1.5"
+  }
+ ]
 }
