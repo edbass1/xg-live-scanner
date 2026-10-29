@@ -5341,5 +5341,77 @@
   "url": "https://www.fotmob.com/match/5749723",
   "finale": null,
   "esito": null
+ },
+ "6386043": {
+  "ora": "29/10/2026 20:23",
+  "lega": "Copa del Rey",
+  "casa": "Atletico Calatayud",
+  "ospite": "Osasuna",
+  "min": 66,
+  "gol": [
+   0,
+   5
+  ],
+  "xg": [
+   0.35,
+   3.58
+  ],
+  "sot": 9.0,
+  "tiri": 25.0,
+  "corner": 8.0,
+  "p": 0.9058,
+  "min_odd": 1.16,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6386043",
+  "finale": null,
+  "esito": null
+ },
+ "6386062": {
+  "ora": "29/10/2026 20:23",
+  "lega": "Copa del Rey",
+  "casa": "UB Lebrijana",
+  "ospite": "Getafe",
+  "min": 62,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   0.37,
+   1.45
+  ],
+  "sot": 12.0,
+  "tiri": 21.0,
+  "corner": 7.0,
+  "p": 0.8478,
+  "min_odd": 1.24,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6386062",
+  "finale": null,
+  "esito": null
+ },
+ "5970194": {
+  "ora": "29/10/2026 20:23",
+  "lega": "Saudi Pro League",
+  "casa": "Al Riyadh",
+  "ospite": "Al Qadsiah",
+  "min": 64,
+  "gol": [
+   0,
+   3
+  ],
+  "xg": [
+   0.79,
+   2.88
+  ],
+  "sot": 8.0,
+  "tiri": 27.0,
+  "corner": 2.0,
+  "p": 0.9085,
+  "min_odd": 1.16,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5970194",
+  "finale": null,
+  "esito": null
  }
 }

@@ -1,38 +1,100 @@
 {
- "updated": "2026-10-29T18:21:22+00:00",
- "live_tot": 34,
- "senza_xg": 10,
+ "updated": "2026-10-29T19:23:32+00:00",
+ "live_tot": 40,
+ "senza_xg": 8,
  "matches": [
   {
-   "id": 5749723,
-   "lega": "Serie A",
-   "casa": "Frosinone",
-   "ospite": "Lecce",
-   "min": 48,
-   "tempo": "48‎’‎",
+   "id": 5970194,
+   "lega": "Saudi Pro League",
+   "casa": "Al Riyadh",
+   "ospite": "Al Qadsiah",
+   "min": 64,
+   "tempo": "64‎’‎",
    "gol": [
-    2,
-    0
+    0,
+    3
    ],
-   "url": "https://www.fotmob.com/match/5749723",
+   "url": "https://www.fotmob.com/match/5970194",
    "xg": [
-    1.47,
-    0.69
+    0.79,
+    2.88
    ],
-   "sot": 6.0,
-   "tiri": 17.0,
-   "corner": 7.0,
-   "p": 0.9616,
-   "fair": 1.04,
-   "min_odd": 1.09,
-   "lam": 3.26,
+   "sot": 8.0,
+   "tiri": 27.0,
+   "corner": 2.0,
+   "p": 0.9085,
+   "fair": 1.1,
+   "min_odd": 1.16,
+   "lam": 2.39,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.12,
-   "thr_sot": 4.0,
-   "xm": 1.47,
-   "line": "Over 2.5"
+   "thr_xg": 1.49,
+   "thr_sot": 5.3,
+   "xm": 2.88,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 6386043,
+   "lega": "Copa del Rey",
+   "casa": "Atletico Calatayud",
+   "ospite": "Osasuna",
+   "min": 66,
+   "tempo": "66‎’‎",
+   "gol": [
+    0,
+    5
+   ],
+   "url": "https://www.fotmob.com/match/6386043",
+   "xg": [
+    0.35,
+    3.58
+   ],
+   "sot": 9.0,
+   "tiri": 25.0,
+   "corner": 8.0,
+   "p": 0.9058,
+   "fair": 1.1,
+   "min_odd": 1.16,
+   "lam": 2.36,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.54,
+   "thr_sot": 5.5,
+   "xm": 3.58,
+   "line": "Over 5.5"
+  },
+  {
+   "id": 6386062,
+   "lega": "Copa del Rey",
+   "casa": "UB Lebrijana",
+   "ospite": "Getafe",
+   "min": 62,
+   "tempo": "62‎’‎",
+   "gol": [
+    2,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/6386062",
+   "xg": [
+    0.37,
+    1.45
+   ],
+   "sot": 12.0,
+   "tiri": 21.0,
+   "corner": 7.0,
+   "p": 0.8478,
+   "fair": 1.18,
+   "min_odd": 1.24,
+   "lam": 1.88,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.45,
+   "thr_sot": 5.2,
+   "xm": 1.45,
+   "line": "Over 4.5"
   }
  ]
 }
