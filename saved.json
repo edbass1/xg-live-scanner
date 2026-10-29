@@ -5290,5 +5290,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5071469": {
+  "ora": "29/10/2026 04:25",
+  "lega": "Major League Soccer",
+  "casa": "Vancouver Whitecaps",
+  "ospite": "San Diego FC",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.45,
+   0.64
+  ],
+  "sot": 8.0,
+  "tiri": 17.0,
+  "corner": 7.0,
+  "p": 0.9797,
+  "min_odd": 1.07,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5071469",
+  "finale": null,
+  "esito": null
  }
 }

@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-29T02:38:43+00:00",
- "live_tot": 4,
- "senza_xg": 0,
- "matches": []
+ "updated": "2026-10-29T03:25:53+00:00",
+ "live_tot": 6,
+ "senza_xg": 1,
+ "matches": [
+  {
+   "id": 5071469,
+   "lega": "Major League Soccer",
+   "casa": "Vancouver Whitecaps",
+   "ospite": "San Diego FC",
+   "min": 45,
+   "tempo": "45‎’‎",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5071469",
+   "xg": [
+    1.45,
+    0.64
+   ],
+   "sot": 8.0,
+   "tiri": 17.0,
+   "corner": 7.0,
+   "p": 0.9797,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 3.9,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.45,
+   "line": "Over 2.5"
+  }
+ ]
 }
