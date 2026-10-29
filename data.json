@@ -1,100 +1,38 @@
 {
- "updated": "2026-10-29T19:23:32+00:00",
- "live_tot": 40,
- "senza_xg": 8,
+ "updated": "2026-10-29T20:12:53+00:00",
+ "live_tot": 35,
+ "senza_xg": 16,
  "matches": [
   {
-   "id": 5970194,
-   "lega": "Saudi Pro League",
-   "casa": "Al Riyadh",
-   "ospite": "Al Qadsiah",
-   "min": 64,
-   "tempo": "64‎’‎",
+   "id": 5985966,
+   "lega": "League Cup",
+   "casa": "Braga",
+   "ospite": "Famalicão",
+   "min": 63,
+   "tempo": "63‎’‎",
    "gol": [
-    0,
-    3
-   ],
-   "url": "https://www.fotmob.com/match/5970194",
-   "xg": [
-    0.79,
-    2.88
-   ],
-   "sot": 8.0,
-   "tiri": 27.0,
-   "corner": 2.0,
-   "p": 0.9085,
-   "fair": 1.1,
-   "min_odd": 1.16,
-   "lam": 2.39,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.49,
-   "thr_sot": 5.3,
-   "xm": 2.88,
-   "line": "Over 3.5"
-  },
-  {
-   "id": 6386043,
-   "lega": "Copa del Rey",
-   "casa": "Atletico Calatayud",
-   "ospite": "Osasuna",
-   "min": 66,
-   "tempo": "66‎’‎",
-   "gol": [
-    0,
-    5
-   ],
-   "url": "https://www.fotmob.com/match/6386043",
-   "xg": [
-    0.35,
-    3.58
-   ],
-   "sot": 9.0,
-   "tiri": 25.0,
-   "corner": 8.0,
-   "p": 0.9058,
-   "fair": 1.1,
-   "min_odd": 1.16,
-   "lam": 2.36,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.54,
-   "thr_sot": 5.5,
-   "xm": 3.58,
-   "line": "Over 5.5"
-  },
-  {
-   "id": 6386062,
-   "lega": "Copa del Rey",
-   "casa": "UB Lebrijana",
-   "ospite": "Getafe",
-   "min": 62,
-   "tempo": "62‎’‎",
-   "gol": [
-    2,
+    1,
     2
    ],
-   "url": "https://www.fotmob.com/match/6386062",
+   "url": "https://www.fotmob.com/match/5985966",
    "xg": [
-    0.37,
-    1.45
+    2.58,
+    1.3
    ],
-   "sot": 12.0,
-   "tiri": 21.0,
-   "corner": 7.0,
-   "p": 0.8478,
-   "fair": 1.18,
-   "min_odd": 1.24,
-   "lam": 1.88,
+   "sot": 9.0,
+   "tiri": 28.0,
+   "corner": 9.0,
+   "p": 0.9689,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.47,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.45,
+   "thr_xg": 1.47,
    "thr_sot": 5.2,
-   "xm": 1.45,
-   "line": "Over 4.5"
+   "xm": 2.58,
+   "line": "Over 3.5"
   }
  ]
 }
