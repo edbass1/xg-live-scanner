@@ -5744,6 +5744,33 @@
   "min_odd": 1.06,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5846013",
+  "finale": [
+   0,
+   4
+  ],
+  "esito": "SÌ"
+ },
+ "5100991": {
+  "ora": "30/10/2026 21:59",
+  "lega": "Premier Division",
+  "casa": "St. Patrick's Athletic",
+  "ospite": "Bohemian FC",
+  "min": 56,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   1.23,
+   1.64
+  ],
+  "sot": 10.0,
+  "tiri": 23.0,
+  "corner": 8.0,
+  "p": 0.9771,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5100991",
   "finale": null,
   "esito": null
  }
