@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-30T20:59:18+00:00",
- "live_tot": 35,
- "senza_xg": 13,
- "matches": [
-  {
-   "id": 5100991,
-   "lega": "Premier Division",
-   "casa": "St. Patrick's Athletic",
-   "ospite": "Bohemian FC",
-   "min": 56,
-   "tempo": "56‎’‎",
-   "gol": [
-    1,
-    2
-   ],
-   "url": "https://www.fotmob.com/match/5100991",
-   "xg": [
-    1.23,
-    1.64
-   ],
-   "sot": 10.0,
-   "tiri": 23.0,
-   "corner": 8.0,
-   "p": 0.9771,
-   "fair": 1.02,
-   "min_odd": 1.07,
-   "lam": 3.77,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.31,
-   "thr_sot": 4.7,
-   "xm": 1.64,
-   "line": "Over 3.5"
-  }
- ]
+ "updated": "2026-10-30T21:39:06+00:00",
+ "live_tot": 18,
+ "senza_xg": 1,
+ "matches": []
 }
