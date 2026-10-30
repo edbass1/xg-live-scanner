@@ -1,38 +1,193 @@
 {
- "updated": "2026-10-30T17:59:05+00:00",
- "live_tot": 23,
- "senza_xg": 11,
+ "updated": "2026-10-30T18:46:06+00:00",
+ "live_tot": 47,
+ "senza_xg": 22,
  "matches": [
   {
-   "id": 5804022,
-   "lega": "Ekstraklasa",
-   "casa": "Cracovia",
-   "ospite": "Motor Lublin",
-   "min": 45,
-   "tempo": "Intervallo",
+   "id": 5802978,
+   "lega": "Ligue 1",
+   "casa": "Nice",
+   "ospite": "Rennes",
+   "min": 46,
+   "tempo": "46‎’‎",
+   "gol": [
+    2,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5802978",
+   "xg": [
+    2.27,
+    1.16
+   ],
+   "sot": 7.0,
+   "tiri": 19.0,
+   "corner": 7.0,
+   "p": 0.9986,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 6.56,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 2.27,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5802973,
+   "lega": "Ligue 1",
+   "casa": "Le Havre",
+   "ospite": "Paris Saint-Germain",
+   "min": 46,
+   "tempo": "46‎’‎",
    "gol": [
     1,
     2
    ],
-   "url": "https://www.fotmob.com/match/5804022",
+   "url": "https://www.fotmob.com/match/5802973",
    "xg": [
-    1.01,
-    1.41
+    1.21,
+    1.22
    ],
-   "sot": 11.0,
-   "tiri": 20.0,
-   "corner": 7.0,
-   "p": 0.9959,
-   "fair": 1.0,
-   "min_odd": 1.05,
-   "lam": 5.51,
+   "sot": 6.0,
+   "tiri": 13.0,
+   "corner": 3.0,
+   "p": 0.9894,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.54,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 1.22,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5105035,
+   "lega": "Eliteserien",
+   "casa": "Bodø/Glimt",
+   "ospite": "Viking",
+   "min": 46,
+   "tempo": "46‎’‎",
+   "gol": [
+    3,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5105035",
+   "xg": [
+    1.51,
+    0.71
+   ],
+   "sot": 7.0,
+   "tiri": 19.0,
+   "corner": 4.0,
+   "p": 0.9869,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.33,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 1.51,
+   "line": "Over 5.5"
+  },
+  {
+   "id": 5970195,
+   "lega": "Saudi Pro League",
+   "casa": "Al Shabab",
+   "ospite": "Al Ahli",
+   "min": 47,
+   "tempo": "47‎’‎",
+   "gol": [
+    3,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5970195",
+   "xg": [
+    1.86,
+    0.74
+   ],
+   "sot": 6.0,
+   "tiri": 13.0,
+   "corner": 2.0,
+   "p": 0.9829,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 4.07,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.1,
+   "thr_sot": 3.9,
+   "xm": 1.86,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5996758,
+   "lega": "Premier League",
+   "casa": "Olympic El Qanah FC",
+   "ospite": "Al Sharkeyah-ENPPI",
+   "min": 45,
+   "tempo": "45‎’‎",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5996758",
+   "xg": [
+    0.3,
+    1.41
+   ],
+   "sot": 4.0,
+   "tiri": 12.0,
+   "corner": 3.0,
+   "p": 0.9352,
+   "fair": 1.07,
+   "min_odd": 1.12,
+   "lam": 2.74,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
    "warn": [],
    "thr_xg": 1.05,
    "thr_sot": 3.8,
    "xm": 1.41,
-   "line": "Over 3.5"
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5955109,
+   "lega": "Premier Soccer League",
+   "casa": "Marumo Gallants",
+   "ospite": "Siwelele",
+   "min": 56,
+   "tempo": "56‎’‎",
+   "gol": [
+    3,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5955109",
+   "xg": [
+    1.42,
+    0.25
+   ],
+   "sot": 6.0,
+   "tiri": 16.0,
+   "corner": 6.0,
+   "p": 0.8673,
+   "fair": 1.15,
+   "min_odd": 1.21,
+   "lam": 2.02,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.31,
+   "thr_sot": 4.7,
+   "xm": 1.42,
+   "line": "Over 5.5"
   }
  ]
 }
