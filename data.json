@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-30T17:17:51+00:00",
- "live_tot": 20,
- "senza_xg": 7,
- "matches": []
+ "updated": "2026-10-30T17:59:05+00:00",
+ "live_tot": 23,
+ "senza_xg": 11,
+ "matches": [
+  {
+   "id": 5804022,
+   "lega": "Ekstraklasa",
+   "casa": "Cracovia",
+   "ospite": "Motor Lublin",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5804022",
+   "xg": [
+    1.01,
+    1.41
+   ],
+   "sot": 11.0,
+   "tiri": 20.0,
+   "corner": 7.0,
+   "p": 0.9959,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 5.51,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.41,
+   "line": "Over 3.5"
+  }
+ ]
 }
