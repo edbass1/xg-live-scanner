@@ -5555,8 +5555,11 @@
   "min_odd": 1.05,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5804022",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "NO"
  },
  "5802973": {
   "ora": "30/10/2026 19:46",
@@ -5675,8 +5678,11 @@
   "min_odd": 1.21,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5955109",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "NO"
  },
  "5970195": {
   "ora": "30/10/2026 19:46",
@@ -5699,6 +5705,30 @@
   "min_odd": 1.07,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5970195",
+  "finale": null,
+  "esito": null
+ },
+ "5846013": {
+  "ora": "30/10/2026 20:32",
+  "lega": "Bundesliga",
+  "casa": "Grazer AK",
+  "ospite": "Hartberg",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.55,
+   2.15
+  ],
+  "sot": 8.0,
+  "tiri": 18.0,
+  "corner": 3.0,
+  "p": 0.993,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5846013",
   "finale": null,
   "esito": null
  }
