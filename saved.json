@@ -5857,5 +5857,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "5803644": {
+  "ora": "31/10/2026 07:07",
+  "lega": "J. League",
+  "casa": "Fagiano Okayama FC",
+  "ospite": "FC Tokyo",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.23,
+   1.5
+  ],
+  "sot": 5.0,
+  "tiri": 12.0,
+  "corner": 5.0,
+  "p": 0.9636,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5803644",
+  "finale": null,
+  "esito": null
  }
 }

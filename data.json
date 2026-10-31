@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-31T05:22:56+00:00",
- "live_tot": 32,
- "senza_xg": 6,
- "matches": []
+ "updated": "2026-10-31T06:07:50+00:00",
+ "live_tot": 30,
+ "senza_xg": 21,
+ "matches": [
+  {
+   "id": 5803644,
+   "lega": "J. League",
+   "casa": "Fagiano Okayama FC",
+   "ospite": "FC Tokyo",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5803644",
+   "xg": [
+    0.23,
+    1.5
+   ],
+   "sot": 5.0,
+   "tiri": 12.0,
+   "corner": 5.0,
+   "p": 0.9636,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.31,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.5,
+   "line": "Over 1.5"
+  }
+ ]
 }
