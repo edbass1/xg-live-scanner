@@ -6307,5 +6307,29 @@
   "url": "https://www.fotmob.com/match/5804286",
   "finale": null,
   "esito": null
+ },
+ "5881208": {
+  "ora": "31/10/2026 19:43",
+  "lega": "Bundesliga",
+  "casa": "Bayern München",
+  "ospite": "Borussia Dortmund",
+  "min": 50,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.9,
+   0.39
+  ],
+  "sot": 5.0,
+  "tiri": 16.0,
+  "corner": 2.0,
+  "p": 0.9672,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5881208",
+  "finale": null,
+  "esito": null
  }
 }
