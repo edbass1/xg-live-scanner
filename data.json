@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-31T21:54:24+00:00",
- "live_tot": 23,
- "senza_xg": 6,
- "matches": [
-  {
-   "id": 5887670,
-   "lega": "Liga Portugal",
-   "casa": "FC Porto",
-   "ospite": "Estoril",
-   "min": 62,
-   "tempo": "62‎’‎",
-   "gol": [
-    1,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5887670",
-   "xg": [
-    2.06,
-    0.21
-   ],
-   "sot": 6.0,
-   "tiri": 20.0,
-   "corner": 8.0,
-   "p": 0.865,
-   "fair": 1.16,
-   "min_odd": 1.21,
-   "lam": 2.0,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.45,
-   "thr_sot": 5.2,
-   "xm": 2.06,
-   "line": "Over 1.5"
-  }
- ]
+ "updated": "2026-10-31T22:29:45+00:00",
+ "live_tot": 18,
+ "senza_xg": 7,
+ "matches": []
 }
