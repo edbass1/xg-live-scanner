@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-31T18:43:29+00:00",
- "live_tot": 76,
- "senza_xg": 8,
- "matches": [
-  {
-   "id": 5881208,
-   "lega": "Bundesliga",
-   "casa": "Bayern München",
-   "ospite": "Borussia Dortmund",
-   "min": 50,
-   "tempo": "50‎’‎",
-   "gol": [
-    1,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5881208",
-   "xg": [
-    1.9,
-    0.39
-   ],
-   "sot": 5.0,
-   "tiri": 16.0,
-   "corner": 2.0,
-   "p": 0.9672,
-   "fair": 1.03,
-   "min_odd": 1.09,
-   "lam": 3.42,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.17,
-   "thr_sot": 4.2,
-   "xm": 1.9,
-   "line": "Over 1.5"
-  }
- ]
+ "updated": "2026-10-31T19:25:17+00:00",
+ "live_tot": 54,
+ "senza_xg": 17,
+ "matches": []
 }

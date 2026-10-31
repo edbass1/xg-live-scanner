@@ -6257,8 +6257,11 @@
   "min_odd": 1.06,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5749739",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   5
+  ],
+  "esito": "SÌ"
  },
  "5105039": {
   "ora": "31/10/2026 18:59",
@@ -6281,8 +6284,11 @@
   "min_odd": 1.05,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5105039",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   4
+  ],
+  "esito": "SÌ"
  },
  "5804286": {
   "ora": "31/10/2026 18:59",
@@ -6305,8 +6311,11 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5804286",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5881208": {
   "ora": "31/10/2026 19:43",
