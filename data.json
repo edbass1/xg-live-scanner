@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-31T20:03:26+00:00",
- "live_tot": 50,
- "senza_xg": 9,
- "matches": []
+ "updated": "2026-10-31T20:39:48+00:00",
+ "live_tot": 36,
+ "senza_xg": 2,
+ "matches": [
+  {
+   "id": 5749730,
+   "lega": "Serie A",
+   "casa": "Milan",
+   "ospite": "Inter",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    3,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5749730",
+   "xg": [
+    0.59,
+    1.06
+   ],
+   "sot": 9.0,
+   "tiri": 14.0,
+   "corner": 8.0,
+   "p": 0.9601,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.22,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.06,
+   "line": "Over 4.5"
+  }
+ ]
 }

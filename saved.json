@@ -6343,5 +6343,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5749730": {
+  "ora": "31/10/2026 21:39",
+  "lega": "Serie A",
+  "casa": "Milan",
+  "ospite": "Inter",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   0.59,
+   1.06
+  ],
+  "sot": 9.0,
+  "tiri": 14.0,
+  "corner": 8.0,
+  "p": 0.9601,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5749730",
+  "finale": null,
+  "esito": null
  }
 }
