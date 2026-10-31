@@ -6367,5 +6367,53 @@
   "url": "https://www.fotmob.com/match/5749730",
   "finale": null,
   "esito": null
+ },
+ "5868115": {
+  "ora": "31/10/2026 22:16",
+  "lega": "LaLiga",
+  "casa": "Barcelona",
+  "ospite": "Deportivo Alavés",
+  "min": 51,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   2.23,
+   0.46
+  ],
+  "sot": 7.0,
+  "tiri": 15.0,
+  "corner": 5.0,
+  "p": 0.9608,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5868115",
+  "finale": null,
+  "esito": null
+ },
+ "5811791": {
+  "ora": "31/10/2026 22:16",
+  "lega": "Belgian Pro League",
+  "casa": "Anderlecht",
+  "ospite": "Westerlo",
+  "min": 65,
+  "gol": [
+   4,
+   0
+  ],
+  "xg": [
+   2.36,
+   0.61
+  ],
+  "sot": 9.0,
+  "tiri": 27.0,
+  "corner": 5.0,
+  "p": 0.8522,
+  "min_odd": 1.23,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5811791",
+  "finale": null,
+  "esito": null
  }
 }

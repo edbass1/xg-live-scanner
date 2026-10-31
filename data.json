@@ -1,37 +1,68 @@
 {
- "updated": "2026-10-31T20:39:48+00:00",
- "live_tot": 36,
- "senza_xg": 2,
+ "updated": "2026-10-31T21:16:23+00:00",
+ "live_tot": 30,
+ "senza_xg": 5,
  "matches": [
   {
-   "id": 5749730,
-   "lega": "Serie A",
-   "casa": "Milan",
-   "ospite": "Inter",
-   "min": 45,
-   "tempo": "Intervallo",
+   "id": 5868115,
+   "lega": "LaLiga",
+   "casa": "Barcelona",
+   "ospite": "Deportivo Alavés",
+   "min": 51,
+   "tempo": "51‎’‎",
    "gol": [
-    3,
-    1
+    4,
+    0
    ],
-   "url": "https://www.fotmob.com/match/5749730",
+   "url": "https://www.fotmob.com/match/5868115",
    "xg": [
-    0.59,
-    1.06
+    2.23,
+    0.46
    ],
-   "sot": 9.0,
-   "tiri": 14.0,
-   "corner": 8.0,
-   "p": 0.9601,
+   "sot": 7.0,
+   "tiri": 15.0,
+   "corner": 5.0,
+   "p": 0.9608,
    "fair": 1.04,
    "min_odd": 1.09,
-   "lam": 3.22,
+   "lam": 3.24,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.06,
+   "thr_xg": 1.19,
+   "thr_sot": 4.2,
+   "xm": 2.23,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5811791,
+   "lega": "Belgian Pro League",
+   "casa": "Anderlecht",
+   "ospite": "Westerlo",
+   "min": 65,
+   "tempo": "65‎’‎",
+   "gol": [
+    4,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5811791",
+   "xg": [
+    2.36,
+    0.61
+   ],
+   "sot": 9.0,
+   "tiri": 27.0,
+   "corner": 5.0,
+   "p": 0.8522,
+   "fair": 1.17,
+   "min_odd": 1.23,
+   "lam": 1.91,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.52,
+   "thr_sot": 5.4,
+   "xm": 2.36,
    "line": "Over 4.5"
   }
  ]
