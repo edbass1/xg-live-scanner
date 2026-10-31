@@ -5879,7 +5879,10 @@
   "min_odd": 1.09,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5803644",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   4
+  ],
+  "esito": "SÌ"
  }
 }
