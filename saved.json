@@ -5803,5 +5803,53 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "1000014626": {
+  "ora": "31/10/2026 03:18",
+  "lega": "Liga MX",
+  "casa": "FC Juárez",
+  "ospite": "Querétaro FC",
+  "min": 59,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   0.59,
+   1.41
+  ],
+  "sot": 6.0,
+  "tiri": 19.0,
+  "corner": 7.0,
+  "p": 0.8373,
+  "min_odd": 1.25,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/1000014626",
+  "finale": null,
+  "esito": null
+ },
+ "1000014095": {
+  "ora": "31/10/2026 03:18",
+  "lega": "Primera A",
+  "casa": "Bucaramanga",
+  "ospite": "Deportivo Pasto",
+  "min": 50,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   2.3,
+   0.65
+  ],
+  "sot": 9.0,
+  "tiri": 22.0,
+  "corner": 2.0,
+  "p": 0.9923,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/1000014095",
+  "finale": null,
+  "esito": null
  }
 }

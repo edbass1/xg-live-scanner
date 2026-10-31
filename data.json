@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-31T01:23:49+00:00",
- "live_tot": 21,
+ "updated": "2026-10-31T02:18:13+00:00",
+ "live_tot": 14,
  "senza_xg": 5,
- "matches": []
+ "matches": [
+  {
+   "id": 1000014095,
+   "lega": "Primera A",
+   "casa": "Bucaramanga",
+   "ospite": "Deportivo Pasto",
+   "min": 50,
+   "tempo": "50‎’‎",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/1000014095",
+   "xg": [
+    2.3,
+    0.65
+   ],
+   "sot": 9.0,
+   "tiri": 22.0,
+   "corner": 2.0,
+   "p": 0.9923,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.87,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.17,
+   "thr_sot": 4.2,
+   "xm": 2.3,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 1000014626,
+   "lega": "Liga MX",
+   "casa": "FC Juárez",
+   "ospite": "Querétaro FC",
+   "min": 59,
+   "tempo": "59‎’‎",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/1000014626",
+   "xg": [
+    0.59,
+    1.41
+   ],
+   "sot": 6.0,
+   "tiri": 19.0,
+   "corner": 7.0,
+   "p": 0.8373,
+   "fair": 1.19,
+   "min_odd": 1.25,
+   "lam": 1.82,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.38,
+   "thr_sot": 4.9,
+   "xm": 1.41,
+   "line": "Over 2.5"
+  }
+ ]
 }
