@@ -5776,5 +5776,29 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "5103687": {
+  "ora": "31/10/2026 01:13",
+  "lega": "Série A",
+  "casa": "Corinthians",
+  "ospite": "Mirassol",
+  "min": 48,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.13,
+   0.0
+  ],
+  "sot": 4.0,
+  "tiri": 17.0,
+  "corner": 3.0,
+  "p": 0.8223,
+  "min_odd": 1.28,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5103687",
+  "finale": null,
+  "esito": null
  }
 }
