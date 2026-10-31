@@ -6365,8 +6365,11 @@
   "min_odd": 1.09,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5749730",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   1
+  ],
+  "esito": "NO"
  },
  "5868115": {
   "ora": "31/10/2026 22:16",
@@ -6413,6 +6416,33 @@
   "min_odd": 1.23,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5811791",
+  "finale": [
+   4,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5887670": {
+  "ora": "31/10/2026 22:54",
+  "lega": "Liga Portugal",
+  "casa": "FC Porto",
+  "ospite": "Estoril",
+  "min": 62,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   2.06,
+   0.21
+  ],
+  "sot": 6.0,
+  "tiri": 20.0,
+  "corner": 8.0,
+  "p": 0.865,
+  "min_odd": 1.21,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5887670",
   "finale": null,
   "esito": null
  }

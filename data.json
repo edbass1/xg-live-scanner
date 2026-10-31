@@ -1,69 +1,38 @@
 {
- "updated": "2026-10-31T21:16:23+00:00",
- "live_tot": 30,
- "senza_xg": 5,
+ "updated": "2026-10-31T21:54:24+00:00",
+ "live_tot": 23,
+ "senza_xg": 6,
  "matches": [
   {
-   "id": 5868115,
-   "lega": "LaLiga",
-   "casa": "Barcelona",
-   "ospite": "Deportivo Alavés",
-   "min": 51,
-   "tempo": "51‎’‎",
+   "id": 5887670,
+   "lega": "Liga Portugal",
+   "casa": "FC Porto",
+   "ospite": "Estoril",
+   "min": 62,
+   "tempo": "62‎’‎",
    "gol": [
-    4,
+    1,
     0
    ],
-   "url": "https://www.fotmob.com/match/5868115",
+   "url": "https://www.fotmob.com/match/5887670",
    "xg": [
-    2.23,
-    0.46
+    2.06,
+    0.21
    ],
-   "sot": 7.0,
-   "tiri": 15.0,
-   "corner": 5.0,
-   "p": 0.9608,
-   "fair": 1.04,
-   "min_odd": 1.09,
-   "lam": 3.24,
+   "sot": 6.0,
+   "tiri": 20.0,
+   "corner": 8.0,
+   "p": 0.865,
+   "fair": 1.16,
+   "min_odd": 1.21,
+   "lam": 2.0,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.19,
-   "thr_sot": 4.2,
-   "xm": 2.23,
-   "line": "Over 4.5"
-  },
-  {
-   "id": 5811791,
-   "lega": "Belgian Pro League",
-   "casa": "Anderlecht",
-   "ospite": "Westerlo",
-   "min": 65,
-   "tempo": "65‎’‎",
-   "gol": [
-    4,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5811791",
-   "xg": [
-    2.36,
-    0.61
-   ],
-   "sot": 9.0,
-   "tiri": 27.0,
-   "corner": 5.0,
-   "p": 0.8522,
-   "fair": 1.17,
-   "min_odd": 1.23,
-   "lam": 1.91,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.52,
-   "thr_sot": 5.4,
-   "xm": 2.36,
-   "line": "Over 4.5"
+   "thr_xg": 1.45,
+   "thr_sot": 5.2,
+   "xm": 2.06,
+   "line": "Over 1.5"
   }
  ]
 }
