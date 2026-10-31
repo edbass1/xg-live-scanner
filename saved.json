@@ -5906,8 +5906,11 @@
   "min_odd": 1.36,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5881713",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   3
+  ],
+  "esito": "NO"
  },
  "5836900": {
   "ora": "31/10/2026 14:33",
@@ -5954,6 +5957,30 @@
   "min_odd": 1.1,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5838019",
+  "finale": null,
+  "esito": null
+ },
+ "5803299": {
+  "ora": "31/10/2026 15:16",
+  "lega": "Ligue 2",
+  "casa": "Annecy FC",
+  "ospite": "Montpellier",
+  "min": 55,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   2.17,
+   1.39
+  ],
+  "sot": 11.0,
+  "tiri": 17.0,
+  "corner": 4.0,
+  "p": 0.9874,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5803299",
   "finale": null,
   "esito": null
  }

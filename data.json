@@ -1,100 +1,38 @@
 {
- "updated": "2026-10-31T13:33:11+00:00",
- "live_tot": 143,
- "senza_xg": 19,
+ "updated": "2026-10-31T14:16:17+00:00",
+ "live_tot": 138,
+ "senza_xg": 54,
  "matches": [
   {
-   "id": 5836900,
-   "lega": "Championship",
-   "casa": "Lincoln City",
-   "ospite": "Birmingham City",
-   "min": 45,
-   "tempo": "Intervallo",
+   "id": 5803299,
+   "lega": "Ligue 2",
+   "casa": "Annecy FC",
+   "ospite": "Montpellier",
+   "min": 55,
+   "tempo": "55‎’‎",
    "gol": [
     0,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5836900",
-   "xg": [
-    1.26,
-    0.6
-   ],
-   "sot": 4.0,
-   "tiri": 12.0,
-   "corner": 5.0,
-   "p": 0.9654,
-   "fair": 1.04,
-   "min_odd": 1.09,
-   "lam": 3.36,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.26,
-   "line": "Over 1.5"
-  },
-  {
-   "id": 5838019,
-   "lega": "League Two",
-   "casa": "Grimsby Town",
-   "ospite": "York City",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    2,
     2
    ],
-   "url": "https://www.fotmob.com/match/5838019",
+   "url": "https://www.fotmob.com/match/5803299",
    "xg": [
-    1.27,
-    0.26
+    2.17,
+    1.39
    ],
-   "sot": 6.0,
-   "tiri": 19.0,
-   "corner": 3.0,
-   "p": 0.9506,
-   "fair": 1.05,
-   "min_odd": 1.1,
-   "lam": 3.01,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.27,
-   "line": "Over 4.5"
-  },
-  {
-   "id": 5881713,
-   "lega": "2. Bundesliga",
-   "casa": "Kaiserslautern",
-   "ospite": "Hertha BSC",
-   "min": 69,
-   "tempo": "69‎’‎",
-   "gol": [
-    0,
-    3
-   ],
-   "url": "https://www.fotmob.com/match/5881713",
-   "xg": [
-    1.03,
-    1.81
-   ],
-   "sot": 9.0,
-   "tiri": 22.0,
-   "corner": 2.0,
-   "p": 0.7709,
-   "fair": 1.3,
-   "min_odd": 1.36,
-   "lam": 1.47,
+   "sot": 11.0,
+   "tiri": 17.0,
+   "corner": 4.0,
+   "p": 0.9874,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.38,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.61,
-   "thr_sot": 5.8,
-   "xm": 1.81,
-   "line": "Over 3.5"
+   "thr_xg": 1.28,
+   "thr_sot": 4.6,
+   "xm": 2.17,
+   "line": "Over 2.5"
   }
  ]
 }
