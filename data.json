@@ -1,38 +1,193 @@
 {
- "updated": "2026-10-31T15:32:20+00:00",
- "live_tot": 251,
- "senza_xg": 20,
+ "updated": "2026-10-31T16:10:55+00:00",
+ "live_tot": 237,
+ "senza_xg": 141,
  "matches": [
   {
-   "id": 5881207,
-   "lega": "Bundesliga",
-   "casa": "Bayer Leverkusen",
-   "ospite": "VfB Stuttgart",
-   "min": 45,
-   "tempo": "Intervallo",
+   "id": 5837253,
+   "lega": "League One",
+   "casa": "Wigan Athletic",
+   "ospite": "Bromley",
+   "min": 51,
+   "tempo": "51‎’‎",
    "gol": [
-    1,
+    2,
     2
    ],
-   "url": "https://www.fotmob.com/match/5881207",
+   "url": "https://www.fotmob.com/match/5837253",
    "xg": [
-    1.01,
-    2.0
+    1.6,
+    1.47
    ],
    "sot": 8.0,
-   "tiri": 18.0,
-   "corner": 7.0,
-   "p": 0.9981,
-   "fair": 1.0,
-   "min_odd": 1.05,
-   "lam": 6.26,
+   "tiri": 19.0,
+   "corner": 5.0,
+   "p": 0.9908,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.69,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 2.0,
+   "thr_xg": 1.19,
+   "thr_sot": 4.2,
+   "xm": 1.6,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5837245,
+   "lega": "League One",
+   "casa": "Leicester City",
+   "ospite": "Stevenage",
+   "min": 51,
+   "tempo": "51‎’‎",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5837245",
+   "xg": [
+    1.35,
+    1.06
+   ],
+   "sot": 7.0,
+   "tiri": 15.0,
+   "corner": 9.0,
+   "p": 0.9729,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.61,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.19,
+   "thr_sot": 4.2,
+   "xm": 1.35,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5836902,
+   "lega": "Championship",
+   "casa": "Millwall",
+   "ospite": "Derby County",
+   "min": 51,
+   "tempo": "51‎’‎",
+   "gol": [
+    3,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5836902",
+   "xg": [
+    2.15,
+    0.56
+   ],
+   "sot": 6.0,
+   "tiri": 16.0,
+   "corner": 3.0,
+   "p": 0.9568,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.14,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.19,
+   "thr_sot": 4.2,
+   "xm": 2.15,
    "line": "Over 3.5"
+  },
+  {
+   "id": 5838016,
+   "lega": "League Two",
+   "casa": "Colchester United",
+   "ospite": "Walsall",
+   "min": 53,
+   "tempo": "53‎’‎",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5838016",
+   "xg": [
+    1.63,
+    0.45
+   ],
+   "sot": 5.0,
+   "tiri": 17.0,
+   "corner": 6.0,
+   "p": 0.9289,
+   "fair": 1.08,
+   "min_odd": 1.13,
+   "lam": 2.64,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.24,
+   "thr_sot": 4.4,
+   "xm": 1.63,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5836907,
+   "lega": "Championship",
+   "casa": "Swansea City",
+   "ospite": "Blackburn Rovers",
+   "min": 50,
+   "tempo": "50‎’‎",
+   "gol": [
+    3,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5836907",
+   "xg": [
+    1.94,
+    0.05
+   ],
+   "sot": 7.0,
+   "tiri": 14.0,
+   "corner": 1.0,
+   "p": 0.9225,
+   "fair": 1.08,
+   "min_odd": 1.14,
+   "lam": 2.56,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.17,
+   "thr_sot": 4.2,
+   "xm": 1.94,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5837249,
+   "lega": "League One",
+   "casa": "Peterborough United",
+   "ospite": "Luton Town",
+   "min": 54,
+   "tempo": "54‎’‎",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5837249",
+   "xg": [
+    1.29,
+    0.57
+   ],
+   "sot": 7.0,
+   "tiri": 15.0,
+   "corner": 5.0,
+   "p": 0.8927,
+   "fair": 1.12,
+   "min_odd": 1.18,
+   "lam": 2.23,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.26,
+   "thr_sot": 4.5,
+   "xm": 1.29,
+   "line": "Over 2.5"
   }
  ]
 }
