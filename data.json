@@ -1,69 +1,38 @@
 {
- "updated": "2026-10-31T14:55:21+00:00",
- "live_tot": 100,
- "senza_xg": 41,
+ "updated": "2026-10-31T15:32:20+00:00",
+ "live_tot": 251,
+ "senza_xg": 20,
  "matches": [
   {
-   "id": 5804028,
-   "lega": "Ekstraklasa",
-   "casa": "Wieczysta Kraków",
-   "ospite": "Jagiellonia Białystok",
-   "min": 51,
-   "tempo": "51‎’‎",
-   "gol": [
-    0,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5804028",
-   "xg": [
-    0.85,
-    2.05
-   ],
-   "sot": 8.0,
-   "tiri": 20.0,
-   "corner": 8.0,
-   "p": 0.9896,
-   "fair": 1.01,
-   "min_odd": 1.06,
-   "lam": 4.57,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.19,
-   "thr_sot": 4.2,
-   "xm": 2.05,
-   "line": "Over 1.5"
-  },
-  {
-   "id": 5967137,
-   "lega": "Serie B",
-   "casa": "Südtirol",
-   "ospite": "Cesena",
+   "id": 5881207,
+   "lega": "Bundesliga",
+   "casa": "Bayer Leverkusen",
+   "ospite": "VfB Stuttgart",
    "min": 45,
    "tempo": "Intervallo",
    "gol": [
     1,
-    0
+    2
    ],
-   "url": "https://www.fotmob.com/match/5967137",
+   "url": "https://www.fotmob.com/match/5881207",
    "xg": [
-    0.73,
-    1.7
+    1.01,
+    2.0
    ],
-   "sot": 4.0,
-   "tiri": 22.0,
-   "corner": 4.0,
-   "p": 0.9867,
-   "fair": 1.01,
-   "min_odd": 1.06,
-   "lam": 4.32,
+   "sot": 8.0,
+   "tiri": 18.0,
+   "corner": 7.0,
+   "p": 0.9981,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 6.26,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
    "thr_xg": 1.05,
    "thr_sot": 3.8,
-   "xm": 1.7,
-   "line": "Over 1.5"
+   "xm": 2.0,
+   "line": "Over 3.5"
   }
  ]
 }

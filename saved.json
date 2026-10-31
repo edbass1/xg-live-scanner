@@ -5987,8 +5987,11 @@
   "min_odd": 1.06,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5803299",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5804028": {
   "ora": "31/10/2026 15:55",
@@ -6035,6 +6038,30 @@
   "min_odd": 1.06,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5967137",
+  "finale": null,
+  "esito": null
+ },
+ "5881207": {
+  "ora": "31/10/2026 16:32",
+  "lega": "Bundesliga",
+  "casa": "Bayer Leverkusen",
+  "ospite": "VfB Stuttgart",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   1.01,
+   2.0
+  ],
+  "sot": 8.0,
+  "tiri": 18.0,
+  "corner": 7.0,
+  "p": 0.9981,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5881207",
   "finale": null,
   "esito": null
  }
