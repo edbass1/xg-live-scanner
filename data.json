@@ -1,38 +1,6 @@
 {
- "updated": "2026-10-31T00:13:29+00:00",
- "live_tot": 13,
- "senza_xg": 2,
- "matches": [
-  {
-   "id": 5103687,
-   "lega": "Série A",
-   "casa": "Corinthians",
-   "ospite": "Mirassol",
-   "min": 48,
-   "tempo": "48‎’‎",
-   "gol": [
-    0,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5103687",
-   "xg": [
-    1.13,
-    0.0
-   ],
-   "sot": 4.0,
-   "tiri": 17.0,
-   "corner": 3.0,
-   "p": 0.8223,
-   "fair": 1.22,
-   "min_odd": 1.28,
-   "lam": 1.73,
-   "verdict": "GIOCABILE",
-   "rel": "ALTA",
-   "warn": [],
-   "thr_xg": 1.12,
-   "thr_sot": 4.0,
-   "xm": 1.13,
-   "line": "Over 0.5"
-  }
- ]
+ "updated": "2026-10-31T01:23:49+00:00",
+ "live_tot": 21,
+ "senza_xg": 5,
+ "matches": []
 }
