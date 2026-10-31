@@ -5884,5 +5884,77 @@
    4
   ],
   "esito": "SÌ"
+ },
+ "5881713": {
+  "ora": "31/10/2026 14:33",
+  "lega": "2. Bundesliga",
+  "casa": "Kaiserslautern",
+  "ospite": "Hertha BSC",
+  "min": 69,
+  "gol": [
+   0,
+   3
+  ],
+  "xg": [
+   1.03,
+   1.81
+  ],
+  "sot": 9.0,
+  "tiri": 22.0,
+  "corner": 2.0,
+  "p": 0.7709,
+  "min_odd": 1.36,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5881713",
+  "finale": null,
+  "esito": null
+ },
+ "5836900": {
+  "ora": "31/10/2026 14:33",
+  "lega": "Championship",
+  "casa": "Lincoln City",
+  "ospite": "Birmingham City",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.26,
+   0.6
+  ],
+  "sot": 4.0,
+  "tiri": 12.0,
+  "corner": 5.0,
+  "p": 0.9654,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5836900",
+  "finale": null,
+  "esito": null
+ },
+ "5838019": {
+  "ora": "31/10/2026 14:33",
+  "lega": "League Two",
+  "casa": "Grimsby Town",
+  "ospite": "York City",
+  "min": 45,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   1.27,
+   0.26
+  ],
+  "sot": 6.0,
+  "tiri": 19.0,
+  "corner": 3.0,
+  "p": 0.9506,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5838019",
+  "finale": null,
+  "esito": null
  }
 }
