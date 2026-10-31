@@ -1,38 +1,69 @@
 {
- "updated": "2026-10-31T14:16:17+00:00",
- "live_tot": 138,
- "senza_xg": 54,
+ "updated": "2026-10-31T14:55:21+00:00",
+ "live_tot": 100,
+ "senza_xg": 41,
  "matches": [
   {
-   "id": 5803299,
-   "lega": "Ligue 2",
-   "casa": "Annecy FC",
-   "ospite": "Montpellier",
-   "min": 55,
-   "tempo": "55‎’‎",
+   "id": 5804028,
+   "lega": "Ekstraklasa",
+   "casa": "Wieczysta Kraków",
+   "ospite": "Jagiellonia Białystok",
+   "min": 51,
+   "tempo": "51‎’‎",
    "gol": [
     0,
-    2
+    1
    ],
-   "url": "https://www.fotmob.com/match/5803299",
+   "url": "https://www.fotmob.com/match/5804028",
    "xg": [
-    2.17,
-    1.39
+    0.85,
+    2.05
    ],
-   "sot": 11.0,
-   "tiri": 17.0,
-   "corner": 4.0,
-   "p": 0.9874,
+   "sot": 8.0,
+   "tiri": 20.0,
+   "corner": 8.0,
+   "p": 0.9896,
    "fair": 1.01,
    "min_odd": 1.06,
-   "lam": 4.38,
+   "lam": 4.57,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.28,
-   "thr_sot": 4.6,
-   "xm": 2.17,
-   "line": "Over 2.5"
+   "thr_xg": 1.19,
+   "thr_sot": 4.2,
+   "xm": 2.05,
+   "line": "Over 1.5"
+  },
+  {
+   "id": 5967137,
+   "lega": "Serie B",
+   "casa": "Südtirol",
+   "ospite": "Cesena",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5967137",
+   "xg": [
+    0.73,
+    1.7
+   ],
+   "sot": 4.0,
+   "tiri": 22.0,
+   "corner": 4.0,
+   "p": 0.9867,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.32,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.7,
+   "line": "Over 1.5"
   }
  ]
 }
