@@ -1,6 +1,100 @@
 {
- "updated": "2026-10-31T17:24:22+00:00",
- "live_tot": 82,
- "senza_xg": 25,
- "matches": []
+ "updated": "2026-10-31T17:59:36+00:00",
+ "live_tot": 61,
+ "senza_xg": 26,
+ "matches": [
+  {
+   "id": 5105039,
+   "lega": "Eliteserien",
+   "casa": "Aalesund",
+   "ospite": "Sandefjord",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    2,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5105039",
+   "xg": [
+    1.41,
+    1.51
+   ],
+   "sot": 7.0,
+   "tiri": 12.0,
+   "corner": 2.0,
+   "p": 0.9967,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 5.72,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.51,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5749739,
+   "lega": "Serie A",
+   "casa": "Udinese",
+   "ospite": "Roma",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    4
+   ],
+   "url": "https://www.fotmob.com/match/5749739",
+   "xg": [
+    0.7,
+    2.26
+   ],
+   "sot": 9.0,
+   "tiri": 18.0,
+   "corner": 5.0,
+   "p": 0.9932,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 5.0,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 2.26,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5804286,
+   "lega": "Super League",
+   "casa": "Grasshopper",
+   "ospite": "FC Vaduz",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5804286",
+   "xg": [
+    0.93,
+    1.16
+   ],
+   "sot": 5.0,
+   "tiri": 16.0,
+   "corner": 9.0,
+   "p": 0.9786,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 3.84,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.16,
+   "line": "Over 2.5"
+  }
+ ]
 }

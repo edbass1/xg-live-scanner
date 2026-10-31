@@ -6235,5 +6235,77 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "5749739": {
+  "ora": "31/10/2026 18:59",
+  "lega": "Serie A",
+  "casa": "Udinese",
+  "ospite": "Roma",
+  "min": 45,
+  "gol": [
+   0,
+   4
+  ],
+  "xg": [
+   0.7,
+   2.26
+  ],
+  "sot": 9.0,
+  "tiri": 18.0,
+  "corner": 5.0,
+  "p": 0.9932,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5749739",
+  "finale": null,
+  "esito": null
+ },
+ "5105039": {
+  "ora": "31/10/2026 18:59",
+  "lega": "Eliteserien",
+  "casa": "Aalesund",
+  "ospite": "Sandefjord",
+  "min": 45,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   1.41,
+   1.51
+  ],
+  "sot": 7.0,
+  "tiri": 12.0,
+  "corner": 2.0,
+  "p": 0.9967,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5105039",
+  "finale": null,
+  "esito": null
+ },
+ "5804286": {
+  "ora": "31/10/2026 18:59",
+  "lega": "Super League",
+  "casa": "Grasshopper",
+  "ospite": "FC Vaduz",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.93,
+   1.16
+  ],
+  "sot": 5.0,
+  "tiri": 16.0,
+  "corner": 9.0,
+  "p": 0.9786,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804286",
+  "finale": null,
+  "esito": null
  }
 }
