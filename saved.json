@@ -6743,8 +6743,11 @@
   "min_odd": 1.05,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5811798",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5739541": {
   "ora": "01/11/2026 16:55",
@@ -6767,8 +6770,11 @@
   "min_odd": 1.06,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5739541",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
  },
  "5868118": {
   "ora": "01/11/2026 17:35",
@@ -6839,6 +6845,57 @@
   "min_odd": 1.11,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5868517",
+  "finale": [
+   0,
+   2
+  ],
+  "esito": "SÌ"
+ },
+ "5802979": {
+  "ora": "01/11/2026 18:13",
+  "lega": "Ligue 1",
+  "casa": "Paris FC",
+  "ospite": "Monaco",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.51,
+   0.1
+  ],
+  "sot": 6.0,
+  "tiri": 13.0,
+  "corner": 3.0,
+  "p": 0.9422,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5802979",
+  "finale": null,
+  "esito": null
+ },
+ "5105037": {
+  "ora": "01/11/2026 18:13",
+  "lega": "Eliteserien",
+  "casa": "Sarpsborg 08",
+  "ospite": "Kristiansund",
+  "min": 56,
+  "gol": [
+   1,
+   3
+  ],
+  "xg": [
+   1.86,
+   0.67
+  ],
+  "sot": 7.0,
+  "tiri": 19.0,
+  "corner": 6.0,
+  "p": 0.933,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5105037",
   "finale": null,
   "esito": null
  }
