@@ -1,69 +1,100 @@
 {
- "updated": "2026-11-01T15:55:36+00:00",
- "live_tot": 78,
- "senza_xg": 39,
+ "updated": "2026-11-01T16:35:19+00:00",
+ "live_tot": 112,
+ "senza_xg": 15,
  "matches": [
   {
-   "id": 5811798,
-   "lega": "Belgian Pro League",
-   "casa": "St.Truiden",
-   "ospite": "OH Leuven",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    0,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5811798",
-   "xg": [
-    2.98,
-    0.39
-   ],
-   "sot": 6.0,
-   "tiri": 24.0,
-   "corner": 11.0,
-   "p": 0.9976,
-   "fair": 1.0,
-   "min_odd": 1.05,
-   "lam": 6.02,
-   "verdict": "GIOCABILE",
-   "rel": "ALTA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 2.98,
-   "line": "Over 0.5"
-  },
-  {
-   "id": 5739541,
-   "lega": "Superligaen",
-   "casa": "Nordsjælland",
-   "ospite": "FC Midtjylland",
+   "id": 5781789,
+   "lega": "Eredivisie",
+   "casa": "FC Groningen",
+   "ospite": "Sparta Rotterdam",
    "min": 45,
    "tempo": "Intervallo",
    "gol": [
     2,
-    0
+    2
    ],
-   "url": "https://www.fotmob.com/match/5739541",
+   "url": "https://www.fotmob.com/match/5781789",
    "xg": [
-    2.55,
-    0.31
+    1.54,
+    1.27
    ],
    "sot": 8.0,
-   "tiri": 15.0,
+   "tiri": 14.0,
    "corner": 3.0,
-   "p": 0.9947,
-   "fair": 1.01,
-   "min_odd": 1.06,
-   "lam": 5.25,
+   "p": 0.9967,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 5.7,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "MEDIA",
    "warn": [],
    "thr_xg": 1.05,
    "thr_sot": 3.8,
-   "xm": 2.55,
-   "line": "Over 2.5"
+   "xm": 1.54,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5868118,
+   "lega": "LaLiga",
+   "casa": "Racing Santander",
+   "ospite": "Real Madrid",
+   "min": 57,
+   "tempo": "57‎’‎",
+   "gol": [
+    0,
+    3
+   ],
+   "url": "https://www.fotmob.com/match/5868118",
+   "xg": [
+    0.75,
+    2.89
+   ],
+   "sot": 7.0,
+   "tiri": 19.0,
+   "corner": 7.0,
+   "p": 0.9614,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.25,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.33,
+   "thr_sot": 4.8,
+   "xm": 2.89,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5868517,
+   "lega": "LaLiga2",
+   "casa": "AD Ceuta FC",
+   "ospite": "Sporting Gijón",
+   "min": 59,
+   "tempo": "59‎’‎",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5868517",
+   "xg": [
+    0.49,
+    2.25
+   ],
+   "sot": 7.0,
+   "tiri": 21.0,
+   "corner": 6.0,
+   "p": 0.9432,
+   "fair": 1.06,
+   "min_odd": 1.11,
+   "lam": 2.87,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.38,
+   "thr_sot": 4.9,
+   "xm": 2.25,
+   "line": "Over 1.5"
   }
  ]
 }
