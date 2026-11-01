@@ -1,131 +1,131 @@
 {
- "updated": "2026-11-01T14:00:29+00:00",
- "live_tot": 72,
- "senza_xg": 31,
+ "updated": "2026-11-01T14:39:56+00:00",
+ "live_tot": 99,
+ "senza_xg": 9,
  "matches": [
   {
-   "id": 5804291,
-   "lega": "Super League",
-   "casa": "Young Boys",
-   "ospite": "FC Zürich",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    3,
-    2
-   ],
-   "url": "https://www.fotmob.com/match/5804291",
-   "xg": [
-    1.59,
-    1.58
-   ],
-   "sot": 7.0,
-   "tiri": 15.0,
-   "corner": 6.0,
-   "p": 0.9983,
-   "fair": 1.0,
-   "min_odd": 1.05,
-   "lam": 6.37,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.59,
-   "line": "Over 5.5"
-  },
-  {
-   "id": 5904787,
-   "lega": "Super Lig",
-   "casa": "Başakşehir",
-   "ospite": "Samsunspor",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    3,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5904787",
-   "xg": [
-    1.16,
-    0.9
-   ],
-   "sot": 6.0,
-   "tiri": 12.0,
-   "corner": 5.0,
-   "p": 0.9722,
-   "fair": 1.03,
-   "min_odd": 1.08,
-   "lam": 3.58,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.16,
-   "line": "Over 4.5"
-  },
-  {
-   "id": 5739540,
-   "lega": "Superligaen",
-   "casa": "Viborg",
-   "ospite": "AC Horsens",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    0,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/5739540",
-   "xg": [
-    1.18,
-    0.12
-   ],
-   "sot": 6.0,
-   "tiri": 17.0,
-   "corner": 5.0,
-   "p": 0.9154,
-   "fair": 1.09,
-   "min_odd": 1.15,
-   "lam": 2.47,
-   "verdict": "GIOCABILE",
-   "rel": "ALTA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.18,
-   "line": "Over 0.5"
-  },
-  {
-   "id": 5881715,
-   "lega": "2. Bundesliga",
-   "casa": "St. Pauli",
-   "ospite": "1. FC Nürnberg",
-   "min": 70,
-   "tempo": "70‎’‎",
+   "id": 5105036,
+   "lega": "Eliteserien",
+   "casa": "Brann",
+   "ospite": "Molde",
+   "min": 46,
+   "tempo": "46‎’‎",
    "gol": [
     1,
     1
    ],
-   "url": "https://www.fotmob.com/match/5881715",
+   "url": "https://www.fotmob.com/match/5105036",
    "xg": [
-    2.97,
-    0.28
+    0.33,
+    1.96
    ],
-   "sot": 7.0,
-   "tiri": 24.0,
-   "corner": 4.0,
-   "p": 0.8404,
-   "fair": 1.19,
-   "min_odd": 1.25,
-   "lam": 1.84,
+   "sot": 4.0,
+   "tiri": 14.0,
+   "corner": 6.0,
+   "p": 0.9775,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 3.79,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 1.96,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5781790,
+   "lega": "Eredivisie",
+   "casa": "Telstar",
+   "ospite": "FC Utrecht",
+   "min": 54,
+   "tempo": "54‎’‎",
+   "gol": [
+    3,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5781790",
+   "xg": [
+    1.73,
+    0.5
+   ],
+   "sot": 8.0,
+   "tiri": 15.0,
+   "corner": 7.0,
+   "p": 0.9549,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.1,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.26,
+   "thr_sot": 4.5,
+   "xm": 1.73,
+   "line": "Over 5.5"
+  },
+  {
+   "id": 5781794,
+   "lega": "Eredivisie",
+   "casa": "Excelsior",
+   "ospite": "FC Twente",
+   "min": 49,
+   "tempo": "49‎’‎",
+   "gol": [
+    0,
+    5
+   ],
+   "url": "https://www.fotmob.com/match/5781794",
+   "xg": [
+    0.0,
+    1.64
+   ],
+   "sot": 8.0,
+   "tiri": 14.0,
+   "corner": 6.0,
+   "p": 0.9012,
+   "fair": 1.11,
+   "min_odd": 1.17,
+   "lam": 2.32,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.63,
-   "thr_sot": 5.8,
-   "xm": 2.97,
-   "line": "Over 2.5"
+   "thr_xg": 1.14,
+   "thr_sot": 4.1,
+   "xm": 1.64,
+   "line": "Over 5.5"
+  },
+  {
+   "id": 5846015,
+   "lega": "Bundesliga",
+   "casa": "Salzburg",
+   "ospite": "Austria Lustenau",
+   "min": 53,
+   "tempo": "53‎’‎",
+   "gol": [
+    3,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5846015",
+   "xg": [
+    1.6,
+    0.13
+   ],
+   "sot": 9.0,
+   "tiri": 22.0,
+   "corner": 10.0,
+   "p": 0.8753,
+   "fair": 1.14,
+   "min_odd": 1.2,
+   "lam": 2.08,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.24,
+   "thr_sot": 4.4,
+   "xm": 1.6,
+   "line": "Over 3.5"
   }
  ]
 }
