@@ -6608,8 +6608,11 @@
   "min_odd": 1.2,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5846015",
-  "finale": null,
-  "esito": null
+  "finale": [
+   5,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5105036": {
   "ora": "01/11/2026 15:39",
@@ -6632,8 +6635,11 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5105036",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5781794": {
   "ora": "01/11/2026 15:39",
@@ -6656,8 +6662,11 @@
   "min_odd": 1.17,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5781794",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   9
+  ],
+  "esito": "SÌ"
  },
  "5781790": {
   "ora": "01/11/2026 15:39",
@@ -6680,8 +6689,11 @@
   "min_odd": 1.1,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5781790",
-  "finale": null,
-  "esito": null
+  "finale": [
+   4,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5967133": {
   "ora": "01/11/2026 16:17",
@@ -6704,6 +6716,57 @@
   "min_odd": 1.14,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5967133",
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "NO"
+ },
+ "5811798": {
+  "ora": "01/11/2026 16:55",
+  "lega": "Belgian Pro League",
+  "casa": "St.Truiden",
+  "ospite": "OH Leuven",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   2.98,
+   0.39
+  ],
+  "sot": 6.0,
+  "tiri": 24.0,
+  "corner": 11.0,
+  "p": 0.9976,
+  "min_odd": 1.05,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5811798",
+  "finale": null,
+  "esito": null
+ },
+ "5739541": {
+  "ora": "01/11/2026 16:55",
+  "lega": "Superligaen",
+  "casa": "Nordsjælland",
+  "ospite": "FC Midtjylland",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   2.55,
+   0.31
+  ],
+  "sot": 8.0,
+  "tiri": 15.0,
+  "corner": 3.0,
+  "p": 0.9947,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5739541",
   "finale": null,
   "esito": null
  }

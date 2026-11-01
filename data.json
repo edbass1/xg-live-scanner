@@ -1,38 +1,69 @@
 {
- "updated": "2026-11-01T15:17:51+00:00",
- "live_tot": 101,
- "senza_xg": 18,
+ "updated": "2026-11-01T15:55:36+00:00",
+ "live_tot": 78,
+ "senza_xg": 39,
  "matches": [
   {
-   "id": 5967133,
-   "lega": "Serie B",
-   "casa": "Empoli",
-   "ospite": "Juve Stabia",
-   "min": 60,
-   "tempo": "60‎’‎",
+   "id": 5811798,
+   "lega": "Belgian Pro League",
+   "casa": "St.Truiden",
+   "ospite": "OH Leuven",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5811798",
+   "xg": [
+    2.98,
+    0.39
+   ],
+   "sot": 6.0,
+   "tiri": 24.0,
+   "corner": 11.0,
+   "p": 0.9976,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 6.02,
+   "verdict": "GIOCABILE",
+   "rel": "ALTA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 2.98,
+   "line": "Over 0.5"
+  },
+  {
+   "id": 5739541,
+   "lega": "Superligaen",
+   "casa": "Nordsjælland",
+   "ospite": "FC Midtjylland",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
     2,
-    2
+    0
    ],
-   "url": "https://www.fotmob.com/match/5967133",
+   "url": "https://www.fotmob.com/match/5739541",
    "xg": [
-    1.43,
-    0.97
+    2.55,
+    0.31
    ],
-   "sot": 10.0,
-   "tiri": 24.0,
-   "corner": 8.0,
-   "p": 0.9227,
-   "fair": 1.08,
-   "min_odd": 1.14,
-   "lam": 2.56,
+   "sot": 8.0,
+   "tiri": 15.0,
+   "corner": 3.0,
+   "p": 0.9947,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 5.25,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.4,
-   "thr_sot": 5.0,
-   "xm": 1.43,
-   "line": "Over 4.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 2.55,
+   "line": "Over 2.5"
   }
  ]
 }
