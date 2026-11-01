@@ -6478,5 +6478,101 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "5881715": {
+  "ora": "01/11/2026 15:00",
+  "lega": "2. Bundesliga",
+  "casa": "St. Pauli",
+  "ospite": "1. FC Nürnberg",
+  "min": 70,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   2.97,
+   0.28
+  ],
+  "sot": 7.0,
+  "tiri": 24.0,
+  "corner": 4.0,
+  "p": 0.8404,
+  "min_odd": 1.25,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5881715",
+  "finale": null,
+  "esito": null
+ },
+ "5804291": {
+  "ora": "01/11/2026 15:00",
+  "lega": "Super League",
+  "casa": "Young Boys",
+  "ospite": "FC Zürich",
+  "min": 45,
+  "gol": [
+   3,
+   2
+  ],
+  "xg": [
+   1.59,
+   1.58
+  ],
+  "sot": 7.0,
+  "tiri": 15.0,
+  "corner": 6.0,
+  "p": 0.9983,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804291",
+  "finale": null,
+  "esito": null
+ },
+ "5904787": {
+  "ora": "01/11/2026 15:00",
+  "lega": "Super Lig",
+  "casa": "Başakşehir",
+  "ospite": "Samsunspor",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   1.16,
+   0.9
+  ],
+  "sot": 6.0,
+  "tiri": 12.0,
+  "corner": 5.0,
+  "p": 0.9722,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5904787",
+  "finale": null,
+  "esito": null
+ },
+ "5739540": {
+  "ora": "01/11/2026 15:00",
+  "lega": "Superligaen",
+  "casa": "Viborg",
+  "ospite": "AC Horsens",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.18,
+   0.12
+  ],
+  "sot": 6.0,
+  "tiri": 17.0,
+  "corner": 5.0,
+  "p": 0.9154,
+  "min_odd": 1.15,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5739540",
+  "finale": null,
+  "esito": null
  }
 }

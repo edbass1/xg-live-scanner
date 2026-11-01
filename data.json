@@ -1,6 +1,131 @@
 {
- "updated": "2026-11-01T13:14:22+00:00",
- "live_tot": 88,
- "senza_xg": 15,
- "matches": []
+ "updated": "2026-11-01T14:00:29+00:00",
+ "live_tot": 72,
+ "senza_xg": 31,
+ "matches": [
+  {
+   "id": 5804291,
+   "lega": "Super League",
+   "casa": "Young Boys",
+   "ospite": "FC Zürich",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    3,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5804291",
+   "xg": [
+    1.59,
+    1.58
+   ],
+   "sot": 7.0,
+   "tiri": 15.0,
+   "corner": 6.0,
+   "p": 0.9983,
+   "fair": 1.0,
+   "min_odd": 1.05,
+   "lam": 6.37,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.59,
+   "line": "Over 5.5"
+  },
+  {
+   "id": 5904787,
+   "lega": "Super Lig",
+   "casa": "Başakşehir",
+   "ospite": "Samsunspor",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    3,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5904787",
+   "xg": [
+    1.16,
+    0.9
+   ],
+   "sot": 6.0,
+   "tiri": 12.0,
+   "corner": 5.0,
+   "p": 0.9722,
+   "fair": 1.03,
+   "min_odd": 1.08,
+   "lam": 3.58,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.16,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5739540,
+   "lega": "Superligaen",
+   "casa": "Viborg",
+   "ospite": "AC Horsens",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5739540",
+   "xg": [
+    1.18,
+    0.12
+   ],
+   "sot": 6.0,
+   "tiri": 17.0,
+   "corner": 5.0,
+   "p": 0.9154,
+   "fair": 1.09,
+   "min_odd": 1.15,
+   "lam": 2.47,
+   "verdict": "GIOCABILE",
+   "rel": "ALTA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.18,
+   "line": "Over 0.5"
+  },
+  {
+   "id": 5881715,
+   "lega": "2. Bundesliga",
+   "casa": "St. Pauli",
+   "ospite": "1. FC Nürnberg",
+   "min": 70,
+   "tempo": "70‎’‎",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5881715",
+   "xg": [
+    2.97,
+    0.28
+   ],
+   "sot": 7.0,
+   "tiri": 24.0,
+   "corner": 4.0,
+   "p": 0.8404,
+   "fair": 1.19,
+   "min_odd": 1.25,
+   "lam": 1.84,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.63,
+   "thr_sot": 5.8,
+   "xm": 2.97,
+   "line": "Over 2.5"
+  }
+ ]
 }
