@@ -6527,8 +6527,11 @@
   "min_odd": 1.05,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5804291",
-  "finale": null,
-  "esito": null
+  "finale": [
+   3,
+   5
+  ],
+  "esito": "SÌ"
  },
  "5904787": {
   "ora": "01/11/2026 15:00",
@@ -6551,8 +6554,11 @@
   "min_odd": 1.08,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5904787",
-  "finale": null,
-  "esito": null
+  "finale": [
+   5,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5739540": {
   "ora": "01/11/2026 15:00",
@@ -6575,8 +6581,11 @@
   "min_odd": 1.15,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5739540",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   0
+  ],
+  "esito": "SÌ"
  },
  "5846015": {
   "ora": "01/11/2026 15:39",
@@ -6671,6 +6680,30 @@
   "min_odd": 1.1,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5781790",
+  "finale": null,
+  "esito": null
+ },
+ "5967133": {
+  "ora": "01/11/2026 16:17",
+  "lega": "Serie B",
+  "casa": "Empoli",
+  "ospite": "Juve Stabia",
+  "min": 60,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   1.43,
+   0.97
+  ],
+  "sot": 10.0,
+  "tiri": 24.0,
+  "corner": 8.0,
+  "p": 0.9227,
+  "min_odd": 1.14,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5967133",
   "finale": null,
   "esito": null
  }
