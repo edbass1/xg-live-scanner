@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-01T18:29:07+00:00",
- "live_tot": 44,
- "senza_xg": 13,
- "matches": []
+ "updated": "2026-11-01T19:17:46+00:00",
+ "live_tot": 35,
+ "senza_xg": 9,
+ "matches": [
+  {
+   "id": 5898776,
+   "lega": "Liga de Expansión MX",
+   "casa": "Leones Negros",
+   "ospite": "Tepatitlán FC",
+   "min": 54,
+   "tempo": "54‎’‎",
+   "gol": [
+    2,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5898776",
+   "xg": [
+    1.69,
+    0.48
+   ],
+   "sot": 9.0,
+   "tiri": 22.0,
+   "corner": 11.0,
+   "p": 0.9554,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.11,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.26,
+   "thr_sot": 4.5,
+   "xm": 1.69,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5887668,
+   "lega": "Liga Portugal",
+   "casa": "Marítimo",
+   "ospite": "Santa Clara",
+   "min": 59,
+   "tempo": "59‎’‎",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5887668",
+   "xg": [
+    1.4,
+    0.54
+   ],
+   "sot": 7.0,
+   "tiri": 19.0,
+   "corner": 1.0,
+   "p": 0.8754,
+   "fair": 1.14,
+   "min_odd": 1.2,
+   "lam": 2.08,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.38,
+   "thr_sot": 4.9,
+   "xm": 1.4,
+   "line": "Over 1.5"
+  }
+ ]
 }

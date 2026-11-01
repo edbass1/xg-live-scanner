@@ -6910,5 +6910,53 @@
    4
   ],
   "esito": "SÌ"
+ },
+ "5887668": {
+  "ora": "01/11/2026 20:17",
+  "lega": "Liga Portugal",
+  "casa": "Marítimo",
+  "ospite": "Santa Clara",
+  "min": 59,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.4,
+   0.54
+  ],
+  "sot": 7.0,
+  "tiri": 19.0,
+  "corner": 1.0,
+  "p": 0.8754,
+  "min_odd": 1.2,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5887668",
+  "finale": null,
+  "esito": null
+ },
+ "5898776": {
+  "ora": "01/11/2026 20:17",
+  "lega": "Liga de Expansión MX",
+  "casa": "Leones Negros",
+  "ospite": "Tepatitlán FC",
+  "min": 54,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.69,
+   0.48
+  ],
+  "sot": 9.0,
+  "tiri": 22.0,
+  "corner": 11.0,
+  "p": 0.9554,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5898776",
+  "finale": null,
+  "esito": null
  }
 }
