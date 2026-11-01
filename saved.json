@@ -6932,8 +6932,11 @@
   "min_odd": 1.2,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5887668",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5898776": {
   "ora": "01/11/2026 20:17",
@@ -6956,6 +6959,30 @@
   "min_odd": 1.1,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5898776",
+  "finale": null,
+  "esito": null
+ },
+ "5967135": {
+  "ora": "01/11/2026 20:56",
+  "lega": "Serie B",
+  "casa": "Palermo",
+  "ospite": "LR Vicenza",
+  "min": 65,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.89,
+   1.18
+  ],
+  "sot": 6.0,
+  "tiri": 22.0,
+  "corner": 6.0,
+  "p": 0.8972,
+  "min_odd": 1.17,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5967135",
   "finale": null,
   "esito": null
  }
