@@ -6451,5 +6451,29 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "1000017574": {
+  "ora": "01/11/2026 09:45",
+  "lega": "A-League",
+  "casa": "Perth Glory",
+  "ospite": "Adelaide United",
+  "min": 46,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   1.44,
+   0.22
+  ],
+  "sot": 8.0,
+  "tiri": 14.0,
+  "corner": 7.0,
+  "p": 0.932,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/1000017574",
+  "finale": null,
+  "esito": null
  }
 }
