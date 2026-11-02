@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-02T17:40:25+00:00",
- "live_tot": 36,
- "senza_xg": 2,
- "matches": []
+ "updated": "2026-11-02T18:36:10+00:00",
+ "live_tot": 45,
+ "senza_xg": 4,
+ "matches": [
+  {
+   "id": 5868524,
+   "lega": "LaLiga2",
+   "casa": "Real Valladolid",
+   "ospite": "Leganés",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    3,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5868524",
+   "xg": [
+    1.41,
+    0.87
+   ],
+   "sot": 11.0,
+   "tiri": 18.0,
+   "corner": 3.0,
+   "p": 0.9897,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.58,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.41,
+   "line": "Over 4.5"
+  },
+  {
+   "id": 5804026,
+   "lega": "Ekstraklasa",
+   "casa": "Radomiak Radom",
+   "ospite": "Śląsk Wrocław",
+   "min": 66,
+   "tempo": "66‎’‎",
+   "gol": [
+    2,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5804026",
+   "xg": [
+    1.73,
+    2.27
+   ],
+   "sot": 13.0,
+   "tiri": 30.0,
+   "corner": 13.0,
+   "p": 0.9646,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.34,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.54,
+   "thr_sot": 5.5,
+   "xm": 2.27,
+   "line": "Over 3.5"
+  }
+ ]
 }

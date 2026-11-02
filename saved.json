@@ -7045,5 +7045,53 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "5804026": {
+  "ora": "02/11/2026 19:36",
+  "lega": "Ekstraklasa",
+  "casa": "Radomiak Radom",
+  "ospite": "Śląsk Wrocław",
+  "min": 66,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.73,
+   2.27
+  ],
+  "sot": 13.0,
+  "tiri": 30.0,
+  "corner": 13.0,
+  "p": 0.9646,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5804026",
+  "finale": null,
+  "esito": null
+ },
+ "5868524": {
+  "ora": "02/11/2026 19:36",
+  "lega": "LaLiga2",
+  "casa": "Real Valladolid",
+  "ospite": "Leganés",
+  "min": 45,
+  "gol": [
+   3,
+   1
+  ],
+  "xg": [
+   1.41,
+   0.87
+  ],
+  "sot": 11.0,
+  "tiri": 18.0,
+  "corner": 3.0,
+  "p": 0.9897,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5868524",
+  "finale": null,
+  "esito": null
  }
 }
