@@ -1,38 +1,6 @@
 {
- "updated": "2026-11-02T16:43:13+00:00",
- "live_tot": 22,
- "senza_xg": 3,
- "matches": [
-  {
-   "id": 5868521,
-   "lega": "LaLiga2",
-   "casa": "Real Oviedo",
-   "ospite": "Las Palmas",
-   "min": 65,
-   "tempo": "65‎’‎",
-   "gol": [
-    1,
-    3
-   ],
-   "url": "https://www.fotmob.com/match/5868521",
-   "xg": [
-    0.86,
-    1.67
-   ],
-   "sot": 7.0,
-   "tiri": 23.0,
-   "corner": 9.0,
-   "p": 0.8231,
-   "fair": 1.21,
-   "min_odd": 1.28,
-   "lam": 1.73,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.52,
-   "thr_sot": 5.4,
-   "xm": 1.67,
-   "line": "Over 4.5"
-  }
- ]
+ "updated": "2026-11-02T17:40:25+00:00",
+ "live_tot": 36,
+ "senza_xg": 2,
+ "matches": []
 }
