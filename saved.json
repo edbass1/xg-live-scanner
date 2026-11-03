@@ -7099,5 +7099,77 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "6106408": {
+  "ora": "03/11/2026 22:08",
+  "lega": "Champions League",
+  "casa": "LASK",
+  "ospite": "Slovan Bratislava",
+  "min": 48,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   1.92,
+   0.12
+  ],
+  "sot": 7.0,
+  "tiri": 15.0,
+  "corner": 6.0,
+  "p": 0.9433,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106408",
+  "finale": null,
+  "esito": null
+ },
+ "6106326": {
+  "ora": "03/11/2026 22:08",
+  "lega": "Champions League",
+  "casa": "Villarreal",
+  "ospite": "Paris Saint-Germain",
+  "min": 49,
+  "gol": [
+   0,
+   4
+  ],
+  "xg": [
+   0.17,
+   1.72
+  ],
+  "sot": 9.0,
+  "tiri": 20.0,
+  "corner": 8.0,
+  "p": 0.9338,
+  "min_odd": 1.12,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106326",
+  "finale": null,
+  "esito": null
+ },
+ "5836912": {
+  "ora": "03/11/2026 22:08",
+  "lega": "Championship",
+  "casa": "Derby County",
+  "ospite": "Norwich City",
+  "min": 64,
+  "gol": [
+   0,
+   3
+  ],
+  "xg": [
+   0.24,
+   1.51
+  ],
+  "sot": 7.0,
+  "tiri": 19.0,
+  "corner": 8.0,
+  "p": 0.6885,
+  "min_odd": 1.53,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5836912",
+  "finale": null,
+  "esito": null
  }
 }
