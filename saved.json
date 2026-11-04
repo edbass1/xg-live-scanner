@@ -7202,8 +7202,11 @@
   "min_odd": 1.13,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/6106416",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   9
+  ],
+  "esito": "SÌ"
  },
  "6106303": {
   "ora": "04/11/2026 22:26",
@@ -7226,7 +7229,10 @@
   "min_odd": 1.13,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/6106303",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "NO"
  }
 }
