@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-04T20:31:52+00:00",
- "live_tot": 20,
- "senza_xg": 2,
- "matches": []
+ "updated": "2026-11-04T21:26:44+00:00",
+ "live_tot": 15,
+ "senza_xg": 1,
+ "matches": [
+  {
+   "id": 6106303,
+   "lega": "Champions League",
+   "casa": "PSV Eindhoven",
+   "ospite": "Club Brugge",
+   "min": 66,
+   "tempo": "66‎’‎",
+   "gol": [
+    1,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/6106303",
+   "xg": [
+    2.11,
+    1.23
+   ],
+   "sot": 11.0,
+   "tiri": 28.0,
+   "corner": 11.0,
+   "p": 0.9329,
+   "fair": 1.07,
+   "min_odd": 1.13,
+   "lam": 2.7,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.54,
+   "thr_sot": 5.5,
+   "xm": 2.11,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 6106416,
+   "lega": "Champions League",
+   "casa": "Lens",
+   "ospite": "Como",
+   "min": 65,
+   "tempo": "65‎’‎",
+   "gol": [
+    1,
+    7
+   ],
+   "url": "https://www.fotmob.com/match/6106416",
+   "xg": [
+    0.53,
+    3.28
+   ],
+   "sot": 13.0,
+   "tiri": 23.0,
+   "corner": 8.0,
+   "p": 0.9292,
+   "fair": 1.08,
+   "min_odd": 1.13,
+   "lam": 2.65,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.52,
+   "thr_sot": 5.4,
+   "xm": 3.28,
+   "line": "Over 8.5"
+  }
+ ]
 }

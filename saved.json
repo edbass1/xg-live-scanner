@@ -7180,5 +7180,53 @@
    4
   ],
   "esito": "SÌ"
+ },
+ "6106416": {
+  "ora": "04/11/2026 22:26",
+  "lega": "Champions League",
+  "casa": "Lens",
+  "ospite": "Como",
+  "min": 65,
+  "gol": [
+   1,
+   7
+  ],
+  "xg": [
+   0.53,
+   3.28
+  ],
+  "sot": 13.0,
+  "tiri": 23.0,
+  "corner": 8.0,
+  "p": 0.9292,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106416",
+  "finale": null,
+  "esito": null
+ },
+ "6106303": {
+  "ora": "04/11/2026 22:26",
+  "lega": "Champions League",
+  "casa": "PSV Eindhoven",
+  "ospite": "Club Brugge",
+  "min": 66,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   2.11,
+   1.23
+  ],
+  "sot": 11.0,
+  "tiri": 28.0,
+  "corner": 11.0,
+  "p": 0.9329,
+  "min_odd": 1.13,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6106303",
+  "finale": null,
+  "esito": null
  }
 }
