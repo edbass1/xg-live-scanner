@@ -1,38 +1,6 @@
 {
- "updated": "2026-11-05T14:48:35+00:00",
- "live_tot": 7,
- "senza_xg": 3,
- "matches": [
-  {
-   "id": 6362014,
-   "lega": "Indian Super League",
-   "casa": "Mohun Bagan SG",
-   "ospite": "Odisha FC",
-   "min": 47,
-   "tempo": "47‎’‎",
-   "gol": [
-    0,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/6362014",
-   "xg": [
-    1.51,
-    0.37
-   ],
-   "sot": 8.0,
-   "tiri": 23.0,
-   "corner": 13.0,
-   "p": 0.9662,
-   "fair": 1.03,
-   "min_odd": 1.09,
-   "lam": 3.39,
-   "verdict": "GIOCABILE",
-   "rel": "ALTA",
-   "warn": [],
-   "thr_xg": 1.1,
-   "thr_sot": 3.9,
-   "xm": 1.51,
-   "line": "Over 0.5"
-  }
- ]
+ "updated": "2026-11-05T15:44:18+00:00",
+ "live_tot": 6,
+ "senza_xg": 0,
+ "matches": []
 }
