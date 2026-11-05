@@ -7261,5 +7261,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "6362014": {
+  "ora": "05/11/2026 15:48",
+  "lega": "Indian Super League",
+  "casa": "Mohun Bagan SG",
+  "ospite": "Odisha FC",
+  "min": 47,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.51,
+   0.37
+  ],
+  "sot": 8.0,
+  "tiri": 23.0,
+  "corner": 13.0,
+  "p": 0.9662,
+  "min_odd": 1.09,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/6362014",
+  "finale": null,
+  "esito": null
  }
 }
