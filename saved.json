@@ -7450,5 +7450,53 @@
    0
   ],
   "esito": "NO"
+ },
+ "5103697": {
+  "ora": "06/11/2026 00:46",
+  "lega": "Série A",
+  "casa": "Palmeiras",
+  "ospite": "Remo",
+  "min": 54,
+  "gol": [
+   4,
+   1
+  ],
+  "xg": [
+   4.03,
+   0.2
+  ],
+  "sot": 9.0,
+  "tiri": 17.0,
+  "corner": 4.0,
+  "p": 0.9901,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5103697",
+  "finale": null,
+  "esito": null
+ },
+ "5190799": {
+  "ora": "06/11/2026 00:46",
+  "lega": "Série B",
+  "casa": "Botafogo SP",
+  "ospite": "Londrina",
+  "min": 58,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   1.58,
+   0.17
+  ],
+  "sot": 5.0,
+  "tiri": 16.0,
+  "corner": 1.0,
+  "p": 0.7645,
+  "min_odd": 1.37,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5190799",
+  "finale": null,
+  "esito": null
  }
 }

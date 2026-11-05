@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-05T23:02:11+00:00",
- "live_tot": 6,
- "senza_xg": 2,
- "matches": []
+ "updated": "2026-11-05T23:46:43+00:00",
+ "live_tot": 5,
+ "senza_xg": 0,
+ "matches": [
+  {
+   "id": 5103697,
+   "lega": "Série A",
+   "casa": "Palmeiras",
+   "ospite": "Remo",
+   "min": 54,
+   "tempo": "54‎’‎",
+   "gol": [
+    4,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5103697",
+   "xg": [
+    4.03,
+    0.2
+   ],
+   "sot": 9.0,
+   "tiri": 17.0,
+   "corner": 4.0,
+   "p": 0.9901,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.61,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.26,
+   "thr_sot": 4.5,
+   "xm": 4.03,
+   "line": "Over 5.5"
+  },
+  {
+   "id": 5190799,
+   "lega": "Série B",
+   "casa": "Botafogo SP",
+   "ospite": "Londrina",
+   "min": 58,
+   "tempo": "58‎’‎",
+   "gol": [
+    3,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5190799",
+   "xg": [
+    1.58,
+    0.17
+   ],
+   "sot": 5.0,
+   "tiri": 16.0,
+   "corner": 1.0,
+   "p": 0.7645,
+   "fair": 1.31,
+   "min_odd": 1.37,
+   "lam": 1.45,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.35,
+   "thr_sot": 4.8,
+   "xm": 1.58,
+   "line": "Over 3.5"
+  }
+ ]
 }
