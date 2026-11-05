@@ -7288,5 +7288,53 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "6112375": {
+  "ora": "05/11/2026 19:34",
+  "lega": "Europa League",
+  "casa": "Lillestrøm",
+  "ospite": "Viktoria Plzeň",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.06,
+   1.22
+  ],
+  "sot": 10.0,
+  "tiri": 13.0,
+  "corner": 4.0,
+  "p": 0.9494,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112375",
+  "finale": null,
+  "esito": null
+ },
+ "6112304": {
+  "ora": "05/11/2026 19:34",
+  "lega": "Europa League",
+  "casa": "Sparta Prague",
+  "ospite": "AFC Bournemouth",
+  "min": 48,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.78,
+   1.17
+  ],
+  "sot": 5.0,
+  "tiri": 16.0,
+  "corner": 6.0,
+  "p": 0.9915,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112304",
+  "finale": null,
+  "esito": null
  }
 }
