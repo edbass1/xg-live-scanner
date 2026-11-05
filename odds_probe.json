@@ -1,9 +1,88 @@
 {
-  "generated_utc": "2026-11-04T04:16:29Z",
+  "generated_utc": "2026-11-05T04:16:54Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
+    {
+      "fotmob_id": "5103694",
+      "match": "Flamengo - Grêmio",
+      "date_alert": "05/11/2026 00:53",
+      "alert_minute": 57,
+      "score_at_alert": [
+        3,
+        0
+      ],
+      "final_score": [
+        3,
+        1
+      ],
+      "target_over_line": 3.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "no_verified_quote",
+        "reason": "Nessuna quota storica verificabile trovata.",
+        "attempts": [
+          {
+            "status": "no_matching_quote_in_window",
+            "fixture_id": "202818353",
+            "history_points_in_window": 10000,
+            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
+          }
+        ]
+      }
+    },
+    {
+      "fotmob_id": "6106416",
+      "match": "Lens - Como",
+      "date_alert": "04/11/2026 22:26",
+      "alert_minute": 65,
+      "score_at_alert": [
+        1,
+        7
+      ],
+      "final_score": [
+        1,
+        9
+      ],
+      "target_over_line": 8.5,
+      "verified_live_quote": 2.75,
+      "lookup": {
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "203238490",
+        "quote": 2.75,
+        "line": 8.5,
+        "quote_side": "Over",
+        "quote_market": "Goal Line (0-7)",
+        "quote_timestamp_utc": "2026-11-04T21:26:02Z",
+        "seconds_from_alert": 2,
+        "quote_suspended": true,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+      }
+    },
+    {
+      "fotmob_id": "6106303",
+      "match": "PSV Eindhoven - Club Brugge",
+      "date_alert": "04/11/2026 22:26",
+      "alert_minute": 66,
+      "score_at_alert": [
+        1,
+        2
+      ],
+      "final_score": [
+        1,
+        2
+      ],
+      "target_over_line": 3.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "fixture_not_found",
+        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
+      }
+    },
     {
       "fotmob_id": "6106408",
       "match": "LASK - Slovan Bratislava",
@@ -16,77 +95,6 @@
       "final_score": [
         4,
         0
-      ],
-      "target_over_line": 3.5,
-      "verified_live_quote": null,
-      "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
-      }
-    },
-    {
-      "fotmob_id": "6106326",
-      "match": "Villarreal - Paris Saint-Germain",
-      "date_alert": "03/11/2026 22:08",
-      "alert_minute": 49,
-      "score_at_alert": [
-        0,
-        4
-      ],
-      "final_score": [
-        0,
-        6
-      ],
-      "target_over_line": 4.5,
-      "verified_live_quote": null,
-      "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
-      }
-    },
-    {
-      "fotmob_id": "5836912",
-      "match": "Derby County - Norwich City",
-      "date_alert": "03/11/2026 22:08",
-      "alert_minute": 64,
-      "score_at_alert": [
-        0,
-        3
-      ],
-      "final_score": [
-        0,
-        4
-      ],
-      "target_over_line": 3.5,
-      "verified_live_quote": 1.425,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "203188222",
-        "quote": 1.425,
-        "line": 3.5,
-        "quote_side": "Over",
-        "quote_market": "Goal Line (0-3)",
-        "quote_timestamp_utc": "2026-11-03T21:07:39Z",
-        "seconds_from_alert": -20,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "5804026",
-      "match": "Radomiak Radom - Śląsk Wrocław",
-      "date_alert": "02/11/2026 19:36",
-      "alert_minute": 66,
-      "score_at_alert": [
-        2,
-        1
-      ],
-      "final_score": [
-        3,
-        1
       ],
       "target_over_line": 3.5,
       "verified_live_quote": null,
