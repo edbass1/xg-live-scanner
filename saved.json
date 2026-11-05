@@ -7342,5 +7342,101 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "6112248": {
+  "ora": "05/11/2026 22:20",
+  "lega": "Europa League",
+  "casa": "Benfica",
+  "ospite": "Lech Poznań",
+  "min": 61,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.49,
+   0.05
+  ],
+  "sot": 7.0,
+  "tiri": 17.0,
+  "corner": 7.0,
+  "p": 0.7847,
+  "min_odd": 1.34,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112248",
+  "finale": null,
+  "esito": null
+ },
+ "6112316": {
+  "ora": "05/11/2026 22:20",
+  "lega": "Europa League",
+  "casa": "Sturm Graz",
+  "ospite": "NK Celje",
+  "min": 62,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   1.64,
+   0.67
+  ],
+  "sot": 10.0,
+  "tiri": 25.0,
+  "corner": 8.0,
+  "p": 0.8999,
+  "min_odd": 1.17,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112316",
+  "finale": null,
+  "esito": null
+ },
+ "6112416": {
+  "ora": "05/11/2026 22:20",
+  "lega": "Conference League",
+  "casa": "Panathinaikos",
+  "ospite": "CSKA Sofia",
+  "min": 61,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   2.27,
+   0.5
+  ],
+  "sot": 16.0,
+  "tiri": 24.0,
+  "corner": 13.0,
+  "p": 0.9563,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6112416",
+  "finale": null,
+  "esito": null
+ },
+ "6112506": {
+  "ora": "05/11/2026 22:20",
+  "lega": "Conference League",
+  "casa": "Universitatea Craiova",
+  "ospite": "Egnatia",
+  "min": 62,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.57,
+   0.38
+  ],
+  "sot": 9.0,
+  "tiri": 20.0,
+  "corner": 6.0,
+  "p": 0.8153,
+  "min_odd": 1.29,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6112506",
+  "finale": null,
+  "esito": null
  }
 }

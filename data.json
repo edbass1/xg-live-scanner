@@ -1,6 +1,131 @@
 {
- "updated": "2026-11-05T20:26:12+00:00",
- "live_tot": 20,
- "senza_xg": 1,
- "matches": []
+ "updated": "2026-11-05T21:20:10+00:00",
+ "live_tot": 21,
+ "senza_xg": 0,
+ "matches": [
+  {
+   "id": 6112416,
+   "lega": "Conference League",
+   "casa": "Panathinaikos",
+   "ospite": "CSKA Sofia",
+   "min": 61,
+   "tempo": "61‎’‎",
+   "gol": [
+    1,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/6112416",
+   "xg": [
+    2.27,
+    0.5
+   ],
+   "sot": 16.0,
+   "tiri": 24.0,
+   "corner": 13.0,
+   "p": 0.9563,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.13,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.42,
+   "thr_sot": 5.1,
+   "xm": 2.27,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 6112316,
+   "lega": "Europa League",
+   "casa": "Sturm Graz",
+   "ospite": "NK Celje",
+   "min": 62,
+   "tempo": "62‎’‎",
+   "gol": [
+    1,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/6112316",
+   "xg": [
+    1.64,
+    0.67
+   ],
+   "sot": 10.0,
+   "tiri": 25.0,
+   "corner": 8.0,
+   "p": 0.8999,
+   "fair": 1.11,
+   "min_odd": 1.17,
+   "lam": 2.3,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.45,
+   "thr_sot": 5.2,
+   "xm": 1.64,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 6112506,
+   "lega": "Conference League",
+   "casa": "Universitatea Craiova",
+   "ospite": "Egnatia",
+   "min": 62,
+   "tempo": "62‎’‎",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/6112506",
+   "xg": [
+    1.57,
+    0.38
+   ],
+   "sot": 9.0,
+   "tiri": 20.0,
+   "corner": 6.0,
+   "p": 0.8153,
+   "fair": 1.23,
+   "min_odd": 1.29,
+   "lam": 1.69,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.45,
+   "thr_sot": 5.2,
+   "xm": 1.57,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 6112248,
+   "lega": "Europa League",
+   "casa": "Benfica",
+   "ospite": "Lech Poznań",
+   "min": 61,
+   "tempo": "61‎’‎",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/6112248",
+   "xg": [
+    1.49,
+    0.05
+   ],
+   "sot": 7.0,
+   "tiri": 17.0,
+   "corner": 7.0,
+   "p": 0.7847,
+   "fair": 1.27,
+   "min_odd": 1.34,
+   "lam": 1.54,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.42,
+   "thr_sot": 5.1,
+   "xm": 1.49,
+   "line": "Over 1.5"
+  }
+ ]
 }
