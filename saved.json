@@ -7558,5 +7558,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5847228": {
+  "ora": "06/11/2026 18:34",
+  "lega": "Premier League",
+  "casa": "Lokomotiv Moscow",
+  "ospite": "Rubin Kazan",
+  "min": 46,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   0.36,
+   1.2
+  ],
+  "sot": 4.0,
+  "tiri": 18.0,
+  "corner": 5.0,
+  "p": 0.9202,
+  "min_odd": 1.14,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5847228",
+  "finale": null,
+  "esito": null
  }
 }

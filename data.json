@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-06T16:44:08+00:00",
- "live_tot": 16,
- "senza_xg": 2,
- "matches": []
+ "updated": "2026-11-06T17:34:13+00:00",
+ "live_tot": 31,
+ "senza_xg": 4,
+ "matches": [
+  {
+   "id": 5847228,
+   "lega": "Premier League",
+   "casa": "Lokomotiv Moscow",
+   "ospite": "Rubin Kazan",
+   "min": 46,
+   "tempo": "46‎’‎",
+   "gol": [
+    0,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5847228",
+   "xg": [
+    0.36,
+    1.2
+   ],
+   "sot": 4.0,
+   "tiri": 18.0,
+   "corner": 5.0,
+   "p": 0.9202,
+   "fair": 1.09,
+   "min_odd": 1.14,
+   "lam": 2.53,
+   "verdict": "GIOCABILE",
+   "rel": "ALTA",
+   "warn": [],
+   "thr_xg": 1.07,
+   "thr_sot": 3.8,
+   "xm": 1.2,
+   "line": "Over 0.5"
+  }
+ ]
 }
