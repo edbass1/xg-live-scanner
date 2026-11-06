@@ -1,38 +1,6 @@
 {
- "updated": "2026-11-06T01:46:25+00:00",
- "live_tot": 6,
- "senza_xg": 0,
- "matches": [
-  {
-   "id": 5103699,
-   "lega": "Série A",
-   "casa": "Cruzeiro",
-   "ospite": "Bahia",
-   "min": 55,
-   "tempo": "55‎’‎",
-   "gol": [
-    1,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/5103699",
-   "xg": [
-    1.33,
-    0.28
-   ],
-   "sot": 6.0,
-   "tiri": 17.0,
-   "corner": 8.0,
-   "p": 0.8633,
-   "fair": 1.16,
-   "min_odd": 1.22,
-   "lam": 1.99,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.28,
-   "thr_sot": 4.6,
-   "xm": 1.33,
-   "line": "Over 2.5"
-  }
- ]
+ "updated": "2026-11-06T02:40:10+00:00",
+ "live_tot": 4,
+ "senza_xg": 1,
+ "matches": []
 }
