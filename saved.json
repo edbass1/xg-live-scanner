@@ -7504,5 +7504,29 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "5103699": {
+  "ora": "06/11/2026 02:46",
+  "lega": "Série A",
+  "casa": "Cruzeiro",
+  "ospite": "Bahia",
+  "min": 55,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.33,
+   0.28
+  ],
+  "sot": 6.0,
+  "tiri": 17.0,
+  "corner": 8.0,
+  "p": 0.8633,
+  "min_odd": 1.22,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5103699",
+  "finale": null,
+  "esito": null
  }
 }
