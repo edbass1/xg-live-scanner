@@ -1,23 +1,23 @@
 {
-  "generated_utc": "2026-11-05T04:16:54Z",
+  "generated_utc": "2026-11-06T04:15:13Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
     {
-      "fotmob_id": "5103694",
-      "match": "Flamengo - Grêmio",
-      "date_alert": "05/11/2026 00:53",
-      "alert_minute": 57,
+      "fotmob_id": "5103699",
+      "match": "Cruzeiro - Bahia",
+      "date_alert": "06/11/2026 02:46",
+      "alert_minute": 55,
       "score_at_alert": [
-        3,
-        0
+        1,
+        1
       ],
       "final_score": [
         3,
-        1
+        2
       ],
-      "target_over_line": 3.5,
+      "target_over_line": 2.5,
       "verified_live_quote": null,
       "lookup": {
         "status": "no_verified_quote",
@@ -25,7 +25,7 @@
         "attempts": [
           {
             "status": "no_matching_quote_in_window",
-            "fixture_id": "202818353",
+            "fixture_id": "202818375",
             "history_points_in_window": 10000,
             "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
           }
@@ -33,61 +33,38 @@
       }
     },
     {
-      "fotmob_id": "6106416",
-      "match": "Lens - Como",
-      "date_alert": "04/11/2026 22:26",
-      "alert_minute": 65,
+      "fotmob_id": "5103697",
+      "match": "Palmeiras - Remo",
+      "date_alert": "06/11/2026 00:46",
+      "alert_minute": 54,
       "score_at_alert": [
-        1,
-        7
+        4,
+        1
       ],
       "final_score": [
-        1,
-        9
+        6,
+        1
       ],
-      "target_over_line": 8.5,
-      "verified_live_quote": 2.75,
-      "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "203238490",
-        "quote": 2.75,
-        "line": 8.5,
-        "quote_side": "Over",
-        "quote_market": "Goal Line (0-7)",
-        "quote_timestamp_utc": "2026-11-04T21:26:02Z",
-        "seconds_from_alert": 2,
-        "quote_suspended": true,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
-      }
-    },
-    {
-      "fotmob_id": "6106303",
-      "match": "PSV Eindhoven - Club Brugge",
-      "date_alert": "04/11/2026 22:26",
-      "alert_minute": 66,
-      "score_at_alert": [
-        1,
-        2
-      ],
-      "final_score": [
-        1,
-        2
-      ],
-      "target_over_line": 3.5,
+      "target_over_line": 5.5,
       "verified_live_quote": null,
       "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
+        "status": "no_verified_quote",
+        "reason": "Nessuna quota storica verificabile trovata.",
+        "attempts": [
+          {
+            "status": "no_matching_quote_in_window",
+            "fixture_id": "202818373",
+            "history_points_in_window": 10000,
+            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
+          }
+        ]
       }
     },
     {
-      "fotmob_id": "6106408",
-      "match": "LASK - Slovan Bratislava",
-      "date_alert": "03/11/2026 22:08",
-      "alert_minute": 48,
+      "fotmob_id": "5190799",
+      "match": "Botafogo SP - Londrina",
+      "date_alert": "06/11/2026 00:46",
+      "alert_minute": 58,
       "score_at_alert": [
         3,
         0
@@ -97,10 +74,49 @@
         0
       ],
       "target_over_line": 3.5,
+      "verified_live_quote": 1.35,
+      "lookup": {
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "203190508",
+        "quote": 1.35,
+        "line": 3.5,
+        "quote_side": "Over",
+        "quote_market": "Goal Line (3-0)",
+        "quote_timestamp_utc": "2026-11-05T23:46:13Z",
+        "seconds_from_alert": 13,
+        "quote_suspended": false,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+      }
+    },
+    {
+      "fotmob_id": "6112248",
+      "match": "Benfica - Lech Poznań",
+      "date_alert": "05/11/2026 22:20",
+      "alert_minute": 61,
+      "score_at_alert": [
+        1,
+        0
+      ],
+      "final_score": [
+        3,
+        1
+      ],
+      "target_over_line": 1.5,
       "verified_live_quote": null,
       "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
+        "status": "no_verified_quote",
+        "reason": "Nessuna quota storica verificabile trovata.",
+        "attempts": [
+          {
+            "status": "no_matching_quote_in_window",
+            "fixture_id": "203238820",
+            "history_points_in_window": 7585,
+            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
+          }
+        ]
       }
     }
   ]
