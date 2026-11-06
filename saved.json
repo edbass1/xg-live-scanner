@@ -7531,5 +7531,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "6362015": {
+  "ora": "06/11/2026 16:02",
+  "lega": "Indian Super League",
+  "casa": "FC Goa",
+  "ospite": "Bengaluru FC",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   0.09,
+   1.52
+  ],
+  "sot": 5.0,
+  "tiri": 12.0,
+  "corner": 1.0,
+  "p": 0.951,
+  "min_odd": 1.1,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/6362015",
+  "finale": null,
+  "esito": null
  }
 }
