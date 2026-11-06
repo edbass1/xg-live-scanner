@@ -7580,6 +7580,33 @@
   "min_odd": 1.14,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5847228",
+  "finale": [
+   0,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5804036": {
+  "ora": "06/11/2026 19:27",
+  "lega": "Ekstraklasa",
+  "casa": "Motor Lublin",
+  "ospite": "Wisła Płock",
+  "min": 65,
+  "gol": [
+   2,
+   2
+  ],
+  "xg": [
+   3.22,
+   0.81
+  ],
+  "sot": 7.0,
+  "tiri": 26.0,
+  "corner": 11.0,
+  "p": 0.9486,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804036",
   "finale": null,
   "esito": null
  }

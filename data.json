@@ -1,38 +1,38 @@
 {
- "updated": "2026-11-06T17:34:13+00:00",
- "live_tot": 31,
- "senza_xg": 4,
+ "updated": "2026-11-06T18:27:46+00:00",
+ "live_tot": 48,
+ "senza_xg": 15,
  "matches": [
   {
-   "id": 5847228,
-   "lega": "Premier League",
-   "casa": "Lokomotiv Moscow",
-   "ospite": "Rubin Kazan",
-   "min": 46,
-   "tempo": "46‎’‎",
+   "id": 5804036,
+   "lega": "Ekstraklasa",
+   "casa": "Motor Lublin",
+   "ospite": "Wisła Płock",
+   "min": 65,
+   "tempo": "65‎’‎",
    "gol": [
-    0,
-    0
+    2,
+    2
    ],
-   "url": "https://www.fotmob.com/match/5847228",
+   "url": "https://www.fotmob.com/match/5804036",
    "xg": [
-    0.36,
-    1.2
+    3.22,
+    0.81
    ],
-   "sot": 4.0,
-   "tiri": 18.0,
-   "corner": 5.0,
-   "p": 0.9202,
-   "fair": 1.09,
-   "min_odd": 1.14,
-   "lam": 2.53,
+   "sot": 7.0,
+   "tiri": 26.0,
+   "corner": 11.0,
+   "p": 0.9486,
+   "fair": 1.05,
+   "min_odd": 1.11,
+   "lam": 2.97,
    "verdict": "GIOCABILE",
-   "rel": "ALTA",
+   "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.07,
-   "thr_sot": 3.8,
-   "xm": 1.2,
-   "line": "Over 0.5"
+   "thr_xg": 1.52,
+   "thr_sot": 5.4,
+   "xm": 3.22,
+   "line": "Over 4.5"
   }
  ]
 }
