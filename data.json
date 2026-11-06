@@ -1,38 +1,6 @@
 {
- "updated": "2026-11-06T15:02:15+00:00",
- "live_tot": 11,
- "senza_xg": 4,
- "matches": [
-  {
-   "id": 6362015,
-   "lega": "Indian Super League",
-   "casa": "FC Goa",
-   "ospite": "Bengaluru FC",
-   "min": 45,
-   "tempo": "Intervallo",
-   "gol": [
-    1,
-    1
-   ],
-   "url": "https://www.fotmob.com/match/6362015",
-   "xg": [
-    0.09,
-    1.52
-   ],
-   "sot": 5.0,
-   "tiri": 12.0,
-   "corner": 1.0,
-   "p": 0.951,
-   "fair": 1.05,
-   "min_odd": 1.1,
-   "lam": 3.02,
-   "verdict": "GIOCABILE",
-   "rel": "MEDIA",
-   "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.52,
-   "line": "Over 2.5"
-  }
- ]
+ "updated": "2026-11-06T15:52:55+00:00",
+ "live_tot": 14,
+ "senza_xg": 8,
+ "matches": []
 }
