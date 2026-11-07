@@ -7666,5 +7666,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "6362017": {
+  "ora": "07/11/2026 16:20",
+  "lega": "Indian Super League",
+  "casa": "Chennaiyin FC",
+  "ospite": "East Bengal FC",
+  "min": 60,
+  "gol": [
+   4,
+   2
+  ],
+  "xg": [
+   1.59,
+   1.34
+  ],
+  "sot": 12.0,
+  "tiri": 24.0,
+  "corner": 9.0,
+  "p": 0.946,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/6362017",
+  "finale": null,
+  "esito": null
  }
 }
