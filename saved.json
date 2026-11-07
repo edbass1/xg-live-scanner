@@ -7742,8 +7742,11 @@
   "min_odd": 1.05,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5793972",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "NO"
  },
  "5836922": {
   "ora": "07/11/2026 17:02",
@@ -7766,8 +7769,11 @@
   "min_odd": 1.05,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5836922",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5836925": {
   "ora": "07/11/2026 17:02",
@@ -7790,6 +7796,33 @@
   "min_odd": 1.05,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5836925",
+  "finale": [
+   5,
+   4
+  ],
+  "esito": "SÌ"
+ },
+ "5804031": {
+  "ora": "07/11/2026 18:21",
+  "lega": "Ekstraklasa",
+  "casa": "Górnik Zabrze",
+  "ospite": "Wieczysta Kraków",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.19,
+   0.28
+  ],
+  "sot": 6.0,
+  "tiri": 16.0,
+  "corner": 1.0,
+  "p": 0.9449,
+  "min_odd": 1.11,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804031",
   "finale": null,
   "esito": null
  }
