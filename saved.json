@@ -7825,5 +7825,101 @@
   "url": "https://www.fotmob.com/match/5804031",
   "finale": null,
   "esito": null
+ },
+ "5847226": {
+  "ora": "07/11/2026 18:59",
+  "lega": "Premier League",
+  "casa": "FC Krasnodar",
+  "ospite": "CSKA Moscow",
+  "min": 66,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   2.09,
+   1.26
+  ],
+  "sot": 6.0,
+  "tiri": 30.0,
+  "corner": 6.0,
+  "p": 0.9039,
+  "min_odd": 1.16,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5847226",
+  "finale": null,
+  "esito": null
+ },
+ "5804297": {
+  "ora": "07/11/2026 18:59",
+  "lega": "Super League",
+  "casa": "FC Vaduz",
+  "ospite": "Sion",
+  "min": 45,
+  "gol": [
+   0,
+   3
+  ],
+  "xg": [
+   0.54,
+   1.71
+  ],
+  "sot": 8.0,
+  "tiri": 14.0,
+  "corner": 2.0,
+  "p": 0.9762,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5804297",
+  "finale": null,
+  "esito": null
+ },
+ "5804293": {
+  "ora": "07/11/2026 18:59",
+  "lega": "Super League",
+  "casa": "Luzern",
+  "ospite": "Young Boys",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.31,
+   0.62
+  ],
+  "sot": 8.0,
+  "tiri": 14.0,
+  "corner": 5.0,
+  "p": 0.9817,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5804293",
+  "finale": null,
+  "esito": null
+ },
+ "5739542": {
+  "ora": "07/11/2026 18:59",
+  "lega": "Superligaen",
+  "casa": "OB",
+  "ospite": "Viborg",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.48,
+   1.09
+  ],
+  "sot": 4.0,
+  "tiri": 17.0,
+  "corner": 4.0,
+  "p": 0.9203,
+  "min_odd": 1.14,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5739542",
+  "finale": null,
+  "esito": null
  }
 }
