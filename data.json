@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-07T20:09:33+00:00",
- "live_tot": 32,
+ "updated": "2026-11-07T20:51:05+00:00",
+ "live_tot": 33,
  "senza_xg": 4,
- "matches": []
+ "matches": [
+  {
+   "id": 5811800,
+   "lega": "Belgian Pro League",
+   "casa": "Royal Antwerp",
+   "ospite": "Lommel",
+   "min": 47,
+   "tempo": "47‎’‎",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5811800",
+   "xg": [
+    1.79,
+    0.86
+   ],
+   "sot": 4.0,
+   "tiri": 18.0,
+   "corner": 7.0,
+   "p": 0.9861,
+   "fair": 1.01,
+   "min_odd": 1.06,
+   "lam": 4.28,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.1,
+   "thr_sot": 3.9,
+   "xm": 1.79,
+   "line": "Over 1.5"
+  },
+  {
+   "id": 5793974,
+   "lega": "Premiership",
+   "casa": "St. Mirren",
+   "ospite": "Rangers",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5793974",
+   "xg": [
+    0.14,
+    1.85
+   ],
+   "sot": 5.0,
+   "tiri": 13.0,
+   "corner": 7.0,
+   "p": 0.9771,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 3.78,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.85,
+   "line": "Over 1.5"
+  }
+ ]
 }

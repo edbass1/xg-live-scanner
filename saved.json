@@ -8044,5 +8044,53 @@
    0
   ],
   "esito": "SÌ"
+ },
+ "5811800": {
+  "ora": "07/11/2026 21:51",
+  "lega": "Belgian Pro League",
+  "casa": "Royal Antwerp",
+  "ospite": "Lommel",
+  "min": 47,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.79,
+   0.86
+  ],
+  "sot": 4.0,
+  "tiri": 18.0,
+  "corner": 7.0,
+  "p": 0.9861,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5811800",
+  "finale": null,
+  "esito": null
+ },
+ "5793974": {
+  "ora": "07/11/2026 21:51",
+  "lega": "Premiership",
+  "casa": "St. Mirren",
+  "ospite": "Rangers",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.14,
+   1.85
+  ],
+  "sot": 5.0,
+  "tiri": 13.0,
+  "corner": 7.0,
+  "p": 0.9771,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5793974",
+  "finale": null,
+  "esito": null
  }
 }
