@@ -7639,5 +7639,29 @@
    1
   ],
   "esito": "SÌ"
+ },
+ "1000014636": {
+  "ora": "07/11/2026 05:28",
+  "lega": "Liga MX",
+  "casa": "Atlante",
+  "ospite": "Santos Laguna",
+  "min": 64,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.54,
+   0.58
+  ],
+  "sot": 6.0,
+  "tiri": 26.0,
+  "corner": 8.0,
+  "p": 0.7928,
+  "min_odd": 1.32,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/1000014636",
+  "finale": null,
+  "esito": null
  }
 }
