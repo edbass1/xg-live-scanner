@@ -7715,8 +7715,11 @@
   "min_odd": 1.45,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5881220",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5793972": {
   "ora": "07/11/2026 17:02",
