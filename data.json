@@ -1,38 +1,6 @@
 {
- "updated": "2026-11-07T04:28:39+00:00",
- "live_tot": 8,
- "senza_xg": 0,
- "matches": [
-  {
-   "id": 1000014636,
-   "lega": "Liga MX",
-   "casa": "Atlante",
-   "ospite": "Santos Laguna",
-   "min": 64,
-   "tempo": "64‎’‎",
-   "gol": [
-    0,
-    0
-   ],
-   "url": "https://www.fotmob.com/match/1000014636",
-   "xg": [
-    1.54,
-    0.58
-   ],
-   "sot": 6.0,
-   "tiri": 26.0,
-   "corner": 8.0,
-   "p": 0.7928,
-   "fair": 1.26,
-   "min_odd": 1.32,
-   "lam": 1.57,
-   "verdict": "GIOCABILE",
-   "rel": "ALTA",
-   "warn": [],
-   "thr_xg": 1.49,
-   "thr_sot": 5.3,
-   "xm": 1.54,
-   "line": "Over 0.5"
-  }
- ]
+ "updated": "2026-11-07T05:23:49+00:00",
+ "live_tot": 30,
+ "senza_xg": 2,
+ "matches": []
 }
