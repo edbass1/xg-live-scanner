@@ -8120,8 +8120,11 @@
   "min_odd": 1.1,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5887679",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   0
+  ],
+  "esito": "SÌ"
  },
  "5071485": {
   "ora": "07/11/2026 23:09",
