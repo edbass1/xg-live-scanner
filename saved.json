@@ -8092,5 +8092,29 @@
   "url": "https://www.fotmob.com/match/5793974",
   "finale": null,
   "esito": null
+ },
+ "5887679": {
+  "ora": "07/11/2026 22:26",
+  "lega": "Liga Portugal",
+  "casa": "Sporting CP",
+  "ospite": "Moreirense",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.55,
+   0.24
+  ],
+  "sot": 4.0,
+  "tiri": 18.0,
+  "corner": 10.0,
+  "p": 0.9505,
+  "min_odd": 1.1,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5887679",
+  "finale": null,
+  "esito": null
  }
 }

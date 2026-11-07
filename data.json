@@ -1,69 +1,69 @@
 {
- "updated": "2026-11-07T20:51:05+00:00",
- "live_tot": 33,
- "senza_xg": 4,
+ "updated": "2026-11-07T21:26:02+00:00",
+ "live_tot": 39,
+ "senza_xg": 6,
  "matches": [
   {
-   "id": 5811800,
-   "lega": "Belgian Pro League",
-   "casa": "Royal Antwerp",
-   "ospite": "Lommel",
-   "min": 47,
-   "tempo": "47‎’‎",
+   "id": 5887679,
+   "lega": "Liga Portugal",
+   "casa": "Sporting CP",
+   "ospite": "Moreirense",
+   "min": 45,
+   "tempo": "Intervallo",
    "gol": [
-    1,
+    0,
     0
    ],
-   "url": "https://www.fotmob.com/match/5811800",
+   "url": "https://www.fotmob.com/match/5887679",
    "xg": [
-    1.79,
-    0.86
+    1.55,
+    0.24
    ],
    "sot": 4.0,
    "tiri": 18.0,
-   "corner": 7.0,
-   "p": 0.9861,
-   "fair": 1.01,
-   "min_odd": 1.06,
-   "lam": 4.28,
+   "corner": 10.0,
+   "p": 0.9505,
+   "fair": 1.05,
+   "min_odd": 1.1,
+   "lam": 3.0,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "ALTA",
    "warn": [],
-   "thr_xg": 1.1,
-   "thr_sot": 3.9,
-   "xm": 1.79,
-   "line": "Over 1.5"
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.55,
+   "line": "Over 0.5"
   },
   {
    "id": 5793974,
    "lega": "Premiership",
    "casa": "St. Mirren",
    "ospite": "Rangers",
-   "min": 45,
-   "tempo": "Intervallo",
+   "min": 66,
+   "tempo": "66‎’‎",
    "gol": [
     0,
-    1
+    2
    ],
    "url": "https://www.fotmob.com/match/5793974",
    "xg": [
-    0.14,
-    1.85
+    0.38,
+    3.06
    ],
-   "sot": 5.0,
-   "tiri": 13.0,
-   "corner": 7.0,
-   "p": 0.9771,
-   "fair": 1.02,
-   "min_odd": 1.07,
-   "lam": 3.78,
+   "sot": 9.0,
+   "tiri": 21.0,
+   "corner": 8.0,
+   "p": 0.9024,
+   "fair": 1.11,
+   "min_odd": 1.16,
+   "lam": 2.33,
    "verdict": "GIOCABILE",
-   "rel": "MEDIA",
+   "rel": "BASSA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.85,
-   "line": "Over 1.5"
+   "thr_xg": 1.54,
+   "thr_sot": 5.5,
+   "xm": 3.06,
+   "line": "Over 2.5"
   }
  ]
 }
