@@ -7688,6 +7688,105 @@
   "min_odd": 1.11,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/6362017",
+  "finale": [
+   5,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5881220": {
+  "ora": "07/11/2026 17:02",
+  "lega": "Bundesliga",
+  "casa": "Mainz 05",
+  "ospite": "Bayern München",
+  "min": 69,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.51,
+   1.89
+  ],
+  "sot": 6.0,
+  "tiri": 24.0,
+  "corner": 10.0,
+  "p": 0.722,
+  "min_odd": 1.45,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5881220",
+  "finale": null,
+  "esito": null
+ },
+ "5793972": {
+  "ora": "07/11/2026 17:02",
+  "lega": "Premiership",
+  "casa": "Dundee United",
+  "ospite": "Motherwell",
+  "min": 45,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.35,
+   1.37
+  ],
+  "sot": 9.0,
+  "tiri": 22.0,
+  "corner": 10.0,
+  "p": 0.9966,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5793972",
+  "finale": null,
+  "esito": null
+ },
+ "5836922": {
+  "ora": "07/11/2026 17:02",
+  "lega": "Championship",
+  "casa": "Birmingham City",
+  "ospite": "Swansea City",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.91,
+   0.89
+  ],
+  "sot": 7.0,
+  "tiri": 17.0,
+  "corner": 6.0,
+  "p": 0.9965,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5836922",
+  "finale": null,
+  "esito": null
+ },
+ "5836925": {
+  "ora": "07/11/2026 17:02",
+  "lega": "Championship",
+  "casa": "Cardiff City",
+  "ospite": "Burnley",
+  "min": 45,
+  "gol": [
+   1,
+   2
+  ],
+  "xg": [
+   2.28,
+   1.42
+  ],
+  "sot": 7.0,
+  "tiri": 21.0,
+  "corner": 8.0,
+  "p": 0.9994,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5836925",
   "finale": null,
   "esito": null
  }
