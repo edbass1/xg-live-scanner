@@ -8066,8 +8066,11 @@
   "min_odd": 1.06,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5811800",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5793974": {
   "ora": "07/11/2026 21:51",
@@ -8090,8 +8093,11 @@
   "min_odd": 1.07,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5793974",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5887679": {
   "ora": "07/11/2026 22:26",
@@ -8114,6 +8120,78 @@
   "min_odd": 1.1,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5887679",
+  "finale": null,
+  "esito": null
+ },
+ "5071485": {
+  "ora": "07/11/2026 23:09",
+  "lega": "Major League Soccer",
+  "casa": "Chicago Fire FC",
+  "ospite": "Columbus Crew",
+  "min": 45,
+  "gol": [
+   3,
+   2
+  ],
+  "xg": [
+   2.58,
+   1.05
+  ],
+  "sot": 8.0,
+  "tiri": 16.0,
+  "corner": 4.0,
+  "p": 0.9994,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071485",
+  "finale": null,
+  "esito": null
+ },
+ "5071492": {
+  "ora": "07/11/2026 23:09",
+  "lega": "Major League Soccer",
+  "casa": "Philadelphia Union",
+  "ospite": "Toronto FC",
+  "min": 45,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.8,
+   0.5
+  ],
+  "sot": 4.0,
+  "tiri": 14.0,
+  "corner": 2.0,
+  "p": 0.9835,
+  "min_odd": 1.07,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071492",
+  "finale": null,
+  "esito": null
+ },
+ "5071490": {
+  "ora": "07/11/2026 23:09",
+  "lega": "Major League Soccer",
+  "casa": "Red Bull New York",
+  "ospite": "Atlanta United",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   2.04,
+   0.29
+  ],
+  "sot": 5.0,
+  "tiri": 14.0,
+  "corner": 5.0,
+  "p": 0.9875,
+  "min_odd": 1.06,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5071490",
   "finale": null,
   "esito": null
  }
