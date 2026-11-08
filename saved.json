@@ -8309,8 +8309,11 @@
   "min_odd": 1.09,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5811801",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
  },
  "5804295": {
   "ora": "08/11/2026 15:14",
@@ -8333,8 +8336,11 @@
   "min_odd": 1.14,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5804295",
-  "finale": null,
-  "esito": null
+  "finale": [
+   5,
+   0
+  ],
+  "esito": "SÌ"
  },
  "5904799": {
   "ora": "08/11/2026 15:14",
@@ -8357,8 +8363,11 @@
   "min_odd": 1.18,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5904799",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   5
+  ],
+  "esito": "SÌ"
  },
  "5739546": {
   "ora": "08/11/2026 15:14",
@@ -8381,6 +8390,129 @@
   "min_odd": 1.18,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5739546",
+  "finale": [
+   2,
+   0
+  ],
+  "esito": "SÌ"
+ },
+ "5795506": {
+  "ora": "08/11/2026 15:57",
+  "lega": "Premier League",
+  "casa": "Brighton & Hove Albion",
+  "ospite": "Brentford",
+  "min": 45,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.46,
+   0.39
+  ],
+  "sot": 4.0,
+  "tiri": 13.0,
+  "corner": 4.0,
+  "p": 0.9473,
+  "min_odd": 1.11,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5795506",
+  "finale": null,
+  "esito": null
+ },
+ "5795507": {
+  "ora": "08/11/2026 15:57",
+  "lega": "Premier League",
+  "casa": "Crystal Palace",
+  "ospite": "Liverpool",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.94,
+   1.74
+  ],
+  "sot": 7.0,
+  "tiri": 22.0,
+  "corner": 7.0,
+  "p": 0.9956,
+  "min_odd": 1.05,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5795507",
+  "finale": null,
+  "esito": null
+ },
+ "5795510": {
+  "ora": "08/11/2026 15:57",
+  "lega": "Premier League",
+  "casa": "Ipswich Town",
+  "ospite": "AFC Bournemouth",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.1,
+   1.33
+  ],
+  "sot": 4.0,
+  "tiri": 13.0,
+  "corner": 4.0,
+  "p": 0.9286,
+  "min_odd": 1.13,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5795510",
+  "finale": null,
+  "esito": null
+ },
+ "5749745": {
+  "ora": "08/11/2026 15:57",
+  "lega": "Serie A",
+  "casa": "Monza",
+  "ospite": "Atalanta",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.21,
+   0.2
+  ],
+  "sot": 6.0,
+  "tiri": 20.0,
+  "corner": 6.0,
+  "p": 0.9299,
+  "min_odd": 1.13,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5749745",
+  "finale": null,
+  "esito": null
+ },
+ "5967143": {
+  "ora": "08/11/2026 15:57",
+  "lega": "Serie B",
+  "casa": "Virtus Entella",
+  "ospite": "Modena",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.17,
+   1.2
+  ],
+  "sot": 6.0,
+  "tiri": 14.0,
+  "corner": 3.0,
+  "p": 0.9146,
+  "min_odd": 1.15,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5967143",
   "finale": null,
   "esito": null
  }
