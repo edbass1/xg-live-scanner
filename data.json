@@ -1,38 +1,100 @@
 {
- "updated": "2026-11-08T13:24:44+00:00",
- "live_tot": 98,
- "senza_xg": 34,
+ "updated": "2026-11-08T14:14:26+00:00",
+ "live_tot": 113,
+ "senza_xg": 33,
  "matches": [
   {
-   "id": 5811801,
-   "lega": "Belgian Pro League",
-   "casa": "Club Brugge",
-   "ospite": "Anderlecht",
-   "min": 45,
-   "tempo": "Intervallo",
+   "id": 5804295,
+   "lega": "Super League",
+   "casa": "St. Gallen",
+   "ospite": "Lugano",
+   "min": 53,
+   "tempo": "53‎’‎",
+   "gol": [
+    3,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5804295",
+   "xg": [
+    2.14,
+    0.16
+   ],
+   "sot": 7.0,
+   "tiri": 17.0,
+   "corner": 6.0,
+   "p": 0.9217,
+   "fair": 1.09,
+   "min_odd": 1.14,
+   "lam": 2.55,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.24,
+   "thr_sot": 4.4,
+   "xm": 2.14,
+   "line": "Over 3.5"
+  },
+  {
+   "id": 5739546,
+   "lega": "Superligaen",
+   "casa": "AGF",
+   "ospite": "AC Horsens",
+   "min": 56,
+   "tempo": "56‎’‎",
    "gol": [
     1,
     0
    ],
-   "url": "https://www.fotmob.com/match/5811801",
+   "url": "https://www.fotmob.com/match/5739546",
    "xg": [
-    1.1,
-    0.59
+    1.55,
+    0.23
    ],
-   "sot": 5.0,
+   "sot": 7.0,
    "tiri": 18.0,
-   "corner": 4.0,
-   "p": 0.961,
-   "fair": 1.04,
-   "min_odd": 1.09,
-   "lam": 3.24,
+   "corner": 7.0,
+   "p": 0.8914,
+   "fair": 1.12,
+   "min_odd": 1.18,
+   "lam": 2.22,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.1,
+   "thr_xg": 1.31,
+   "thr_sot": 4.7,
+   "xm": 1.55,
    "line": "Over 1.5"
+  },
+  {
+   "id": 5904799,
+   "lega": "Super Lig",
+   "casa": "Çorum FK",
+   "ospite": "Fenerbahçe",
+   "min": 53,
+   "tempo": "53‎’‎",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5904799",
+   "xg": [
+    1.52,
+    0.3
+   ],
+   "sot": 6.0,
+   "tiri": 19.0,
+   "corner": 4.0,
+   "p": 0.8901,
+   "fair": 1.12,
+   "min_odd": 1.18,
+   "lam": 2.21,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.24,
+   "thr_sot": 4.4,
+   "xm": 1.52,
+   "line": "Over 2.5"
   }
  ]
 }

@@ -8311,5 +8311,77 @@
   "url": "https://www.fotmob.com/match/5811801",
   "finale": null,
   "esito": null
+ },
+ "5804295": {
+  "ora": "08/11/2026 15:14",
+  "lega": "Super League",
+  "casa": "St. Gallen",
+  "ospite": "Lugano",
+  "min": 53,
+  "gol": [
+   3,
+   0
+  ],
+  "xg": [
+   2.14,
+   0.16
+  ],
+  "sot": 7.0,
+  "tiri": 17.0,
+  "corner": 6.0,
+  "p": 0.9217,
+  "min_odd": 1.14,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5804295",
+  "finale": null,
+  "esito": null
+ },
+ "5904799": {
+  "ora": "08/11/2026 15:14",
+  "lega": "Super Lig",
+  "casa": "Çorum FK",
+  "ospite": "Fenerbahçe",
+  "min": 53,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   1.52,
+   0.3
+  ],
+  "sot": 6.0,
+  "tiri": 19.0,
+  "corner": 4.0,
+  "p": 0.8901,
+  "min_odd": 1.18,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5904799",
+  "finale": null,
+  "esito": null
+ },
+ "5739546": {
+  "ora": "08/11/2026 15:14",
+  "lega": "Superligaen",
+  "casa": "AGF",
+  "ospite": "AC Horsens",
+  "min": 56,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.55,
+   0.23
+  ],
+  "sot": 7.0,
+  "tiri": 18.0,
+  "corner": 7.0,
+  "p": 0.8914,
+  "min_odd": 1.18,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5739546",
+  "finale": null,
+  "esito": null
  }
 }
