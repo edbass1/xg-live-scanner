@@ -1,37 +1,37 @@
 {
- "updated": "2026-11-08T12:23:16+00:00",
- "live_tot": 94,
- "senza_xg": 41,
+ "updated": "2026-11-08T13:24:44+00:00",
+ "live_tot": 98,
+ "senza_xg": 34,
  "matches": [
   {
-   "id": 5749746,
-   "lega": "Serie A",
-   "casa": "Napoli",
-   "ospite": "Lazio",
+   "id": 5811801,
+   "lega": "Belgian Pro League",
+   "casa": "Club Brugge",
+   "ospite": "Anderlecht",
    "min": 45,
    "tempo": "Intervallo",
    "gol": [
-    0,
-    1
+    1,
+    0
    ],
-   "url": "https://www.fotmob.com/match/5749746",
+   "url": "https://www.fotmob.com/match/5811801",
    "xg": [
-    1.08,
-    0.58
+    1.1,
+    0.59
    ],
-   "sot": 6.0,
-   "tiri": 17.0,
-   "corner": 7.0,
-   "p": 0.9643,
+   "sot": 5.0,
+   "tiri": 18.0,
+   "corner": 4.0,
+   "p": 0.961,
    "fair": 1.04,
    "min_odd": 1.09,
-   "lam": 3.33,
+   "lam": 3.24,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
    "thr_xg": 1.05,
    "thr_sot": 3.8,
-   "xm": 1.08,
+   "xm": 1.1,
    "line": "Over 1.5"
   }
  ]

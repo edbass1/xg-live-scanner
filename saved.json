@@ -8282,6 +8282,33 @@
   "min_odd": 1.09,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5749746",
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5811801": {
+  "ora": "08/11/2026 14:24",
+  "lega": "Belgian Pro League",
+  "casa": "Club Brugge",
+  "ospite": "Anderlecht",
+  "min": 45,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.1,
+   0.59
+  ],
+  "sot": 5.0,
+  "tiri": 18.0,
+  "corner": 4.0,
+  "p": 0.961,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5811801",
   "finale": null,
   "esito": null
  }
