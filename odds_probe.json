@@ -1,95 +1,131 @@
 {
-  "generated_utc": "2026-11-07T04:10:46Z",
+  "generated_utc": "2026-11-08T04:14:19Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
     {
-      "fotmob_id": "5881218",
-      "match": "Hamburger SV - Borussia Mönchengladbach",
-      "date_alert": "06/11/2026 21:21",
+      "fotmob_id": "5071494",
+      "match": "FC Dallas - Colorado Rapids",
+      "date_alert": "08/11/2026 02:01",
       "alert_minute": 45,
-      "score_at_alert": [
-        1,
-        1
-      ],
-      "final_score": [
-        3,
-        1
-      ],
-      "target_over_line": 2.5,
-      "verified_live_quote": null,
-      "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
-      }
-    },
-    {
-      "fotmob_id": "5804036",
-      "match": "Motor Lublin - Wisła Płock",
-      "date_alert": "06/11/2026 19:27",
-      "alert_minute": 65,
-      "score_at_alert": [
-        2,
-        2
-      ],
-      "final_score": [
-        3,
-        2
-      ],
-      "target_over_line": 4.5,
-      "verified_live_quote": null,
-      "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
-      }
-    },
-    {
-      "fotmob_id": "5847228",
-      "match": "Lokomotiv Moscow - Rubin Kazan",
-      "date_alert": "06/11/2026 18:34",
-      "alert_minute": 46,
       "score_at_alert": [
         0,
         0
       ],
       "final_score": [
-        0,
+        3,
         1
       ],
       "target_over_line": 0.5,
-      "verified_live_quote": null,
+      "verified_live_quote": 5.5,
       "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "202803226",
+        "quote": 5.5,
+        "line": 0.5,
+        "quote_side": "Over",
+        "quote_market": "1st Half Goal Line (0-0)",
+        "quote_timestamp_utc": "2026-11-08T00:55:15Z",
+        "seconds_from_alert": -344,
+        "quote_suspended": false,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
       }
     },
     {
-      "fotmob_id": "6362015",
-      "match": "FC Goa - Bengaluru FC",
-      "date_alert": "06/11/2026 16:02",
+      "fotmob_id": "5071497",
+      "match": "Real Salt Lake - LA Galaxy",
+      "date_alert": "08/11/2026 02:01",
       "alert_minute": 45,
       "score_at_alert": [
-        1,
+        2,
         1
       ],
       "final_score": [
-        1,
+        2,
+        1
+      ],
+      "target_over_line": 3.5,
+      "verified_live_quote": 7.4,
+      "lookup": {
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "202803233",
+        "quote": 7.4,
+        "line": 3.5,
+        "quote_side": "Over",
+        "quote_market": "1st Half Goal Line (2-1)",
+        "quote_timestamp_utc": "2026-11-08T00:53:48Z",
+        "seconds_from_alert": -431,
+        "quote_suspended": false,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+      }
+    },
+    {
+      "fotmob_id": "5071485",
+      "match": "Chicago Fire FC - Columbus Crew",
+      "date_alert": "07/11/2026 23:09",
+      "alert_minute": 45,
+      "score_at_alert": [
+        3,
         2
       ],
-      "target_over_line": 2.5,
-      "verified_live_quote": null,
+      "final_score": [
+        3,
+        4
+      ],
+      "target_over_line": 5.5,
+      "verified_live_quote": 1.5,
       "lookup": {
-        "status": "no_verified_quote",
-        "reason": "Nessuna quota storica verificabile trovata.",
-        "attempts": [
-          {
-            "status": "no_matching_quote_in_window",
-            "fixture_id": "203203048",
-            "history_points_in_window": 87,
-            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
-          }
-        ]
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "202803174",
+        "quote": 1.5,
+        "line": 5.5,
+        "quote_side": "Over",
+        "quote_market": "Goal Line (2-2)",
+        "quote_timestamp_utc": "2026-11-07T21:58:49Z",
+        "seconds_from_alert": -610,
+        "quote_suspended": true,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+      }
+    },
+    {
+      "fotmob_id": "5071492",
+      "match": "Philadelphia Union - Toronto FC",
+      "date_alert": "07/11/2026 23:09",
+      "alert_minute": 45,
+      "score_at_alert": [
+        2,
+        1
+      ],
+      "final_score": [
+        4,
+        1
+      ],
+      "target_over_line": 3.5,
+      "verified_live_quote": 1.525,
+      "lookup": {
+        "status": "verified_historical_live_quote",
+        "provider": "MoviOdds public archive",
+        "bookmaker": "bet365",
+        "fixture_id": "202803212",
+        "quote": 1.525,
+        "line": 3.5,
+        "quote_side": "Over",
+        "quote_market": "Goal Line (2-0)",
+        "quote_timestamp_utc": "2026-11-07T22:02:07Z",
+        "seconds_from_alert": -412,
+        "quote_suspended": true,
+        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
+        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
       }
     }
   ]
