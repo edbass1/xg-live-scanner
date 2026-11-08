@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-08T11:42:45+00:00",
- "live_tot": 59,
- "senza_xg": 6,
- "matches": []
+ "updated": "2026-11-08T12:23:16+00:00",
+ "live_tot": 94,
+ "senza_xg": 41,
+ "matches": [
+  {
+   "id": 5749746,
+   "lega": "Serie A",
+   "casa": "Napoli",
+   "ospite": "Lazio",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5749746",
+   "xg": [
+    1.08,
+    0.58
+   ],
+   "sot": 6.0,
+   "tiri": 17.0,
+   "corner": 7.0,
+   "p": 0.9643,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.33,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.08,
+   "line": "Over 1.5"
+  }
+ ]
 }

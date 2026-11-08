@@ -8260,5 +8260,29 @@
    1
   ],
   "esito": "NO"
+ },
+ "5749746": {
+  "ora": "08/11/2026 13:23",
+  "lega": "Serie A",
+  "casa": "Napoli",
+  "ospite": "Lazio",
+  "min": 45,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.08,
+   0.58
+  ],
+  "sot": 6.0,
+  "tiri": 17.0,
+  "corner": 7.0,
+  "p": 0.9643,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5749746",
+  "finale": null,
+  "esito": null
  }
 }
