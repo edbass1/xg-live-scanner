@@ -8903,8 +8903,11 @@
   "min_odd": 1.09,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5868121",
-  "finale": null,
-  "esito": null
+  "finale": [
+   1,
+   2
+  ],
+  "esito": "SÌ"
  },
  "5749742": {
   "ora": "08/11/2026 22:11",
