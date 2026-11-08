@@ -8851,5 +8851,29 @@
   "url": "https://www.fotmob.com/match/1000022938",
   "finale": null,
   "esito": null
+ },
+ "5781795": {
+  "ora": "08/11/2026 20:52",
+  "lega": "Eredivisie",
+  "casa": "FC Utrecht",
+  "ospite": "NEC Nijmegen",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.26,
+   1.12
+  ],
+  "sot": 5.0,
+  "tiri": 14.0,
+  "corner": 5.0,
+  "p": 0.9065,
+  "min_odd": 1.16,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5781795",
+  "finale": null,
+  "esito": null
  }
 }

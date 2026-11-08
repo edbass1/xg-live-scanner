@@ -1,37 +1,37 @@
 {
- "updated": "2026-11-08T19:07:25+00:00",
- "live_tot": 35,
- "senza_xg": 8,
+ "updated": "2026-11-08T19:52:17+00:00",
+ "live_tot": 28,
+ "senza_xg": 4,
  "matches": [
   {
-   "id": 1000022938,
-   "lega": "Liga de Expansión MX - Apertura - Quarter-finals",
-   "casa": "Leones Negros",
-   "ospite": "Alacranes de Durango",
+   "id": 5781795,
+   "lega": "Eredivisie",
+   "casa": "FC Utrecht",
+   "ospite": "NEC Nijmegen",
    "min": 45,
    "tempo": "Intervallo",
    "gol": [
-    2,
-    0
+    0,
+    2
    ],
-   "url": "https://www.fotmob.com/match/1000022938",
+   "url": "https://www.fotmob.com/match/5781795",
    "xg": [
-    1.4,
-    0.28
+    0.26,
+    1.12
    ],
-   "sot": 6.0,
-   "tiri": 20.0,
-   "corner": 7.0,
-   "p": 0.9484,
-   "fair": 1.05,
-   "min_odd": 1.11,
-   "lam": 2.96,
+   "sot": 5.0,
+   "tiri": 14.0,
+   "corner": 5.0,
+   "p": 0.9065,
+   "fair": 1.1,
+   "min_odd": 1.16,
+   "lam": 2.37,
    "verdict": "GIOCABILE",
    "rel": "BASSA",
    "warn": [],
    "thr_xg": 1.05,
    "thr_sot": 3.8,
-   "xm": 1.4,
+   "xm": 1.12,
    "line": "Over 2.5"
   }
  ]
