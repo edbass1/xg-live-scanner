@@ -8876,6 +8876,57 @@
   "min_odd": 1.16,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5781795",
+  "finale": [
+   2,
+   3
+  ],
+  "esito": "SÌ"
+ },
+ "5868121": {
+  "ora": "08/11/2026 22:11",
+  "lega": "LaLiga",
+  "casa": "Atlético Madrid",
+  "ospite": "Barcelona",
+  "min": 50,
+  "gol": [
+   1,
+   1
+  ],
+  "xg": [
+   1.38,
+   0.87
+  ],
+  "sot": 6.0,
+  "tiri": 18.0,
+  "corner": 4.0,
+  "p": 0.967,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5868121",
+  "finale": null,
+  "esito": null
+ },
+ "5749742": {
+  "ora": "08/11/2026 22:11",
+  "lega": "Serie A",
+  "casa": "Fiorentina",
+  "ospite": "Juventus",
+  "min": 62,
+  "gol": [
+   2,
+   1
+  ],
+  "xg": [
+   1.82,
+   1.7
+  ],
+  "sot": 8.0,
+  "tiri": 30.0,
+  "corner": 9.0,
+  "p": 0.9606,
+  "min_odd": 1.09,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5749742",
   "finale": null,
   "esito": null
  }
