@@ -8515,5 +8515,29 @@
   "url": "https://www.fotmob.com/match/5967143",
   "finale": null,
   "esito": null
+ },
+ "5881216": {
+  "ora": "08/11/2026 16:35",
+  "lega": "Bundesliga",
+  "casa": "1. FC Köln",
+  "ospite": "Bayer Leverkusen",
+  "min": 47,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   0.74,
+   1.12
+  ],
+  "sot": 8.0,
+  "tiri": 15.0,
+  "corner": 5.0,
+  "p": 0.9733,
+  "min_odd": 1.08,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5881216",
+  "finale": null,
+  "esito": null
  }
 }
