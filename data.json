@@ -1,131 +1,69 @@
 {
- "updated": "2026-11-08T16:58:14+00:00",
- "live_tot": 89,
- "senza_xg": 26,
+ "updated": "2026-11-08T17:36:22+00:00",
+ "live_tot": 75,
+ "senza_xg": 15,
  "matches": [
   {
-   "id": 5105047,
-   "lega": "Eliteserien",
-   "casa": "Sandefjord",
-   "ospite": "Molde",
+   "id": 5795512,
+   "lega": "Premier League",
+   "casa": "Manchester United",
+   "ospite": "Aston Villa",
    "min": 45,
    "tempo": "Intervallo",
    "gol": [
-    3,
-    4
+    2,
+    2
    ],
-   "url": "https://www.fotmob.com/match/5105047",
+   "url": "https://www.fotmob.com/match/5795512",
    "xg": [
-    1.47,
-    0.93
+    1.69,
+    1.21
    ],
-   "sot": 10.0,
-   "tiri": 22.0,
-   "corner": 8.0,
-   "p": 0.9952,
+   "sot": 8.0,
+   "tiri": 18.0,
+   "corner": 5.0,
+   "p": 0.9972,
    "fair": 1.0,
-   "min_odd": 1.06,
-   "lam": 5.34,
+   "min_odd": 1.05,
+   "lam": 5.88,
    "verdict": "GIOCABILE",
    "rel": "MEDIA",
    "warn": [],
    "thr_xg": 1.05,
    "thr_sot": 3.8,
-   "xm": 1.47,
-   "line": "Over 7.5"
-  },
-  {
-   "id": 5781798,
-   "lega": "Eredivisie",
-   "casa": "AZ Alkmaar",
-   "ospite": "FC Groningen",
-   "min": 56,
-   "tempo": "56‎’‎",
-   "gol": [
-    1,
-    3
-   ],
-   "url": "https://www.fotmob.com/match/5781798",
-   "xg": [
-    1.64,
-    1.07
-   ],
-   "sot": 6.0,
-   "tiri": 19.0,
-   "corner": 4.0,
-   "p": 0.9379,
-   "fair": 1.07,
-   "min_odd": 1.12,
-   "lam": 2.78,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.31,
-   "thr_sot": 4.7,
-   "xm": 1.64,
+   "xm": 1.69,
    "line": "Over 4.5"
   },
   {
-   "id": 5105042,
-   "lega": "Eliteserien",
-   "casa": "Viking",
-   "ospite": "KFUM",
-   "min": 45,
-   "tempo": "Intervallo",
+   "id": 5802982,
+   "lega": "Ligue 1",
+   "casa": "Angers",
+   "ospite": "Nice",
+   "min": 62,
+   "tempo": "62‎’‎",
    "gol": [
-    2,
-    0
+    0,
+    1
    ],
-   "url": "https://www.fotmob.com/match/5105042",
+   "url": "https://www.fotmob.com/match/5802982",
    "xg": [
-    1.07,
-    0.1
+    0.62,
+    1.57
    ],
-   "sot": 4.0,
-   "tiri": 15.0,
-   "corner": 5.0,
-   "p": 0.856,
-   "fair": 1.17,
-   "min_odd": 1.23,
-   "lam": 1.94,
+   "sot": 7.0,
+   "tiri": 20.0,
+   "corner": 6.0,
+   "p": 0.866,
+   "fair": 1.15,
+   "min_odd": 1.21,
+   "lam": 2.01,
    "verdict": "GIOCABILE",
-   "rel": "BASSA",
+   "rel": "MEDIA",
    "warn": [],
-   "thr_xg": 1.05,
-   "thr_sot": 3.8,
-   "xm": 1.07,
-   "line": "Over 2.5"
-  },
-  {
-   "id": 5804296,
-   "lega": "Super League",
-   "casa": "Thun",
-   "ospite": "Basel",
-   "min": 70,
-   "tempo": "70‎’‎",
-   "gol": [
-    2,
-    3
-   ],
-   "url": "https://www.fotmob.com/match/5804296",
-   "xg": [
-    0.57,
-    1.69
-   ],
-   "sot": 10.0,
-   "tiri": 26.0,
-   "corner": 8.0,
-   "p": 0.7699,
-   "fair": 1.3,
-   "min_odd": 1.36,
-   "lam": 1.47,
-   "verdict": "GIOCABILE",
-   "rel": "BASSA",
-   "warn": [],
-   "thr_xg": 1.63,
-   "thr_sot": 5.8,
-   "xm": 1.69,
-   "line": "Over 5.5"
+   "thr_xg": 1.45,
+   "thr_sot": 5.2,
+   "xm": 1.57,
+   "line": "Over 1.5"
   }
  ]
 }
