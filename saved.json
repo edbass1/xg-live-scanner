@@ -8935,5 +8935,29 @@
    2
   ],
   "esito": "SÌ"
+ },
+ "5868536": {
+  "ora": "16/11/2026 21:55",
+  "lega": "LaLiga2",
+  "casa": "Albacete",
+  "ospite": "Celta Fortuna",
+  "min": 65,
+  "gol": [
+   1,
+   0
+  ],
+  "xg": [
+   1.56,
+   1.23
+  ],
+  "sot": 8.0,
+  "tiri": 21.0,
+  "corner": 9.0,
+  "p": 0.8922,
+  "min_odd": 1.18,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5868536",
+  "finale": null,
+  "esito": null
  }
 }

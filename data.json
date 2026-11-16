@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-16T10:57:08+00:00",
- "live_tot": 0,
- "senza_xg": 0,
- "matches": []
+ "updated": "2026-11-16T20:55:27+00:00",
+ "live_tot": 12,
+ "senza_xg": 3,
+ "matches": [
+  {
+   "id": 5868536,
+   "lega": "LaLiga2",
+   "casa": "Albacete",
+   "ospite": "Celta Fortuna",
+   "min": 65,
+   "tempo": "65‎’‎",
+   "gol": [
+    1,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5868536",
+   "xg": [
+    1.56,
+    1.23
+   ],
+   "sot": 8.0,
+   "tiri": 21.0,
+   "corner": 9.0,
+   "p": 0.8922,
+   "fair": 1.12,
+   "min_odd": 1.18,
+   "lam": 2.23,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.52,
+   "thr_sot": 5.4,
+   "xm": 1.56,
+   "line": "Over 1.5"
+  }
+ ]
 }
