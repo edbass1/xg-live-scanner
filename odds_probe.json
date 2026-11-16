@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-15T11:12:43Z",
+  "generated_utc": "2026-11-16T11:43:13Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
@@ -20,16 +20,8 @@
       "target_over_line": 2.5,
       "verified_live_quote": null,
       "lookup": {
-        "status": "no_verified_quote",
-        "reason": "Nessuna quota storica verificabile trovata.",
-        "attempts": [
-          {
-            "status": "no_matching_quote_in_window",
-            "fixture_id": "202803614",
-            "history_points_in_window": 10000,
-            "reason": "Archivio trovato, ma nessuna quota Over della linea richiesta è stata registrata nella finestra temporale."
-          }
-        ]
+        "status": "source_error",
+        "reason": "HTTPError: HTTP Error 401: Unauthorized"
       }
     },
     {
@@ -46,21 +38,10 @@
         2
       ],
       "target_over_line": 3.5,
-      "verified_live_quote": 1.425,
+      "verified_live_quote": null,
       "lookup": {
-        "status": "verified_historical_live_quote",
-        "provider": "MoviOdds public archive",
-        "bookmaker": "bet365",
-        "fixture_id": "202802917",
-        "quote": 1.425,
-        "line": 3.5,
-        "quote_side": "Over",
-        "quote_market": "Goal Line (2-1)",
-        "quote_timestamp_utc": "2026-11-08T21:11:05Z",
-        "seconds_from_alert": 5,
-        "quote_suspended": false,
-        "verification": "Fixture and archived in-play Over line matched; nearest recorded price within -12/+3 minutes of alert.",
-        "score_validation": "The API history does not attach the exact home-away score to every price tick; the target line is derived from the alert score."
+        "status": "source_error",
+        "reason": "HTTPError: HTTP Error 401: Unauthorized"
       }
     },
     {
@@ -79,8 +60,8 @@
       "target_over_line": 2.5,
       "verified_live_quote": null,
       "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
+        "status": "source_error",
+        "reason": "HTTPError: HTTP Error 401: Unauthorized"
       }
     },
     {
@@ -99,8 +80,8 @@
       "target_over_line": 2.5,
       "verified_live_quote": null,
       "lookup": {
-        "status": "fixture_not_found",
-        "reason": "Partita non trovata nell'archivio pubblico MoviOdds per la data dell'allarme."
+        "status": "source_error",
+        "reason": "HTTPError: HTTP Error 401: Unauthorized"
       }
     }
   ]
