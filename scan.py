@@ -53,12 +53,24 @@ def main():
     seen, out, noxg, status = set(), [], 0, {}
     try: saved = json.load(open("saved.json"))
     except Exception: saved = {}
-    for day in {now.strftime("%Y%m%d"), (now-datetime.timedelta(hours=3)).strftime("%Y%m%d")}:
+    live_days = {now.strftime("%Y%m%d"), (now-datetime.timedelta(hours=3)).strftime("%Y%m%d")}
+    # Recupera anche gli stati delle partite archiviate non ancora concluse.
+    # La data dell'alert è salvata in ora italiana; non usiamo questi giorni
+    # storici per generare nuovi segnali, ma soltanto per aggiornare i risultati.
+    archive_days = set()
+    for e in saved.values():
+        if e.get("finale") is None:
+            m = re.match(r"^(\\d{2})/(\\d{2})/(\\d{4}) ", str(e.get("ora", "")))
+            if m:
+                archive_days.add(f"{m.group(3)}{m.group(2)}{m.group(1)}")
+    for day in sorted(live_days | archive_days):
         try: d = get(f"/matches?date={day}&timezone=Europe%2FRome")
         except Exception as e: print("matches", day, e); continue
         for lg in d.get("leagues", []):
             for m in lg.get("matches", []):
                 st = m.get("status") or {}; status[str(m["id"])] = st
+                # Le giornate precedenti servono solo a chiudere lo storico.
+                if day not in live_days: continue
                 if m["id"] in seen or not st.get("started") or st.get("finished") or st.get("cancelled"): continue
                 seen.add(m["id"]); mn, lt = minute(st)
                 if mn is None or mn < 45 or mn >= 71 or is_womens_match(lg.get('name'), m): continue
