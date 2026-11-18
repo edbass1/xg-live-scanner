@@ -60,7 +60,7 @@ def main():
     archive_days = set()
     for e in saved.values():
         if e.get("finale") is None:
-            m = re.match(r"^(\\d{2})/(\\d{2})/(\\d{4}) ", str(e.get("ora", "")))
+            m = re.match(r"^(\d{2})/(\d{2})/(\d{4}) ", str(e.get("ora", "")))
             if m:
                 archive_days.add(f"{m.group(3)}{m.group(2)}{m.group(1)}")
     for day in sorted(live_days | archive_days):
