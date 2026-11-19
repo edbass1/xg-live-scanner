@@ -1,9 +1,29 @@
 {
-  "generated_utc": "2026-11-18T11:55:41Z",
+  "generated_utc": "2026-11-19T11:52:39Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
+    {
+      "fotmob_id": "5868536",
+      "match": "Albacete - Celta Fortuna",
+      "date_alert": "16/11/2026 21:55",
+      "alert_minute": 65,
+      "score_at_alert": [
+        1,
+        0
+      ],
+      "final_score": [
+        1,
+        0
+      ],
+      "target_over_line": 1.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "source_error",
+        "reason": "HTTPError: HTTP Error 401: Unauthorized"
+      }
+    },
     {
       "fotmob_id": "5868121",
       "match": "Atlético Madrid - Barcelona",
@@ -56,26 +76,6 @@
       "final_score": [
         2,
         3
-      ],
-      "target_over_line": 2.5,
-      "verified_live_quote": null,
-      "lookup": {
-        "status": "source_error",
-        "reason": "HTTPError: HTTP Error 401: Unauthorized"
-      }
-    },
-    {
-      "fotmob_id": "1000022938",
-      "match": "Leones Negros - Alacranes de Durango",
-      "date_alert": "08/11/2026 20:07",
-      "alert_minute": 45,
-      "score_at_alert": [
-        2,
-        0
-      ],
-      "final_score": [
-        2,
-        1
       ],
       "target_over_line": 2.5,
       "verified_live_quote": null,
