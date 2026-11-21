@@ -8962,5 +8962,29 @@
    0
   ],
   "esito": "NO"
+ },
+ "1000014645": {
+  "ora": "21/11/2026 04:55",
+  "lega": "Liga MX",
+  "casa": "Tijuana",
+  "ospite": "Atlante",
+  "min": 46,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   1.39,
+   0.21
+  ],
+  "sot": 6.0,
+  "tiri": 19.0,
+  "corner": 6.0,
+  "p": 0.9421,
+  "min_odd": 1.11,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/1000014645",
+  "finale": null,
+  "esito": null
  }
 }
