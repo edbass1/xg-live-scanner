@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-21T12:25:59+00:00",
- "live_tot": 63,
- "senza_xg": 23,
- "matches": []
+ "updated": "2026-11-21T19:42:08+00:00",
+ "live_tot": 29,
+ "senza_xg": 1,
+ "matches": [
+  {
+   "id": 5846025,
+   "lega": "Bundesliga",
+   "casa": "Grazer AK",
+   "ospite": "Rapid Wien",
+   "min": 55,
+   "tempo": "55‎’‎",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5846025",
+   "xg": [
+    0.45,
+    2.47
+   ],
+   "sot": 7.0,
+   "tiri": 20.0,
+   "corner": 7.0,
+   "p": 0.961,
+   "fair": 1.04,
+   "min_odd": 1.09,
+   "lam": 3.24,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.28,
+   "thr_sot": 4.6,
+   "xm": 2.47,
+   "line": "Over 2.5"
+  }
+ ]
 }
