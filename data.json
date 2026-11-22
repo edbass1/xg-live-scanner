@@ -1,6 +1,100 @@
 {
- "updated": "2026-11-22T06:31:22+00:00",
- "live_tot": 7,
- "senza_xg": 2,
- "matches": []
+ "updated": "2026-11-22T14:52:22+00:00",
+ "live_tot": 73,
+ "senza_xg": 25,
+ "matches": [
+  {
+   "id": 5749759,
+   "lega": "Serie A",
+   "casa": "Sassuolo",
+   "ospite": "Genoa",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    2
+   ],
+   "url": "https://www.fotmob.com/match/5749759",
+   "xg": [
+    0.6,
+    1.73
+   ],
+   "sot": 7.0,
+   "tiri": 14.0,
+   "corner": 1.0,
+   "p": 0.9847,
+   "fair": 1.02,
+   "min_odd": 1.07,
+   "lam": 4.18,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.73,
+   "line": "Over 2.5"
+  },
+  {
+   "id": 5795520,
+   "lega": "Premier League",
+   "casa": "Hull City",
+   "ospite": "Brighton & Hove Albion",
+   "min": 45,
+   "tempo": "Intervallo",
+   "gol": [
+    0,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/5795520",
+   "xg": [
+    0.2,
+    1.75
+   ],
+   "sot": 7.0,
+   "tiri": 15.0,
+   "corner": 4.0,
+   "p": 0.9758,
+   "fair": 1.02,
+   "min_odd": 1.08,
+   "lam": 3.72,
+   "verdict": "GIOCABILE",
+   "rel": "ALTA",
+   "warn": [],
+   "thr_xg": 1.05,
+   "thr_sot": 3.8,
+   "xm": 1.75,
+   "line": "Over 0.5"
+  },
+  {
+   "id": 5847233,
+   "lega": "Premier League",
+   "casa": "Dynamo Makhachkala",
+   "ospite": "Spartak Moscow",
+   "min": 63,
+   "tempo": "63‎’‎",
+   "gol": [
+    0,
+    1
+   ],
+   "url": "https://www.fotmob.com/match/5847233",
+   "xg": [
+    1.51,
+    0.14
+   ],
+   "sot": 6.0,
+   "tiri": 17.0,
+   "corner": 6.0,
+   "p": 0.7597,
+   "fair": 1.32,
+   "min_odd": 1.38,
+   "lam": 1.43,
+   "verdict": "GIOCABILE",
+   "rel": "MEDIA",
+   "warn": [],
+   "thr_xg": 1.47,
+   "thr_sot": 5.2,
+   "xm": 1.51,
+   "line": "Over 1.5"
+  }
+ ]
 }

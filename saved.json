@@ -9016,5 +9016,77 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "5795520": {
+  "ora": "22/11/2026 15:52",
+  "lega": "Premier League",
+  "casa": "Hull City",
+  "ospite": "Brighton & Hove Albion",
+  "min": 45,
+  "gol": [
+   0,
+   0
+  ],
+  "xg": [
+   0.2,
+   1.75
+  ],
+  "sot": 7.0,
+  "tiri": 15.0,
+  "corner": 4.0,
+  "p": 0.9758,
+  "min_odd": 1.08,
+  "rel": "ALTA",
+  "url": "https://www.fotmob.com/match/5795520",
+  "finale": null,
+  "esito": null
+ },
+ "5749759": {
+  "ora": "22/11/2026 15:52",
+  "lega": "Serie A",
+  "casa": "Sassuolo",
+  "ospite": "Genoa",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.6,
+   1.73
+  ],
+  "sot": 7.0,
+  "tiri": 14.0,
+  "corner": 1.0,
+  "p": 0.9847,
+  "min_odd": 1.07,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5749759",
+  "finale": null,
+  "esito": null
+ },
+ "5847233": {
+  "ora": "22/11/2026 15:52",
+  "lega": "Premier League",
+  "casa": "Dynamo Makhachkala",
+  "ospite": "Spartak Moscow",
+  "min": 63,
+  "gol": [
+   0,
+   1
+  ],
+  "xg": [
+   1.51,
+   0.14
+  ],
+  "sot": 6.0,
+  "tiri": 17.0,
+  "corner": 6.0,
+  "p": 0.7597,
+  "min_odd": 1.38,
+  "rel": "MEDIA",
+  "url": "https://www.fotmob.com/match/5847233",
+  "finale": null,
+  "esito": null
  }
 }
