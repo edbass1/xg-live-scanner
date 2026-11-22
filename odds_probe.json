@@ -1,9 +1,49 @@
 {
-  "generated_utc": "2026-11-21T11:24:03Z",
+  "generated_utc": "2026-11-22T11:39:52Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
+    {
+      "fotmob_id": "5846025",
+      "match": "Grazer AK - Rapid Wien",
+      "date_alert": "21/11/2026 20:42",
+      "alert_minute": 55,
+      "score_at_alert": [
+        0,
+        2
+      ],
+      "final_score": [
+        0,
+        3
+      ],
+      "target_over_line": 2.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "source_error",
+        "reason": "HTTPError: HTTP Error 401: Unauthorized"
+      }
+    },
+    {
+      "fotmob_id": "1000014645",
+      "match": "Tijuana - Atlante",
+      "date_alert": "21/11/2026 04:55",
+      "alert_minute": 46,
+      "score_at_alert": [
+        0,
+        0
+      ],
+      "final_score": [
+        1,
+        0
+      ],
+      "target_over_line": 0.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "source_error",
+        "reason": "HTTPError: HTTP Error 401: Unauthorized"
+      }
+    },
     {
       "fotmob_id": "5868536",
       "match": "Albacete - Celta Fortuna",
@@ -36,46 +76,6 @@
       "final_score": [
         1,
         2
-      ],
-      "target_over_line": 2.5,
-      "verified_live_quote": null,
-      "lookup": {
-        "status": "source_error",
-        "reason": "HTTPError: HTTP Error 401: Unauthorized"
-      }
-    },
-    {
-      "fotmob_id": "5749742",
-      "match": "Fiorentina - Juventus",
-      "date_alert": "08/11/2026 22:11",
-      "alert_minute": 62,
-      "score_at_alert": [
-        2,
-        1
-      ],
-      "final_score": [
-        2,
-        2
-      ],
-      "target_over_line": 3.5,
-      "verified_live_quote": null,
-      "lookup": {
-        "status": "source_error",
-        "reason": "HTTPError: HTTP Error 401: Unauthorized"
-      }
-    },
-    {
-      "fotmob_id": "5781795",
-      "match": "FC Utrecht - NEC Nijmegen",
-      "date_alert": "08/11/2026 20:52",
-      "alert_minute": 45,
-      "score_at_alert": [
-        0,
-        2
-      ],
-      "final_score": [
-        2,
-        3
       ],
       "target_over_line": 2.5,
       "verified_live_quote": null,
