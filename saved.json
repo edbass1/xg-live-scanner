@@ -9038,8 +9038,11 @@
   "min_odd": 1.08,
   "rel": "ALTA",
   "url": "https://www.fotmob.com/match/5795520",
-  "finale": null,
-  "esito": null
+  "finale": [
+   2,
+   0
+  ],
+  "esito": "SÌ"
  },
  "5749759": {
   "ora": "22/11/2026 15:52",
@@ -9062,8 +9065,11 @@
   "min_odd": 1.07,
   "rel": "BASSA",
   "url": "https://www.fotmob.com/match/5749759",
-  "finale": null,
-  "esito": null
+  "finale": [
+   0,
+   2
+  ],
+  "esito": "NO"
  },
  "5847233": {
   "ora": "22/11/2026 15:52",
@@ -9086,6 +9092,81 @@
   "min_odd": 1.38,
   "rel": "MEDIA",
   "url": "https://www.fotmob.com/match/5847233",
+  "finale": [
+   1,
+   1
+  ],
+  "esito": "SÌ"
+ },
+ "5868134": {
+  "ora": "22/11/2026 21:56",
+  "lega": "LaLiga",
+  "casa": "Getafe",
+  "ospite": "Atlético Madrid",
+  "min": 45,
+  "gol": [
+   0,
+   2
+  ],
+  "xg": [
+   0.41,
+   2.46
+  ],
+  "sot": 8.0,
+  "tiri": 17.0,
+  "corner": 3.0,
+  "p": 0.9948,
+  "min_odd": 1.06,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5868134",
+  "finale": null,
+  "esito": null
+ },
+ "5749751": {
+  "ora": "22/11/2026 21:56",
+  "lega": "Serie A",
+  "casa": "Atalanta",
+  "ospite": "Inter",
+  "min": 53,
+  "gol": [
+   1,
+   3
+  ],
+  "xg": [
+   0.75,
+   1.77
+  ],
+  "sot": 8.0,
+  "tiri": 19.0,
+  "corner": 6.0,
+  "p": 0.9594,
+  "min_odd": 1.09,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5749751",
+  "finale": null,
+  "esito": null
+ },
+ "5802994": {
+  "ora": "22/11/2026 21:56",
+  "lega": "Ligue 1",
+  "casa": "Marseille",
+  "ospite": "Le Mans",
+  "min": 51,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.31,
+   1.49
+  ],
+  "sot": 6.0,
+  "tiri": 14.0,
+  "corner": 3.0,
+  "p": 0.9733,
+  "min_odd": 1.08,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/5802994",
   "finale": null,
   "esito": null
  }
