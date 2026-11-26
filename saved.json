@@ -9178,5 +9178,29 @@
    3
   ],
   "esito": "SÌ"
+ },
+ "1000022854": {
+  "ora": "26/11/2026 03:28",
+  "lega": "Liga MX - Apertura - Quarter-finals",
+  "casa": "Toluca",
+  "ospite": "Atlas",
+  "min": 67,
+  "gol": [
+   2,
+   0
+  ],
+  "xg": [
+   1.72,
+   0.6
+  ],
+  "sot": 11.0,
+  "tiri": 23.0,
+  "corner": 9.0,
+  "p": 0.7989,
+  "min_odd": 1.31,
+  "rel": "BASSA",
+  "url": "https://www.fotmob.com/match/1000022854",
+  "finale": null,
+  "esito": null
  }
 }

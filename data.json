@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-25T19:37:49+00:00",
- "live_tot": 15,
+ "updated": "2026-11-26T02:28:50+00:00",
+ "live_tot": 6,
  "senza_xg": 2,
- "matches": []
+ "matches": [
+  {
+   "id": 1000022854,
+   "lega": "Liga MX - Apertura - Quarter-finals",
+   "casa": "Toluca",
+   "ospite": "Atlas",
+   "min": 67,
+   "tempo": "67‎’‎",
+   "gol": [
+    2,
+    0
+   ],
+   "url": "https://www.fotmob.com/match/1000022854",
+   "xg": [
+    1.72,
+    0.6
+   ],
+   "sot": 11.0,
+   "tiri": 23.0,
+   "corner": 9.0,
+   "p": 0.7989,
+   "fair": 1.25,
+   "min_odd": 1.31,
+   "lam": 1.6,
+   "verdict": "GIOCABILE",
+   "rel": "BASSA",
+   "warn": [],
+   "thr_xg": 1.56,
+   "thr_sot": 5.6,
+   "xm": 1.72,
+   "line": "Over 2.5"
+  }
+ ]
 }
