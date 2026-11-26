@@ -1,9 +1,29 @@
 {
-  "generated_utc": "2026-11-25T13:11:02Z",
+  "generated_utc": "2026-11-26T12:51:20Z",
   "purpose": "Ricerca gratuita di quote storiche live Over; nessuna quota viene inventata.",
   "source": "MoviOdds public API, historical bet365 odds archive",
   "checked_matches": 4,
   "results": [
+    {
+      "fotmob_id": "1000022854",
+      "match": "Toluca - Atlas",
+      "date_alert": "26/11/2026 03:28",
+      "alert_minute": 67,
+      "score_at_alert": [
+        2,
+        0
+      ],
+      "final_score": [
+        2,
+        0
+      ],
+      "target_over_line": 2.5,
+      "verified_live_quote": null,
+      "lookup": {
+        "status": "source_error",
+        "reason": "HTTPError: HTTP Error 401: Unauthorized"
+      }
+    },
     {
       "fotmob_id": "5868134",
       "match": "Getafe - Atlético Madrid",
@@ -58,26 +78,6 @@
         3
       ],
       "target_over_line": 2.5,
-      "verified_live_quote": null,
-      "lookup": {
-        "status": "source_error",
-        "reason": "HTTPError: HTTP Error 401: Unauthorized"
-      }
-    },
-    {
-      "fotmob_id": "5795520",
-      "match": "Hull City - Brighton & Hove Albion",
-      "date_alert": "22/11/2026 15:52",
-      "alert_minute": 45,
-      "score_at_alert": [
-        0,
-        0
-      ],
-      "final_score": [
-        2,
-        0
-      ],
-      "target_over_line": 0.5,
       "verified_live_quote": null,
       "lookup": {
         "status": "source_error",
